@@ -1,0 +1,22 @@
+<div class="container">
+	<header class="row">
+		<div id="main-logo" class="col-xs-4">
+			<a href="/" title="Startseite" rel="home">
+				<img src="https://www.fossgis.de/sites/default/files/logo.png" alt="Startseite">
+			</a>
+		</div>
+		<div class="col-xs-8 end-xs">
+			<nav id="main-top-nav">
+				<ul>
+					{{ range .Site.Menus.top }}
+						<li><a href="{{ .URL }}">{{ .Name }}</a></li>
+					{{ end }}
+				</ul>
+			</nav>
+		</div>
+	</header>
+</div>
+
+<nav class="breadcrumbs">
+	{{ partial "breadcrumbs.html" . }}
+</nav>

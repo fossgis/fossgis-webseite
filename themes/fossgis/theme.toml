@@ -1,0 +1,9 @@
+name = "fossgis"
+description = ""
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+	name = "FOSSGIS e.V."
+	homepage = ""

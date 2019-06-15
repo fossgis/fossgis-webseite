@@ -1,0 +1,15 @@
+baseURL = "https://www.fossgis.de/"
+title = "FOSSGIS"
+theme = "fossgis"
+
+languageCode = "de-de"
+defaultContentLanguage = "de"
+
+sectionPagesMenu = "main"
+
+[menu]
+	[[menu.main]]
+		name = "Startseite"
+		url = "/"
+		SectionPagesMenu = "main"
+		weight = 1
