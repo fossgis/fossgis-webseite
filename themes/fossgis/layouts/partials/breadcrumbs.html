@@ -1,6 +1,6 @@
 <div id="breadcrumbs">
 	<!-- Das Template ist nicht optimal und könnte sicher besser gelöst werden. Bitte um PR. -->
-	<a href="/">Home</a>
+	<a href="/">Startseite</a>
 	{{ if and (.Parent) (ne .Parent .Site.Home) }}
 		/ <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Name }}</a>
 		{{ if and (.Parent.Parent) (ne .Parent.Parent .Site.Home) }}

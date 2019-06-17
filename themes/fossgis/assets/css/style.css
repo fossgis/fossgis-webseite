@@ -39,6 +39,11 @@ h1, h2 {
 	line-height: 1.5em;
 }
 
+.main-content h1 {
+	-webkit-hyphens: auto;
+	hyphens: auto;
+}
+
 .main-content p, .main-content ul {
 	-webkit-hyphens: auto;
 	hyphens: auto;
@@ -113,6 +118,14 @@ footer {
 .article-meta {
 	padding-top: 1.25em;
 	text-align: right;
+}
+
+@media only screen and (max-width: 48em) {
+	.article-meta {
+		font-size: 90%;
+		padding: 1em;
+		text-align: left;
+	}
 }
 
 .pagination {

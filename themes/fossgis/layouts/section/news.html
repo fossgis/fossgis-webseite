@@ -1,16 +1,18 @@
+{{ define "title" }}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
 {{ define "main" }}
 <content id="main-content">
 	{{ range .Paginator.Pages }}
 		<article class="row">
-			<div class="col-xs-2 article-meta">
+			<div class="col-sm-2 last-xs first-sm article-meta">
 				{{ .Date.Format "02.01.2006" }}<br>
 				{{ .Params.Author }}
 			</div>
 
-			<div class="col-xs-10">
-				<a href="{{ .Permalink }}"><h1>{{ .Title }}</h1></a>
-				
-				
+			<div class="col-xs-12 col-sm-10">
+				<a href="{{ .Permalink }}"><h1>{{ .Title }}</h1></a>	
 				{{ .Summary }}
 				<br><a href="{{ .Permalink }}">Ganzen Beitrag lesen »</a>
 			</div>
