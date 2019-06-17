@@ -1,0 +1,29 @@
+---
+title: "Nur noch wenige Tage bis zur AGIT 2017 in Salzburg"
+date: "2017-06-24T19:56:19+00:00"
+author: "Astrid Emde"
+aliases:
+  - "/node/298"
+
+---
+
+<p>geospatial&#64;online - so lautet das Motto der <strong>Agit 2017</strong>, die vom <strong>5. - 7. Juli 2017</strong> zum 29. Mal an der <strong>Universität Salzburg</strong> stattfindet:</p>
+<p>http://www.agit.at/</p>
+<p>Vertreter aus Forschung, Entwicklung und Industrie tauschen sich eine Woche lang über aktuelle Technologien und Innovationsfelder der Geoinformatik aus. Das Spektrum der Themen reicht vom Autonomen Fahren bis Zivilschutz und Krisenmanagement.</p>
+
+<p><strong>FOSSGIS, OSGeo und OpenStreetmap</strong><br>
+Freie, quelloffene Software und Open Data gewinnen auch in der Geoinformatik immer weiter an Bedeutung. Daher präsentieren sich auch diesmal wieder der FOSSGIS e.V., OSGeo und OpenStreetMap mit einem Stand bei der AGIT EXPO:</p>
+
+<p>http://www.agit.at/agitexpo</p>
+
+<p>Viele OSGeo Projekte sind mit Produktpräsentationen und Workshops vertreten. So freuen wir uns auf die Projekte QGIS, Mapbender, GeoMapFish, OpenStreetMap, PostgreSQL & PostGIS, Potree, Cesium und SAGA GIS.</p>
+
+<p>http://www.agit.at/programm</p>
+
+<p><strong>OSGeo Day am 7. Juli 2017</strong><br>
+Am OSGeo Day am 7. Juli 2017 dreht sich alles um das Thema Open Source. Der Open Source Day wird in Zusammenarbeit mit dem FOSSGIS e.V. und der OSGeo Foundation veranstaltet. Neben der Präsenz in der AGIT EXPO wird ein Mapbender-Workshop, Produktpräsentationen zu QGIS, GeoMapFish und Cesium angeboten. Arnulf Christl (Metaspatial) übernimmt die Moderation.</p>
+
+<p><strong>Ausstellerverzeichnis</strong><br>
+Alle teilnehmenden Projekte sind auch im Ausstellerverzeichnis aufgeführt.Besucher können sich also vorab sehr gut informieren und sicherlich den Weg zum OSGeo-Park finden.</p>
+
+<p>http://www.agit.at/agitexpo/ausstellerverzeichnis</p>

@@ -1,0 +1,24 @@
+---
+title: "FOSSGIS e.V. und OSGeo auf der AGIT in Salzburg"
+date: "2012-07-09T10:44:51+00:00"
+author: "lars"
+aliases:
+  - "/node/146"
+
+---
+
+<p>&nbsp;</p>
+<div id="cke_pastebin">
+	Erfreulich viele Projekte und Mitglieder der Community konnten auf der diesjährigen AGIT, während der ersten Juliwoche 2012, den Besuchern aktuelle Entwicklungen vorführen und zahlreiche Fragen beantworten.</div>
+<div id="cke_pastebin">
+	Parallel wurden am OSGeo-Day am Freitag insgesamt 270 Minuten Vorträge, Präsentationen und Diskusionen zum <a href="http://www.agit.at/index.php?option=com_content&amp;view=article&amp;id=320&amp;Itemid=144" target="_blank">Programm</a> der AGIT beigetragen. Darüber hinaus gab es zahlreiche, gut besuchte Workshops die Interessenten an freie und offene Software und deren Möglichkeiten herangeführt hat.</div>
+<div id="cke_pastebin">
+	&nbsp;</div>
+<div id="cke_pastebin">
+	Besonders hervorzuheben ist die <a href="http://wiki.openstreetmap.org/wiki/Agit_2012">OSM-Community</a>, die mit einem attraktiven Stand wieder einmal als großer Besuchermagnet überzeugen konnte. Ebenso fand die <a href="http://live.osgeo.org/de/index.html">OSGeo-LiveDVD</a> viel Anklang bei zahlreichen Besuchern, die die DVD vor Ort testen und Exemplare&nbsp;</div>
+<div id="cke_pastebin">
+	mitnehmen konnten.</div>
+<div id="cke_pastebin">
+	&nbsp;</div>
+<div id="cke_pastebin">
+	Die Akteure aus dem Verein und der Community freuen sich auf sonnige Tage in Salzburg im kommenden Jahr.</div>

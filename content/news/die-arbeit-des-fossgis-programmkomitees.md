@@ -1,0 +1,24 @@
+---
+title: "Die Arbeit des FOSSGIS Programmkomitees"
+date: "2011-01-08T23:00:34+00:00"
+author: "Arnulf Christl"
+aliases:
+  - "/node/121"
+  - "/programmkomitee_2011"
+---
+
+<p>&nbsp;</p>
+<div id="cke_pastebin">
+	Am 7. Januar hat sich das <a href="http://www.fossgis.de/konferenz/wiki/2011/Organisationsteam#Programm-Komitee">Programmkomitee</a> der FOSSGIS Konferenz in Heidelberg getroffen und die Struktur des Programms erstellt. Das Programm setzt sich jetzt aus 60 Vorträgen, 16 Workshops, 15 Lightning Talks, einer Poster-Abteilung, Anwendertreffen und Code Sprints zusammen. Die Vorträge werden parallel in drei Vortragssälen gehalten. Der Schwerpunkt liegt bei 40 Vorträge auf den typischen FOSSGIS Themen, Freie Software und Open Source, bei 20 Vorträgen auf dem Schwerpunkt OpenStreetMap. Dabei überschneiden sich erfreulicherweise die Themenbereiche zunehmend, so dass für alle etwas dabei sein wird.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div id="cke_pastebin">
+	Die Arbeit bei der Programmgestaltung wird durch die Anzahl hochwertiger Einreichungen zunehmend umfangreicher. Wie in den letzten Jahren erfolgt die Auswahl mehrstufig. Zunächst haben die 20 freiwilligen Mitglieder des Programmkomitees&nbsp;mehrere Wochen Zeit, um die Einreichungen zu lesen. Das ist recht aufwändig wenn man bedenkt, dass jeder Beitrag mit einer Beschreibung von 500 bis 4000 Zeichen eingereicht wird. Oft haben die Gutachter dann noch Links ausgewertet, zusätzlich&nbsp;eingereichte&nbsp;Dokumente gelesen oder bestimmte Themen im Web recherchiert, um besser beurteilen zu können wie viel Inhalt in dem Vortrag wirklich zu erwarten ist.&nbsp;</div>
+<div>
+	&nbsp;</div>
+<div id="cke_pastebin">
+	Am 7. Januar traf sich das Programmkomitee in Heidelberg, um eine Auswahl der vorsortierten und bewerteten Einreichungen vorzunehmen und die Vorträge, Lightning Talks und Workshops in ein kohärentes Format zu bringen. Besonderer Dank gilt (in keiner besonderen Reihenfolge) Frederik Ramm, Jonas Krückel, Michael Kugelmann, Pascal Neis, Till Adams, Ruth Schönbuchner, Manuela Schmidt, Arnulf Christl, Robert Nuske, Stephan Holl, und Astrid Emde.&nbsp;</div>
+<div id="cke_pastebin">
+	&nbsp;</div>
+<div id="cke_pastebin">
+	In der 3. KW Woche wird das Programm fertiggestellt und veröffentlicht.&nbsp;</div>

@@ -1,0 +1,109 @@
+---
+title: "Erfolgreicher OSGeo Park und OpenSource Day des FOSSGIS e.V. auf der AGIT 2015 "
+date: "2015-07-12T09:22:39+00:00"
+author: "Astrid Emde"
+aliases:
+  - "/node/261"
+
+---
+
+<p>Der FOSSGIS e.V. war - wie schon seit vielen Jahren - mit dem OSGeo Park und dem Open Source Day auf der AGIT 2015 vertreten.&nbsp;</p>
+<p><img alt="AGIT 2015 Salzburg" src="http://agit.at/images/logo.png" style="width: 180px; height: 102px;" /></p>
+<p>Ein großer Bereich auf der AGIT EXPO stand zur Verfügung, um den Verein, die OSGeo Foundation, OSM und Open Source Projekte zu präsentieren. Auch in diesem Jahr erfreute sich der Park sowie der am letzten Konferenztag stattfindende Open Source Day großer Beliebtheit.</p>
+<p><img alt="OSGeo Park auf der AGIT 2015" src="http://www.fossgis.de/w/images/d/d8/OSGeoParkAGIT2015.jpg" style="width: 599px; height: 337px;" /></p>
+<p>Die Projekte OSM, SAGA, MapFish, Mapbender, gvSIG CE, QGIS und survey2GIS waren mit Vertretern vor Ort und unterstützten gerne bei Fragen. Darüber hinaus konnten sich die Besucher an der Posterwand über die einzelnen Projekte informieren.</p>
+<p><img alt="OSGeo Park AGIT 2015" src="http://www.fossgis.de/w/images/a/a6/OSGeoParkAction.jpg" style="width: 600px; height: 377px;" /></p>
+<p><img alt="OSGeo Park AGIT 2015 Posterwand" src="http://www.fossgis.de/w/images/6/64/OSGeoParkPoster.jpg" style="width: 600px; height: 331px;" /></p>
+<p>Markus Mayr vom OSM Austria Verein baute einen beeindruckenden OSM Stand auf, an dem sich viele Interessierte über Open Street Map informierten. Die zwei anwesenden Mapper waren aufgrund der vielen Fragen rund um das Projekt und der Verwendung dessen Daten im Dauereinsatz. Hier fanden sich sicherlich die meisten Besucher ein.</p>
+<p><img alt="AGIT 2015 OSGeo Park OSM Stand" src="http://www.fossgis.de/w/images/f/fa/OSGeoParkOSMAGIT2015.jpg" style="width: 599px; height: 337px;" /></p>
+<p><img alt="AGIT 2015 OSGeo Park OSM Stand" src="http://www.fossgis.de/w/images/1/15/OSGeoParkOSMStandAGIT2015.jpg" style="width: 599px; height: 337px;" /></p>
+<p>Aber auch an den Projektständen kamen viele Interessierte vorbei. Es gab Flyer zu verschiedenen Projekten, Fragen wurden beantwortet und Probleme gelöst.</p>
+<dl>
+	<dt>
+		<strong>OSGeo Day</strong></dt>
+	<dt>
+		Am letzten Messetag fand der Open Source Day auf der AGIT statt. Unter den Besuchern herrschte großes Interesse am Thema Open Source. Das EXPO Forum und die Workshopräume waren bis auf den letzten Platz besetzt.</dt>
+	<dt>
+		&nbsp;</dt>
+	<dt>
+		<img alt="AGIT 2015 Open Source Day" src="http://www.fossgis.de/w/images/9/98/OSGeoDayAGIT2015.jpg" style="width: 600px; height: 450px;" /></dt>
+</dl>
+<p>Vorträge zu OSGeo-Live, QGIS, Mapbender3, gvSIG CE, OpenLayers 3, GeoMapFish, MapFish Print und Cesium standen auf dem Programm und wurden von Vertretern der Projekte vorgestellt.</p>
+<p><strong>Vorträge</strong></p>
+<ul>
+	<li>
+		FOSSGIS - Verein und Konferenz. Ein kurzer &Uuml;berblick, Johannes Valenta (FOSSGIS)</li>
+	<li>
+		OSGeo-Live, Asttrid Emde (WhereGroup, FOSSGIS und OSGeo) (<a href="http://adhoc.osgeo.osuosl.org/livedvd/docs//de/presentation/index.html#">Präsentation</a>)</li>
+	<li>
+		Räumliche Suchen im Wandel, Jens Schaefermeyer (WhereGroup GmbH &amp; Co. KG) (<a href="http://www.wheregroup.com/sites/default/files/agit_2015_schaefermeyer_raeumliche_suchen.pdf">Präsentation</a>)</li>
+	<li>
+		Not just yet another data catalog, Andreas Hocevar (Boundless) (<a href="http://www.slideshare.net/ahocevarat/agit-2015-raummonitoring">Präsentation</a>)</li>
+	<li>
+		Was gibt es Neues bei gvSIG CE und Survey2GIS?, Johannes Valenta (ArchIV) (<a href="http://arch-iv.de/gvsigce-agit2015.pdf">Präsentation</a>)</li>
+	<li>
+		Kartendesign mit QGIS, Anita Graser (AIT Austrian Institute of Technology GmbH) (<a href="http://www.slideshare.net/anitagraser/2015-agit-kartendesign-50412565">Präsentation</a>)</li>
+	<li>
+		MapFish Print V3: Printing maps like a boss, Elisabeth Leu (Camptocamp SA) (<a href="http://eleu.github.io/presentations/mapfish-print/MapFish_Print_AGIT2015.pdf">Präsentation</a>)</li>
+	<li>
+		Cesium - der 3D-Globus im Web, Elisabeth Leu (Camptocamp SA) (<a href="http://eleu.github.io/presentations/cesiumjs/Cesium_AGIT2015.pdf">Präsentation</a>)</li>
+	<li>
+		Das Open Source WebGIS Projekt GeoMapFish, Elisabeth Leu (Camptocamp SA) (<a href="http://eleu.github.io/presentations/presentations/geomapfish/GeoMapFish_AGIT2015.pdf">Präsentation</a>)</li>
+	<li>
+		Mapbender3 für den einfachen Aufbau von WebGIS Anwendungen, Astrid Emde (WhereGroup) (<a href="https://trac.osgeo.org/mapbender/export/9244/trunk/documents/presentations/AGIT2015/AGIT2015_Mapbender3_AEmde.pdf">Präsentation</a>)</li>
+</ul>
+<p>Der Beitrag &quot;Kartendesign mit QGIS&quot; im Rahmen des OSGeo-Day präsentierte vor vollem Haus ein Top 10 der aktuellen Neuerungen für das Design von Karten mit QGIS, beispielsweise: neue Effekte, Beschriftungsoptionen und Farbverwaltung. Die Folien können unter http://www.slideshare.net/anitagraser/2015-agit-kartendesign-50412565 abgerufen werden.<br />
+	&nbsp;</p>
+<p><strong>Workshops</strong></p>
+<ul>
+	<li>
+		Survey2GIS - Eine flexible Open-Source-Lösung zum Transfer von Vermessungsdaten in GIS - Johannes Valenta (<a href="http://arch-iv.de/S2G_Workshopagit2015.pdf">Präsentation</a>)</li>
+	<li>
+		PostGIS für Einsteiger - Astrid Emde (WhereGroup) (<a href="https://github.com/astroidex/presentations/raw/master/AGIT2015/AGIT2015_PostGIS_fuer_Einsteiger_AEmde.pdf">Präsentation</a>, <a href="https://raw.githubusercontent.com/astroidex/presentations/master/AGIT2015/AGIT2015_PostGIS_fuer_Einsteiger_AEmde_Uebungen.sql">&Uuml;bungen</a>)</li>
+	<li>
+		Mapbender3&nbsp; - Astrid Emde (WhereGroup) (<a href="https://trac.osgeo.org/mapbender/export/9245/trunk/documents/presentations/AGIT2015/AGIT2015_Mapbender3_Workshop_AEmde.pdf">Präsentation</a>)</li>
+	<li>
+		OpenLayers 3 - Kartenapplikationen mit OpenLayers 3 und OpenGeo Suite SDK - Andreas Hocevar (Boundless)</li>
+	<li>
+		SAGA - Wege der Automatisierung, Olaf Conrad</li>
+</ul>
+<p>Der SAGA workshop &#39;Wege der Automatisierung&#39; eröffnete den ca. 20 Teilnehmern Perspektiven zur effizienten Organisation von Geodatenanalysen mit SAGA. Gezeigt wurde einerseits die Zusammenfassung von immer wiederkehrenden Abfolgen von Prozessierungsschritten in SAGA Tool Chains. Diese Neuentwicklung setzt auf eine bestehende Funktionalität (History) auf und erweitert damit SAGA in logischer Weise. Andererseits wurde die Einbettung von SAGA Werkzeugaufrufen in eine mächtige Script-Umgebung am Beispiel Python gezeigt, womit es z.B. möglich ist, Inhalte ganzer Verzeichnisse mit einem Aufruf abzuarbeiten. Damit ergänzen sich diese beiden Möglichkeiten der Automatisierung in geeigneter Weise. Die Teilnehmer konnten sich von den Vortragenden wertvolle Anregungen für ihre eigenen Projekte holen. Alle Inhalte werden auf der SAGA Homepage zur Verfügung gestellt.</p>
+<dl>
+	<dt>
+		<strong>OSGeo-Live</strong></dt>
+	<dt>
+		Großes Interesse herrschte auch am OSGeo-Live Projekt. Viele Interessierte kamen am Stand vorbei, konnten sich einen &Uuml;berblick verschaffen und einen USB Stick mit der aktuellen OSGeo-Live 8.5 Version erhalten.</dt>
+	<dt>
+		&nbsp;</dt>
+	<dt>
+		<img alt="AGIT 2015 OSGeo-Live" src="http://www.fossgis.de/w/images/3/3f/OSGeoParkOSGEoLiveAGIT2015.jpg" style="width: 599px; height: 337px;" /></dt>
+	<dt>
+		&nbsp;</dt>
+	<dt>
+		Als ersten Vortrag des Open Source Days am Freitag stellte Astrid Emde OSGeo-Live vor.</dt>
+</dl>
+<p>OSGeo-Live kam darüber hinaus in den Workshops zum Einsatz. Im PostGIS und Mapbender3 Workshop konnten die Teilnehmer direkt auch OSGeo-live kennen lernen.</p>
+<p><img alt="AGIT 2015 OSGeo-Live kommt in den Workshops zum Einsatz" src="http://www.fossgis.de/w/images/8/8f/OSGeoParkWorkshopPostGISAGIT2015.jpeg" style="width: 600px; height: 338px;" /></p>
+<dl>
+	<dt>
+		<strong>Sektempfang auf der AGIT 2015</strong></dt>
+	<dt>
+		Der traditionelle FOSSGIS e.V. Sektempfang fand diesmal im kleinen Kreis statt. An dieser Stelle ist den Schweizern zu danken, die in der Regel immer ein Schweizer Taschenmesser griffbereit haben.</dt>
+</dl>
+<dl>
+	<dt>
+		<strong>FOSSGIS 2016 und AGIT 2016</strong></dt>
+	<dt>
+		Wir freuen uns schon jetzt auf das nächste Jahr in Salzburg. 2016 wird die FOSSGIS Konferenz gemeinsam mit der AGIT stattfinden. Hierzu gab es schon auf der diesjährigen Konferenz ein internes Organisationstreffen, um die ersten gemeinsamen Schritte anzustroßen.</dt>
+</dl>
+<p>Jetzt schon im Kalender vormerken!</p>
+<p><strong>Herzlichen Dank</strong><br />
+	Herzlichen Dank an alle Beteiligten des OSGeo Parks und Open Source Days! Ein besonderer Dank gilt Johannes Valenta für die hervorragende Organisation!</p>
+<p>Und natürlich ein großes Dankeschön an das AGIT Team für die tolle Konferenz!</p>
+<p><a class="external free" href="http://www.agit.at/" rel="nofollow" title="http://www.agit.at/">http://www.agit.at/</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<dl>
+	<dt>
+		&nbsp;</dt>
+</dl>

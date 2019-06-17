@@ -1,0 +1,16 @@
+---
+title: "Die FOSS4G Konferenz kommt nach Bonn (22.-26. August 2016)"
+date: "2015-10-10T14:37:03+00:00"
+author: "Astrid Emde"
+aliases:
+  - "/node/267"
+
+---
+
+<p>&nbsp;</p>
+<p>Die jährlich stattfindende FOSS4G Konferenz der <a href="http://osgeo.org">OSGeo Foundation</a> kommt im nächsten Jahr nach Bonn. Die Veranstaltung wird im World Conference Center Bonn (WCCB) stattfinden. Die Vorbereitungen laufen bereits.</p>
+<p><img alt="FOSS4g 2016 Bonn" src="http://www.osgeo.org/sites/osgeo.org/files/images/foss4g-logo_07_small.png" style="width: 200px; height: 60px;" /></p>
+<p><br />
+	Weitere Informationen unter: <a href="http://2016.foss4g.org">http://2016.foss4g.org</a><br />
+	Schauen Sie sich den <a href="http://2016.foss4g.org/index.php/promotion-video.html">Promotion Film zur Konferenz</a> an.<br />
+	&nbsp;</p>

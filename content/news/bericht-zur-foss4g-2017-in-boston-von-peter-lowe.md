@@ -1,0 +1,53 @@
+---
+title: "Bericht zur FOSS4G 2017 in Boston von Peter Löwe"
+date: "2017-09-19T16:23:29+00:00"
+author: "Astrid Emde"
+aliases:
+  - "/node/301"
+
+---
+
+<img src="http://www.fossgis.de/sites/default/files/foss4g_rectangle_color_150_350.png">
+<p>
+Bericht von <a href="http://wiki.osgeo.org/wiki/User:Peter_Loewe" target="_blank">Peter Löwe</a>
+</p>
+<p>
+Die diesjährige FOSS4G fand vom 14. bis 19. August in Boston, MA, USA im Seaport World Trade Center statt. Insgesamt besuchten 1141 Teilnehmer die Konferenz. 73 Prozent der Teilnehmer kamen aus 45 Bundestaaten der USA. Die verbleibenden 27 Prozent der internationalen Besucher verteilten sich auf 48 Nationen. Etwa 30 Personen aus D-A-CH waren präsent.
+</p>
+<p>
+ <a href="http://2017.foss4g.org/" target="_blank">http://2017.foss4g.org/</a>
+</p>
+<p>
+Als Neuerung gab es in diesem Jahr ein Reisestipendienprogramm (10.000 USD Volumen), was zehn Personen die Konferenzteilnahme ermöglichte.
+</p>
+<p>
+Die drei Konferenztage waren thematisch in PostGIS Day (Mittwoch), R Day (Donnerstag) und QGIS Day (Freitag) gegliedert. 
+</p>
+<p>
+Im Vorfeld der Konferenz wurden an zwei Tagen Workshops an der Uni Harvard veranstaltet. Nebenläufig wurde ein Business to Business (B2B)-Treffen organisiert, sowie ein Code Sprint Event im Nachgang am Samstag 20. August.
+</p>
+<p>
+Als Rahmenprogramm gab es eine Academic Reception im MIT Sailing Club, eine Brauerei-Exkursion (Harpoon Brewery) einen Ice Breaker und einen Social Event im New England Aquarium.
+</p>
+<p>
+Der Sol Katz-Award wurde dieses Jahr Andrea Aime für seine Arbeiten zu GeoServer and GeoTools core verliehen.
+<img src="http://www.fossgis.de/sites/default/files/andrea_aime_0.jpg" width=300px"> (Foto by MarÃ­a Arias de Reyna
+@delawen) <a href="http://osgeo.getinteractive.nl/community/awards/" target="_blank"></a>
+</p>
+<p>
+Blog-Beiträge und Foliensätze zur Konferenz sind hier abgelegt: <a href="http://2017.foss4g.org/post_conference/" target="_blank">Blog-Beiträge und Foliensätze</a> 
+</p>
+<p>
+Die Konferenzvideos werden über das AV-Portal für wissenschaftliche Videos der Technischen Informationsbibliothek Hannover langzeitarchiviert und wissenschaftlich zitierbar gemacht (ca. 6 Monaten).
+</p>
+<p>
+Fotos zur Konferenz: <a href="http://bit.ly/2ffc1Du" target="_blank">Fotos</a> und <a href="https://oc.diw.de/index.php/s/qDEwtSryxbiHKoa" target="_blank">Fotos</a>
+</p>
+<p>
+Eine &Uuml;bersicht der FOSSGIS-Aktivitäten wurde im Rahmen des OSGeo Annual General Meeting von Peter Löwe gegeben. Link zum <a href="http://bit.ly/2f5ik8Y" target="_blank">Foliensatz</a> (-> Folien #15 und #52)
+</p>
+<p>
+Die FOSS4G 2018 findet vom 30.8. - 11.9.2018 in Dar Es Salaam, Tansania statt. 
+Details unter <a href="http://2018.foss4g.org/" target="_blank">http://2018.foss4g.org/</a>
+</p>
+

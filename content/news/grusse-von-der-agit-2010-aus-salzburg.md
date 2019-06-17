@@ -1,0 +1,11 @@
+---
+title: "Grüße von der AGIT 2010 aus Salzburg"
+date: "2010-07-08T14:48:54+00:00"
+author: "lars"
+aliases:
+  - "/node/115"
+
+---
+
+<p>
+	Der FOSSGIS e.V. präsentiert auf der AGIT 2010 in Salzburg sich, OpenStreetMap und OSGeo-Projekte.</p>

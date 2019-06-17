@@ -1,0 +1,11 @@
+---
+title: "FOSS4G 2009 in Sydney; Registrierung ist eröffnet!"
+date: "2009-05-17T15:43:02+00:00"
+author: "gloesel"
+aliases:
+  - "/node/51"
+
+---
+
+<p><img alt="Logo FOSS4G 2009" src="http://2009.foss4g.org/images/logo.gif" /></p>
+<p>Die diesjährige Internationale Konferenz zum Thema Freie GIS, die <a href="http://2009.foss4g.org">FOSS4G</a> in Sydney, ist ab sofort für die <a href="http://2009.foss4g.org/registration">Teilnehmerregistrierung</a> und den <a href="http://2009.foss4g.org/presentations">Call for Presentations</a> geöffnet.</p>
