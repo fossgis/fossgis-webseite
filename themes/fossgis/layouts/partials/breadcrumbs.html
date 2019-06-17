@@ -4,7 +4,7 @@
 	{{ if and (.Parent) (ne .Parent .Site.Home) }}
 		/ <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Name }}</a>
 		{{ if and (.Parent.Parent) (ne .Parent.Parent .Site.Home) }}
-			<a href="{{ .Parent.Parent.RelPermalink }}">{{ .Parent.Parent.Name }}</a>
+			/ <a href="{{ .Parent.Parent.RelPermalink }}">{{ .Parent.Parent.Name }}</a>
 		{{ end }}
 	{{ end }}
 	{{ if ne .Page .Site.Home }}

@@ -5,7 +5,10 @@
 {{ define "main" }}
 	{{ .Content }}
 
-	{{ range first 10 (where .Sites.First.Pages "Section" "news") }}
-		<p>{{ .Title }}</p>
+	<ul>
+	{{ range first 3 (where .Sites.First.Pages "Section" "news") }}
+		<li><a href="{{ .RelPermalink }}">{{ .Title }}</a> vom {{ .Date.Format "02.01.2006" }}</li>
 	{{ end }}
+	</ul>
+	<a href="/news/">Newsarchiv</a>
 {{ end }}

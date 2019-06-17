@@ -39,7 +39,7 @@ h1, h2 {
 	line-height: 1.5em;
 }
 
-.main-content p {
+.main-content p, .main-content ul {
 	-webkit-hyphens: auto;
 	hyphens: auto;
 	text-align: justify;
@@ -47,8 +47,12 @@ h1, h2 {
 	max-width: 40em;
 }
 
-.side-nav {
-	padding-left: 2em;
+.main-content img {
+	max-width: 100%;
+}
+
+.sidebar {
+	padding: 0 2em;
 }
 
 .side-nav ul {
@@ -62,6 +66,11 @@ h1, h2 {
 
 .side-nav .sub-menu {
 	padding-left: 1em;
+}
+
+.side-donate {
+	font-size: 90%;
+	margin-top: 3em;
 }
 
 .breadcrumbs {
@@ -102,6 +111,27 @@ footer {
 }
 
 .article-meta {
-	text-align: right;
 	padding-top: 1.25em;
+	text-align: right;
+}
+
+.pagination {
+	margin-top: 3em;
+}
+
+.pagination .page-item {	
+	display: inline-block;
+	margin-bottom: 1em;
+}
+
+.pagination .page-item .page-link {
+	border: 1px solid orange;
+	color: black;
+	padding: 0.5em 1em;
+	text-decoration: none;
+}
+
+.pagination .active .page-link {
+	border: 1px solid grey;
+	background-color: #EFEFEF;
 }

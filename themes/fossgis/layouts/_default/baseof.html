@@ -9,8 +9,9 @@
 
 	<div class="container">
 		<div class="row">
-			<aside class="col-xs-3">
+			<aside class="col-xs-3 sidebar">
 				{{- partial "navigation-sidebar.html" . -}}
+				{{- partial "donate-sidebar.html" -}}
 			</aside>
 			<content class="col-xs-9 main-content">
 				{{- block "main" . }}{{- end }}
