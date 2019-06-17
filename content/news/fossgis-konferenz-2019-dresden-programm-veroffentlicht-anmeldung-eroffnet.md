@@ -58,6 +58,6 @@ Die Teilnahme  am Dresdner OSM-Event ist kostenfrei und unabhängig von der  FOS
 
 <p>Das FOSSGIS-Konferenz-Organisationsteam freut sich darauf, Sie zu einer spannenden FOSSGIS-Konferenz in Dresden begrüßen zu dürfen.</p>
 
-<p style="text-align:center"><img src="https://www.fossgis.de/sites/default/files/Postkarte_Druck_vorn.png" style="vertical-align:bottom;width:200;height:141px"> </p>
+<p style="text-align:center"><img src="/news/legacy/Postkarte_Druck_vorn.png" style="vertical-align:bottom;width:200;height:141px"> </p>
 
 

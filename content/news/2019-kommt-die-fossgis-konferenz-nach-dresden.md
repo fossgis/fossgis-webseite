@@ -11,7 +11,7 @@ aliases:
 Vom 13.-16. März 2019 findet die FOSSGIS-Konferenz in Dresden statt. 
 </p>
 <p>
-<img src="https://www.fossgis.de/sites/default/files/fossgis-dresden.png" alt="FOSSGIS 2019 Dresden"/>
+<img src="/news/legacy/fossgis-dresden.png" alt="FOSSGIS 2019 Dresden"/>
 </p>
 <p>
 Die FOSSGIS-Konferenz wird vom gemeinnützigen FOSSGIS e.V und der OpenStreetMap Community und der Hochschule für Technik und Wirtschaft Dresden veranstaltet.

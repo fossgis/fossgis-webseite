@@ -24,5 +24,5 @@ Spannende Wahlen gab es vor allem um den Posten den Schriftführers. So gab es m
 <p>Der neue Vorstand dankte für das Vertrauen der Mitglieder. Das erste vorläufige Protokoll der Mitgliederversammlung wurde bereits veröffentlicht.  Die finale Fassung wird dann noch einmal auf der Vereins-Mailingliste veröffentlicht. Bei Fragen steht der Vorstand gerne unter vorstand (_at_) fossgis.de Rede und Antwort. </p>
 
 <p><strong>Der neue Vorstand</strong></p>
-<img src="https://www.fossgis.de/sites/default/files/fossgis_vorstand_2018.jpg" />
+<img src="/news/legacy/fossgis_vorstand_2018.jpg" />
 <p>v.l. Frederik Ramm, Dominik Helle, Till Adams, Arne Schubert</p>

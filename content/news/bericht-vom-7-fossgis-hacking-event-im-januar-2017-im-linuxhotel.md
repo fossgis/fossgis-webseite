@@ -10,12 +10,12 @@ aliases:
 <p>
 Vom 20.1.-22.1.2017 trafen sich zum nunmehr siebten Mal OSM- und Geodatenbegeisterte zum FOSSGIS-Hackingevent im Linuxhotel. Aus ganz Deutschland machten sich 22 Interessierte auf den Weg nach Essen. Bei draußen eisigen Temperaturen und Sonnenschein trafen sie sich in den gemütlichen Räumen des Linuxhotels. 
 </p>
-<img src="https://www.fossgis.de/sites/default/files/800px-PANO_20170121_085343_kl.jpg">
+<img src="/news/legacy/800px-PANO_20170121_085343_kl.jpg">
 
 <p>
 Es wurde wieder intensiv an einer Vielzahl von Open-Source-Projekten gearbeitet und diskutiert. Außerdem erfolgten wichtige Vorbereitungen für die im März in Passau stattfindende FOSSGIS-Konferenz. Manche Themen wurden auch bei einem Spaziergang an der Ruhr diskutiert. Viele der Teilnehmer waren zum ersten Mal beim FOSSGIS Hacking Event und waren von dem einizgartigen Ambiente des Linuxhotels und dem herzlichen Austausch begeistert. 
 </p>
-<img src="https://www.fossgis.de/sites/default/files/250px-P1010586_kl.JPG">
+<img src="/news/legacy/250px-P1010586_kl.JPG">
 
 <p>
 Das 8. Hackingevent soll sicherlich noch 2017 stattfinden. Das nächste Treffen könnte im Sommer oder Herbst im Linuxhotel stattfinden.
@@ -26,7 +26,7 @@ Die FOSSGIS 2017 findet vom 22.06.-25.03.2017 in Passau statt. Das Anmeldesystem
 <br>
 <a href="https://www.fossgis-konferenz.de/2017/" target="_blank">https://www.fossgis-konferenz.de/2017/</a></br>
 </p>
-<img src="https://www.fossgis.de/sites/default/files/250px-P1010584_kl.JPG">
+<img src="/news/legacy/250px-P1010584_kl.JPG">
 <p>
 <h5>OSM</h5>
 Die Anwesenden der OSM Community beteiligten sich vor allem an der Vorbereitung der FOSSGIS Konferenz. In Passau wird es ein OSM-Mapping-Event und den OSM Samstag geben.<a href="https://www.fossgis-konferenz.de/2017/socialevents/" target="_blank">OSM auf der FOSSGIS 2017</a>.
@@ -53,7 +53,7 @@ Das <a href="https://github.com/yagajs/leaflet-ng2" target="_blank"> leaflet-ng2
 <p>
 Auf dem Event konnten <a href="https://travis-ci.org/yagajs/leaflet-ng2" target="_blank"> Travis</a> und <a href="https://coveralls.io/github/yagajs/leaflet-ng2" target="_blank"> Coveralls</a> integriert, sowie der Quell-Code gekürzt und verbessert werden. Auf einem projekteigenen <a href="https://leaflet-ng2.yagajs.org/" target="_blank"> Server</a> wurden die dazugehörigen <a href="https://leaflet-ng2.yagajs.org/latest/browser-test" target="_blank"> Software-Tests</a> und <a href="https://leaflet-ng2.yagajs.org/latest/coverage" target="_blank"> Test-Coverages</a> zur Verfügung gestellt. Zum Abschluss des Events wurde an einem <a href="https://www.npmjs.com/package/@yaga/leaflet-ng2" target="_blank"> Release-Kandidaten</a> gearbeitet, der dann im nachhinein auch veröffentlich werden konnte.
 </p>
-<img src="https://www.fossgis.de/sites/default/files/250px-P1010624_kl.JPG">
+<img src="/news/legacy/250px-P1010624_kl.JPG">
 <p>
 <h5>Mapbender</h5>
 Das Mapbender3 Team befasste sich vor allem mit Bugs, so dass die nächste Bugfixversion von Mapbender3 in Kürze zu erwarten ist.

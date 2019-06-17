@@ -7,7 +7,7 @@ aliases:
 
 ---
 
-<img src="https://www.fossgis.de/sites/default/files/bonn_fossgis_2018.jpeg">
+<img src="/news/legacy/bonn_fossgis_2018.jpeg">
 <br/>
 <p>
 Die Vorbereitungen für die FOSSGIS-Konferenz 2018 in Bonn laufen. Der Call for Papers startet. Die Konferenz findet vom 21. bis 24. März statt. Sponsoren und Aussteller sind willkommen. Zeitgleich wird es einen internationalen OSGeo Code Sprint geben. Dieser findet im bewährten BaseCamp statt. 
@@ -52,7 +52,7 @@ Die Programmplanung findet beim 9. FOSSGIS Hacking vom 8. bis 10. Dezember im Es
 Zeitgleich zur FOSSGIS findet der internationale OSGeo Code Sprint vom 19. bis 25. März 2017 im Bonner BaseCamp statt. Der In- und Outdoor Retro-Park mit ausrangierten Wohnwagen und Zugschlafwagen hat sich mit seinem nostalgischen Flair schon bei der FOSS4G 2016 bewährt. â€žEin idealer Ort für den kreativen Austausch, der von den Teilnehmern begeistert angenommen wurdeâ€œ, so FOSSGIS-Vorstand Till Adams.
 </p>
 <p>
-<img src="https://www.fossgis.de/sites/default/files/400px-OSGeo_Code_Sprint.jpg">
+<img src="/news/legacy/400px-OSGeo_Code_Sprint.jpg">
 </p>
 <p>
 <b>Weitere Informationen</b><br/>

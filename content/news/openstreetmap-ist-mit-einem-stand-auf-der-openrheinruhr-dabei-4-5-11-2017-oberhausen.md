@@ -8,7 +8,7 @@ aliases:
 ---
 
 <p>
-<img src="https://www.fossgis.de/sites/default/files/orr.png" >
+<img src="/news/legacy/orr.png" >
 </p>
 <p>
 Am 4. und 5. November 2017 findet wieder die OpenRheinRuhr im Rheinischen Industriemuseum (RIM) in Oberhausen statt. Nach 2 Jahren ist OSM nun wieder mit einem Infostand dabei.
@@ -17,5 +17,5 @@ Am 4. und 5. November 2017 findet wieder die OpenRheinRuhr im Rheinischen Indust
 Interessierte können sich im Wiki <a href="https://wiki.openstreetmap.org/wiki/OpenRheinRuhr_2017" target="_blank">https://wiki.openstreetmap.org/wiki/OpenRheinRuhr_2017</a> eintragen, damit die Standbesetzung steht. (Bitte die Frist beachten 1. November, 23.00 Uhr).
 </p>
 <p>
-<img src="https://www.fossgis.de/sites/default/files/osm.jpeg" >
+<img src="/news/legacy/osm.jpeg" >
 </p>

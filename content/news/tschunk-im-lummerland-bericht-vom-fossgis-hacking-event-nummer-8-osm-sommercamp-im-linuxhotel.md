@@ -17,7 +17,7 @@ ausgestatteten Seminarräumen bot es am letzten Juniwochenende (23.-25.06.2017) 
 Rahmen für das FOSSGIS-Hacking-Event Nummer 8 . Der am Samstag Abend gemixte <a href="https://en.wikipedia.org/wiki/Tschunk" target="_blank">Tschunk</a>, ein auf Club-Mate basierender Cocktail,
 tat sein übriges für eine entspannte und anregende Atmosphäre.</p>
 
-<p><img src="https://www.fossgis.de/sites/default/files/250px-FOSSGIS_Hacking_Nr_8_Lummerland.jpg" style="vertical-align:bottom;padding-right:10px"><img src="https://www.fossgis.de/sites/default/files/250px-FOSSGIS_Hacking_Nr_8_Chunk.jpg" height="186" style="vertical-align:bottom;padding-right:10px"><img src="https://www.fossgis.de/sites/default/files/250px-Gruppenfoto_Essen_Juni_2017.jpg" style="vertical-align:bottom"></p>
+<p><img src="/news/legacy/250px-FOSSGIS_Hacking_Nr_8_Lummerland.jpg" style="vertical-align:bottom;padding-right:10px"><img src="/news/legacy/250px-FOSSGIS_Hacking_Nr_8_Chunk.jpg" height="186" style="vertical-align:bottom;padding-right:10px"><img src="/news/legacy/250px-Gruppenfoto_Essen_Juni_2017.jpg" style="vertical-align:bottom"></p>
 
 Dreiundzwanzig OpenStreetMap- und Geodaten-Begeisterte aus ganz Deutschland trafen sich zum
 gemeinsamen Programmieren, Mappen, Diskutieren und zum gegenseitigen
@@ -55,7 +55,7 @@ in Bonn stattfinden wird.</p>
 </br>Zufällig wurde gerade am Freitag Linuxhotel ein <a href="http://www.flightgear.org/" target="_blank">FlightGear</a> Flugsimulator von Martin Herweg eingerichtet, der nun dauerhaft den Gästen zur Verfügung steht. Martin kam am Samstag - angelockt durch Grillen und Erbeerkuchen - auch zum Hacking und hat Interessierten  in einigen Flugstunden den Flugsimulator näher gebracht.
 </p>
 
-<p><img src="https://www.fossgis.de/sites/default/files/250px-FOSSGIS_Hacking_Nr_8_FlightGear.jpg" style="vertical-align:bottom;padding-right:10px"><img src="https://www.fossgis.de/sites/default/files/250px-FOSSGIS_Hacking_Nr_8_Grillen.JPG" style="vertical-align:bottom"></p>
+<p><img src="/news/legacy/250px-FOSSGIS_Hacking_Nr_8_FlightGear.jpg" style="vertical-align:bottom;padding-right:10px"><img src="/news/legacy/250px-FOSSGIS_Hacking_Nr_8_Grillen.JPG" style="vertical-align:bottom"></p>
 
 <p>Auch das achte FOSSGIS-Hacking-Event war, wie die sieben vorangegangenen,
 ein voller Erfolg. Dies war nur möglich, weil alle sich beteiligten und zum Gelingen beitrugen. Herzlichen Dank auch an  das Linux-Hotel und vor allem an den FOSSGIS Verein, der das Wochenende finanzierte!</p>

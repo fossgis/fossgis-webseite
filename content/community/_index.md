@@ -3,7 +3,7 @@ title: "Community"
 date: "2019-06-15T08:42:19+00:00"
 menu:
   side:
-    weight: 5
+    weight: 60
   top:
     weight: 5
 ---
@@ -28,4 +28,4 @@ Spätestens seit [_Wikipedia_](http://www.wikipedia.de) ist dieser Begriff fast 
 
 Mit _Chatten_ ist eine Kommunikation in "Echtzeit" gemeint. Im Falle eines textbasierten Chats gibt man eine Textnachricht in ein Chat-Programm ein und alle Teilnehmer können diese Nachricht sofort lesen. Damit kann man Informationen sehr schnell untereinander austauschen. IRC ist ein spezielles, textbasiertes Chat-System (mehr Informationen: [http://de.wikipedia.org/wiki/Internet_Relay_Chat](http://de.wikipedia.org/wiki/Internet_Relay_Chat))
 
-* [Zum FOSSGIS Chat](/community_chat.html)
+* [Zum FOSSGIS Chat](/community/irc/)

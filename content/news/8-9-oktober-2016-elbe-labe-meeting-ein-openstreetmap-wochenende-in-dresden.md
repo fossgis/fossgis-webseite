@@ -42,5 +42,5 @@ Auf der Wiki-Seite des Treffens unter
 
 Wir bitten euch, eure Anmeldung als verbindlich zu betrachten, da wir nur eine begrenzte Anzahl an Plätzen zur Verfügung haben.
 <p>
-Diese Veranstaltung wird vom FOSSGIS Verein gefördert. <img src=" https://www.fossgis.de/sites/default/files/logo.png"  width="100px" />
+Diese Veranstaltung wird vom FOSSGIS Verein gefördert. <img src="/news/legacy/logo.png"  width="100px" />
 </p>

@@ -8,11 +8,11 @@ aliases:
 ---
 
 <p>
-Die FOSSGIS-Konferenz 2018 in Bonn rückt näher. Das Programm wurde veröffentlicht und die Anmeldung ist eröffnet. Der Frühbucherrabatt gilt bis zum 06.02.2018, 21 Uhr. <a href="https://www.fossgis-konferenz.de/2018/anmeldung/" target="_blank" alt="zur Anmeldung FOSSGIS 2018">Jetzt anmelden!</a>&nbsp;<a href="https://www.fossgis.de/sites/default/files/FOSSGIS_Konferenz_Maerz_2018_Bonn.pdf" target="_blank" alt="zum FOSSGIS 2018 Werbeflyer">Jetzt Werbeposter drucken und aufhängen!</a><br>
+Die FOSSGIS-Konferenz 2018 in Bonn rückt näher. Das Programm wurde veröffentlicht und die Anmeldung ist eröffnet. Der Frühbucherrabatt gilt bis zum 06.02.2018, 21 Uhr. <a href="https://www.fossgis-konferenz.de/2018/anmeldung/" target="_blank" alt="zur Anmeldung FOSSGIS 2018">Jetzt anmelden!</a>&nbsp;<a href="/news/legacy/FOSSGIS_Konferenz_Maerz_2018_Bonn.pdf" target="_blank" alt="zum FOSSGIS 2018 Werbeflyer">Jetzt Werbeposter drucken und aufhängen!</a><br>
 </p>
 <p>
-<img src="https://www.fossgis.de/sites/default/files/fossgis-konferenz-2018_0.png" width=80px />&nbsp;
-<img src="https://www.fossgis.de/sites/default/files/FOSSGIS_2018.png" width=380px />
+<img src="/news/legacy/fossgis-konferenz-2018_0.png" width=80px />&nbsp;
+<img src="/news/legacy/FOSSGIS_2018.png" width=380px />
 </p>
 <p>
 Die FOSSGIS-Konferenz ist die im D-A-CH-Raum führende Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen OpenStreetMap und Open Data. An vier Tagen werden in Vorträgen für Einsteiger und Experten, Hands-On Workshops und Anwendertreffen Einblicke in neuste Entwicklungen und Anwendungsmöglichkeiten von Softwareprojekten gegeben.

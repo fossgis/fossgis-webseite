@@ -17,7 +17,7 @@ Dies ergab eine ganz besondere Arbeitsatmosphäre. Freitag Abend nach dem
 traditionellen Pizzaessen stellten die Teilnehmenden
 sich und ihre Projekte vor. Es waren auch viele neue Gesichter dabei. Diese konnten den Verein und die Community kennen lernen und haben hoffentlich Lust bekommen, an weiteren Veranstaltungen teilzunehmen. </p>
 
-<p><img src="https://www.fossgis.de/sites/default/files/P1020295.JPG" height="186px" style="vertical-align:bottom;padding-right:10px;height:186px"><img src="https://www.fossgis.de/sites/default/files/800px-IMG_20171210_131415.jpg" style="vertical-align:bottom;padding-right:10px;height:186px"><img src="https://www.fossgis.de/sites/default/files/IMG_20171210_130019.jpg" style="vertical-align:bottom; height:186px"></p>
+<p><img src="/news/legacy/P1020295.JPG" height="186px" style="vertical-align:bottom;padding-right:10px;height:186px"><img src="/news/legacy/800px-IMG_20171210_131415.jpg" style="vertical-align:bottom;padding-right:10px;height:186px"><img src="/news/legacy/IMG_20171210_130019.jpg" style="vertical-align:bottom; height:186px"></p>
 
 
 <p>Dann ging es auch schon ans Werk. Großen Raum nahm diesmal die Vorbereitung der im März anstehenden
@@ -26,7 +26,7 @@ das Konferenzprogramm zusammen. Die Vorträge und Workshops
 wurde gesichtet und über die vier Konferenztage verteilt. Auch der zeitgleich in Bonn
 stattfindende <a href="https://wiki.osgeo.org/wiki/OSGeo_Code_Sprint_2018">OSGeo Codesprint</a> wurde geplant.</p>
 
-<p style="text-align:center"><img src="https://www.fossgis.de/sites/default/files/800px-20171209_160800.jpg " style="vertical-align:bottom;padding-right:10px;height:186px"><img src="https://www.fossgis.de/sites/default/files/Fossgis_Hacking_Event_9_20171209_Programmkommitee.jpg" style="vertical-align:bottom;padding-right:10px;height:186px"></p>
+<p style="text-align:center"><img src="/news/legacy/800px-20171209_160800.jpg " style="vertical-align:bottom;padding-right:10px;height:186px"><img src="/news/legacy/Fossgis_Hacking_Event_9_20171209_Programmkommitee.jpg" style="vertical-align:bottom;padding-right:10px;height:186px"></p>
 
 <p>Für große Freude sorgte die Nachricht, dass der FOSSGIS e.V. jetzt Local Chapter der <a href="https://wiki.osmfoundation.org/wiki/Main_Page">OpenStreetMap Foundation</a> ist.</p>
 

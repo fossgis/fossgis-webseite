@@ -8,7 +8,7 @@ aliases:
 ---
 
 <p>
-<img src="https://www.fossgis.de/sites/default/files/osgeo-park_0.png">
+<img src="/news/legacy/osgeo-park_0.png">
 </p>
 <br />
 <p>
@@ -26,7 +26,7 @@ Der OSGeo Park ist in diesem Jahr wieder mit dabei, organisiert vom FOSSGIS e.V.
 Auf dem OSGeo Park können Besucher sich während der drei Veranstaltungstage über zahlreiche Lösungen im Bereich Open Source GIS, freie Geodaten, GIS Technologie und OpenStreetMap informieren.
 </p>
 <p>
-<img src="https://www.fossgis.de/sites/default/files/4.jpg">
+<img src="/news/legacy/4.jpg">
 </p>
 <br />
 <p>
@@ -34,14 +34,14 @@ Auf dem OSGeo Park können Besucher sich während der drei Veranstaltungstage ü
 Neben einem OSGeo & OSM Informationsstand gibt es ein tagesfüllendes Vortragsprogramm. In Kurzvorträgen bekommen die Besucher einen schnellen, aber weitreichenden Einblick in die Welt der Open-Source-Software aus dem GIS Bereich und den damit verbundenen Möglichkeiten (zum Programm <a href="http://www.fossgis.de/wiki/INTERGEO_2018#Vortragsprogramm" target="_blank">INTERGEO 2018</a>).
 </p>
 <p>
-<img src="https://www.fossgis.de/sites/default/files/1.jpg">
+<img src="/news/legacy/1.jpg">
 </p>
 <p>
 <b>OSGeoLive zum Anfassen</b><br />
 Darüber hinaus gibt es einen Bereich mit Rechnern, diese sind mit der aktuellen OSGeoLive Version 12.0 bestückt und enthalten über 50 verschiedene Softwareprojekte, Demodaten und Dokumentationen. Hier kann alles direkt ausprobiert werden. Bei Fragen helfen die Vertreter des FOSSGIS e.V. & der OSM Community gerne weiter.
 </p>
 <p>
-<img src="https://www.fossgis.de/sites/default/files/2.jpg">
+<img src="/news/legacy/2.jpg">
 </p>
 </br />
 <p>
@@ -57,7 +57,7 @@ Der Aufbau erfolgt am Montag 15.10.2018 Nachmittag ab 15 Uhr.
 Direkt nach dem Aufbau treffen wir uns zum Stammtisch (Ort wird noch bekannt gegeben).
 </p>
 <p>
-<img src="https://www.fossgis.de/sites/default/files/8.jpg">
+<img src="/news/legacy/8.jpg">
 </p>
 <p>
 <b>OSGeo Park auf Twitter</b><br />
