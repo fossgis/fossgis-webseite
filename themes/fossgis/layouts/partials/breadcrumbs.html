@@ -1,8 +1,13 @@
 <div id="breadcrumbs">
+	<!-- Das Template ist nicht optimal und könnte sicher besser gelöst werden. Bitte um PR. -->
 	<a href="/">Home</a>
-	{{ range (split .RelPermalink "/") }}
-		{{ if gt (len . ) 0 }}
-			/ <a href="/{{ . }}">{{ humanize (replace . "posts" "blog") }}</a>
+	{{ if and (.Parent) (ne .Parent .Site.Home) }}
+		/ <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Name }}</a>
+		{{ if and (.Parent.Parent) (ne .Parent.Parent .Site.Home) }}
+			<a href="{{ .Parent.Parent.RelPermalink }}">{{ .Parent.Parent.Name }}</a>
 		{{ end }}
+	{{ end }}
+	{{ if ne .Page .Site.Home }}
+		/ {{ .Page.Name }}
 	{{ end }}
 </div>

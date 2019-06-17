@@ -1,0 +1,11 @@
+{{ define "title" }}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+	{{ .Content }}
+
+	{{ range first 10 (where .Sites.First.Pages "Section" "news") }}
+		<p>{{ .Title }}</p>
+	{{ end }}
+{{ end }}

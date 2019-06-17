@@ -100,3 +100,8 @@ footer {
 .footer-linklist a {
 	color: white;
 }
+
+.article-meta {
+	text-align: right;
+	padding-top: 1.25em;
+}

@@ -1,12 +1,19 @@
 {{ define "main" }}
 <content id="main-content">
 	{{ range .Paginator.Pages }}
-		<article>
-			<a href="{{ .Permalink }}"><h1>{{ .Title }}</h1></a>
-			Veröffentlicht am {{ .Date.Format "02.01.2006" }}
-			{{ .Params.Author }}
-			{{ .Summary }}
-			<a href="{{ .Permalink }}">Ganzen Beitrag lesen »</a>
+		<article class="row">
+			<div class="col-xs-2 article-meta">
+				{{ .Date.Format "02.01.2006" }}<br>
+				{{ .Params.Author }}
+			</div>
+
+			<div class="col-xs-10">
+				<a href="{{ .Permalink }}"><h1>{{ .Title }}</h1></a>
+				
+				
+				{{ .Summary }}
+				<br><a href="{{ .Permalink }}">Ganzen Beitrag lesen »</a>
+			</div>
 		</article>
 	{{ end }}
 
