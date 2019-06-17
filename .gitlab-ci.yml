@@ -10,3 +10,6 @@ build:
     - cd -
   script:
     - hugo
+  artifacts:
+    paths:
+      - public/
