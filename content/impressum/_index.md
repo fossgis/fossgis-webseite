@@ -18,8 +18,7 @@ Arne Schubert
 
 ## Kontakt
 
-Telefon: +49 331 2812 9857 0  
-Telefax: +49 331 2812 9857 9  
+Telefon: +49 331 2812 9857  
 E-Mail: [info@fossgis.de](mailto:info@fossgis.de)
 
 ## Registereintrag
