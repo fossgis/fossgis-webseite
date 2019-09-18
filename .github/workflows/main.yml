@@ -1,6 +1,8 @@
 name: Staging Rollout
 
-on: [push]
+on:
+  push:
+    branches: [master]
 
 jobs:
   build:
