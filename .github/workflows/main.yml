@@ -27,4 +27,5 @@ jobs:
       run: |
         mkdir ~/.ssh
         echo $SSH_KEY > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
         rsync --delete -r -e "ssh -o StrictHostKeyChecking=no -p 322" public/ web@web.fossgis.de:/ 
