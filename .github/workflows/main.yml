@@ -20,3 +20,10 @@ jobs:
     - name: Build site
       run: |
         hugo
+        
+    - name: Rollout site
+      env:
+        SSH_KEY: ${{ secrets.SSH_KEY }}
+      run: |
+        echo $SSH_KEY > ~/.ssh/id_rsa
+        rsync --delete -r -e "ssh -p 322" public/ web@web.fossgis.de:/ 
