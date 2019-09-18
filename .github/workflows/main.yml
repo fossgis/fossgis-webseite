@@ -25,5 +25,6 @@ jobs:
       env:
         SSH_KEY: ${{ secrets.SSH_KEY }}
       run: |
+        eval $(ssh-agent -s)
         ssh-add - <<< "${SSH_KEY}"
         rsync --delete -r -e "ssh -o StrictHostKeyChecking=no -p 322" public/ web@web.fossgis.de:/ 
