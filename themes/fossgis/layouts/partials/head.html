@@ -1,6 +1,6 @@
 <link type="text/css" rel="stylesheet" href="/css/flexboxgrid.min.css" media="all">
 {{ $style := resources.Get "css/style.css" | resources.Minify | resources.Fingerprint }}
-<link type="text/css" rel="stylesheet" href="{{ $style.Permalink }}" media="all">
+<link type="text/css" rel="stylesheet" href="{{ $style.RelPermalink }}" media="all">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="icon" href="/icons/fossgis.png" type="image/png">
