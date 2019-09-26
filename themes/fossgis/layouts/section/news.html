@@ -12,9 +12,9 @@
 			</div>
 
 			<div class="col-xs-12 col-sm-10">
-				<a href="{{ .Permalink }}"><h1>{{ .Title }}</h1></a>	
+				<a href="{{ .RelPermalink }}"><h1>{{ .Title }}</h1></a>	
 				{{ .Summary }}
-				<br><a href="{{ .Permalink }}">Ganzen Beitrag lesen »</a>
+				<br><a href="{{ .RelPermalink }}">Ganzen Beitrag lesen »</a>
 			</div>
 		</article>
 	{{ end }}
