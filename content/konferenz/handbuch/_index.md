@@ -1,52 +1,19 @@
+---
+title: "Handbuch"
+date: "2019-10-13T08:42:19+00:00"
+---
+
+# FOSSGIS-Konferenz Handbuch
+
 ## Einleitung
-Dieses Handbuch enthält die Erfahrungen und Beschlüsse aus mehreren Jahren FOSSGIS-Organisation. Es soll helfen, die Organisation zukünftiger FOSSGIS-Konferenzen übersichtlicher und einfacher zu gestalten.
 
-In diesem Dokument wird vieles mit Begriffen wie „soll“ oder „muss“ festgelegt. Damit soll ein verlässlicher Rahmen geschaffen werden. Jeder soll wissen, was seine Aufgaben sind und welche Entscheidungen er innerhalb des Rahmens treffen darf und verantworten muss. Dies soll aber nicht als Einschränkung unserer Freiheit verstanden werden, die Dinge so zu ändern, wie wir es für richtig halten. Natürlich kann auch in Zukunft alles geändert werden. Das Dokument soll aber den „Normalzustand“ dokumentieren: Wenn es so läuft wie hier beschrieben, muss man nicht mehr diskutieren.
+Die FOSSGIS-Konferenz ist eine jährlich stattfindende, viertägige Veranstaltung zu den Themenbereichen Open Source Software und Open Data im GIS-Bereich sowie OpenStreetMap. Organisiert wird sie vom gemeinnützigen FOSSGIS.eV. Die Zielgruppe ist die gesamte deutschsprachige FOSSGIS-Community und richtet sich daher vor allem an die Länder Deutschland, Österreich und Schweiz.
 
-Erklärungen zum Hintergrund verschiedener Entscheidungen sind wie dieser Paragraph im ''Notiz-Stil'' gekennzeichnet. Sie sind vor allem für Leute interessant, die frühere Versionen der FOSSGIS gekannt haben und sich wundern, warum sich Dinge geändert haben.
+Durch ihr breites Themenfeld und ihre breite Zielgruppe ist die FOSSGIS-Konferenz ein Treffpunkt für Anwender, Entwickler, Wissenschaftler und Ehrenamtliche. Sowohl Anwender als auch Entwickler nutzen die FOSSGIS-Konferenz, um sich über bewährte Anwendungen und neue Entwicklungen im FOSSGIS-Bereich zu informieren und sich untereinander auszutauschen. Außerdem bietet die Konferenz Firmen und GIS-Projekten die Möglichkeit, sich im Ausstellungsbereich mit einem eigenen Info-Stand zu präsentieren.
 
-## Thema der Konferenz
+Der Community-Charakter, der die FOSSGIS-Konferenz prägt, bietet die Möglichkeit sich in lockerer Atmosphäre untereinander zu vernetzen und Einblicke in andere Bereiche der GIS-Welt zu bekommen. So wird beispielsweise die Kommunikation zwischen Beitragenden und Nutzern von OpenStreetMap gefördert und der Austausch zwischen Anwendern und Softwareentwicklern gestärkt. Der Blick über den Rand des eigenen Projekts und das Verfolgen neuer Entwicklungen der Szene werden dadurch einfacher.
 
-Die FOSSGIS ist eine Konferenz für Anwender und Entwickler von Open
-Source Software im GIS-Bereich, für Open Data und OpenStreetMap.
-
-Sowohl Anwender als auch Entwickler nutzen die FOSSGIS-Konferenz, um
-sich über bewährte Anwendungen und neue Entwicklungen im Hinblick auf
-Software, OpenData und OpenStreetMap zu informieren und sich
-untereinander auszutauschen. Die Konferenz bietet mit der Ausstellung
-die Möglichkeit mit Firmen aus diesem Bereich in Kontakt zu treten.
-
-Der Communitycharakter, der die FOSSGIS prägt, bietet Entwicklern
-persönlichen Kontakt zu Entwicklern ihres und anderer Projekte. Der
-Blick über den Rand ihres eigenen Projektes und das Verfolgen neuer
-Entwicklungen der Szene werden damit einfacher. Der Kontakt zu den
-Anwendern hilft, die Software-Entwicklung an der Praxis zu orientieren.
-
-Die FOSSGIS ist auch der Treffpunkt der
-[FOSSGIS-Community](http://www.fossgis.de/community.html). Hier tauschen
-sich die Macher der Projekte aus.
-
-### Alleinstellungsmerkmale
-
--   Direkter Kontakt Anwender zu Entwicklern
--   Direkter Kontakt Entwickler zu Entwicklern
--   Kontakt Anwender zu Anwender
--   Austausch von Beitragenden und Nutzern von OpenStreetMap
--   Blick über den Tellerrand zu anderen Projekten
--   Fokus auf Open Source / Open Data
--   Deutschsprachig, Fokus auf Deutschland, Österreich und die Schweiz
--   Organisiert von der
-    [FOSSGIS-Community](http://www.fossgis.de/community.html),
-    firmenunabhängig
--   Bringt kommerzielle Welt, Behörden und Forschung und Lehre zusammen
--   Die meisten Firmen im Open-Source-GIS-Bereich sind auf der
-    Ausstellung vertreten
--   Präsentation des OpenStreetMap-Projekts
-
-### Vergleich mit anderen Konferenzen/Messen
-
-Zum Vergleich einige Konferenzen und Messen mit verwandten Themen und
-wie die FOSSGIS sich von ihnen unterscheidet:
+Neben der FOSSGIS-Konferenz gibt es noch einige weitere Verantaltungen im deutschsprachigen Raum, die sich mit verwandeten Themen befassen. Sie unterscheiden sich jedoch von der FOSSGIS-Konferenz in folgenden Punkten:
 
 <table>
 <tbody>
@@ -75,13 +42,74 @@ wie die FOSSGIS sich von ihnen unterscheidet:
 <tr class="even">
 <td><p>GEOSummit</p></td>
 <td><p>Der GEOSummit ist die grösste GIS-Konferenz und Messe in der Schweiz. Sie ist anwendungsorientiert, weniger wissenschaftlich im Vergleich zur AGIT und findet alle 2 Jahre statt.</p>
-<p>OSGeo ist mit einem Stand vertreten. Open Source hat da aber seinen Platz noch nicht ganz richtig gefunden. 2014 werden FOSS-Beiträge wohl ganz in die thematischen Blöcke integriert.</p></td>
+<p>OSGeo ist mit einem Stand vertreten.</p></td>
 </tr>
 </tbody>
 </table>
 
+Die FOSSGIS-Konferenz findet immer in Kooperation mit einer Hochschule statt, wodurch der Veranstaltungsort und Teile des Veranstaltungsteams jährlich wechseln. Aus diesem Grund ist dieses Handbuch entstanden, um neuen Gesichtern im Organisationsteam den Einstieg zu erleichtern und der ausrichtenden Hochschule einen Überblick über die an sie gestellten Anforderungen und Aufgaben zu verschaffen. Das Handbuch fußt auf Erfahrungen und Beschlüssen, die sich über die Jahre als "best practice" herauskristallisiert haben. Dadurch soll es helfen, die Organisation zukünftiger FOSSGIS-Konferenzen übersichtlicher und einfacher zu gestalten und einen Überblick geben, welche Aufgaben und Entscheidungen wer innerhalb des Rahmens zu treffen und verantworten sind.
+
+## Inhaltsverzeichnis
+
+## Räumlichkeiten
+
+Die Räumlichkeiten müssen vom Lokalteam organisiert werden. Dazu ist eine schriftliche Vereinbarung mit der Hochschule erforderlich (es ist schon vorgekommen, dass sich von der Univerwaltung plötzlich niemand erinnern wollte und gebuchte Räumlichkeiten doch nicht zur Verfügung standen).
+
+### Foyer
+Der **Foyerbereich** stellt neben den Vorträgen und Workshops einen zentralen Bereich der FOSSGIS-Konferenz dar, denn hier findet Kommunikation, Austausch und Essensversorgung statt.
+Es sollte mind. 600qm Platz für Aussteller, Projektstände, Catering und Rezeption zur Verfügung stehen. Es hat sich als günstig erwiesen, dass dieser Bereich nicht räumlich getrennt wird.
+
+### Anmeldung
+Am Eingang wird eine **Rezeption**/**WelcomeDesk** für die Anmeldung zur und Betreuung während der Konferenz aufgebaut (empfohlen mindestens 5 Meter Tisch). Die Anmeldung braucht Stromversorgung, Rechner, Drucker. In der Nähe der Anmeldung gibt es sinnvollerweise Pinnwände für diverse Informationen (Programm, Communitytreffen,...).
+
+### Ausstellungsbereich 
+Alle Stände im **Ausstellerbereich** der Sponsoren und der Projekte müssen über einen Ethernetanschluss mit Internetzugang sowie ausreichend dimensionierte Stromversorgung verfügen. Der Sponsoren/Aussteller Koordinator kümmert sich um die Details und die Kommunikation mit den Ausstellern.  
+
+### Pausenbereich 
+In den Pausen werden Getränke sowie belegte Brötchen, Häppchen oder Kuchen sowie das Mittagessen gereicht (siehe http://www.fossgis.de/wiki/Handbuch#Catering Catering). Es muss ausreichend Platz an Tischen oder Stehtischen zur Verfügung stehen. Für das Mittagessen sollte es ausreichend Sitzgelegenheiten geben. Die Pausenversorgung sollte in unmittelbarer Nähe zu den Ausstellern angeboten werden.
+
+Im Pausenbereich sollte für die Stromversorgung der Mobiltelefone oder Laptops der Teilnehmer gesorgt werden.
+
+### Hörsäle
+Es werden mindestens **3 Hörsäle** mit folgenden Kapazitäten benötigt:
+
+-   HS1 mind. 400 Sitzplätze, 
+-   HS2 mind. 250 Sitzplätze, 
+-   HS3 mind. 150 Sitzplätze, 
+-   in allen Hörsälen sollten mit zeitgemäßer **Vortragstechnik** ausgestattet sein:
+  - Vortragsrechner - Linux + aktuelles LibreOffice + PDF-Viewer + Netzwerkanbindung mit Browser.
+  -  Mikrofonanlage (idealerweise Funkmikrofon für den Vortragenden + wenigstens eins, besser zwei tragbare Mikrofone für Rückfragen aus dem Publikum und Sessionleiter.
+  -  Projektor/ Beamer.
+  -  Alle nötigen Kabel zum Anschließen an den Beamer via DVI (im Notfall auch VGA) werden als vorhanden vorausgesetzt
+  -     Referenten sollten auch die Möglichkeit haben, einen eigenen Vortragsrechner anzuschließen. 
+-   Um den **Videomitschnitt** der Konferenz zu gewährleisten, muss der Ton aus der Mikrofonanlage des Hörsaals für das Video-Team zur Verfügung stehen.
+-   Die Hörsäle müssen mit kabelgebundenem Internet für Video-Upload und Video-Streaming ausgestattet sein
+-       Für jeden Raum muss mindestens eine feste, öffentliche IP verfügbar sein
+  -  Über das Kabelnetz müssen auch noch weitere Rechner ins Internet kommen. Wenn's dafür kein DHCP/NAT gibt, werden je Raum noch 3 zusätzliche feste IPs benötigt (Mixer, Cutter, Management)
+  -     Aus dem Internet müssen wenigstens Port 22, 80, 443 und 1935, jeweils TCP und UDP zu diesen IPs möglich sein, idealerweise sollte überhaupt kein Port geblockt sein
+  - Es muss ausreichend Bandbreite zum Streamen und Uploaden der Videos zur Verfügung stehen. Wenigstens 3 MBit Uplink / Raum sind erforderlich.
+
+### Workshop-Räume
+Während der gesamten Konferenzzeit werden Workshops zu speziellen Themen angeboten. Dazu bedarf es '''3 Workshop-Räumen''' mit jeweils 20 Rechnern. 
+Für die Durchführung der Workshops wird üblicherweise ein Linuxsystem von einem Live-Medium gebootet. Jeder Workshop-Raum muss folgende Komponenten enthalten: 20 Teilnehmer-Rechner mit Bootmöglichkeit von DVD (Live-Medium) u. mind. 2GB RAM, Netzwerkanschluss
+und DHCP. Die aktuelle OSGeo-Live DVD (http://live.osgeo.org/de/index.html) kann als Hardwaretest verwendet werden, denn hierauf bauen die Workshops auf. Zusätzlich sollte für den Workshop-Leiter ein Rechner mit der gleichen Rechnerkonfiguration und ein Projektor zur Verfügung stehen. Einige Workshops brauchen spezielle Installationen, die der beauftragte Workshop-Organisator des Local-Teams mit dem Workshop-Koordinator des FOSSGIS-Vereins abstimmt (Spezialinstallationen sollten eine Ausnahme bilden, da sie sehr viel zusätzliche Arbeit erzeugen).
+
+Das Workshop-Komitee kümmert sich um die Workshoporganisation.
+
+###  Lagerraum
+Während der Veranstaltung müssen diverse Dinge gelagert werden. Für „Wertsachen“ sollte ein abschließbarer und für alles andere (Kisten, Konferenztaschen, Garderobe, Catering-Lager usw.) ein adäquater Raum zur Verfügung stehen. Idealerweise sollten sich die Lagerräume in der Nähe der Rezeption befinden. Der Schlüssel für den abgeschlossenen Raum gehört an den Empfang/Rezeption in die Verantwortung des dortigen Helfers. Er wird nur an Personen abgegeben, die der Helfer als zum Organisationsteam zugehörig kennt, und muss sofort wieder an den Helfer zurückgegeben werden. Abends geht er an den Leiter des Lokal-Teams.
+
+### Zugang zu den Räumlichkeiten 
+Zu beachten sind die Gebäudeschließzeiten, die sollten mit Hausmeister und Wachpersonal abgestimmt werden.
+
+### Hausmeister 
+Hausmeister sind wichtige Personen. Sie haben Schlüssel zu allen Räumen und wissen, wo es Strom gibt. Sie wissen vorher, wenn es Bauarbeiten gibt oder wo es andere Schwierigkeiten geben kann. Er kann helfen, Dinge aufzuhängen, kann Leitern und Werkzeug beschaffen. Er weiss, wer bei Problemen anzusprechnen ist. Es lohnt sich, sich schon im Vorfeld mit dem Hausmeister bekannt zu machen und ihm in Planungen zu involvieren. Er kann alles nach Dienstvorschrift machen oder mal ein Auge zudrücken. Und natürlich lädt man ihn ein, doch vorbeizukommen, wenn es Kaffee und Kuchen oder Mittagessen gibt.
+
+
+
+
 ## Zeitraster
-Die FOSSGIS-Konferenz findet von '''Mittwoch bis Samstag''' statt. Mittwoch bis Freitag ist die Zeit der klassischen FOSSGISS-Konferenz. Der Samstag ist als Tag der OSM-Community (Unkonferenz) konzipiert. Der Dienstagnachmittag vor der Konferenz wird vom Local-Team für den Aufbau der Konferenzinfrastuktur genutzt. Der Mittwochvormittag wird von den Ausstellern für den Aufbau genutzt. Gleichzeitig startet ein Konferenzvorprogramm mit einer allgemeinen Einführungsveranstaltung in die Welt von Open Source und Open Data. Die eigentliche Eröffnungsveranstaltung findet am Mittwochmittag statt. Vorträge und Workshops laufen nach der Eröffnungsveranstaltung in parallelen Sessions. Zusätzliche Veranstaltungen, wie weitere Workshops, Communitytreffen können sowohl vor als auch nach der Konferenz organisiert werden. 
+Die FOSSGIS-Konferenz findet von **Mittwoch bis Samstag** statt. Mittwoch bis Freitag ist die Zeit der klassischen FOSSGISS-Konferenz. Der Samstag ist als Tag der OSM-Community (Unkonferenz) konzipiert. Der Dienstagnachmittag vor der Konferenz wird vom Local-Team für den Aufbau der Konferenzinfrastuktur genutzt. Der Mittwochvormittag wird von den Ausstellern für den Aufbau genutzt. Gleichzeitig startet ein Konferenzvorprogramm mit einer allgemeinen Einführungsveranstaltung in die Welt von Open Source und Open Data. Die eigentliche Eröffnungsveranstaltung findet am Mittwochmittag statt. Vorträge und Workshops laufen nach der Eröffnungsveranstaltung in parallelen Sessions. Zusätzliche Veranstaltungen, wie weitere Workshops, Communitytreffen können sowohl vor als auch nach der Konferenz organisiert werden. 
 
 Für das Video-Team ist bereits ab Dienstag Vormittag Zugang zu den Hörsälen zu gewähren. Auch kann das Finalisieren der Videoaufzeichnungen sowie der Abbau am Freitag bis Mitternacht dauern. Der Zeitraum kann sich bei Videoaufzeichnungen am OSM-Samstag auch bis zum Samstag ausdehnen. Diese Zeiten müssen mit Hausmeister, Wach- und Schließpersonal geklärt sein. 
 
@@ -812,59 +840,6 @@ ausgecheckt und kommen mit ihren Taschen. Eine echte bewachte Garderobe
 ist zu aufwändig, aber eventuell gibt es einen Raum in der Nähe der
 Anmeldung, der wenigstens halbwegs im Blickfeld der dortigen Hiwis ist.
 
-## Räumlichkeiten
-
-Die Räumlichkeiten müssen vom Lokalteam organisiert werden. Dazu ist eine schriftliche Vereinbarung mit der Hochschule erforderlich (es ist schon vorgekommen, dass sich von der Univerwaltung plötzlich niemand erinnern wollte und gebuchte Räumlichkeiten doch nicht zur Verfügung standen).
-
-### Foyer
-Der **Foyerbereich** stellt neben den Vorträgen und Workshops einen zentralen Bereich der FOSSGIS-Konferenz dar, denn hier findet Kommunikation, Austausch und Essensversorgung statt.
-Es sollte mind. 600qm Platz für Aussteller, Projektstände, Catering und Rezeption zur Verfügung stehen. Es hat sich als günstig erwiesen, dass dieser Bereich nicht räumlich getrennt wird.
-
-### Anmeldung
-Am Eingang wird eine **Rezeption**/**WelcomeDesk** für die Anmeldung zur und Betreuung während der Konferenz aufgebaut (empfohlen mindestens 5 Meter Tisch). Die Anmeldung braucht Stromversorgung, Rechner, Drucker. In der Nähe der Anmeldung gibt es sinnvollerweise Pinnwände für diverse Informationen (Programm, Communitytreffen,...).
-
-### Ausstellungsbereich 
-Alle Stände im **Ausstellerbereich** der Sponsoren und der Projekte müssen über einen Ethernetanschluss mit Internetzugang sowie ausreichend dimensionierte Stromversorgung verfügen. Der Sponsoren/Aussteller Koordinator kümmert sich um die Details und die Kommunikation mit den Ausstellern.  
-
-### Pausenbereich 
-In den Pausen werden Getränke sowie belegte Brötchen, Häppchen oder Kuchen sowie das Mittagessen gereicht (siehe http://www.fossgis.de/wiki/Handbuch#Catering Catering). Es muss ausreichend Platz an Tischen oder Stehtischen zur Verfügung stehen. Für das Mittagessen sollte es ausreichend Sitzgelegenheiten geben. Die Pausenversorgung sollte in unmittelbarer Nähe zu den Ausstellern angeboten werden.
-
-Im Pausenbereich sollte für die Stromversorgung der Mobiltelefone oder Laptops der Teilnehmer gesorgt werden.
-
-### Hörsäle
-Es werden mindestens **3 Hörsäle** mit folgenden Kapazitäten benötigt:
-
-- 	HS1 mind. 400 Sitzplätze, 
-- 	HS2 mind. 250 Sitzplätze, 
-- 	HS3 mind. 150 Sitzplätze, 
-- 	in allen Hörsälen sollten mit zeitgemäßer **Vortragstechnik** ausgestattet sein:
-  -	Vortragsrechner - Linux + aktuelles LibreOffice + PDF-Viewer + Netzwerkanbindung mit Browser.
-  -	 Mikrofonanlage (idealerweise Funkmikrofon für den Vortragenden + wenigstens eins, besser zwei tragbare Mikrofone für Rückfragen aus dem Publikum und Sessionleiter.
-  -	 Projektor/ Beamer.
-  -	 Alle nötigen Kabel zum Anschließen an den Beamer via DVI (im Notfall auch VGA) werden als vorhanden vorausgesetzt
-  - 	Referenten sollten auch die Möglichkeit haben, einen eigenen Vortragsrechner anzuschließen. 
--	Um den **Videomitschnitt** der Konferenz zu gewährleisten, muss der Ton aus der Mikrofonanlage des Hörsaals für das Video-Team zur Verfügung stehen.
-- 	Die Hörsäle müssen mit kabelgebundenem Internet für Video-Upload und Video-Streaming ausgestattet sein
--	 	Für jeden Raum muss mindestens eine feste, öffentliche IP verfügbar sein
-  -	 Über das Kabelnetz müssen auch noch weitere Rechner ins Internet kommen. Wenn's dafür kein DHCP/NAT gibt, werden je Raum noch 3 zusätzliche feste IPs benötigt (Mixer, Cutter, Management)
-  - 	Aus dem Internet müssen wenigstens Port 22, 80, 443 und 1935, jeweils TCP und UDP zu diesen IPs möglich sein, idealerweise sollte überhaupt kein Port geblockt sein
-  -	Es muss ausreichend Bandbreite zum Streamen und Uploaden der Videos zur Verfügung stehen. Wenigstens 3 MBit Uplink / Raum sind erforderlich.
-
-### Workshop-Räume
-Während der gesamten Konferenzzeit werden Workshops zu speziellen Themen angeboten. Dazu bedarf es '''3 Workshop-Räumen''' mit jeweils 20 Rechnern. 
-Für die Durchführung der Workshops wird üblicherweise ein Linuxsystem von einem Live-Medium gebootet. Jeder Workshop-Raum muss folgende Komponenten enthalten: 20 Teilnehmer-Rechner mit Bootmöglichkeit von DVD (Live-Medium) u. mind. 2GB RAM, Netzwerkanschluss
-und DHCP. Die aktuelle OSGeo-Live DVD (http://live.osgeo.org/de/index.html) kann als Hardwaretest verwendet werden, denn hierauf bauen die Workshops auf. Zusätzlich sollte für den Workshop-Leiter ein Rechner mit der gleichen Rechnerkonfiguration und ein Projektor zur Verfügung stehen. Einige Workshops brauchen spezielle Installationen, die der beauftragte Workshop-Organisator des Local-Teams mit dem Workshop-Koordinator des FOSSGIS-Vereins abstimmt (Spezialinstallationen sollten eine Ausnahme bilden, da sie sehr viel zusätzliche Arbeit erzeugen).
-
-Das Workshop-Komitee kümmert sich um die Workshoporganisation.
-
-###  Lagerraum
-Während der Veranstaltung müssen diverse Dinge gelagert werden. Für „Wertsachen“ sollte ein abschließbarer und für alles andere (Kisten, Konferenztaschen, Garderobe, Catering-Lager usw.) ein adäquater Raum zur Verfügung stehen. Idealerweise sollten sich die Lagerräume in der Nähe der Rezeption befinden. Der Schlüssel für den abgeschlossenen Raum gehört an den Empfang/Rezeption in die Verantwortung des dortigen Helfers. Er wird nur an Personen abgegeben, die der Helfer als zum Organisationsteam zugehörig kennt, und muss sofort wieder an den Helfer zurückgegeben werden. Abends geht er an den Leiter des Lokal-Teams.
-
-### Zugang zu den Räumlichkeiten 
-Zu beachten sind die Gebäudeschließzeiten, die sollten mit Hausmeister und Wachpersonal abgestimmt werden.
-
-### Hausmeister 
-Hausmeister sind wichtige Personen. Sie haben Schlüssel zu allen Räumen und wissen, wo es Strom gibt. Sie wissen vorher, wenn es Bauarbeiten gibt oder wo es andere Schwierigkeiten geben kann. Er kann helfen, Dinge aufzuhängen, kann Leitern und Werkzeug beschaffen. Er weiss, wer bei Problemen anzusprechnen ist. Es lohnt sich, sich schon im Vorfeld mit dem Hausmeister bekannt zu machen und ihm in Planungen zu involvieren. Er kann alles nach Dienstvorschrift machen oder mal ein Auge zudrücken. Und natürlich lädt man ihn ein, doch vorbeizukommen, wenn es Kaffee und Kuchen oder Mittagessen gibt.
 
 ## Technik
 -	**Zuständigkeit: Lokal Team**
