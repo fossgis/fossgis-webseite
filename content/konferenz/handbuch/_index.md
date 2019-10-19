@@ -15,7 +15,7 @@ Durch ihr breites Themenfeld und ihre breite Zielgruppe ist die FOSSGIS-Konferen
 
 Der Community-Charakter, der die FOSSGIS-Konferenz prägt, bietet die Möglichkeit sich in lockerer Atmosphäre untereinander zu vernetzen und Einblicke in andere Bereiche der GIS-Welt zu bekommen. So wird beispielsweise die Kommunikation zwischen Beitragenden und Nutzern von OpenStreetMap gefördert und der Austausch zwischen Anwendern und Softwareentwicklern gestärkt. Der Blick über den Rand des eigenen Projekts und das Verfolgen neuer Entwicklungen der Szene werden dadurch einfacher.
 
-Neben der FOSSGIS-Konferenz gibt es noch einige weitere Verantaltungen im deutschsprachigen Raum, die sich mit verwandeten Themen befassen. Sie unterscheiden sich jedoch von der FOSSGIS-Konferenz in folgenden Punkten:
+Neben der FOSSGIS-Konferenz gibt es noch einige weitere Veranstaltungen im deutschsprachigen Raum, die sich mit verwandten Themen befassen. Sie unterscheiden sich jedoch von der FOSSGIS-Konferenz in folgenden Punkten:
 
 <table>
 <tbody>
@@ -26,7 +26,7 @@ Neben der FOSSGIS-Konferenz gibt es noch einige weitere Verantaltungen im deutsc
 </tr>
 <tr class="even">
 <td><p>State of the Map</p></td>
-<td><p>Die SotM ist die weltweite, englischsprachige, jährlich stattfindende Konferenz der OpenStreetMap Community. Sie richtet sich an OSM-Aktive, aber auch an Externe, die etwas über OSM lernen wollen. Es gibt auch lokale SotM-Konferenzen, bspw. in Frankreich, Polen.</p></td>
+<td><p>Die SotM ist die weltweite, englischsprachige, jährlich stattfindende Konferenz der OpenStreetMap Community. Sie richtet sich an OSM-Aktive, aber auch an Externe, die etwas über OSM lernen wollen. Es gibt auch lokale SotM-Konferenzen, z.B. in Frankreich, Polen.</p></td>
 </tr>
 <tr class="odd">
 <td><p>FroSCon</p></td>
@@ -43,7 +43,7 @@ Neben der FOSSGIS-Konferenz gibt es noch einige weitere Verantaltungen im deutsc
 </tr>
 <tr class="even">
 <td><p>GEOSummit</p></td>
-<td><p>Der GEOSummit ist die grösste GIS-Konferenz und Messe in der Schweiz. Sie ist anwendungsorientiert, weniger wissenschaftlich im Vergleich zur AGIT und findet alle 2 Jahre statt.</p>
+<td><p>Der GEOSummit ist die größte GIS-Konferenz und Messe in der Schweiz. Sie ist anwendungsorientiert, weniger wissenschaftlich im Vergleich zur AGIT und findet alle 2 Jahre statt.</p>
 <p>OSGeo ist mit einem Stand vertreten.</p></td>
 </tr>
 </tbody>
@@ -51,81 +51,116 @@ Neben der FOSSGIS-Konferenz gibt es noch einige weitere Verantaltungen im deutsc
 
 Die FOSSGIS-Konferenz findet immer in Kooperation mit einer Hochschule statt, wodurch der Veranstaltungsort und Teile des Veranstaltungsteams jährlich wechseln. Aus diesem Grund ist dieses Handbuch entstanden, um neuen Gesichtern im Organisationsteam den Einstieg zu erleichtern und der ausrichtenden Hochschule einen Überblick über die an sie gestellten Anforderungen und Aufgaben zu verschaffen. Das Handbuch fußt auf Erfahrungen und Beschlüssen, die sich über die Jahre als "best practice" herauskristallisiert haben. Dadurch soll es helfen, die Organisation zukünftiger FOSSGIS-Konferenzen übersichtlicher und einfacher zu gestalten und einen Überblick geben, welche Aufgaben und Entscheidungen wer innerhalb des Rahmens zu treffen und verantworten sind.
 
-## Inhaltsverzeichnis
+## Konferenztermin
+
+Die FOSSGIS-Konferenz findet immer vom **Mittwoch bis Samstag** statt. Der Tag vor der Konferenz ist der Aufbau vorgesehen. Der Abbau passiert noch am Samstag.
+Meist findet die Konferenz im Frühjahr (Februar bis März) in der vorlesungsfreien Zeit der Hochschule statt.
+
+Bei der Terminwahl ist zu beachten, dass die FOSSGIS-Konferenz sich terminlich nicht mit anderen Veranstaltungen im GIS-Bereich überschneidet. 
+
+Hierzu zählen u.a. :
+
+- FOSS4G
+- State of the Map (global und lokal)
+- FroSCon
+- Intergeo
+- Agit
+- GeoSummit
 
 ## Räumlichkeiten
 
-Die Räumlichkeiten müssen vom Lokalteam organisiert werden. Dazu ist eine schriftliche Vereinbarung mit der Hochschule erforderlich (es ist schon vorgekommen, dass sich von der Univerwaltung plötzlich niemand erinnern wollte und gebuchte Räumlichkeiten doch nicht zur Verfügung standen).
+Die FOSSGIS-Konferenz bietet ihren rund 500 Teilnehmern ein breites Angebot mit vielen parallel stattfindenden Programmpunkten. Aus diesem Grund werden Hörsäle für das Vortragsprogramm, Computerräume für Workshops, ein großen Foyer als Pausenraum und Ausstellerbereich sowie eine Reihe Lager- und Orga-Räumen benötigt. Damit die Laufwege zwischen den Konferenzbereichen nicht allzu lang sind, hat es sich bewährt, die Konferenz in den Räumlichkeiten einer Hochschule stattfinden zu lassen.
 
-### Foyer
-Der **Foyerbereich** stellt neben den Vorträgen und Workshops einen zentralen Bereich der FOSSGIS-Konferenz dar, denn hier findet Kommunikation, Austausch und Essensversorgung statt.
-Es sollte mind. 600qm Platz für Aussteller, Projektstände, Catering und Rezeption zur Verfügung stehen. Es hat sich als günstig erwiesen, dass dieser Bereich nicht räumlich getrennt wird.
-
-### Anmeldung
-Am Eingang wird eine **Rezeption**/**WelcomeDesk** für die Anmeldung zur und Betreuung während der Konferenz aufgebaut (empfohlen mindestens 5 Meter Tisch). Die Anmeldung braucht Stromversorgung, Rechner, Drucker. In der Nähe der Anmeldung gibt es sinnvollerweise Pinnwände für diverse Informationen (Programm, Communitytreffen,...).
-
-### Ausstellungsbereich 
-Alle Stände im **Ausstellerbereich** der Sponsoren und der Projekte müssen über einen Ethernetanschluss mit Internetzugang sowie ausreichend dimensionierte Stromversorgung verfügen. Der Sponsoren/Aussteller Koordinator kümmert sich um die Details und die Kommunikation mit den Ausstellern.  
-
-### Pausenbereich 
-In den Pausen werden Getränke sowie belegte Brötchen, Häppchen oder Kuchen sowie das Mittagessen gereicht (siehe http://www.fossgis.de/wiki/Handbuch#Catering Catering). Es muss ausreichend Platz an Tischen oder Stehtischen zur Verfügung stehen. Für das Mittagessen sollte es ausreichend Sitzgelegenheiten geben. Die Pausenversorgung sollte in unmittelbarer Nähe zu den Ausstellern angeboten werden.
-
-Im Pausenbereich sollte für die Stromversorgung der Mobiltelefone oder Laptops der Teilnehmer gesorgt werden.
+In diesem Kapitel wird näher auf die benötigten Räumlichkeiten und ihre spezielle Anforderungen eingegangen.
 
 ### Hörsäle
-Es werden mindestens **3 Hörsäle** mit folgenden Kapazitäten benötigt:
+Es werden mindestens 3 Hörsäle mit folgenden Kapazitäten benötigt:
 
--   HS1 mind. 400 Sitzplätze, 
--   HS2 mind. 250 Sitzplätze, 
--   HS3 mind. 150 Sitzplätze, 
--   in allen Hörsälen sollten mit zeitgemäßer **Vortragstechnik** ausgestattet sein:
-  - Vortragsrechner - Linux + aktuelles LibreOffice + PDF-Viewer + Netzwerkanbindung mit Browser.
-  -  Mikrofonanlage (idealerweise Funkmikrofon für den Vortragenden + wenigstens eins, besser zwei tragbare Mikrofone für Rückfragen aus dem Publikum und Sessionleiter.
-  -  Projektor/ Beamer.
-  -  Alle nötigen Kabel zum Anschließen an den Beamer via DVI (im Notfall auch VGA) werden als vorhanden vorausgesetzt
-  -     Referenten sollten auch die Möglichkeit haben, einen eigenen Vortragsrechner anzuschließen. 
--   Um den **Videomitschnitt** der Konferenz zu gewährleisten, muss der Ton aus der Mikrofonanlage des Hörsaals für das Video-Team zur Verfügung stehen.
--   Die Hörsäle müssen mit kabelgebundenem Internet für Video-Upload und Video-Streaming ausgestattet sein
--       Für jeden Raum muss mindestens eine feste, öffentliche IP verfügbar sein
-  -  Über das Kabelnetz müssen auch noch weitere Rechner ins Internet kommen. Wenn's dafür kein DHCP/NAT gibt, werden je Raum noch 3 zusätzliche feste IPs benötigt (Mixer, Cutter, Management)
-  -     Aus dem Internet müssen wenigstens Port 22, 80, 443 und 1935, jeweils TCP und UDP zu diesen IPs möglich sein, idealerweise sollte überhaupt kein Port geblockt sein
-  - Es muss ausreichend Bandbreite zum Streamen und Uploaden der Videos zur Verfügung stehen. Wenigstens 3 MBit Uplink / Raum sind erforderlich.
+- HS1 min. 400 Sitzplätze
+- HS2 min. 250 Sitzplätze
+- HS3 min. 150 Sitzplätze
+
+Alle Hörsälen sollten mit folgender Vortragstechnik ausgestattet sein:
+
+- Vortragsrechner mit Netzwerkanschluss und folgender vorinstallierter Software: aktuelles LibreOffice, PDF-Viewer, Browser
+- Referenten sollten zusätzlich einen eigenen Vortragsrechner anschließen können
+-  Beamer und dazugehörige Anschlusskabel via DVI (notfalls auch VGA)
+
+Es wird einen Livestream aller Vorträge geben. Aus diesem Grund hat das Videoteam einige besondere Anforderungen an die Hörsaaltechnik
+
+- der Ton aus der Mikrofonanlage muss für das Videoteam abgreifbar sein
+- Mikrofone und die nötigen Funkstecken sowie ein Mischer werden vom Videoteam mitgebracht
+- kabelgebundenes Internet in allen Hörsälen mit einer minimale Bandbreite von 3 MBit Uplink / Raum
+- mindestens eine feste, öffentliche IP pro Hörsaal
+  - falls kein DHCP/NAT möglich ist, werden noch 3 weitere feste IPs benötigt (für Mixer-, Cutter- und Managementcomputer)
+  - Ports 22, 80, 443 und 1935 müssen für TCP und UDP mit diesen IPs erreichbar sein
+
+### Foyer
+Das Foyer stellt einen der zentralen Bereiche der Konferenz dar. Er dient als Aufenthalts- und Pausenraum für die Teilnehmer und als [Ausstellerbereich](#sponsoren-und-aussteller) für Firmen und Projekte.
+Der Foyerbereich sollte min. 600 qm groß sein und falls möglich räumlich nicht getrennt sein.
+Es muss ausreichend Platz für Ausstellungsstände, den Welcomedesk und das Pausencatering sein.
+
+#### Welcomedesk
+Der Welcomedesk sollte sich am Eingang des Foyers befinden. Hier melden sich die Teilnehmer an und bekommen ihre Konferenzunterlagen. Außerdem dient der Welcomedesk als allgemeine Anlaufstelle bei Fragen und Problemen. 
+
+Anforderungen an den Welcomedesk
+- min. 5 m Tischlänge 
+- eigenen Stromversorgung
+- mit Rechner und Drucker ausgestattet
+- Pinnwänden für allgemeine Informationen (z.B. Programm, Liste von Lightnigtalks und Communitytreffen, ...) 
+
+#### Pausenbereich 
+Während der gesamten Konferenz werden im Pausenbereich Getränke und in den Pausen auch kleine Häppchen gereicht.
+Es sollte Sitzgelegenheiten und/oder Stehtische geben; idealerweise mit Steckdosen zum Aufladen vom Handy und Laptops
+In den Pausen werden Getränke sowie belegte Brötchen, Häppchen Die Pausenversorgung sollte in unmittelbarer Nähe zu den Ausstellern angeboten werden. Weitere Information zum Catering sind dem Kapitel [Catering](#catering) zu entnehmen.
 
 ### Workshop-Räume
-Während der gesamten Konferenzzeit werden Workshops zu speziellen Themen angeboten. Dazu bedarf es '''3 Workshop-Räumen''' mit jeweils 20 Rechnern. 
-Für die Durchführung der Workshops wird üblicherweise ein Linuxsystem von einem Live-Medium gebootet. Jeder Workshop-Raum muss folgende Komponenten enthalten: 20 Teilnehmer-Rechner mit Bootmöglichkeit von DVD (Live-Medium) u. mind. 2GB RAM, Netzwerkanschluss
-und DHCP. Die aktuelle OSGeo-Live DVD (http://live.osgeo.org/de/index.html) kann als Hardwaretest verwendet werden, denn hierauf bauen die Workshops auf. Zusätzlich sollte für den Workshop-Leiter ein Rechner mit der gleichen Rechnerkonfiguration und ein Projektor zur Verfügung stehen. Einige Workshops brauchen spezielle Installationen, die der beauftragte Workshop-Organisator des Local-Teams mit dem Workshop-Koordinator des FOSSGIS-Vereins abstimmt (Spezialinstallationen sollten eine Ausnahme bilden, da sie sehr viel zusätzliche Arbeit erzeugen).
+Parallel zum Vortragsprogramm werden auch Workshops zu speziellen Themen angeboten. Für diese werden 3 Computerräume mit jeweils 20 Rechnern benötigt.Für die Durchführung der Workshops wird üblicherweise ein Linuxsystem von einem Live-Medium gebootet. 
 
-Das Workshop-Komitee kümmert sich um die Workshoporganisation.
+Jeder Workshop-Raum muss folgende Komponenten enthalten:
+
+- 20 Teilnehmer-Rechner mit Bootmöglichkeit von einem Live-Medium und  min. 2GB RAM
+- Netzwerkanschluss und DHCP
+- Beamer
+- Rechner für den Workshop-Leiter mit gleichen Konfiguration
+
+Viele Workshops bauen auf OSGeo-Live auf. Als Hardwaretest kann die aktuelle OSGeo-Live DVD verwendet werden. [Download](http://live.osgeo.org/de/index.html) 
 
 ###  Lagerraum
-Während der Veranstaltung müssen diverse Dinge gelagert werden. Für „Wertsachen“ sollte ein abschließbarer und für alles andere (Kisten, Konferenztaschen, Garderobe, Catering-Lager usw.) ein adäquater Raum zur Verfügung stehen. Idealerweise sollten sich die Lagerräume in der Nähe der Rezeption befinden. Der Schlüssel für den abgeschlossenen Raum gehört an den Empfang/Rezeption in die Verantwortung des dortigen Helfers. Er wird nur an Personen abgegeben, die der Helfer als zum Organisationsteam zugehörig kennt, und muss sofort wieder an den Helfer zurückgegeben werden. Abends geht er an den Leiter des Lokal-Teams.
+Während der Veranstaltung müssen diverse Dinge gelagert werden.
+Aus diesem Grund sollte es zwei Lagerräume (einen abschließbaren für Wertsachen, einen offenen) zur Verfügung stehen. Idealerweise sollten sich die Lagerräume in der Nähe des Welcomedesks befinden und auch der Schlüssel für den abgeschlossenen Raum tagsüber dort aufbewahrt werden. Abends geht er an den Leiter des Lokal-Teams.
 
-### Zugang zu den Räumlichkeiten 
-Zu beachten sind die Gebäudeschließzeiten, die sollten mit Hausmeister und Wachpersonal abgestimmt werden.
+## Zeitraster der Konferenz
 
-### Hausmeister 
-Hausmeister sind wichtige Personen. Sie haben Schlüssel zu allen Räumen und wissen, wo es Strom gibt. Sie wissen vorher, wenn es Bauarbeiten gibt oder wo es andere Schwierigkeiten geben kann. Er kann helfen, Dinge aufzuhängen, kann Leitern und Werkzeug beschaffen. Er weiss, wer bei Problemen anzusprechnen ist. Es lohnt sich, sich schon im Vorfeld mit dem Hausmeister bekannt zu machen und ihm in Planungen zu involvieren. Er kann alles nach Dienstvorschrift machen oder mal ein Auge zudrücken. Und natürlich lädt man ihn ein, doch vorbeizukommen, wenn es Kaffee und Kuchen oder Mittagessen gibt.
+Die FOSSGIS-Konferenz dauert mit Auf- und Abbau insgesamt 5 Tage (**Dienstag bis Samstag**). Den allgemeine Zeitablauf beschreibt die nachfolgende Abbildung.
 
+![Gesamtablauf der Konferenz]()
 
+Für den Aufbau ist es wichtig, dass bereits am Dienstag Zugang zum Foyer, den Lagerräumen und den Hörsälen gewährt ist. Die Computerräume werden nur Mittwoch bis Freitag benötigt. Es ist bereits vorgekommen, dass Auf- und Abbau sowie der Videoschnitt an den Konferenztagen bis nach Mitternacht gedauert haben. Daher müssen die Schließzeiten mit dem Hausmeister und dem Wachpersonal geklärt werden.
 
+![Ablauf eines Konferenztag]()
 
-## Zeitraster
-Die FOSSGIS-Konferenz findet von **Mittwoch bis Samstag** statt. Mittwoch bis Freitag ist die Zeit der klassischen FOSSGISS-Konferenz. Der Samstag ist als Tag der OSM-Community (Unkonferenz) konzipiert. Der Dienstagnachmittag vor der Konferenz wird vom Local-Team für den Aufbau der Konferenzinfrastuktur genutzt. Der Mittwochvormittag wird von den Ausstellern für den Aufbau genutzt. Gleichzeitig startet ein Konferenzvorprogramm mit einer allgemeinen Einführungsveranstaltung in die Welt von Open Source und Open Data. Die eigentliche Eröffnungsveranstaltung findet am Mittwochmittag statt. Vorträge und Workshops laufen nach der Eröffnungsveranstaltung in parallelen Sessions. Zusätzliche Veranstaltungen, wie weitere Workshops, Communitytreffen können sowohl vor als auch nach der Konferenz organisiert werden. 
+An den Konferenztagen finden immer 3 Vorträge und 3 Workshops parallel statt. 
 
-Für das Video-Team ist bereits ab Dienstag Vormittag Zugang zu den Hörsälen zu gewähren. Auch kann das Finalisieren der Videoaufzeichnungen sowie der Abbau am Freitag bis Mitternacht dauern. Der Zeitraum kann sich bei Videoaufzeichnungen am OSM-Samstag auch bis zum Samstag ausdehnen. Diese Zeiten müssen mit Hausmeister, Wach- und Schließpersonal geklärt sein. 
+Die Workshops sind 90 min lang und müssen im Vorfeld gebucht werden. Weitere Information zur Organisation der Workshops sind im Kapitel [Workshops](#workshops) zu finden.
 
-Drei Vorträge (á 30 min) bilden zusammen eine Session, wobei das Programmkommitee um korrespondierende Inhalte bemüht ist.
-Vorträge sind in der Regel 20 Minuten lang, mit 5 Minuten Frage-Anwort-Runde und 5 Minuten Umbauzeit und Wechselzeit insgesamt 30 Minuten. 
-Es gibt drei parallele Tracks, die jeweils 90 Minuten lang sind. Zeitgleich finden kostenpflichtige Workshops statt. Zwischen den Sessions sind morgens und nachmittags jeweils eine Kaffeepause von 30 Minuten und mittags eine Mittagspause von 60 Minuten einzuplanen. Nach Ende des offiziellen Programms am späten Nachmittag und Abend bzw. ggf. auch parallel zum Programm gibt es Sonderveranstaltungen wie Anwendertreffen, Birds of a feather (Bofs), usw.
+Das Vortragsprogramm teilt sich in 90-minütige Vortragssession auf, die sich inhaltlich mit einem Themenkomplex befassen. Eine Session setzt sich aus einer Reihe von verschiedenen Vorträgen zusammen. Insgesamt gibt es drei verschiedenen Arten von Vorträgen:
 
-Da die Teilnehmer jederzeit (also auch innerhalb einer Session) zwischen den Tracks wechseln können, müssen die festgelegten Vortragszeiten innerhalb eines Tracks eingehalten werden. Fragen werden nach jedem Vortrag gestellt, NICHT am Ende einer Session.
+- normale Vorträge (20 min Vortrag, 5 min Fragerunde)
+  - machen den größten Teil des Vortragsprogramm aus
+- Demo-Sessions (á 60 min)
+  - zur Vorführung neuer Software mit hoher inhaltlicher Tiefe
+- Lightningtalks (á 5 min)
+  - i.d.R. werden 5 Lightningtalks zu einer 25-minütigen Session zusammengefasst
+- OpenStreetMap Vorträge (20 min Vortrag, 20 min Diskussion)
+  - für kontroverse Themen der OSM-Community
+
+Nach jedem Vortrag werden gibt es 5 Minuten Umbauzeit. Da die Teilnehmer jederzeit (also auch innerhalb einer Session) zwischen den Tracks wechseln können, müssen die festgelegten Vortragszeiten innerhalb eines Tracks eingehalten werden. Fragen werden nach jedem Vortrag gestellt, NICHT am Ende einer Session.
 
 Je nach räumlicher Situation vor Ort kann es notwendig sein die für den Wechsel zwischen den Hörsälen notwendigen Zeiten (Standard 5 Minuten) zu verlängern. Dies hat Auswirkungen auf das gesamten Zeitraster und muss vom Programmkomitee bei der Aufstellung des Zeitplans berücksichtigt werden.
 
-Jede Session wird von einem Session-Leiter moderiert und von einem Hörsaalhelfer unterstützt. 
-
-Beispiel des [[Konferenz 2018/Zeitraster|Zeitraster Bonn 2018]]
+Zwischen den Sessions sind morgens und nachmittags jeweils eine Kaffeepause von 30 Minuten und mittags eine Mittagspause von 60 Minuten einzuplanen. Nach Ende des offiziellen Programms am späten Nachmittag und Abend bzw. ggf. auch parallel zum Programm gibt es Sonderveranstaltungen wie Anwendertreffen, Birds of a feather (Bofs), usw.
+Gutes Beispiele für Konferenzzeitraster sind die Konferenzen [2018](https://www.fossgis.de/wiki/Konferenz_2018/Zeitraster) und [2019](https://www.fossgis.de/wiki/Konferenz_2019/Zeitraster) zu finden.
 
 ## Inhaltliches Programm
 
