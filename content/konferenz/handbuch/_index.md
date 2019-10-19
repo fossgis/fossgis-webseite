@@ -132,19 +132,35 @@ Aus diesem Grund sollte es zwei Lagerräume (einen abschließbaren für Wertsach
 
 ## Zeitraster der Konferenz
 
-Die FOSSGIS-Konferenz dauert mit Auf- und Abbau insgesamt 5 Tage (**Dienstag bis Samstag**). Den allgemeine Zeitablauf beschreibt die nachfolgende Abbildung.
+Die FOSSGIS-Konferenz dauert mit Auf- und Abbau insgesamt 5 Tage (Dienstag bis Samstag). Den allgemeine Zeitablauf beschreibt die nachfolgende Abbildung.
 
-![Gesamtablauf der Konferenz]()
+![Gesamtablauf der Konferenz](konferenzablauf.png)
 
-Für den Aufbau ist es wichtig, dass bereits am Dienstag Zugang zum Foyer, den Lagerräumen und den Hörsälen gewährt ist. Die Computerräume werden nur Mittwoch bis Freitag benötigt. Es ist bereits vorgekommen, dass Auf- und Abbau sowie der Videoschnitt an den Konferenztagen bis nach Mitternacht gedauert haben. Daher müssen die Schließzeiten mit dem Hausmeister und dem Wachpersonal geklärt werden.
+Für den Aufbau ist es wichtig, dass bereits am Dienstag Zugang zum Foyer, den Lagerräumen und den Hörsälen gewährt wird. Die Computerräume werden nur Mittwoch bis Freitag benötigt. Es ist bereits vorgekommen, dass Auf- und Abbau sowie der Videoschnitt an den Konferenztagen bis nach Mitternacht gedauert haben. Daher müssen die Schließzeiten mit dem Hausmeister und dem Wachpersonal geklärt werden.
 
-![Ablauf eines Konferenztag]()
+Wie der allgemeinen Konferenzablauf zeigt, ist der Donnerstag der einzige Tag, an dem durchgehend Vorträge und Workshops stattfinden. Einen schematischen Ablauf dieses Tages zeigt die nachfolgende Abbildung. Die Workshop- und Vortragsblöcke am Mittwoch und Freitag sind ähnlich aufgebaut, wobei am Mittwoch nur der Nachmittagsblock stattfindet und am Freitag in der letzten Session wegfällt.
 
-An den Konferenztagen finden immer 3 Vorträge und 3 Workshops parallel statt. 
+![Ablauf eines Konferenztag](tagesablauf.png)
 
-Die Workshops sind 90 min lang und müssen im Vorfeld gebucht werden. Weitere Information zur Organisation der Workshops sind im Kapitel [Workshops](#workshops) zu finden.
+Es finden immer 3 Workshops und 3 Vortragsessions parallel statt. Die [Workshops](#workshops) können bis zu 20 Teilnehmer haben und sind anmelde- und kostenpflichtig. Jede Vortragssession setzt sich aus mehreren Vorträgen zusammen, die sich inhaltlich mit verwandten Themen befassen. 
 
-Das Vortragsprogramm teilt sich in 90-minütige Vortragssession auf, die sich inhaltlich mit einem Themenkomplex befassen. Eine Session setzt sich aus einer Reihe von verschiedenen Vorträgen zusammen. Insgesamt gibt es drei verschiedenen Arten von Vorträgen:
+Nach jedem Vortrag werden gibt es 5 Minuten Umbauzeit. Da die Teilnehmer jederzeit (also auch innerhalb einer Session) zwischen den Tracks wechseln können, müssen die festgelegten Vortragszeiten innerhalb eines Tracks eingehalten werden. Fragen werden nach jedem Vortrag gestellt, NICHT am Ende einer Session.
+
+Je nach räumlicher Situation vor Ort kann es notwendig sein, die für den Wechsel zwischen den Hörsälen sowie für die Mittagspause mehr Zeit einzuplanen. Dadurch kann es Verschiebungen im gesamten Zeitraster geben. Ein Beispiel hierfür war die Konferenz 2018 in [Bonn](https://www.fossgis.de/wiki/Konferenz_2018/Zeitraster).
+
+## Vortragsprogramm
+
+Die Vorträge sind der inhaltliche Kern der Veranstaltung. Prinzipiell gibt es für die Vortragsthemen keine Einschränkung, solange sie sich inhaltlich zum Großteil mit FOSSGIS, Open Data oder OpenStreetMap auseinandersetzen. Das Programm wird von einem unabhängigen Programmkomitee zusammengestellt.
+
+Aufgabe des Programmkomitees ist es, für die Ausgewogenheit des Programms zu sorgen. Es sollten anwendernahe und akademische Vorträge zu technische und weniger technische Themen geben. Außerdem ist darauf zu achten, dass die Konferenz auch für Einsteiger grundlegende Vorträge anbietet, wie z.B.:
+
+- Arbeiten mit OSM für GISler
+- FOSSGIS für OSMler
+- Grundlagen Free Software - Open Source - Open Data
+- Wir funktioniert ein Open Source-Projekt
+- Geschäftsmodelle zu Open Source
+
+Insgesamt gibt es drei verschiedenen Arten von Vorträgen:
 
 - normale Vorträge (20 min Vortrag, 5 min Fragerunde)
   - machen den größten Teil des Vortragsprogramm aus
@@ -155,61 +171,18 @@ Das Vortragsprogramm teilt sich in 90-minütige Vortragssession auf, die sich in
 - OpenStreetMap Vorträge (20 min Vortrag, 20 min Diskussion)
   - für kontroverse Themen der OSM-Community
 
-Nach jedem Vortrag werden gibt es 5 Minuten Umbauzeit. Da die Teilnehmer jederzeit (also auch innerhalb einer Session) zwischen den Tracks wechseln können, müssen die festgelegten Vortragszeiten innerhalb eines Tracks eingehalten werden. Fragen werden nach jedem Vortrag gestellt, NICHT am Ende einer Session.
-
-Je nach räumlicher Situation vor Ort kann es notwendig sein die für den Wechsel zwischen den Hörsälen notwendigen Zeiten (Standard 5 Minuten) zu verlängern. Dies hat Auswirkungen auf das gesamten Zeitraster und muss vom Programmkomitee bei der Aufstellung des Zeitplans berücksichtigt werden.
-
-Zwischen den Sessions sind morgens und nachmittags jeweils eine Kaffeepause von 30 Minuten und mittags eine Mittagspause von 60 Minuten einzuplanen. Nach Ende des offiziellen Programms am späten Nachmittag und Abend bzw. ggf. auch parallel zum Programm gibt es Sonderveranstaltungen wie Anwendertreffen, Birds of a feather (Bofs), usw.
-Gutes Beispiele für Konferenzzeitraster sind die Konferenzen [2018](https://www.fossgis.de/wiki/Konferenz_2018/Zeitraster) und [2019](https://www.fossgis.de/wiki/Konferenz_2019/Zeitraster) zu finden.
-
-## Inhaltliches Programm
-
-### Vorträge
-
-Die Vorträge sind der inhaltliche Kern der Veranstaltung. Der
-Schwerpunkt liegt auf anwendernahen, technischen und nicht-technischen
-Themen aus dem Bereich von Open Source Software, OpenStreetMap und Open
-Data. Ergänzende Vorträge richten sich an Entwickler und das akademische
-Umfeld. Die Einreichung von Vorträgen ist offen und unbeschränkt, soweit
-sie sich im Rahmen von FOSS und Open Data bewegen. Für die Auswahl ist
-ein unabhängiges Programmkomitee zuständig.
-
-Aufgabe des Programmkomitee ist es, daraufhin zu wirken, dass ein
-ausgewogenes und interessantes Programm angeboten wird.
-
-Dabei sollte auch darauf geachtet werden, dass die Konferenz auch für
-Einsteiger grundlegende Vorträge anbietet, z.B.:
-
--   OSM für FOSSGISler
--   FOSSGIS für OSMler
--   Grundlagen Free Software - Open Source - Open Data
--   Wir funktioniert ein Open Source-Projekt
--   Geschäftsmodelle zu Open Source
-
 ### Call for Papers
 
-Der Call for Papers wird vom Programmkomitee initiiert und versendet.
+Der Call for Papers wird vom Programmkomitee initiiert und veröffentlicht. Er sollte die folgenden Informationen enthalten:
 
-Im Call for Papers stellt das Programmkomitee gewünschte Themen und
-Inhalte für die Konferenz zusammen. Der Call for Papers enthält alle
-Termine und Informationen rund um das Einreichen der Vorträge.
+- alle Termine im Zusammenhang mit der Vortragseinreichung:
+    - First für die Vortragseinreichung,
+    - Zeitpunk der Programmveröffentlichung
+- nur Inhalte aus dem Bereich FOSS, OpenStreetMap und Open Data werden berücksichtigt
+- Beschreibung der unterschiedlichen Vortragsarten
 
-Der Call for Papers sollte die folgenden Informationen enthalten:
+Der Call for Paper sollte ca. 6 Monate (i.d.R. Anfang September) vor der Konferenz veröffentlicht werden und sollte ca. 6-8 Wochen laufen.
 
--   alle Termine im Zusammenhang mit der Vortragseinreichung:
-    -   Termin für Einreichung des Vortrags,
-    -   Termin für die Annahme/Ablehnung des Vortrags
-    -   Termin für Einreichung des Beitrags für den Tagungsband).
--   nur Inhalte aus dem Bereich FOSS, OpenStreetMap und Open Data werden
-    berücksichtigt,
--   zur Vortragslänge von maximal 20 Minuten,
--   zur Einreichung eines Beitrags für den Tagungsband,
--   zur (notwendig) offenen Lizenz des Konferenzbeitrags/der
-    Vortragsfolien und
--   zur geplanten Videoübertragung bzw. -aufzeichnung,
--   bei den Vortragsfolien möglichst die untere rechte Ecke nicht zu
-    nutzen (dort wir der Sprecher bei der Videoaufzeichnung
-    eingeblendet).
 
 Die eigentliche Lizenzvereinbarung erfolgt bei der Vortragseinreichung
 im Vortragsverwaltungssystem. Die Einwilligung in die Viedeoübertragung
@@ -222,76 +195,51 @@ veröffentlichen.
 
 ### Einreichen der Vorträge
 
-Vorträge werden von den Sprechern oder von einem Vertreter über das
-Webinterface des Vortragsverwaltungssystems eingereicht. Die Einreichung
-muss einen Titel, ein Abstract und eine inhaltliche Beschreibung
-enthalten. Der Abstract hat einen Umfang von 200 bis 500 Zeichen und
-dient dem Abdruck im Konferenzprogrammheft. Die Inhaltsbeschreibung
-sollte 1.000 bis 2.000 Zeichen lang sein und dient dem Programmkomitee
-als Grundlage für die Bewertung des Vortrags.
+Vorträge werden von den Sprechern oder von einem Vertreter über das Webinterface des Vortragsverwaltungssystems Pretalx eingereicht. Das Pretalx wird vom FOSSGIS e.V. betrieben und gepflegt.
 
-Das Vortragsverwaltungssystem wird durch den FOSSGIS e.V. betrieben und
-gepflegt.
+Jede Einreichung muss einen Titel, einen Abstract und eine inhaltliche Beschreibung enthalten. Der Abstract hat einen Umfang von 100 bis 500 Zeichen und dient dem Abdruck im Konferenzprogrammheft. Die Beschreibung sollte deutlich länger sein als der Abstract und dient dem Programmkomitee als Grundlage für die Bewertung des Vortrags.
 
-### Einführungsvorträge (Vorkonferenz)
-
-Vor dem eigentlichen Konferenzstart findet am Mittwochvormittag
-Einführungsvorträge in Open Source Software im weitesten Sinne und eine
-Vorstellung des FOSSGIS e.V. statt. Für diese Vorträge muss ein
-Vortragender aus des Reihen des FOSSGIS e.V. durch das Programmkomitee
-gefunden werden.
+Außerdem werden im Pretalx verbindlich abgefragt, ob der Redner mit einer Videoaufzeichnung des Vortrags einverstanden ist und es muss eine Vereinbarung unterzeichnet werden, dass dass der gesamte Konferenzbeitrag unter der Lizenz CC BY 4.0 zur Verfügung gestellt wird.
 
 ### Bewertung der Vorträge
 
-Das Programmkomitee (PK) sichtet alle Vorträge und bewertet sie.
+Nach Ablauf der Deadline hat das Programmkomitee (PK) 2 Wochen Zeit, alle Vorträge zu sichten und zu bewerten.
 
-Die Bewertung erfolgt in einem ersten Schritt durch jedes Mitglied des
-Programmkomitees auf Basis der eingereichten Inhaltsbeschreibungen im
-Vortragsverwaltungssystem. Hierfür stellt das Vortragsverwaltungssystem
-entsprechende Funktionen bereit.
+Die Bewertung erfolgt im Pretalx über eine entsprechende Bewertungsfunktion. Hierfür muss für alle PK-Mitglieder einen Account mit PK-Rechten eingerichtet werden.
 
-(siehe auch [Hinweise zur Nutzung des Vortragsverwaltungssystems für das
-PK](Hinweise_zur_Nutzung_des_Vortragsverwaltungssystems_für_das_PK "wikilink").)
+Jedes Mitglied des PKs sollte jeden eingereichten Vortrag bewerten. Jedoch darf keiner weder seine eigenen noch Einreichungen von Kollegen aus derselben Firma bewerten. Für diesen Fall gibt es die Möglichkeit eine leere Bewertung abzugeben. Diese kann immer noch Kommentare enthalten, jedoch keine Bewertung. 
+
+Generell erfolgt die Bewertung über ein Punktesystem: 0 (Default), 1 (gut), 2 (super, will ich sehen). Zu der Bewertung sollte immer ein Review-Kommentar abgegeben werden. Für absolut ungewollte Vorträge, gibt es die
+Möglichkeit des Vetos. Ein Veto muss begründet und auf der Sitzung des PK diskutiert werden. Jedes Mitglied des Programmkomitees kann dann die Bewertungen und Kommentare der anderen Mitglieder sehen. Die Einreicher der Vorträge sehen die Bewertung und die Kommentare jedoch nicht.
 
 Die Vorträge werden nach den folgenden Kriterien bewertet:
 
--   Vorträge müssen sich mit Open Source oder Open Data beschäftigen.
-    Vorträge, die sich rein mit prorietärer Software und Daten
-    beschäftigen, werden abgelehnt. Vorträge, die sich teilweise mit
-    prorietären Elementen und teilweise mit offenen Elementen
-    beschäftigen können zugelassen werden, sind aber als weniger
-    relevant zu beurteilen.
--   Vorträge müssen thematisch zur FOSSGIS bzw. zu den gewünschten
-    Themen passen.
--   Das Programmkomitee achtet auch auf eine ausgeglichene Verteilung
-    (einführend vs. fortgeschritten, akademisch vs. praktisch, Open
-    Source vs. Open Data, verschiedene Projekte, \...)
--   Die Qualität der eingereichten Inhaltsbeschreibung und des Abstracts
-    in sprachlicher und inhaltlicher Hinsicht.
--   In die Bewertung darf auch die Qualität des Sprechers (z.B. auf
-    Basis von Videos oder früheren Vorträgen) einfließen. Dabei geht es
-    sowohl um das fachliche Wissen als auch um die Fähigkeit dieses
-    strukturiert und interessant zu vermitteln. Auch hier sollte auf
-    Ausgewogenheit geachtet werden zwischen bekannt guten Sprechern und
-    neuen Sprechern, denen auch eine Chance gegeben werden muss.
+- Vorträge müssen sich mit FOSSGIS, OpenSteeetMap oder Open Data beschäftigen.
+  - Beschäftigen sich der Vorträge **rein** mit prorietärer Software oder Daten, werden sie abgelehnt.
+  - Vorträge mit **teilweise** prorietären Elementen können zugelassen werden, sind aber als weniger relevant zu beurteilen.
+- Das Vortragsprogramm sollte ausgewogen sein
+  - einführend vs. fortgeschritten
+  - akademisch vs. praktisch
+  - Open Source vs. Open Data
+  - verschiedene Projekte
+  - ...
+- gute sprachliche und inhaltliche Qualität der Inhaltsbeschreibung und des Abstracts
+- In die Bewertung darf auch die Qualität des Sprechers mit einfließen
+  - z.B. auf Basis von Videos oder früheren Vorträgen
+  - sowohl das fachliche Wissen als auch die Bühnentauglichkeit dürfen bewertet werden
+  - hierbei sollte auf einen Ausgewogenheit zwischen bekannt guten Sprechern und neuen Sprechern geben
 
-Die Entscheidung des Programmkomitee ist unabhängig von einem etwaigen
-Sponsoring. Vorträge können nicht „gekauft" werden. Die bis 2017 übliche
-kurze Präsentation des Gold-Sponsors in der Auftaktveranstaltung findet
-seit 2018 nicht mehr statt.
+Die Entscheidung des PK ist unabhängig. Jedes PK-Mitglied ist seinem Gewissen und der Konferenz verpflichtet, muss sich daher von Firmeninteressen
+frei sprechen und zum Zwecke eines guten und konsistenten Programms verpflichtet fühlen. Daher ist Für die Mitarbeit im PK wird vorausgesetzt, Vorträge fair zu bewerten. Daher wird pro Firma/Institution nur ein Mitglied im PK zugelassen. Vorträge können nicht „gekauft" werden. Sponsoren unterliegen den gleichen Bewertungskriterien wie alle anderen Speakern,. Die bis 2017 übliche kurze Präsentation des Gold-Sponsors in der Auftaktveranstaltung findet seit 2018 nicht mehr statt.
 
-### Auswahl der Vorträge (Treffen des Programmkomitees)
+### Vortragsauswahl (Treffen des Programmkomitees)
 
-Nach der Bewertung der einzelnen Vortrage wird in einem zweiten Schritt
-bei einem persönlichen Treffen der Mitglieder des Programmkomitees das
-vollständige Konferenzprogramm erstellt.
+Ca. 2 Wochen nach der Deadline des Call for Papers findet ein persönliches Treffen des Programmkomitees statt. In den letzten Jahren wurde hierfür das Hackweekend in Essen im Linuxhotel genutzt.
 
-In einer ersten Durchsicht geht das Programmkomitee alle eingereichten
-Vorträge durch und nimmt eine abschließende Bewertung vor. Dabei sind
-die im im ersten Schritt (Bewertung durch die Mitglieder des
-Programmkomitees) abgegebenen Bewertungen und Kommentare sehr nützlich.
-Wurden mehrere Beiträge (Workshop/Vortrag) von einer Person eingereicht,
-so finden maximal zwei Beiträge im Konferenzprogramm berücksichtigt.
+**Ab hier morgen weiter**
+
+In einer ersten Durchsicht geht das Programmkomitee alle eingereichten Vorträge durch und nimmt eine abschließende Bewertung vor. Dabei sind die zuvor abgegebenen Bewertungen und Kommentare sehr nützlich.
+Wurden mehrere Beiträge (Workshop/Vortrag) von einer Person eingereicht, so sollten maximal zwei Beiträge im Konferenzprogramm berücksichtigt werden.
 
 Nach der ersten Durchsicht sortiert man die Einreichungen grob nach
 OSM/GIS bzw. Vorträge/Workshops/Lightning Talks etc.
