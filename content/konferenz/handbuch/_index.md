@@ -148,7 +148,283 @@ Nach jedem Vortrag werden gibt es 5 Minuten Umbauzeit. Da die Teilnehmer jederze
 
 Je nach räumlicher Situation vor Ort kann es notwendig sein, die für den Wechsel zwischen den Hörsälen sowie für die Mittagspause mehr Zeit einzuplanen. Dadurch kann es Verschiebungen im gesamten Zeitraster geben. Ein Beispiel hierfür war die Konferenz 2018 in [Bonn](https://www.fossgis.de/wiki/Konferenz_2018/Zeitraster).
 
-## Vortragsprogramm
+## Konferenzorganisation und Aufgabenverteilung
+
+Die Organisation der FOSSGIS ist eine Menge Arbeit, die größtenteils ehrenamtlich geleistet wird. Um so mehr Helfer es gibt, um so weniger Arbeit ist es für den Einzelnen bzw. um so mehr kann geleistet werden. Die Kommunikation entweder über die Konferenzmailingliste oder das Wiki ist sehr wichtig.
+
+Die Arbeit teilt sich ganz grob in die lokal zu leistende Arbeiten, die jedes Jahr von einem anderen Team, dem Lokal-Team, übernommen werden, und in die allgemeinen Arbeiten, die von einem festen Konferenz-Team (auch Core-Team genannt) geleistet werden.
+
+Koordiniert wird das Gesamtprojekt vom **Projektleiter der Konferenz** (Katja Haferkorn). Der Projektleiter wird für die allgemeinen Aufgaben und Entscheidungen vom **[[Konferenz 2018/Organisationsteam |Konferenz-Team]]** (ca. 5-9 Leute) unterstützt. Für den Inhalt der Konferenz ist das **[[Konferenz 2018/Organisationsteam#Programm-Komitee|Programm-Komitee]]** verantwortlich und die Organisation der aktuellen Konferenz vor Ort übernimmt das **[[Konferenz 2018/Organisationsteam#Local%20Team|Lokal Team]]**, es wird vom **Leiter Lokal-Team** geleitet. Daneben gibt es eine Vielzahl von Aufgaben, die von einem oder mehreren Leuten verantwortlich übernommen werden. Natürlich können einzelnen Personen mehrere Aufgaben gleichzeitig wahrnehmen.
+
+In den folgenden Unterkapiteln werden die Aufgaben der verschiedenen Personen und Teams im einzelnen beschrieben. Natürlich kann eine Aufgabe auch delegiert werden, das ändert aber nichts an der Verantwortung des Zuständigen, dass die Aufgabe erledigt wird.
+
+### Projektleiter Konferenz
+Aufgaben sind u.a.:
+
+-   Koordination des Gesamtprojektes
+-   Überwacht die Einhaltung des Terminplanes
+-   Dankesworte am Ende der Konferenz
+-   Zusammenstellung einer Liste gemeinsam mit dem Lokal Team mit wichtigen Telefonnummern (Alle Orgas/Hiwis, Hausmeister, Caterer, usw.) Ausdruck und Verteilung an Orgas und Hiwis. Die Liste muss zum Aufbau zur Verfügung stehen.
+
+#### Konferenz-Team
+Das Konferenz-Team steht hinter dem Projektleiter Konferenz und ist während der gesamten Vorbereitungszeit beratend für das Lokal-Team tätig.
+Das Konferenz-Team, auch [[Konferenz 2019/Organisationsteam|Dauerhaftes Konferenzteam oder Core-Team]] genannt, trägt das Wissen und die Erfahrungen der vergangenen Konferenzen. 
+
+Aufgaben sind u.a.:
+
+-   Aufsetzen und Veröffentlichen des Call for Location ([[Konferenz 2019/Organisationsteam|Konferenz-Team]]);
+-   Auswahl der Konferenz-Ortes;
+-   Call for Paper & Call for Workshop ([[Konferenz_2019/Organisationsteam#Programm-Komitee|Programm-Komitee]]);
+-   Beratung und Unterstützung des Lokal-Teams;
+-   Organisation der Konferenz;
+-   Kommunikation des Programms, Öffentlichkeitsarbeit;
+-   Letzte Instanz für konfliktbeladene Entscheidungen, die das Lokal-Team nicht entscheiden kann;
+-   Letzte Instanz für die Bestätigung der kostenfreien Teilnahme durch aktive Beiträge.
+
+
+#### Programm-Komitee
+Das **[[Inhaltliches Programm]]** wird vom Programmkomitee erstellt.
+
+Aufgaben sind u.a.:
+
+-   Info an Vortragende zum Status ihrer Vortragseinreichung ([mailto:konferenz-orga@fossgis.de cc an] Koordinator Organisation)
+  - [[Tagungsband#Tagungsband|Stichwortvorlage]] beachten
+  - wenn keine schriftliche Vortragszusammenfassung geliefert wird, wird nur der Abtract veröffentlicht.
+-   Partizipation des FOSSGIS e.V. an Vortragsauswahl (?)
+  - Infomail an Vereins-Liste
+-   Programm erstellen
+-   Programm online stellen
+
+#### Lightning-Talk-Koordinator
+
+Der Lightning-Talk-Koordinator kümmert sich um die Lightning-Talks während der Eröffnungs- und Abschlussveranstaltung und gibt sie im Konferenz-Programm bekannt.
+
+
+#### Workshop-Koordinator
+Der Workshop-Koordinator betreut die Workshop-Leiter. Er arbeitet dabei eng mit dem Programm-Komitee und dem Lokal-Team zusammen.
+
+Aufgaben sind u.a.:
+
+-   Ansprechpartner für Workshop-Leiter
+-   Bemüht sich zusammen mit dem Programm-Komitee um ein interessantes und ausgewogenes Workshop-Programm. 
+-   Stellt sicher, dass die Informationen über die Workshops für die Teilnehmer vollständig und aussagekräftig sind;
+-   kümmert sich um die **Anmeldeliste**
+-   **Evaluationsbögen** für Workshops erstellen und einsammeln;
+-   Koordination **Technik** mit Workshop-Leitern und Lokal-Team bzw. DVD-Team.
+
+siehe auch [[Workshops]]
+
+
+#### Koordinator Presse/Öffentlichkeitsarbeit
+Der Presse-Koordinator/ das Pressemeldungskomitee ist dafür zuständig den Presseverteiler zu pflegen und alle regulären [[Konferenz 2018/Pressemitteilungen|Pressemitteilungen]] zu erstellen und rechtzeitig an den Verteiler zu geben. Zusätzliche Pressemeldungen können vom Lokal-Team, Sponsoring-Koordinator, etc. erstellt und dem Presse-Koordinator zur Veröffentlichung gegeben werden.
+
+Aufgaben sind u.a.:
+
+-   Pressemitteilungen erstellen
+-   PM verschicken
+-   Informationen einholen
+-   lokale Presse nicht vergessen (Kontakt Lokal Team)
+-   Pressemeldungsentwürfe über die Liste einfordern (definierte Aufgabe, die sicherlich gern jemand übernimmt)
+
+
+#### Tagungsband-Koordinator
+Der Tagungsbandkoordinator kümmert sich darum, dass der Tagungsband rechtzeitig zum Konferenzbeginn in ausreichender Zahl verfügbar ist. Jeder Teilnehmer erhält einen Tagungsband in der Konferenz-Tasche.
+Im Tagungsband-Komitee könnte sich jemand verantwortlich fühlen, die Beiträge gegenzulesen (Rechtschreibung) und auf Vollständigkeit zu prüfen.
+
+Aufgaben sind u.a.:
+
+-   Organisation Zusammenstellung Tagungsband
+  - Sammlung der Vorträge, wenn Beiträge fehlen - anfordern
+-   Titelblatt, Sponsorenzusammenstellung
+-   Layout
+-   Organisation Druck (ISBN besorgen, Anzahl)
+-   Restbestände durch Lehmanns vertreiben lassen
+-   Nachbestellung möglich?
+
+Siehe auch: [[Tagungsband]]
+
+
+### Sponsoring-Koordinator
+Der Sponsoring-Koordinator kümmert sich um die Werbung und Betreuung von Sponsoren. Das ist eine recht anspruchsvolle und finanziell wichtige Aufgabe.
+
+Aufgaben sind u.a.:
+
+-   Öffentliche Ankündigung des Sponsorenprogramms mit Preisen und Bedingungen
+-   Anschreiben potentieller Sponsoren/Aussteller
+-   Persönliches Gespräch / Email-Kontakt
+-   Ggf. aushandeln von Zusatzbedingungen (größerer Stellplatz, Außenstand, etc.)
+-   Erstellen der Rechnungsgrundlage, Absprache mit dem Projektleiter-Konferenz
+-   Einfordern eines kleinen Bitmap-Logos für die Webseite und eines Vektor-Logos für den Druck des Tagungsbandes, Plakaten, etc.
+-   Abstimmung mit dem Ausstellungs-Koordinator des Lokal-Teams
+
+
+#### Ausstellungs-Koordinator
+Der Ausstellungs-Koordinator ist der Dienstleister für die Aussteller vor Ort. Im Vorfeld muss er sich mit dem Sponsoring-Koordinator eng abstimmen. Die meisten Vorbreitungen müssen erledigt sein **bevor**der erste Aussteller am Ort erscheint!
+
+-   Anzeichnen der Stellplätze, die vom Ausstellungs-Koordinator in einen Plan eingezeichnet wurden. 
+-   Versorgung der Stellplätze mit Technik:
+  - ein ausreichend dimensioniertes Stromkabel pro Stand, besser natürlich gleich mit Mehrfachsteckdose
+  - ein Netzwerkkabel pro Stand
+
+Der Ausstellungs-Koordinator sollte sicherheitshalber ein paar Meter Patchkabel, Klebeband, Schere, Faden, etwas Werkzeug, z.B. Schraubendreher, etc., ggf. ein oder zwei Ethernet Switches, etc. zur Hand haben. Das ist allerdings **keine** Dienstleistung, die der Aussteller einkauft, sondern nur eine Freundlichkeit und Entgegenkommen, um den reibungslosen Ablauf zu gewährleisten.
+
+Aufgaben sind u.a.:
+
+-   Sicherstellen, dass Lieferungen von den Ausstellern im Vorfeld der Konferenz gelagert werden und zum Aufbau zur Verfügung stehen
+
+#### Teilnehmer-Koordinator
+Der Teilnehmer-Koordinator ist die Schnittstelle zwischen dem Konferenz-Team und den Teilnehmern. Er kümmert sich um die Information der Teilnehmer und den Ablauf der Anmeldung, sowohl im Vorfeld als auch vor Ort. Er arbeitet dabei eng mit dem Lokal-Team zusammen.
+
+Aufgaben sind u.a.:
+
+-   E-Mail an die Teilnehmer kurz vor der Konferenz mit praktischen Informationen zur Anfahrt usw.
+-   Bekanntgabe organisatorischer Informationen in der Eröffnungsveranstaltung der Konferenz
+
+-   Erstellung und Verteilung von Aktuellen Informationen an die Moderatoren, die vor und nach den Vortragsblöcken vorgelesen werden. 
+
+-   Bearbeiten von Rückfragen von Teilnehmern im Vorfeld
+-   Durchführung der Anmeldung in Absprache mit der Technik und dem Lokal-Team
+-   Handling von Stornierungen und schwierigen Fällen bei der Anmeldung
+-   Ansprechpartner für die Hiwis bei der Anmeldung vor Ort zur Behandlung von schwierigen Fällen
+
+Siehe auch: [[Teilnehmerbetreuung]]
+
+
+#### T-Shirt-Koordinator
+
+Der T-Shirt-Koordinator ist dafür zuständig im Rahmen des Budgets ein das Design, Farbe, die Auswahl an Größen, Lieferung und Bezahlung zu kümmern. Bei Buchung des Konferenzticket kann sich der TN für oder gegen ein T-Shirt entscheiden und die Größe angeben (bei der Anmeldung sind Größe und Damen oder Herrenshirt auswählbar).
+
+Aufgaben sind u.a.:
+
+-   Schriftzug, Design, Farbe (begrenzte Mengen)
+-   Mengenverteilung
+-   Größen und Schnitte für Frauen und Männer wären schön, sind kein muss
+-   Organisation Druck und Bestellung (abstimmen mit dem Schatzmeister)
+-   Rechtzeitige Lieferung gewährleisten.
+-   Kommunikation an das Lokal-Team, wer T-Shirt bekommt (zahlende TN oder WS-TN)
+
+siehe auch [[Teilnehmerbetreuung#T-Shirts|T-Shirts]]
+
+### Lokal-Team
+#### Aufgaben
+Das Lokal-Team ist für die Organisation der Konferenz vor Ort verantwortlich und kümmert sich um den effektiven und reibungslosen Ablauf der Konferenz. Alle Aufgaben können entweder selbst oder durch einen angemieteten Dienstleister erbracht werden.
+
+-   Infrastruktur Konferenzstandort
+  - Beschilderung 
+  - Tische, Stühle und Pinnwände für die Ausstellung in ausreichender Zahl zu organisieren und aufzubauen
+  -  Garderobe
+  - Fundbüro
+  - Erstellung und Verteilung der Namensschilder (mit Farbcodes, noch technisch klären)
+  - Versorgung mit Wasser für die Vortragenden
+  - Für die Sammlung der Fragebögen müssen an der Registrierung zwei Kartons oder dergl. zur Verfügung stehen (siehe [[Teilnehmerbefragung#Sammlung der Fragebögen|Fragebögen]]).
+
+-   Infrastruktur [[Handbuch#Technik Technik]]
+  - Stromversorgung in den Hörsälen
+  - Vortragstechnik (Präsentationsrechner, Mikrofone, Lautsprecher)
+  - Technische Unterstützung für Vortragende am Projektor, Mikrofon
+  - WLAn für Konferenzteilnehmer
+
+-   Information
+  - Raumplan, Toilettenbeschriftung
+  - Behintertentoiletten-Beschriftung, Stufenfreie Eingänge-Umleitung
+  - Anfahrtsbeschreibung für Teilnehmer zum Tagungsort, Social Event und ggf. anderen Orten
+  - Anfahrtsbeschreibung für Lieferungen (z.B. für Aussteller)
+
+-   Organisation
+  - Logistik
+  - Empfangsbereich
+  - Sammeln und archivieren der in letzter Sekunde eingereichten Vortragsunterlagen (PDF, Foliensätze) für die spätere Veröffentlichung
+  - Finden von Orten für das Rahmenprogramm
+  - Ordner, die an den Eingängen Namensschilder kontrollieren. Hierbei geht es nicht um eine scharfe Ausweiskontrolle, sondern nur um das da-sein. Diese Aufgabe kann gleichzeitig von den Vortrags-Technik Betreuern wahrgenommen werden. Wenn man kein Türsteher da ist, ist das halt so. 
+  - (Troubleshooter, die an allen Tagen der Konferenz deutlich erkenntlich (neo-grün/rot/lila gestreift kariertes T-Shirt) vor Ort sind und fix und unproblematisch Probleme lösen können. )
+-   Falls Poster-Session: Poster Organisation, welche Poster, wo aufgehängt, klare Aufteilung in Sponsoren-Poster und Fachbeiträge. 
+
+Das Lokal-Team muss direkt vor der Konferenz Pakete von Ausstellern, Sponsoren usw. entgegennehmen können. Dazu sollte eine Adresse, idealerweise direkt am Konferenzort, unter [[Konferenz_2018/Veranstaltungsort|Veranstaltungsort]] bekannt gegeben werden. Ein Termin, bis wann Pakete eintreffen müssen, muss ebenfalls bekannt gegeben werden, typischweise am Freitag vor der Konferenz. Die Absender der Pakete sind gehalten, das [[Konferenz 2018/Organisationsteam|Organisationsteam]] zu informieren, welche Pakete wann zu erwarten sind. Dokumentation unter [[Konferenz_2018/Lieferungen_Tascheninhalt|Lieferungen]].
+
+Es gibt sehr viele Arbeiten, die zwingend durch das Lokal-Team zu erledigen sind. Daher ist es sinnvoll die Aufgaben geschickt zu verteilen und eine Dokumentation im Wiki zu pflegen.
+
+#### Personalbedarf/ Personalplanung
+
+-   **Personal Aufbau:** Am Dienstagnachmittag und Mittwochmorgen wird aufgebaut. Das wird teilweise von den Organisatoren und teilweise vom Lokal-Team erledigt.
+
+-   Aufgaben sind u.a.:
+  - Transport von Materialien zum Ausstellungsort
+  - Aufbau der Anmeldung
+  - Aufbau der Infrastruktur für die Ausstellung (Tische, Stellwände, Kabel)
+  - Aufbau Catering-Bereich (wennn das nicht der Caterer macht)
+  - Einrichtung Workshop-Räume (Tische, Rechner, Kabel)
+  - Beschilderung der Anfahrt und der Räume
+  - Aufhängen von diversen Plakaten und dergl. (FOSSGIS-Banner, Sponsoren, Programm, …)
+  - Packen der Taschen
+  - Namensschilder drucken, in Plastikhüllen einfügen und sortiert an der Anmeldung aufbauen
+  - Videotechnik gemeinsam mit dem Videoteam aufbauen
+
+-   **Personal Welcome Desk:** Während der ganzen Konferenz ist die Anmeldung mit mindestens einer Person besetzt. Zu Stoßzeiten (insb. Mittwochmittag und Donnerstagmorgen) auch mehrere.
+
+-   Aufgaben sind u.a.:
+  - Informationen für Teilnehmer
+  - Registrierung der Teilnehmer inkl. Ausgabe der Taschen, Namensschild, (T-Shirt), 
+  - Prüfung Workshopbuchung
+  - Verkauf von Tickets für den Social Event, Entgegennahme Konferenz- und Workshopgebühr (Handkasse, Belege)
+  - Ggf. Verkauf von T-Shirts, Tagungsbänden, usw.
+  - Garderobe
+  - Kaffeetisch, falls nicht vom Catering abgedeckt
+
+-   **Personal Hörsaal:** In jedem Hörsaal gibt es eine verantwortliche Person. 
+
+-   Aufgaben sind u.a.:
+  - Technik betreuen (im Vorfeld mit der Technik vertraut machen (Licht, Jalousien, Audio- und Videoanlage, Rechner)
+  - Unterstützung der Vortragenden beim Laden ihrer Präsentationen auf den Präsentationsrechner
+  - morgens an jede Tür ein aktuelles Tagesprogramm hängen
+  - Koordinierung der Platzierung der TN, damit nicht alle außen sitzen
+  - Kontrolle, ob Unterschrift zur Einverständniserklärung zur Aufzeichnung des Vortrages vorliegt. Wenn nicht, einholen 
+  - Versorgung der Vortragenden mit Wasser
+  - Mikrofon
+  - Bei Fragen aus dem Publikum das Mikrofon herumtragen
+  - Vortrag als PDF auf Laptop im Raum speichern (Bitte Vortragenden darauf Hinweisen und Kontrollieren, danach Sammeln und sichern)
+
+-   **Personal Workshops:** In jedem Hörsaal gibt es eine verantwortliche Person. 
+
+-   Aufgaben sind u.a.:
+  - Technik betreuen (im Vorfeld mit der Technik vertraut machen (Licht, Jalousien, Audio- und Videoanlage, Rechner)
+  - morgens an jede Tür ein aktuelles Tagesprogramm hängen
+  - Kontrolle Worksshops Teilnehmer.
+  - Versorgung der Workshopleiter mit Wasser
+  - Feedbackbögen mitnehmen
+
+-    **Personal Springer:** Für sonstige Aufgaben, ist eingewiesenes Springerpersonal vorzusehen.
+
+-   Aufgaben sind u.a.:
+  - Besorgen und Einkauf von fehlendem Material, wenn z.B. spontan Reißzwecken benötigt werden
+  - Transport von Material
+  - Ausdrucken und Aufhängen von Hinweisschildern
+  - Informationen überbringen
+
+-   **Session-Leiter:** Aufgabe des Session-Leiters ist es, einen Block von Vorträgen zu moderieren.
+
+-   Aufgaben sind u.a.:
+  - Sorgt für den pünktlichen Beginn und pünktliches Endes des Vortrages. Es ist besonders wichtig, dass Zeitraster einzuhalten, damit die Teilnehmer jederzeit zwischen den Tracks wechseln können. Der Session-Leiter vereinbart mit dem Vortragenden Zeichen. Z.B. offene Hand hochhalten für 5 Minuten, ggf. entsprechende Zettel vorbereiten.
+  - Kurze einführende Worte zum Vortragenden, der Name sollte flüssig über die Lippen kommen auch bei Herrn Prof. Dr. Dr. Geo. Wlædchrøv Zlot¢iktrl.
+  - Moderation der Frage- und Antwort-Session.
+  - Dank an den Vortragenden.
+  - Bekanntgabe von aktuellen organisatorischen Informationen. Diese Informationen werden an der Anmeldung gesammelt. Der Session-Leiter bekommt diese Informationen überbracht. 
+
+Der Session-Leiter wird von einer Person, die für den Hörsaal verantwortlich ist, unterstützt.
+
+### Team Nachbereitung Konferenz
+-   Das Team zur Nachbereitung bildet sich aus dem Konferenz-Team (**um Presse, Finanzen und Teilnehmerbetreuung** abzuarbeiten)
+
+-   **Fragebogen-Auswerter**
+  - wertet die Teilnehmerbefragung aus
+  - pflegt Erkenntnisse im Wiki ein [[Handbuch#Teilnehmerbefragung Teilnehmerbefragung]].
+
+## Konferenzprogramm
+
+Das Konferenzprogramm wird vom einem unabhängigen Programmkomitee zusammengestellt. Es setzt sich aus Vorträgen zu Open Source, FOSSGIS und OpenStreetMap und Workshop zu FOSSGIS-Anwendungen zusammen.
+
+In diesem Kapitel werden zum einen die einzelnen Aufgaben und Zuständigkeiten des Programmkomitees erklärt sowie die unterschiedlichen Programmpunkte näher erläutert
+
+### Vorträge
 
 Die Vorträge sind der inhaltliche Kern der Veranstaltung. Prinzipiell gibt es für die Vortragsthemen keine Einschränkung, solange sie sich inhaltlich zum Großteil mit FOSSGIS, Open Data oder OpenStreetMap auseinandersetzen. Das Programm wird von einem unabhängigen Programmkomitee zusammengestellt.
 
@@ -170,6 +446,24 @@ Insgesamt gibt es drei verschiedenen Arten von Vorträgen:
   - i.d.R. werden 5 Lightningtalks zu einer 25-minütigen Session zusammengefasst
 - OpenStreetMap Vorträge (20 min Vortrag, 20 min Diskussion)
   - für kontroverse Themen der OSM-Community
+
+### Workshops
+
+Workshops finden parallel zu den Vortragssessions  statt. Je nach Anzahl der angenommenen Einreichungen können Workshops auch am Mittwoch Vormittag und am Freitag Nachmittag stattfinden.
+
+In Workshops haben die Teilnehmer die Möglichkeit, neue GIS-Tool und -Features kennenzulernen und direkt am Rechner auszuprobieren. Die Workshops finden daher in Computerräumen statt, sodass die keine eigene Hardware benötigt wird. Jeder Teilnehmer sollte einen eigenen Rechner zur Verfügung haben, in Ausnahmefällen können sich auch zwei Personen einen Rechner teilen. Technisch können die Workshops auf der OSGeoLive aufbauen. Das Lokal-Team muss prüfen, ob das Image auf USB-Sticks laufen soll oder auf dem Rechner installiert ist. Extrawünsche von Workshop-Leitungen werden im Vorfeld abgefragt und beachtet.
+
+Die Workshops sind 90 Minuten lang und haben zwischen 5 und 20 Teilnehmer. Die Teilnahme an einem Workshop kostet 100 € und muss im Voraus angemeldet werden. Sollten sich weniger als 5 Personen anmelden, wird der Workshop abgesagt. Wenn spezielle Themen eine längere Workshopzeit erfordern, können diese im Ausnahmefall als halbtägige Workshops (2x90 min für 200 €) angeboten werden. 
+
+Falls noch Plätze frei sein sollten, ist eine Anmeldung auch noch während der Konferenz möglich. Die Einnahmen daraus kommen in die Handkasse und sind auf einer Liste und im Quittungsblock nachzuweisen. Die Workshops bilden eine zentrale Einnahmequelle des FOSSGIS e.V. und erfordern daher besondere Beachtung und Fürsorge. Es gibt weder einen Frühbucherrabatt noch einen Sonderpreis für Vereinsmitglieder o.ä.
+
+Jeder Workshop hat mindestens einen Workshop-Leiter. Bewährt hat sich auch, zwei Leiter oder mehrere Helfer zur Verfügung zu haben. Die Aufgabe des Workshop-Leiters ist es, den Workshop zu planen und jedem Teilnehmer die nötigen Unterlagen und Handouts zur Verfügung zustellen. Hierfür erhalten sie eine Anmeldeliste, die die Namen und E-Mailadressen aller Teilnehmer enthält.
+
+Für die Konferenz gibt es einen Workshop-Koordinator. Dieser kontrolliert zu Beginn die Anwesenheit und kümmert sich darum, dass Last-Minute-Anmeldungen auf der Anmeldeliste nachgetragen werden.
+
+Teilnehmer können eine Teilnahmebestätigung erhalten, die vom Workshop-Leiter ausgestellt werden. Der FOSSGIS stellt einen Entwurf bereit. Es ist dem Workshop-Leiter freigestellt diesen zu nutzten oder entsprechend anzupassen (z.B. Ergänzung des Firmenlogos).
+
+Als Beispiele können die Dokumentation [Workshop-Organisation 2012](https://www.fossgis.de/wiki/Konferenz_2012/Orga/Workshops) oder [Workshoporga 2015](https://www.fossgis.de/wiki/2015/Workshop_Orga) dienen. 
 
 ### Call for Papers
 
@@ -236,71 +530,19 @@ frei sprechen und zum Zwecke eines guten und konsistenten Programms verpflichtet
 
 Ca. 2 Wochen nach der Deadline des Call for Papers findet ein persönliches Treffen des Programmkomitees statt. In den letzten Jahren wurde hierfür das Hackweekend in Essen im Linuxhotel genutzt.
 
-**Ab hier morgen weiter**
+Im ersten Schritt wird entschieden, welche Vorträge genommen werden. Hierfür wird über jeden Vortrag einzeln diskutiert und final bewertet. Die Diskussion sollte sich an den zuvor abgegeben Gesamtpunktewertung und Kommentaren orientieren. Bei Leerbewertungen sollte der durchschnitt aus allen anderen Bewertungen angenommen werden. Wurden mehrere Beiträge (Workshop/Vortrag) von einer Person eingereicht, so sollten maximal zwei Beiträge im Konferenzprogramm berücksichtigt werden. Außerdem sollte das Programmkomitee auf die Ausgewogenheit des Programms achten.
 
-In einer ersten Durchsicht geht das Programmkomitee alle eingereichten Vorträge durch und nimmt eine abschließende Bewertung vor. Dabei sind die zuvor abgegebenen Bewertungen und Kommentare sehr nützlich.
-Wurden mehrere Beiträge (Workshop/Vortrag) von einer Person eingereicht, so sollten maximal zwei Beiträge im Konferenzprogramm berücksichtigt werden.
+Anschließend wird der Programmplan erarbeitet. Hierfür ist zunächst eine Gruppierung der Beiträge erforderlich. Die erste Grobsortierung werden die in folgenden Programmkategorien eingeteilt.
 
-Nach der ersten Durchsicht sortiert man die Einreichungen grob nach
-OSM/GIS bzw. Vorträge/Workshops/Lightning Talks etc.
+- Workshops
+- Vorträge 
+  - GIS Track
+  - OSM Track
+  - Lightningtalks
 
-Anschließend wird ein Zeitplan erarbeitet und die Vorträge thematisch in
-passende Tracks und Sessions verteilt.
+Anschließend werden die Vorträge nach Thema und zu erwartendem Publikum in 90-minütige Sessions gruppiert. Höher sollten möglichst nicht innerhalb einer Session den Raum wechseln müssen. Sinnvollerweise sind in einer Session also mehrere Vorträge, die das gleiche Publikum interessieren.
 
-Dabei ist zu beachten:
-
--   Nicht alle Hörsäle sind gleich groß. Voraussichtlich beliebtere
-    Vorträge gehören in größere Räume
--   Ein Wechsel zwischen den Hörsälen innerhalb einer Session sollte so
-    weit wie möglich unnötig sein. Sinnvollerweise sind in einer Session
-    also mehrere Vorträge, die das gleiche Publikum interessieren.
-
-### Mitglieder im PK (**P**rogramm**k**ommittee):
-
-0\. Jedes PK-Mitglied ist seinem Gewissen und der Konferenz verpflichtet!
-Jeder der im PK mitmachen möchte, muß sich daher von Firmeninteressen
-frei sprechen und zum Zwecke eines guten und konsistenten Programms
-verpflichtet fühlen. Daher ist die Voraussetzung für die Mitarbeit im
-PK, dass für alle Mitglieder gilt \"Vorträge fair zu bewerten\"! Um dies
-zu unterstreichen, sollten alle Mitglieder des PKs auf eine
-Selbstverpflichtung diesbezüglich abgeben.
-
-1\. Keiner aus dem PK darf seine eigenen, noch Einreichungen von Kollegen
-aus derselben Firma bewerten.
-
-2\. Pro Firma/Institution wird nur ein Mitglied im PK zugelassen.
-
-3\. Generell wird die Bewertung vereinfacht: 0 (Default), 1 (gut), 2
-(super, will ich sehen). Für absolut ungewollte Vorträge, gibt es die
-Möglichkeit des Vetos. Ein Veto muss immer begründet werden und wird auf
-der Sitzung des PK diskutiert.
-
-4\. Alle Mitglieder des PK sollten **alle** anderen Vorträge bewerten
-(Hintergrund: Wir haben sehr heterogene Bewertungszahlen. Manchmal vier,
-manchmal 10 Bewertungen). Da es gewünscht ist, im neuen System eine
-\"0\" als Default zu haben, kann man sich aber so auf die Vorträge
-(mittels 1 und 2) konzentrieren, die man wirklich bewerten möchte (s.u.
-Punkt 5)! Damit wäre dieser Punkt hinfällig.
-
-5\. Die Bewertung berechnet sich generell aus Punkten/Anzahl der
-Mitglieder des PK. Eigene Beiträge werden für das jeweilige Mitglied mit
-dem Durchschnitt der anderen Bewertungen bewertet (falls das irgendwie
-geht).
-
-6\. Zusätzlich zur Einzelbewertung gewichtet das PK die Ausgewogenheit
-des Programms (Projekte, Firmen, etc.)
-
-7\. Die Bewertung ist für die Sitzung des PK bindend und kann nur in
-Einzelfällen zugunsten besserer Programmzusammenstellung (Blöcke)
-verändert werden. Hierbei sind die jeweils höher bewerteten Vorträge
-vorzuziehen. Dazu findet wie gehabt die Sitzung des PK statt.
-
-### Einteilung von Vorträgen in Sessions
-
-Die Vorträge müssen passend nach Thema und zu erwartendem Publikum in
-Sessions verteilt werden.
-
-Hier sind ein paar Ideen für mögliche Themenblöcke:
+Ideen für Mögliche Themenblöcke sind:
 
 -   GDI Geoportale
 -   Metadaten
@@ -318,19 +560,55 @@ Hier sind ein paar Ideen für mögliche Themenblöcke:
 -   GeoDaten-Journalismus
 -   GeoDaten-Visualisierung
 
+Bei der Einteilung der Sessions ist zu beachten, dass nicht alle Hörsäle sind gleich groß sind. Voraussichtlich beliebtere Vorträge sollten in größere Räume stattfinden. 
+
 ### Information der Vortragenden und Veröffentlichung des Programms
 
-Nachdem das Programmkomitee das Programm zusammengestellt hat,
-informiert es die Vortragenden, ob ihre Vorträge angenommen wurden oder
-nicht. Ggf. gibt es Wünsche, wie Titel und/oder Abstract des Vortrages
-noch verbessert werden können. Die Vortragenden sollten diese
-Änderungswünsche umsetzen.
+Wenn das Programm steht, informiert das Programmkomitee die Vortragenden, ob ihre Vorträge angenommen wurden. Ggf. dürfen auch Vierbesserungswünsche an die Vortragen gerichtet werden. Die Vortragenden sollten diese Änderungswünsche umsetzen. 
 
-Kurz danach stellt das Programmkomitee das Programm online zur
-Verfügung. Zusätzlich wird das Programm als PDF-Datei und HTML Seiten
-bereitgestellt. Das Layout sollte übersichtlich sein.\
-Beispiel [Programm
+Ca. 2 Wochen danach wird das Programm durch Programmkomitee veröffentlicht. Es sollte auf der Konefrenzwebseite (HTML) und als PDF-Datei bereitgestellt werden. Beispiel [Programm
 2014](https://www.fossgis.de/konferenz/2014/programm/)
+
+### Spezielle Vorträge
+
+Neben den eingereichten Vorträgen gibt es noch vier weitere Vortragspunkte, für die durch das Programmkomitee Speaker finden muss.
+
+#### Eröffnung und Abschluss
+
+Eröffnung und Abschluss bilden den offizielle Rahmen des Konferenz-Programms. Sie werden in der Regel vom FOSSGIS-Vorstand (meist der 1. Vorsitzende) gehalten. 
+
+Die Eröffnung am Mittwoch Mittag besteht aus:
+
+- Formelle Begrüßung durch den Veranstalter (FOSSGIS e.V.)
+- Bekanntgabe von organisatorischen Informationen durch den Teilnehmer-Koordinator
+- Grußworte von Honoratioren (z.B. von der lokalen Universität)
+
+Der Abschluss am Freitag Nachmittag enthält:
+
+- Dankesworte (Orga-Team, Lokal-Team und Hochschule, HelferInnen, Spreaker, Teilnehmer, ...)
+- Verlosung mit Bekanntgabe Gewinnen und Preisen
+- Hinweise auf die nächste Konferenz
+
+Die Eröffnung und Abschluss findet im größten Hörsaal mit allen Teilnehmern statt.
+
+#### Keynotes
+
+Keynotes sind Vorträge von interessanten Speakern zu besonders wichtigen Themen, die vom Programmkomitee speziell ausgewählt werden. Die Keynote findet direkt nach der Eröffnung statt. Optional kann es eine zweite Keynote nach der Abschlussveranstaltung geben.
+
+Eingereichte Vorträge können zu einer Keynote „befördert" werden, aber
+häufig werden Keynotes speziell vom Programmkomitee angefragt.
+
+#### Einführungsvorträge
+
+Am Mittwochvormittag gibt es Einführungsvorträge. Für diese Vorträge muss ein Vortragender aus des Reihen des FOSSGIS e.V. durch das Programmkomitee gefunden werden.
+
+Mögliche Themen für diese Vorträge sind:
+
+- Was ist Open Source und wie funktioniert das?
+- Einführung in OpenStreetMap
+- Was ist FOSS4G?
+
+## Rahmenprogramm
 
 ### Community Sessions
 
@@ -377,47 +655,8 @@ stattfinden:
 -   Es muss sich jemand finden, der sich darum verantwortlich kümmert!
 -   deutliche Trennung von Sponsoren-Postern
 
-### Eröffnung der Konferenz
 
-Mittwochmittag ist der offizielle Beginn der Konferenz (einige Workshops
-finden u.U. aber schon davor statt.). Die Eröffnung besteht aus:
 
--   Formelle Begrüßung durch den Veranstalter (FOSSGIS e.V.), zum
-    Beispiel durch den Vorsitzenden des Vorstandes
--   Bekanntgabe von organisatorischen Informationen durch den
-    Teilnehmer-Koordinator
--   Grußworte von Honoratioren (z.B. von der lokalen Universität)
-
-Die Eröffnung findet im größten Hörsaal mit allen Teilnehmern statt.
-
-### Keynotes
-
-Keynotes sind Vorträge von interessanten Sprechern zu besonders
-wichtigen Themen, die vom Programmkomitee speziell ausgewählt wurden.
-Eingereichte Vorträge können zu einer Keynote „befördert" werden, aber
-häufig werden Keynotes auch speziell angefragt bei besonders bekannten
-Sprechern und zu Themen, die das Programmkomitee für besonders wichtig
-hält.
-
-Eine oder mehrere Keynotes finden im Anschluß an die Eröffnung im
-größten Hörsaal statt.
-
-### Abschlußvortrag
-
-Am Freitagmittag schließt die Konferenz mit den Schlußworten und dem
-Abschlußvortrag. Die Schlußworte enthalten:
-
--   Dankesworte (Orga-Team, Lokal-Team, Helfer\*innen, ausrichtende
-    Institution, Sprecher, Teilnehmer, \...)
--   Verlosung mit Bekanntgabe Gewinnen und Preisen
--   Hinweise auf die nächste Konferenz
-
-Der Abschlußvortrag findet nach den Abschlußworten statt, sonst kommen
-die häufig zu kurz, wenn alle Leute schnell nach Hause wollen.
-
-Die Abschlussveranstaltung findet mit allen Teilnehmern zusammen statt.\
-
-## Rahmenprogramm
 
 ### Vorabend (Dienstagabend) – unofficial start
 Am Dienstagabend vor Konferenzbeginn sind üblicherweise bereits einige Teilnehmer sowie Organisatoren und Aussteller am Tagungsort. In einer geeigneten Kneipe oder Restauration findet an diesem Abend der „unofficial Start-Up“ der Konferenz statt. Das Lokal-Team muss hierzu eine geeignete Lokation finden und eine größere, nicht exakt festlegbare Gruppe (ca. 20-30 Personen) ankündigen und die Teilnehmer, Organisatoren und Aussteller vorab über den Ort informieren.
@@ -958,34 +1197,6 @@ Preise (z.B. Buchpreise) für die http://www.fossgis.de/wiki/Handbuch#Verlosung 
 ### Sammlung der Fragebögen
 An der Rezeption werden zwei Kartons bzw. Sammelbehälter vorgehalten, in denen die beiden Teile der Fragebögen (Verlosungsschnipsel, Feedbackbogen) gesammelt werden können. Idealerweise sind die Kartons entsprechend beschriftet und es gibt dazu eine Schere (mit einer Schnur gegen Entwendung gesichert), um den Bogen zu teilen.
 
-
-#### Beispielhaft einige Fragen aus dem Fragebogen
-
--	Meine Erwartungen an die FOSSGIS waren...
-  -	allgemeine Informationen zu FOSSGIS
-  -	Austausch mit anderen Nutzern
-  -	Anbahnung und Entwicklung von geschäftlichen Kontakten
-  -	konkrete Umsetzung von Ideen(z.B. Entwicklertreffen, CodeSprints etc.)
-  -	konkrete Informationen zu bestimmten Projekten
-  -	freier Kaffee
-
--	In welcher Branche sind Sie hauptsächlich tätig?
-  -	Geoinformatik, Geomatik etc.
-  -	IT, Systemadministration etc.
-  -	Geodäsie, Vermessungswesen etc.
-  - Land- und Forstwirtschaft
-  -	Landschaftsplanung, architektur, Raumplanung etc.
-  -	Umweltschutz, Landespflege etc.
-
--	Welchen Betrag wären Sie bereit, für die Teilnahme an Tagung/Workshops zu bezahlen?
-  -	keinen bzw. im Tagungsbeitrag enthalten
-  -	bis 50 Euro
-  -	bis 100 Euro
-  -	bis 150 Euro
-  -	bis 200 Euro
-  -	mehr als 200 Euro
-
-
 ### Entwurf des Fragebogens
 Der [[Media:Fragebogen2019.pdf |Fragebogen]] für die FOSSGIS 2019.
 
@@ -1247,13 +1458,8 @@ Core-Team](https://www.fossgis.de/wiki/2013/Organisationsteam#Dauerhaftes),
 
 ### Budget
 
-Der Projektleiter Konferenz stellt zusammen mit dem Schatzmeister des
-Vereins und dem Konferenz-Team ein Budget auf und führt in der
-Vorbereitungsphase und während der Konferenz die Buchhaltung der
-Konferenz. Er muss zu jedem Zeitpunkt einen Überblick darüber haben,
-welche Gelder bereits ausgegeben sind bzw. noch ausgegeben werden und
-welche Einnahmen bereits erreicht wurden bzw. noch zu erwarten sind. Nur
-so kann bei Problemen rechtzeitig gegengesteuert werden.
+Der Projektleiter Konferenz stellt zusammen mit dem Schatzmeister des Vereins und dem Konferenz-Team ein Budget auf und führt in der Vorbereitungsphase und während der Konferenz die Buchhaltung der Konferenz. Er muss zu jedem Zeitpunkt einen Überblick darüber haben,
+welche Gelder bereits ausgegeben und eingenommen sind bzw. noch ausgegeben und eingenommen werden. Nur so kann bei Problemen rechtzeitig gegengesteuert werden.
 
 **Budget für das Lokal-Team**
 
@@ -1289,45 +1495,26 @@ so kann bei Problemen rechtzeitig gegengesteuert werden.
 
 ### Rechnungen
 
--   Rechnungen für Ausgaben, die im Rahmen der Konferenzorganisation
-    anfallen, müssen direkt auf den Verein lauten (siehe
-    <http://www.fossgis.de/impressum.html>). In jedem Fall sollte jeder
-    Rechnungsvorgang vorab mit dem Schatzmeister abgestimmt werden. Der
-    Schatzmeister wird bei Rechnungsvorgängen im CC geführt.
+-   Rechnungen für Ausgaben, die im Rahmen der Konferenzorganisation anfallen, müssen direkt auf den Verein lauten (siehe <http://www.fossgis.deimpressum.html>). In jedem Fall sollte jeder Rechnungsvorgang vorab mit dem Schatzmeister abgestimmt werden. Der Schatzmeister wird bei Rechnungsvorgängen im CC geführt.
 
--   Wenn es für das Lokal-Team einfacher ist, kann es kleinere
-    Rechnungen auch direkt bezahlen und dann eine Sammelrechnung an den
-    Verein stellen. Dieser Sammelrechnung sollten die Belege
-    (entsprechend der Nummerierung einer Sammelrechnungstabelle
-    nummeriert auf A4 aufgeklebt) beigefügt werden.
+-   Wenn es für das Lokal-Team einfacher ist, kann es kleinere Rechnungen auch direkt bezahlen und dann eine Sammelrechnung an den Verein stellen. Dieser Sammelrechnung sollten die Belege (entsprechend der Nummerierung einer Sammelrechnungstabelle nummeriert auf A4 aufgeklebt) beigefügt werden.
 
-Ausgaben sollten (im Rahmen des möglichen) so spät wie möglich getätigt
-werden. Da viele Ausgaben von der Teilnehmerzahl abhängig sind und die
-zu erwartende Zahl erst nach Ende der Frühbucherfrist abschätzbar ist.
-Zahlen für Taschen- und T-Shirtbestellungen, Namensschilder und
-dazugehörigen Lanyards sollten so entschieden werden, dass die Lieferung
-gewährleistet und die Anzahl so genau, wie möglich ist.
+Ausgaben sollten (im Rahmen des möglichen) so spät wie möglich getätigt werden. Da viele Ausgaben von der Teilnehmerzahl abhängig sind und die zu erwartende Zahl erst nach Ende der Frühbucherfrist abschätzbar ist. Zahlen für Taschen- und T-Shirtbestellungen, Namensschilder und dazugehörigen Lanyards sollten so entschieden werden, dass die Lieferung gewährleistet und die Anzahl so genau, wie möglich ist.
 
 ### Handkasse vor Ort
 
-Das Lokal-Team organisiert eine Kasse für die Anmeldung. Es ist Aufgabe
-des Rezeptionspersonals diese Kasse zu führen. Über Nacht nimmt der
-Leiter des Lokal-Teams die Kasse mit.
+Das Lokal-Team organisiert eine Kasse für die Anmeldung. Es ist Aufgabe des Rezeptionspersonals diese Kasse zu führen. Über Nacht nimmt der Leiter des Lokal-Teams die Kasse mit.
 
 In die **Kasse** gehören die **Einnahmen** für:
 
--   bar bezahlte Teilnahmegebühren für die Konferenz, Workshops,
-    freiwillige Beiträge für Social Event und Tagungsband
+-   bar bezahlte Teilnahmegebühren für die Konferenz, Workshops, freiwillige Beiträge für Social Event und Tagungsband
 -   Einnahmen aus T-Shirt-Verkauf oder andere Einnahmen
 
-Aus der Kasse können spontan nötige kleinere **Ausgaben** getätigt
-werden (zum Beispiel für Kopien). Belege dazu gehören für die Abrechnung
-in die Kasse.
+Aus der Kasse können spontan nötige kleinere **Ausgaben** getätigt werden (zum Beispiel für Kopien). Belege dazu gehören für die Abrechnung in die Kasse.
 
 **Merke**: Wer Geld bezahlt, bekommt den Originalbeleg der Quittung.
 
-Für alle Einnahmen und Ausgaben wird eine **Liste** geführt und in der
-Hand-Kasse hinterlegt. Die Liste enthält:
+Für alle Einnahmen und Ausgaben wird eine **Liste** geführt und in der Hand-Kasse hinterlegt. Die Liste enthält:
 
 -   Datum/Uhrzeit
 -   Betrag (+/-)
@@ -1335,42 +1522,25 @@ Hand-Kasse hinterlegt. Die Liste enthält:
 -   Name
 -   Unterschrift
 
-Sollten sich im Laufe der Konferenz größere Beträge in der Kasse
-ansammeln, sollten sie zwischendurch an den Schatzmeister übergeben
-werden. Der Schatzmeister oder ein damit Beauftragter kümmert sich um
+Sollten sich im Laufe der Konferenz größere Beträge in der Kasse ansammeln, sollten sie zwischendurch an den Schatzmeister übergeben werden. Der Schatzmeister oder ein damit Beauftragter kümmert sich um
 die weitere Aufbewahrung.
 
-Nach Ende der Konferenz wird die **Kasse an den Schatzmeister
-übergeben**.
+Nach Ende der Konferenz wird die **Kasse an den Schatzmeister übergeben**.
 
 ### Personalkosten
 
-Grundsätzlich arbeiten alle Organisatoren der Konferenz freiwillig und
-kostenlos. Sprecher erhalten kein Honorar.
+Grundsätzlich arbeiten alle Organisatoren der Konferenz freiwillig und kostenlos. Sprecher erhalten kein Honorar.
 
-Um den großen Arbeitsbedarf an Hilfstätigkeiten während der Konferenz
-abzudecken, kann Personal dafür bezahlt werden. Die Arbeitsstunden sind
-bei 250h zu deckeln. Seit 2014 erhalten die Helfer eine
-Ehrenamtspauschale, diese darf pro Helfer pro Jahr 720 EUR nicht
-übersteigen. Helfer muss erklären, dass Ehrenamtspauschale nicht
-anderweitig in Anspruch genommen wird (auszufüllendes Formular).
+Um den großen Arbeitsbedarf an Hilfstätigkeiten während der Konferenz abzudecken, kann Personal dafür bezahlt werden. Die Arbeitsstunden sind bei 250h zu deckeln. Seit 2014 erhalten die Helfer eine Ehrenamtspauschale, diese darf pro Helfer pro Jahr 720 EUR nicht übersteigen. Helfer muss erklären, dass Ehrenamtspauschale nicht anderweitig in Anspruch genommen wird (auszufüllendes Formular).
 
 ### Teilnahmebeitrag
 
-Wir nehmen einen Eintrittspreis für die Konferenz. Für aktive
-Communitymitglieder ist der Eintritt frei.
+Wir nehmen einen Eintrittspreis für die Konferenz. Für aktive Communitymitglieder ist der Eintritt frei.
 
-Bis 2010 war die FOSSGIS-Konferenz kostenfrei, wurde aber mit der Zeit
-immer größer und damit auch teurer umzusetzen. Grundsätzlich ist es
-finanztechnisch keine schlechte Idee, wenn wir uns diversifizieren. Um
-so mehr verschiedene Einnahmenquellen es gibt, um so verlässlicher sind
-die Einnahmen.
+Bis 2010 war die FOSSGIS-Konferenz kostenfrei, wurde aber mit der Zeit immer größer und damit auch teurer umzusetzen. Grundsätzlich ist es finanztechnisch keine schlechte Idee, wenn wir uns diversifizieren. Um so mehr verschiedene Einnahmenquellen es gibt, um so verlässlicher sind die Einnahmen.
 
-<i>Dagegen steht natürlich der Wunsch, mit der Konferenz möglichst viele
-Leute zu erreichen. Gerade OSM-Aktive oder Studierende können sich einen
-Eintrittspreis vielleicht nicht leisten. Für Interessierte, die nur mal
-reinschnuppern wollen, was dieses Open Source eigentlich ist, sollen
-nicht durch den Preis abgeschreckt werden.</i>
+Dagegen steht natürlich der Wunsch, mit der Konferenz möglichst viele Leute zu erreichen. Gerade OSM-Aktive oder Studierende können sich einen Eintrittspreis vielleicht nicht leisten. Für Interessierte, die nur mal
+reinschnuppern wollen, was dieses Open Source eigentlich ist, sollen nicht durch den Preis abgeschreckt werden.
 
 Der **Teilnahmebeitrag für die Konferenz beträgt 190EUR (Frühbucher:
 150EUR)**. Er erlaubt den Eintritt an allen drei Tagen. Es gibt keinen
@@ -1462,274 +1632,7 @@ Workshop und Social Event erstattet. Nach diesem Termin ist kein
 Rücktritt und Erstattung mehr möglich, weil die Kosten dann bereits
 entstanden sind.
 
-## Arbeitsteilung und Aufgabenkatalog
 
-Die Organisation der FOSSGIS ist eine Menge Arbeit, die größtenteils ehrenamtlich geleistet wird. Um so mehr Helfer es gibt, um so weniger Arbeit ist es für den Einzelnen bzw. um so mehr kann geleistet werden. Die Kommunikation entweder über die Konferenzmailingliste oder das Wiki ist sehr wichtig. 
-Die Arbeit teilt sich ganz grob in die lokal zu leistende Arbeiten, die jedes Jahr von einem anderen Team, dem Lokal-Team, übernommen werden, und in die allgemeinen Arbeiten, die von Leuten geleistet werden, die sich über mehrere Jahre engagieren ([[Konferenz 2014/Organisationsteam| Konferenz-Team Core-Team]]).
-
-Koordiniert wird das Gesamtprojekt vom **Projektleiter Konferenz** (Katja Haferkorn). Der Projektleiter wird für die allgemeinen Aufgaben und Entscheidungen vom **[[Konferenz 2018/Organisationsteam |Konferenz-Team]]** (ca. 5-9 Leute) unterstützt. Für den Inhalt der Konferenz ist das **[[Konferenz 2018/Organisationsteam#Programm-Komitee|Programm-Komitee]]** verantwortlich und die Organisation der aktuellen Konferenz vor Ort übernimmt das **[[Konferenz 2018/Organisationsteam#Local%20Team|Lokal Team]]**, es wird vom **Leiter Lokal-Team** geleitet. Daneben gibt es eine Vielzahl von Aufgaben, die von einem oder mehreren Leuten verantwortlich übernommen werden. Natürlich können einzelnen Personen mehrere Aufgaben gleichzeitig wahrnehmen.
-
-In den folgenden Unterkapiteln werden die Aufgaben der verschiedenen Personen und Teams im einzelnen beschrieben. Natürlich kann eine Aufgabe auch delegiert werden, das ändert aber nichts an der Verantwortung des Zuständigen, dass die Aufgabe erledigt wird.
-
-### Projektleiter Konferenz
-Aufgaben sind u.a.:
-
--	Koordination des Gesamtprojektes
--	Überwacht die Einhaltung des Terminplanes
--	Dankesworte am Ende der Konferenz
--	Zusammenstellung einer Liste gemeinsam mit dem Lokal Team mit wichtigen Telefonnummern (Alle Orgas/Hiwis, Hausmeister, Caterer, usw.) Ausdruck und Verteilung an Orgas und Hiwis. Die Liste muss zum Aufbau zur Verfügung stehen.
-
-#### Konferenz-Team
-Das Konferenz-Team steht hinter dem Projektleiter Konferenz und ist während der gesamten Vorbereitungszeit beratend für das Lokal-Team tätig.
-Das Konferenz-Team, auch [[Konferenz 2019/Organisationsteam|Dauerhaftes Konferenzteam oder Core-Team]] genannt, trägt das Wissen und die Erfahrungen der vergangenen Konferenzen. 
-
-Aufgaben sind u.a.:
-
--	Aufsetzen und Veröffentlichen des Call for Location ([[Konferenz 2019/Organisationsteam|Konferenz-Team]]);
--	Auswahl der Konferenz-Ortes;
--	Call for Paper & Call for Workshop ([[Konferenz_2019/Organisationsteam#Programm-Komitee|Programm-Komitee]]);
--	Beratung und Unterstützung des Lokal-Teams;
--	Organisation der Konferenz;
--	Kommunikation des Programms, Öffentlichkeitsarbeit;
--	Letzte Instanz für konfliktbeladene Entscheidungen, die das Lokal-Team nicht entscheiden kann;
--	Letzte Instanz für die Bestätigung der kostenfreien Teilnahme durch aktive Beiträge.
-
-
-#### Programm-Komitee
-Das **[[Inhaltliches Programm]]** wird vom Programmkomitee erstellt.
-
-Aufgaben sind u.a.:
-
--	Info an Vortragende zum Status ihrer Vortragseinreichung ([mailto:konferenz-orga@fossgis.de cc an] Koordinator Organisation)
-  -	[[Tagungsband#Tagungsband|Stichwortvorlage]] beachten
-  -	wenn keine schriftliche Vortragszusammenfassung geliefert wird, wird nur der Abtract veröffentlicht.
--	Partizipation des FOSSGIS e.V. an Vortragsauswahl (?)
-  -	Infomail an Vereins-Liste
--	Programm erstellen
--	Programm online stellen
-
-#### Lightning-Talk-Koordinator
-
-Der Lightning-Talk-Koordinator kümmert sich um die Lightning-Talks während der Eröffnungs- und Abschlussveranstaltung und gibt sie im Konferenz-Programm bekannt.
-
-
-#### Workshop-Koordinator
-Der Workshop-Koordinator betreut die Workshop-Leiter. Er arbeitet dabei eng mit dem Programm-Komitee und dem Lokal-Team zusammen.
-
-Aufgaben sind u.a.:
-
--	Ansprechpartner für Workshop-Leiter
--	Bemüht sich zusammen mit dem Programm-Komitee um ein interessantes und ausgewogenes Workshop-Programm. 
--	Stellt sicher, dass die Informationen über die Workshops für die Teilnehmer vollständig und aussagekräftig sind;
--	kümmert sich um die **Anmeldeliste**
--	**Evaluationsbögen** für Workshops erstellen und einsammeln;
--	Koordination **Technik** mit Workshop-Leitern und Lokal-Team bzw. DVD-Team.
-
-siehe auch [[Workshops]]
-
-
-#### Koordinator Presse/Öffentlichkeitsarbeit
-Der Presse-Koordinator/ das Pressemeldungskomitee ist dafür zuständig den Presseverteiler zu pflegen und alle regulären [[Konferenz 2018/Pressemitteilungen|Pressemitteilungen]] zu erstellen und rechtzeitig an den Verteiler zu geben. Zusätzliche Pressemeldungen können vom Lokal-Team, Sponsoring-Koordinator, etc. erstellt und dem Presse-Koordinator zur Veröffentlichung gegeben werden.
-
-Aufgaben sind u.a.:
-
--	Pressemitteilungen erstellen
--	PM verschicken
--	Informationen einholen
--	lokale Presse nicht vergessen (Kontakt Lokal Team)
--	Pressemeldungsentwürfe über die Liste einfordern (definierte Aufgabe, die sicherlich gern jemand übernimmt)
-
-
-#### Tagungsband-Koordinator
-Der Tagungsbandkoordinator kümmert sich darum, dass der Tagungsband rechtzeitig zum Konferenzbeginn in ausreichender Zahl verfügbar ist. Jeder Teilnehmer erhält einen Tagungsband in der Konferenz-Tasche.
-Im Tagungsband-Komitee könnte sich jemand verantwortlich fühlen, die Beiträge gegenzulesen (Rechtschreibung) und auf Vollständigkeit zu prüfen.
-
-Aufgaben sind u.a.:
-
--	Organisation Zusammenstellung Tagungsband
-  -	Sammlung der Vorträge, wenn Beiträge fehlen - anfordern
--	Titelblatt, Sponsorenzusammenstellung
--	Layout
--	Organisation Druck (ISBN besorgen, Anzahl)
--	Restbestände durch Lehmanns vertreiben lassen
--	Nachbestellung möglich?
-
-Siehe auch: [[Tagungsband]]
-
-
-### Sponsoring-Koordinator
-Der Sponsoring-Koordinator kümmert sich um die Werbung und Betreuung von Sponsoren. Das ist eine recht anspruchsvolle und finanziell wichtige Aufgabe.
-
-Aufgaben sind u.a.:
-
--	Öffentliche Ankündigung des Sponsorenprogramms mit Preisen und Bedingungen
--	Anschreiben potentieller Sponsoren/Aussteller
--	Persönliches Gespräch / Email-Kontakt
--	Ggf. aushandeln von Zusatzbedingungen (größerer Stellplatz, Außenstand, etc.)
--	Erstellen der Rechnungsgrundlage, Absprache mit dem Projektleiter-Konferenz
--	Einfordern eines kleinen Bitmap-Logos für die Webseite und eines Vektor-Logos für den Druck des Tagungsbandes, Plakaten, etc.
--	Abstimmung mit dem Ausstellungs-Koordinator des Lokal-Teams
-
-
-#### Ausstellungs-Koordinator
-Der Ausstellungs-Koordinator ist der Dienstleister für die Aussteller vor Ort. Im Vorfeld muss er sich mit dem Sponsoring-Koordinator eng abstimmen. Die meisten Vorbreitungen müssen erledigt sein **bevor**der erste Aussteller am Ort erscheint!
-
--	Anzeichnen der Stellplätze, die vom Ausstellungs-Koordinator in einen Plan eingezeichnet wurden. 
--	Versorgung der Stellplätze mit Technik:
-  -	ein ausreichend dimensioniertes Stromkabel pro Stand, besser natürlich gleich mit Mehrfachsteckdose
-  -	ein Netzwerkkabel pro Stand
-
-Der Ausstellungs-Koordinator sollte sicherheitshalber ein paar Meter Patchkabel, Klebeband, Schere, Faden, etwas Werkzeug, z.B. Schraubendreher, etc., ggf. ein oder zwei Ethernet Switches, etc. zur Hand haben. Das ist allerdings **keine** Dienstleistung, die der Aussteller einkauft, sondern nur eine Freundlichkeit und Entgegenkommen, um den reibungslosen Ablauf zu gewährleisten.
-
-Aufgaben sind u.a.:
-
--	Sicherstellen, dass Lieferungen von den Ausstellern im Vorfeld der Konferenz gelagert werden und zum Aufbau zur Verfügung stehen
-
-#### Teilnehmer-Koordinator
-Der Teilnehmer-Koordinator ist die Schnittstelle zwischen dem Konferenz-Team und den Teilnehmern. Er kümmert sich um die Information der Teilnehmer und den Ablauf der Anmeldung, sowohl im Vorfeld als auch vor Ort. Er arbeitet dabei eng mit dem Lokal-Team zusammen.
-
-Aufgaben sind u.a.:
-
--	E-Mail an die Teilnehmer kurz vor der Konferenz mit praktischen Informationen zur Anfahrt usw.
--	Bekanntgabe organisatorischer Informationen in der Eröffnungsveranstaltung der Konferenz
-
--	Erstellung und Verteilung von Aktuellen Informationen an die Moderatoren, die vor und nach den Vortragsblöcken vorgelesen werden. 
-
--	Bearbeiten von Rückfragen von Teilnehmern im Vorfeld
--	Durchführung der Anmeldung in Absprache mit der Technik und dem Lokal-Team
--	Handling von Stornierungen und schwierigen Fällen bei der Anmeldung
--	Ansprechpartner für die Hiwis bei der Anmeldung vor Ort zur Behandlung von schwierigen Fällen
-
-Siehe auch: [[Teilnehmerbetreuung]]
-
-
-#### T-Shirt-Koordinator
-
-Der T-Shirt-Koordinator ist dafür zuständig im Rahmen des Budgets ein das Design, Farbe, die Auswahl an Größen, Lieferung und Bezahlung zu kümmern. Bei Buchung des Konferenzticket kann sich der TN für oder gegen ein T-Shirt entscheiden und die Größe angeben (bei der Anmeldung sind Größe und Damen oder Herrenshirt auswählbar).
-
-Aufgaben sind u.a.:
-
--	Schriftzug, Design, Farbe (begrenzte Mengen)
--	Mengenverteilung
--	Größen und Schnitte für Frauen und Männer wären schön, sind kein muss
--	Organisation Druck und Bestellung (abstimmen mit dem Schatzmeister)
--	Rechtzeitige Lieferung gewährleisten.
--	Kommunikation an das Lokal-Team, wer T-Shirt bekommt (zahlende TN oder WS-TN)
-
-siehe auch [[Teilnehmerbetreuung#T-Shirts|T-Shirts]]
-
-### Lokal-Team
-#### Aufgaben
-Das Lokal-Team ist für die Organisation der Konferenz vor Ort verantwortlich und kümmert sich um den effektiven und reibungslosen Ablauf der Konferenz. Alle Aufgaben können entweder selbst oder durch einen angemieteten Dienstleister erbracht werden.
-
--	Infrastruktur Konferenzstandort
-  -	Beschilderung 
-  -	Tische, Stühle und Pinnwände für die Ausstellung in ausreichender Zahl zu organisieren und aufzubauen
-  -	 Garderobe
-  -	Fundbüro
-  -	Erstellung und Verteilung der Namensschilder (mit Farbcodes, noch technisch klären)
-  -	Versorgung mit Wasser für die Vortragenden
-  -	Für die Sammlung der Fragebögen müssen an der Registrierung zwei Kartons oder dergl. zur Verfügung stehen (siehe [[Teilnehmerbefragung#Sammlung der Fragebögen|Fragebögen]]).
-
--	Infrastruktur [[Handbuch#Technik Technik]]
-  -	Stromversorgung in den Hörsälen
-  - Vortragstechnik (Präsentationsrechner, Mikrofone, Lautsprecher)
-  -	Technische Unterstützung für Vortragende am Projektor, Mikrofon
-  -	WLAn für Konferenzteilnehmer
-
--	Information
-  -	Raumplan, Toilettenbeschriftung
-  -	Behintertentoiletten-Beschriftung, Stufenfreie Eingänge-Umleitung
-  -	Anfahrtsbeschreibung für Teilnehmer zum Tagungsort, Social Event und ggf. anderen Orten
-  -	Anfahrtsbeschreibung für Lieferungen (z.B. für Aussteller)
-
--	Organisation
-  -	Logistik
-  -	Empfangsbereich
-  -	Sammeln und archivieren der in letzter Sekunde eingereichten Vortragsunterlagen (PDF, Foliensätze) für die spätere Veröffentlichung
-  -	Finden von Orten für das Rahmenprogramm
-  -	Ordner, die an den Eingängen Namensschilder kontrollieren. Hierbei geht es nicht um eine scharfe Ausweiskontrolle, sondern nur um das da-sein. Diese Aufgabe kann gleichzeitig von den Vortrags-Technik Betreuern wahrgenommen werden. Wenn man kein Türsteher da ist, ist das halt so. 
-  -	(Troubleshooter, die an allen Tagen der Konferenz deutlich erkenntlich (neo-grün/rot/lila gestreift kariertes T-Shirt) vor Ort sind und fix und unproblematisch Probleme lösen können. )
--	Falls Poster-Session: Poster Organisation, welche Poster, wo aufgehängt, klare Aufteilung in Sponsoren-Poster und Fachbeiträge. 
-
-Das Lokal-Team muss direkt vor der Konferenz Pakete von Ausstellern, Sponsoren usw. entgegennehmen können. Dazu sollte eine Adresse, idealerweise direkt am Konferenzort, unter [[Konferenz_2018/Veranstaltungsort|Veranstaltungsort]] bekannt gegeben werden. Ein Termin, bis wann Pakete eintreffen müssen, muss ebenfalls bekannt gegeben werden, typischweise am Freitag vor der Konferenz. Die Absender der Pakete sind gehalten, das [[Konferenz 2018/Organisationsteam|Organisationsteam]] zu informieren, welche Pakete wann zu erwarten sind. Dokumentation unter [[Konferenz_2018/Lieferungen_Tascheninhalt|Lieferungen]].
-
-Es gibt sehr viele Arbeiten, die zwingend durch das Lokal-Team zu erledigen sind. Daher ist es sinnvoll die Aufgaben geschickt zu verteilen und eine Dokumentation im Wiki zu pflegen.
-
-#### Personalbedarf/ Personalplanung
-
--	**Personal Aufbau:** Am Dienstagnachmittag und Mittwochmorgen wird aufgebaut. Das wird teilweise von den Organisatoren und teilweise vom Lokal-Team erledigt.
-
--	Aufgaben sind u.a.:
-  -	Transport von Materialien zum Ausstellungsort
-  -	Aufbau der Anmeldung
-  -	Aufbau der Infrastruktur für die Ausstellung (Tische, Stellwände, Kabel)
-  -	Aufbau Catering-Bereich (wennn das nicht der Caterer macht)
-  -	Einrichtung Workshop-Räume (Tische, Rechner, Kabel)
-  -	Beschilderung der Anfahrt und der Räume
-  -	Aufhängen von diversen Plakaten und dergl. (FOSSGIS-Banner, Sponsoren, Programm, …)
-  -	Packen der Taschen
-  -	Namensschilder drucken, in Plastikhüllen einfügen und sortiert an der Anmeldung aufbauen
-  -	Videotechnik gemeinsam mit dem Videoteam aufbauen
-
--	**Personal Welcome Desk:** Während der ganzen Konferenz ist die Anmeldung mit mindestens einer Person besetzt. Zu Stoßzeiten (insb. Mittwochmittag und Donnerstagmorgen) auch mehrere.
-
--	Aufgaben sind u.a.:
-  -	Informationen für Teilnehmer
-  -	Registrierung der Teilnehmer inkl. Ausgabe der Taschen, Namensschild, (T-Shirt), 
-  -	Prüfung Workshopbuchung
-  -	Verkauf von Tickets für den Social Event, Entgegennahme Konferenz- und Workshopgebühr (Handkasse, Belege)
-  -	Ggf. Verkauf von T-Shirts, Tagungsbänden, usw.
-  -	Garderobe
-  -	Kaffeetisch, falls nicht vom Catering abgedeckt
-
--	**Personal Hörsaal:** In jedem Hörsaal gibt es eine verantwortliche Person. 
-
--	Aufgaben sind u.a.:
-  -	Technik betreuen (im Vorfeld mit der Technik vertraut machen (Licht, Jalousien, Audio- und Videoanlage, Rechner)
-  -	Unterstützung der Vortragenden beim Laden ihrer Präsentationen auf den Präsentationsrechner
-  -	morgens an jede Tür ein aktuelles Tagesprogramm hängen
-  -	Koordinierung der Platzierung der TN, damit nicht alle außen sitzen
-  -	Kontrolle, ob Unterschrift zur Einverständniserklärung zur Aufzeichnung des Vortrages vorliegt. Wenn nicht, einholen 
-  -	Versorgung der Vortragenden mit Wasser
-  -	Mikrofon
-  - Bei Fragen aus dem Publikum das Mikrofon herumtragen
-  -	Vortrag als PDF auf Laptop im Raum speichern (Bitte Vortragenden darauf Hinweisen und Kontrollieren, danach Sammeln und sichern)
-
--	**Personal Workshops:** In jedem Hörsaal gibt es eine verantwortliche Person. 
-
--	Aufgaben sind u.a.:
-  -	Technik betreuen (im Vorfeld mit der Technik vertraut machen (Licht, Jalousien, Audio- und Videoanlage, Rechner)
-  -	morgens an jede Tür ein aktuelles Tagesprogramm hängen
-  -	Kontrolle Worksshops Teilnehmer.
-  -	Versorgung der Workshopleiter mit Wasser
-  -	Feedbackbögen mitnehmen
-
--	 **Personal Springer:** Für sonstige Aufgaben, ist eingewiesenes Springerpersonal vorzusehen.
-
--	Aufgaben sind u.a.:
-  -	Besorgen und Einkauf von fehlendem Material, wenn z.B. spontan Reißzwecken benötigt werden
-  -	Transport von Material
-  -	Ausdrucken und Aufhängen von Hinweisschildern
-  -	Informationen überbringen
-
--	**Session-Leiter:** Aufgabe des Session-Leiters ist es, einen Block von Vorträgen zu moderieren.
-
--	Aufgaben sind u.a.:
-  -	Sorgt für den pünktlichen Beginn und pünktliches Endes des Vortrages. Es ist besonders wichtig, dass Zeitraster einzuhalten, damit die Teilnehmer jederzeit zwischen den Tracks wechseln können. Der Session-Leiter vereinbart mit dem Vortragenden Zeichen. Z.B. offene Hand hochhalten für 5 Minuten, ggf. entsprechende Zettel vorbereiten.
-  -	Kurze einführende Worte zum Vortragenden, der Name sollte flüssig über die Lippen kommen auch bei Herrn Prof. Dr. Dr. Geo. Wlædchrøv Zlot¢iktrl.
-  -	Moderation der Frage- und Antwort-Session.
-  -	Dank an den Vortragenden.
-  -	Bekanntgabe von aktuellen organisatorischen Informationen. Diese Informationen werden an der Anmeldung gesammelt. Der Session-Leiter bekommt diese Informationen überbracht. 
-
-Der Session-Leiter wird von einer Person, die für den Hörsaal verantwortlich ist, unterstützt.
-
-### Team Nachbereitung Konferenz
--	Das Team zur Nachbereitung bildet sich aus dem Konferenz-Team (**um Presse, Finanzen und Teilnehmerbetreuung** abzuarbeiten)
-
--	**Fragebogen-Auswerter**
-  -	wertet die Teilnehmerbefragung aus
-  -	pflegt Erkenntnisse im Wiki ein [[Handbuch#Teilnehmerbefragung Teilnehmerbefragung]].
 
 ## Lessons Learned
 
