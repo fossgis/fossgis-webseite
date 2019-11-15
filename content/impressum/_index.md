@@ -1,7 +1,10 @@
-+++
-title = "Impressum"
-date = "2019-06-15T08:42:19+00:00"
-+++
+---
+title: "Impressum"
+date: "2019-11-15T11:18:38+00:00"
+
+aliases:
+  - "impressum.html"
+---
 
 ## Angaben gemäß § 5 TMG
 

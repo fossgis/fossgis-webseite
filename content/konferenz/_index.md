@@ -1,6 +1,6 @@
 ---
 title: "Konferenz"
-date: "2019-06-15T08:42:19+00:00"
+date: "2019-11-15T11:19:42+00:00"
 menu:
   side:
     weight: 40
@@ -20,8 +20,8 @@ Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://w
 * [Programm 2018](https://frab.fossgis-konferenz.de/de/2018/public/schedule)
 * [Programm 2017](https://frab.fossgis-konferenz.de/de/2017/public/schedule)
 * [Programm 2016](https://frab.fossgis-konferenz.de/de/2016/public/schedule)
-* [Programm 2015](https://www.fossgis.de/konferenz/2015/programm/)
-* [Programm 2014](https://www.fossgis.de/konferenz/2014/programm/)
-* [Programm 2013](https://www.fossgis.de/konferenz/2013/programm/)
-* [Programm 2012](https://www.fossgis.de/konferenz/2012/programm/)
-* [Programm 2011](https://www.fossgis.de/konferenz/2011/programm/)
+* [Programm 2015](https://www.fossgis-konferenz.de/2015/programm/)
+* [Programm 2014](https://www.fossgis-konferenz.de/2014/programm/)
+* [Programm 2013](https://www.fossgis-konferenz.de/2013/programm/)
+* [Programm 2012](https://www.fossgis-konferenz.de/2012/programm/)
+* [Programm 2011](https://www.fossgis-konferenz.de/2011/programm/)
