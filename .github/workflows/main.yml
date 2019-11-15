@@ -29,4 +29,4 @@ jobs:
       run: |
         eval $(ssh-agent -s)
         ssh-add - <<< "${SSH_KEY}"
-        rsync --delete -r -e "ssh -o StrictHostKeyChecking=no -p 322" public/ web@web.fossgis.de:/ 
+        rsync --exclude=/w --delete -r -e "ssh -o StrictHostKeyChecking=no -p 322" public/ web@web.fossgis.de:/ 
