@@ -16,7 +16,7 @@ Für jene, die sich in den Begrifflichkeiten der modernen Web-Kommunikation nich
 
 Mailinglisten basieren auf der Kommunikation per EMail. Man trägt seine Mail-Adresse in eine bestimmte Liste ein (man _abonniert_ diese Liste) und bekommt fortan alle Mails zugesandt, die an die Adresse der Liste gehen. Anders herum geht eine Mail, die Sie an die Liste schicken, allen Abonnenten dieser Liste zu. Ein weiterer Vorteil ist, dass üblicherweise sämtliche Mails die jemals an die Liste gingen, in einem per Webbrowser zugänglichen Archiv abgelegt werden. Sinnigerweise deckt jede Liste ein definiertes Themenfeld ab. (mehr Informationen: [http://de.wikipedia.org/wiki/Mailingliste](http://de.wikipedia.org/wiki/Mailingliste))
 
-* [Zu den FOSSGIS Mailinglisten](/community_mailinglisten.html)
+* [Zu den FOSSGIS Mailinglisten](/community/mailinglisten/)
 
 ### Wiki
 
