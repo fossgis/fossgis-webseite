@@ -7,10 +7,15 @@ menu:
     weight: 15
 ---
 
-## Unabhängigkeit freier Software und freier Geodaten fördern
+Der FOSSGIS e.V. braucht Spenden für seine Arbeit. Wir verwenden alle Spenden
+direkt für die Umsetzung unserer Vereinsziele. Der Verein ist als
+gemeinnützig anerkannt, d.h. Sie können Ihre Spenden von der Steuer absetzen.
+Selbstverständlich stellen wir Ihnen, wenn gewünscht, eine entsprechende
+Bescheinigung aus.
 
-Spenden sind natürlich willkommen. Der FOSSGIS e.V. wird die Spenden direkt für die Umsetzung seiner Vereinsziele verwenden. Selbstverständlich stellen wir Ihnen ab einer Spendenhöhe von 100 EUR auch eine Spenden-Bescheinigung aus.
-Die vom FOSSGIS e.V unterstützten Projekte freuen sich auch über Sachspenden, beispielsweise Serverhardware. Setzen Sie sich mit uns in Verbindung.
+Manchmal helfen uns auch Sachspenden weiter, bitte wenden Sie sich an
+<a href="mailto:info@fossgis.de">info@fossgis.de</a>, wenn Sie etwas anzubieten
+haben.
 
 ## Bankverbindung
 
@@ -18,18 +23,53 @@ Spenden können Sie über unseren Paypal-Spendenbutton
 
 {{< paypal-button >}}
 
-oder direkt auf folgendes Konto:
+oder auf folgendes Konto bei der Mainzer Volksbank:
 
-	FOSSGIS e.V.
-	BLZ: 551 900 00 Mainzer Volksbank
-	Kto.: 415938026
-	IBAN: DE93 5519 0000 0415 9380 26
-	BIC: MVBM DE 55
+FOSSGIS e.V.<br/>
+IBAN: DE93 5519 0000 0415 9380 26<br/>
+BIC: MVBM DE 55
 
-## Vereinfachter Zuwendungsnachweis nach § 50 Abs. 4 EStDV
+Bitte geben Sie im Verwendungszweck mindestens das Wort „Spende“ an.
 
-Lieber Spender, liebe Spenderin.
-Wenn Sie den FOSSGIS e.V. mit bis zu 200,00 Euro im Jahr unterstützt haben, benötigen Sie keine gesonderte Zuwendungsbestätigung („Spendenbescheinigung“) von uns.
-Zur Anerkennung Ihrer Zahlung als steuerlich abzugsfähige Zuwendung genügt es, wenn Sie in Ihrer Steuererklärung [dieses Dokument](/dokumente/Spenden_Vereinfachter-Zuwendungsnachweis.pdf) und den Zahlungsbeleg (Buchungsbestätigung Ihres Kreditinstituts, etwa in Form eines Kontoauszugs) Ihrem Finanzamt vorlegen. Der Verwendungszweck sollte die Angabe „Spende“ oder „Mitgliedsbeitrag“ enthalten.
+## Spendenbescheinigung
 
-Siehe auch: [Spenden und Sponsoring](spenden-und-sponsoring)
+Wenn Sie den FOSSGIS e.V. mit bis zu 200,00 Euro im Jahr unterstützt haben,
+benötigen Sie keine gesonderte Zuwendungsbestätigung („Spendenbescheinigung“)
+von uns. Zur Anerkennung Ihrer Zahlung als steuerlich abzugsfähige Zuwendung
+genügt es, wenn Sie in Ihrer Steuererklärung diesen [Vereinfachten
+Zuwendungsnachweis nach § 50 Abs. 4 EStDV
+](Vereinfachter-Zuwendungsnachweis-FOSSGIS.pdf) und den Zahlungsbeleg
+(Buchungsbestätigung Ihres Kreditinstituts, etwa in Form eines Kontoauszugs)
+Ihrem Finanzamt vorlegen. Der Verwendungszweck muss dazu die Angabe „Spende“
+enthalten.
+
+Wenn Sie eine Spendenbescheinigung wünschen, können Sie ihren Namen und Adresse
+im Verwendungszweck angeben oder eine E-Mail an <a
+href="mailto:finanzen@fossgis.de">finanzen@fossgis.de</a> schreiben. Wir
+brauchen dafür Ihren Namen und die Postadresse, die auf die Bescheinigung
+müssen. Bitte geben Sie in der E-Mail den Betrag und das Datum an, wann Sie die
+Überweisung vorgenommen haben, damit wir die Zahlung schnell zuordnen können.
+
+## Zweckgebundene Spenden
+
+Wenn Sie wollen, daß Ihre Spende für OpenStreetMap verwendet wird, geben Sie
+im Verwendungszweck „Spende OpenStreetMap“ oder „Spende OSM“ an.
+
+Bitte geben Sie keine anderen Zweckbindungen an, ohne mit uns (<a
+href="mailto:finanzen@fossgis.de">finanzen@fossgis.de</a>) Rückfrage gehalten
+zu haben. Zweckbindungen machen uns mehr Arbeit, weil wir sicherstellen müssen,
+dass das Geld an der richtigen Stelle verwendet wird. Und das ist manchmal
+garnicht so einfach, z.B. wenn Projekte schon beendet sind oder weniger Geld
+benötigen als gedacht.
+
+## Wofür werden die Spenden ausgegeben?
+
+Die Spenden werden für die [Projekte und Aktivitäten](/aktivitäten/) des
+Vereins ausgegeben. Zweckgebundene Spenden für OpenStreetMap werden nur für
+Projekte rund um [OpenStreetMap](/aktivitäten/openstreetmap/) verwendet.
+
+## Gelegenheiten für Sponsoring
+
+Für Firmen bieten wir auch die Gelegenheit als Sponsor bei [unseren
+Veranstaltungen](/konferenz/) aufzutreten.
+
