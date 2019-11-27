@@ -43,7 +43,7 @@ Zuwendungsnachweis nach § 50 Abs. 4 EStDV
 Ihrem Finanzamt vorlegen. Der Verwendungszweck muss dazu die Angabe „Spende“
 enthalten.
 
-Wenn Sie eine Spendenbescheinigung wünschen, können Sie ihren Namen und Adresse
+Wenn Sie eine Spendenbescheinigung wünschen, können Sie Ihren Namen und Adresse
 im Verwendungszweck angeben oder eine E-Mail an <a
 href="mailto:finanzen@fossgis.de">finanzen@fossgis.de</a> schreiben. Wir
 brauchen dafür Ihren Namen und die Postadresse, die auf die Bescheinigung
@@ -52,14 +52,14 @@ müssen. Bitte geben Sie in der E-Mail den Betrag und das Datum an, wann Sie die
 
 ## Zweckgebundene Spenden
 
-Wenn Sie wollen, daß Ihre Spende für OpenStreetMap verwendet wird, geben Sie
+Wenn Sie wollen, dass Ihre Spende für OpenStreetMap verwendet wird, geben Sie
 im Verwendungszweck „Spende OpenStreetMap“ oder „Spende OSM“ an.
 
 Bitte geben Sie keine anderen Zweckbindungen an, ohne mit uns (<a
 href="mailto:finanzen@fossgis.de">finanzen@fossgis.de</a>) Rückfrage gehalten
 zu haben. Zweckbindungen machen uns mehr Arbeit, weil wir sicherstellen müssen,
 dass das Geld an der richtigen Stelle verwendet wird. Und das ist manchmal
-garnicht so einfach, z.B. wenn Projekte schon beendet sind oder weniger Geld
+gar nicht so einfach, z.B. wenn Projekte schon beendet sind oder weniger Geld
 benötigen als gedacht.
 
 ## Wofür werden die Spenden ausgegeben?
