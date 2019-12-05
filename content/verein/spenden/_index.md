@@ -4,7 +4,7 @@ date: "2019-06-15T08:42:19+00:00"
 menu:
   side:
     parent: Verein
-    weight: 15
+    weight: 35
 ---
 
 Der FOSSGIS e.V. braucht Spenden für seine Arbeit. Wir verwenden alle Spenden

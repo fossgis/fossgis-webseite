@@ -4,7 +4,7 @@ date: "2019-06-15T14:31:15+00:00"
 menu:
   side:
     parent: Verein
-    weight: 50
+    weight: 20
 ---
 
 Allgemeine Anfragen an unseren Verein können Sie per E-Mail richten an [info@fossgis.de](mailto:info@fossgis.de).

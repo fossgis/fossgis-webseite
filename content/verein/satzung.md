@@ -4,7 +4,7 @@ date: "2019-06-15T14:31:15+00:00"
 menu:
   side:
     parent: Verein
-    weight: 40
+    weight: 60
 ---
 
 _Der Verein wurde unter der Nummer 90 VR 3594 am 18\. Januar 2001 bei der Stadt Mainz eingetragen._

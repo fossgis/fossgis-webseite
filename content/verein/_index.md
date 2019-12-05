@@ -16,11 +16,4 @@ Der FOSSGIS e.V. hat sich das Ziel gesetzt, Freie Software aus dem GIS-Bereich u
 
 Diese Seiten und [unser Flyer](/fossgis_flyer_2015.pdf) informieren über die Arbeit und die Aktivitäten des Vereins.
 
-Der Vorstand des FOSSGIS e.V. wird zur Zeit besetzt von:
-
-* Dominik Helle (1. Vorsitz)
-* Michael Reichert (2. Vorsitz)
-* Jochen Topf (Finanzen)
-* Arne Schubert (Schriftführer)
- 
-FOSSGIS e.V. ist ein eingetragener und gemeinnütziger Verein.
+Der FOSSGIS e.V. ist ein eingetragener und gemeinnütziger Verein.
