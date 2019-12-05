@@ -1,10 +1,10 @@
 ---
-title: "FOSSGIS e.V. vergibt Deutschland Stipendium an der HTW-Bereich"
+title: "FOSSGIS e.V. unterstützt Studentin an der HTW Dresden im Rahmen des Deutschlandstipendiums"
 date: "2019-11-29T16:18:19+00:00"
 author: "Dominik Helle"
 
 ---
-<p>Im Rahmen der diesjährigen FOSSGIS-Konferenz entstand die Idee, als Dankeschön für den Fachbereich, ein Deutschland-Stipendium zu vergeben.</p>
+<p>Im Rahmen der diesjährigen FOSSGIS-Konferenz entstand die Idee, als Dankeschön für den Fachbereich, ein Deutschland-Stipendium zu vergeben. Der Verien möchte so auch sein Engagement für Studenten weiter stärken.</p>
 
 <p>Der FOSSGIS e.V. freut sich daher mit diesem Stipendium eine Studentin im Bereich Geoinformation zu unterstützen.</p>
 
