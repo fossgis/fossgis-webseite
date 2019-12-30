@@ -1,5 +1,5 @@
 ---
-title: "Aller guten Dinge sind 13 - Fossgis-OSM-Communitytreffen am ersten
+title: "Aller guten Dinge sind 13 - FOSSGIS-OSM-Communitytreffen am ersten
 Adventswochenende"
 date: "2019-12-29T15:00:00+02:00"
 author: "Oliver Rudzick"
@@ -8,7 +8,7 @@ Triskaidekaphobie ist das Wort für die abergläubische Furcht vor der Zahl
 Dreizehn, die beispielsweise dazu führt, dass die meisten Fluglinien keine
 Reihe 13 in ihren Maschinen haben. Nichtsdestotrotz hat der für seine
 Furchtlosigkeit bekannte FOSSGIS e.V. am Wochenende vom 29.11.-02.12.2020
-zum 13. Mal zum FOSSGIS-OSM-Communitytreffen in Essen eingeladen. 23 Fossgis-
+zum 13. Mal zum FOSSGIS-OSM-Communitytreffen in Essen eingeladen. 23 FOSSGIS-
 und OSM-Begeisterte folgten dieser Einladung und verbrachten ein
 produktives Wochenende im Linuxhotel mit gegenseitigem Austausch,
 gemeinsamem Arbeiten und geselligem Beisammensein.
@@ -32,7 +32,7 @@ Open-Source- und OSM-Projekten gearbeitet: Der OSM-Kartendienst [MapOSMatic](htt
 Ein kleines Team traf sich, um die deutschsprachige Übersetzung der
 [QGIS](https://qgis.de/)-Dokumentation voranzubringen.
 
-Auch das 13. Fossgis-OSM-Communitytreffen war ein voller Erfolg, es wurde
+Auch das 13. FOSSGIS-OSM-Communitytreffen war ein voller Erfolg, es wurde
 wertvolle Arbeit für OSM- und FOSSGIS-Projekte geleistet. Und außerdem
 hatten alle Teilnehmenden auch wieder eine Menge Spaß.
 
@@ -49,11 +49,11 @@ Es steht wieder allen offen, die sich aktiv in die OSM- und FOSSGIS-Community
 einbringen möchten. Selbstverständlich darf bei dem Treffen auch gerne wieder
 gehackt werden.
 
-![Gruppenfoto am Samstag Mittag](/images/2019-11-30_800px-Gruppenfoto_FOSSGIS_Hacking_Event_13.jpg)
+![Gruppenfoto am Samstag Mittag](/news/images/2019-11-30_800px-Gruppenfoto_FOSSGIS_Hacking_Event_13.jpg)
 
-![Agiles Arbeiten an YAGA](/images/2019-11-30_800px-Fossgis-Hackingevent-13_agiles_arbeiten.jpg)
+![Agiles Arbeiten an YAGA](/news/images/2019-11-30_800px-Fossgis-Hackingevent-13_agiles_arbeiten.jpg)
 
-![Nebelschwadenverhangener Panoramablick auf die Ruhr vom Strandkorb hinter dem Hotel](/images/2019-11-30_800px-Fossgis-Hackingevent-13_panorama.jpg)
+![Nebelschwadenverhangener Panoramablick auf die Ruhr vom Strandkorb hinter dem Hotel](/news/images/2019-11-30_800px-Fossgis-Hackingevent-13_panorama.jpg)
 
 [Das 13. Fossgis-OSM-Communitytreffen im Fossgis-Wiki](https://www.fossgis.de/wiki/FOSSGIS_Hacking_Event_2019_Nummer_13)
 
