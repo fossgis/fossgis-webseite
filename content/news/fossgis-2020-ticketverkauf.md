@@ -1,5 +1,5 @@
 ---
-date: "2020-01-08T06:55:00+00:00"
+date: "2020-01-08T06:55:00+01:00"
 title: FOSSGIS-Konferenz 2020 Ticketverkauf eröffnet
 ---
 
