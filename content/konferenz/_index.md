@@ -10,12 +10,13 @@ menu:
 
 Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.
 
-Die FOSSGIS-Konferenz 2019 wurde vom gemeinnützigen FOSSGIS e.V und der OpenStreetMap Community und der Hochschule für Technik und Wirtschaft Dresden veranstaltet.
+Die FOSSGIS-Konferenz 2020 wird vom gemeinnützigen FOSSGIS e.V. und der OpenStreetMap Community mit der [Albert-Ludwigs-Universität Freiburg](https://www.uni-freiburg.de/) veranstaltet.
 
 Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://www.fossgis-konferenz.de).
 
 ### Siehe auch
 
+* [Programm 2020](https://fossgis-konferenz.de/2020/programm/)
 * [Programm 2019](https://pretalx.com/fossgis2019/schedule/)
 * [Programm 2018](https://frab.fossgis-konferenz.de/de/2018/public/schedule)
 * [Programm 2017](https://frab.fossgis-konferenz.de/de/2017/public/schedule)
