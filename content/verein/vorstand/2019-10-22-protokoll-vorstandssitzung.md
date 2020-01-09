@@ -1,6 +1,6 @@
 ---
 title: "Protokoll der Vorstandssitzung am 22.10.2019"
-date: "2019-06-15T08:42:19+00:00"
+date: "2019-10-22T08:42:19+00:00"
 menu:
   side:
     parent: Vorstand
@@ -98,13 +98,14 @@ Beschluss (einstimmig): Es werden die drei Server bestellt und nach dem Umzug
 
 ## 10. OSMF und Localchapter
 
-Es gab eine Äußerung, dass der FOSSGIS in der Workingroup befangen wäre, in Bezug auf OpenSource. OSM wünscht einen pragmatischeren Umgang mit Softwarelizenzen.
+In der OSMF befindet sich die Local Chapters Working Group (LCWG) in der Wiederauferstehung. In einer Diskussion in dieser Arbeitsgruppe über die
+Nutzung von Kommunikationskanälen für OSM-Zwecke behauptete ein Mitglied der Arbeitsgruppe, dass der FOSSGIS als Local Chapter aufgrund seines
+Local-Chapter-Status bei der OSGeo befangen sei und gegen proprietäre Kommunikationskanäle und Software sein müsse.
 
-Frage: Wie stehen wir dazu? Sollten wir darauf Antworten? Wie sollen wir antworten?
+Frage von Michael: Wie stehen wir dazu? Sollten wir darauf Antworten? Wie sollen wir antworten?
 
-Jochen findet die Unterhaltung bisher zu theoretisch. Die Diskussion gab es bereits. Er schlägt aber vor ein allgemeines Statement dazu auf unserer Seite zu veröffentlichen.
-
-Beschluss: Wir erwähnen auf der Mailingliste, dass es die Local Chapter Working Group gibt und, wer möchte, beitreten kann. Wer beitritt, möge uns (Vorstand) darüber informieren.
+Jochen findet die Unterhaltung bisher zu theoretisch. Die Diskussion gab es bereits. Er schlägt aber vor ein allgemeines Statement dazu auf unserer Seite
+zu veröffentlichen. Beschluss: Wir erwähnen auf der Mailingliste, dass es die Local Chapter Working Group gibt und, wer möchte, beitreten kann. Wer beitritt, möge uns (Vorstand) darüber informieren.
 
 ## 11. Förderantrag Trufi Association
 
