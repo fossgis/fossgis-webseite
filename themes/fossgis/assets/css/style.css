@@ -52,7 +52,7 @@ h1, h2 {
 	max-width: 40em;
 }
 
-.main-content ol {
+.main-content ul, .main-content ol {
 	max-width: 36em;
 }
 
