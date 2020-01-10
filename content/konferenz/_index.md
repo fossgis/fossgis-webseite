@@ -8,21 +8,21 @@ menu:
     weight: 3
 ---
 
-Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Software Geo-Software und OpenStreetMap.
+Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Geo-Software und OpenStreetMap.
 
 Die FOSSGIS-Konferenz 2020 wird vom gemeinnützigen FOSSGIS e.V. und der OpenStreetMap Community mit der [Albert-Ludwigs-Universität Freiburg](https://www.uni-freiburg.de/) veranstaltet.
 
 Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://www.fossgis-konferenz.de).
 
-### Siehe auch
+### Vorjahre
 
-* [Programm 2020](https://fossgis-konferenz.de/2020/programm/)
-* [Programm 2019](https://pretalx.com/fossgis2019/schedule/)
-* [Programm 2018](https://frab.fossgis-konferenz.de/de/2018/public/schedule)
-* [Programm 2017](https://frab.fossgis-konferenz.de/de/2017/public/schedule)
-* [Programm 2016](https://frab.fossgis-konferenz.de/de/2016/public/schedule)
-* [Programm 2015](https://www.fossgis-konferenz.de/2015/programm/)
-* [Programm 2014](https://www.fossgis-konferenz.de/2014/programm/)
-* [Programm 2013](https://www.fossgis-konferenz.de/2013/programm/)
-* [Programm 2012](https://www.fossgis-konferenz.de/2012/programm/)
-* [Programm 2011](https://www.fossgis-konferenz.de/2011/programm/)
+* [FOSSGIS-Konferenz 2020](https://fossgis-konferenz.de/2020/) in Freiburg i.Br.
+* [FOSSGIS-Konferenz 2019](https://fossgis-konferenz.de/2019/) in Dresden
+* [FOSSGIS-Konferenz 2018](https://fossgis-konferenz.de/2018/) in Bonn
+* [FOSSGIS-Konferenz 2017](https://fossgis-konferenz.de/2017/) in Passau
+* [FOSSGIS-Konferenz 2016](https://fossgis-konferenz.de/2016/) in Salzburg
+* [FOSSGIS-Konferenz 2015](https://fossgis-konferenz.de/2015/) in Münster
+* [FOSSGIS-Konferenz 2014](https://fossgis-konferenz.de/2014/) in Berlin
+* [FOSSGIS-Konferenz 2013](https://fossgis-konferenz.de/2013/) in Rapperswil
+* [FOSSGIS-Konferenz 2012](https://fossgis-konferenz.de/2012/) in Dessau
+* [FOSSGIS-Konferenz 2011](https://fossgis-konferenz.de/2011/) in Heidelberg

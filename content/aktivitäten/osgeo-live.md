@@ -8,7 +8,7 @@ menu:
 ---
 
 
-OSGeoLive bietet Ihnen die Möglichkeit, Freie und OpenSource Software in Verbindung mit Geodaten auszuprobieren ohne aufwendige Installationen durchführen zu müssen. Das OSGeoLive Projekt wird von der OSGeo Foundation und vielen weiteren [Aktiven](http://live.osgeo.org/en/sponsors.html) getragen.
+OSGeoLive bietet Ihnen die Möglichkeit, Freie und OpenSource Software in Verbindung mit Geodaten auszuprobieren ohne aufwendige Installationen durchführen zu müssen. Das OSGeoLive Projekt wird von der OSGeo Foundation und vielen weiteren [Aktiven](https://live.osgeo.org/en/sponsors.html) getragen.
 
 ![](https://www.fossgis.de/w/images/7/71/Osgeolive.png)
 
@@ -26,6 +26,4 @@ OSGeoLive besteht ausschließlich aus Freier Software, die Sie beliebig weiterge
 * [Kontakt zum OSGeoLive Projekt](https://wiki.osgeo.org/wiki/Live_GIS_Disc#Contact_Us)
 * [Transifex zur Übersetzung von OSGeoLive](https://www.transifex.com/osgeo/osgeolive/)
 
-[![](http://www.fossgis.de/sites/default/files/osgeolive_menu.png)](https://www.transifex.com/osgeo/osgeolive/)
-
-Haben wir Ihr Interesse geweckt? Dann geht es [hier zum Download...](http://live.osgeo.org/de/download.html)
+Haben wir Ihr Interesse geweckt? Dann geht es [hier zum Download...](https://live.osgeo.org/de/download.html)

@@ -44,12 +44,16 @@ h1, h2 {
 	hyphens: auto;
 }
 
-.main-content p, .main-content ul {
+.main-content p, .main-content ul, .main-content ol {
 	-webkit-hyphens: auto;
 	hyphens: auto;
 	text-align: justify;
 
 	max-width: 40em;
+}
+
+.main-content ol {
+	max-width: 36em;
 }
 
 .main-content img {
