@@ -1,7 +1,6 @@
-+++
-title = "Datenschutzerklärung"
-date = "2019-06-15T08:42:19+00:00"
-+++
+---
+title: "Datenschutzerklärung"
+---
 
 ## 1. DATENSCHUTZ
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.

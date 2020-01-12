@@ -1,6 +1,5 @@
 ---
 title: "Konferenz"
-date: "2019-11-15T11:19:42+00:00"
 menu:
   side:
     weight: 40

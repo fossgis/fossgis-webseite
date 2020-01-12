@@ -6,3 +6,5 @@ languageCode = "de-de"
 defaultContentLanguage = "de"
 
 sectionPagesMenu = "main"
+
+enableGitInfo = true
