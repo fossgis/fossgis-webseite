@@ -11,7 +11,7 @@ aliases:
 
 <p>Vom 26.-30. August 2019 fand in Bukarest (Rumänien) die FOSS4G - jährliche internationale
 Konferenz der OSGeo - statt.</p>
-<p><a href="http://2019.foss4g.org/" target="_blank">http://2019.foss4g.org/</a></p>
+<p><a href="https://2019.foss4g.org/" target="_blank">https://2019.foss4g.org/</a></p>
 
 <p>Bereits einige Tage vorher reisten TeilnehmerInnen an, um entweder die Stadt zu erkunden oder um am <a href="https://github.com/qgis/QGIS/wiki/23rd-Contributors-Meeting-in-Bucharest" target="_blank">QGIS-Contributor-Treffen</a> teilzunehmen. Ingesamt besuchten über 1000 Personen die Konferenz, die sehr zentral und in exquisiter Atmosphäre im National Theater und im angrenzenden InterContinental Hotel stattfand.</p>
 
@@ -55,7 +55,7 @@ entscheiden mussten, hat das c3voc-Videoteam des CCC, das uns auch bei der FOSSG
 
 <p>Die FOSS4G ist immer ein beeindruckendes Ereignis. Es ist bewegend zu sehen, dass Menschen aus der ganzen Welt an dieser Konferenz teilnehmen. Auch per Livestream und über die Sozialen Medien wurde die Konferenz weltweit verfolgt. FOSS4G und OSGeo sind rund um den Globus bekannt und bringen Menschen weltweit zusammen. OSGeo Software kommt weltweit zum Einsatz, was vor allem das QGIS-Projekt zeigt. Hier lohnt sich sicherlich der Vortrag von Andreas Neumann zum <a href="https://docs.google.com/presentation/d/1D6WAnmH-1O448HlUiFaDmMoPnTR4EqDf2BHcQl5a4ZM/edit#slide=id.p" target="_blank">Status von QGIS</a></p>
 
-<p>Die FOSS4G 2020 wird Ende August in Calgary (Kanada) stattfinden (<a href="http://2020.foss4g.org/" target="_blank">http://2020.foss4g.org/</a>).</p>
+<p>Die FOSS4G 2020 wird Ende August in Calgary (Kanada) stattfinden (<a href="https://2020.foss4g.org/" target="_blank">https://2020.foss4g.org/</a>).</p>
 
 <p>Voraussichtlich wird es in 2020 auch wieder eine FOSS4G Europe geben.</p>
 

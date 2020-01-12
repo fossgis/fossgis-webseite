@@ -1,5 +1,5 @@
 ---
-title: "Mailingslisten"
+title: "Mailinglisten"
 date: "2019-06-15T08:42:19+00:00"
 menu:
   side:
@@ -31,4 +31,4 @@ Die Abstimmung über Pressemeldungen des Vereins läuft über diese Liste. Ferne
 
 ## OpenStreetMap
 
-Unser Verein betreut zusätzlich eine Reihe von Mailinglisten lokaler OSM-Nutzergruppen im deutschsprachigen Raum. Eine Übersicht findet sich [hier](http://lists.openstreetmap.de/mailman/listinfo).
+Unser Verein betreut zusätzlich eine Reihe von Mailinglisten lokaler OSM-Nutzergruppen im deutschsprachigen Raum. Eine Übersicht findet sich [hier](https://lists.openstreetmap.de/mailman/listinfo).
