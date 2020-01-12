@@ -1,6 +1,5 @@
 ---
 title: "Vorstand"
-date: "2019-11-30T14:31:15+00:00"
 menu:
   side:
     parent: Verein

@@ -1,6 +1,5 @@
 ---
 title: "Mitgliedschaft"
-date: "2019-12-12T14:31:15+00:00"
 menu:
   side:
     parent: Verein
