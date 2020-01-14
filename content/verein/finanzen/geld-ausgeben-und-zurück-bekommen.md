@@ -86,7 +86,7 @@ FOSSGIS nur einer ist, macht ihr sinnvollerweise eine gemeinsame Abrechnung für
 alles, aus der dann hervorgehen muss, welcher Sponsor welchen Anteil bezahlt.
 
 Bei Veranstaltungen, bei denen der Schatzmeister vor Ort ist, kann es auch
-sein, dass er Euch Bargeld in die Hand drückt für einen Einkauf. Ihr bringt
+sein, dass er Euch Bargeld für einen Einkauf in die Hand drückt. Ihr bringt
 dann Beleg und Restgeld zurück und gebt beides dem Schatzmeister. Ab dann seid
 Ihr "außen vor", und der Schatzmeister macht den Rest.
 

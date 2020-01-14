@@ -40,12 +40,12 @@ Der Antrag ist per E-Mail zu richten an
 
 ## Was wird gefördert?
 
-* Eintritt zur Veranstaltung. Die Veranstaltungen, wie die FOSSGIS, sind
-  typischerweise kostenlos für Helfer usw., daher wird das in der Regel
+* Eintritt zur Veranstaltung. Die Veranstaltungen, wie die FOSSGIS-Konferenz,
+  sind typischerweise kostenlos für Helfer usw., daher wird das in der Regel
   nicht nötig sein.
 * Anreise. Maximal 80% eines Bahntickets 2. Klasse innerhalb DACH.
   Beleg muss vorgelegt werden. Flüge werden grundsätzlich nicht bezahlt
-  (Klimaschutz und wegen Schwierigkeit der Preisfindung).
+  (Klimaschutz und wegen der Schwierigkeit der Preisfindung).
 * Übernachtungen während der Veranstaltung. Max. 70 EUR pro Nacht.
   Beleg muss vorgelegt werden. Die Nacht vor Beginn bzw. nach Ende der
   Veranstaltung wird nur bezahlt, wenn eine Anreise noch morgens vor

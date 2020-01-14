@@ -20,18 +20,18 @@ Teilnehmerverpflegung, ggf. auch Reise- und Übernachtungskosten.
 
 **Serverkosten** für Projekte, die Software, Dienste oder Daten im Internet
 zur Verfügung stellen wollen. Typischerweise hosten wir solche Projekte
-auf unseren Servern, es ist aber auch möglich Kosten für andere Server
-zu übernehmen.
+auf unseren Servern, es ist aber auch möglich, eine Förderung für andere Server
+zu beantragen.
 
 Wir sind auch offen für **Sonstige Förderungen**.
 
 ## Ablauf
 
-Als erstes muß ein Antrag im Wiki ausgefüllt werden. Der wird dann eine gewisse
+Als erstes muss ein Antrag im Wiki ausgefüllt werden. Der wird eine gewisse
 Zeit auf der Vereinsmailingliste von den Mitgliedern diskutiert. Der
 Antragsteller sollte an der Diskussion teilnehmen. Danach entscheidet der
-Vorstand dann über die Förderung. Eine Förderung bewegt sich typischerweise im
-drei bis vierstelligen Euro-Bereich.
+Vorstand über die Förderung. Eine Förderung bewegt sich typischerweise im drei
+bis vierstelligen Euro-Bereich.
 
 Nach Ende der Veranstaltung oder des Projektes erwarten wir einen Bericht, den
 wir auf unserer Webseite veröffentlichen. Bei länger laufenden Projekten sollte

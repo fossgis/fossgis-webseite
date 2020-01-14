@@ -22,6 +22,6 @@ besuchen willst, aber nicht genug Geld für Reise- und/oder Unterkunft hast.
 
 Wenn ihr eine Förderung beantragt und genehmigt bekommen habt, dann lest Euch
 bitte [dieses Dokument](/verein/finanzen/geld-ausgeben-und-zurück-bekommen)
-durch. Es erklärt, wie ihr zu dem Geld kommt. Bei Fragen könnt ihr Euch immer
+durch. Es erklärt, wie ihr an das Geld kommt. Bei Fragen könnt ihr Euch immer
 an den Schatzmeister (finanzen@fossgis.de) wenden.
 
