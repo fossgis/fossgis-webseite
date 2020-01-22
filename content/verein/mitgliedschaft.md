@@ -19,7 +19,7 @@ Mitgliedschaft beim FOSSGIS e.V. tun!
 Bitte stelle Deinen Mitgliedsantrag in schriftlicher Form mit dem folgenden
 Formular:
 
-[Mitgliedsantrag als PDF-Datei](/dokumente/mitgliedsantrag_fossgis_2018.pdf)
+[Mitgliedsantrag als PDF-Datei](/verein/mitgliedsantrag_2_0.pdf)
 
 Der ausgefüllte Antrag ist zu senden an:
 
