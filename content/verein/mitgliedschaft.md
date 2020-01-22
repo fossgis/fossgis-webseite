@@ -47,6 +47,6 @@ Die Mitgliedsbeiträge gelten für das laufende Kalenderjahr (1.1.-31.12.).
 
 Es erleichtert uns die Arbeit sehr (und ihr könnt die Zahlung des
 Mitgliedsbeitrags nicht mehr vergessen), wenn Ihr ein
-[Lastschriftmandat](lsmandat.pdf) ausfüllt, unterschreibt und uns eingescannt
-oder per Post schickt.
+[Lastschriftmandat](/verein/lsmandat.pdf) ausfüllt, unterschreibt und uns
+eingescannt oder per Post schickt.
 
