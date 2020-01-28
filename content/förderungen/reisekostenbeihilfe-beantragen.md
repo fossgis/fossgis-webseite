@@ -36,7 +36,7 @@ Der Antrag muss enthalten:
   (z.B. Hackweekends) wird das nicht immer sinnvoll sein.
 
 Der Antrag ist per E-Mail zu richten an
-[reisekostenbeihilfe@fossgis.de](reisekostenbeihilfe@fossgis.de).
+[reisekostenbeihilfe@fossgis.de](mailto:reisekostenbeihilfe@fossgis.de).
 
 ## Was wird gefördert?
 

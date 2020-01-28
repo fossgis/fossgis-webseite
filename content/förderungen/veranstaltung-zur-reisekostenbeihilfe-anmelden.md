@@ -21,5 +21,5 @@ fällt dann nicht in dieses Programm. Veranstaltungen müssen sich entscheiden,
 welche Form der Förderung sie wollen, beides geht in der Regel nicht.
 
 Anmeldungen und Fragen bitte an
-[reisekostenbeihilfe@fossgis.de](reisekostenbeihilfe@fossgis.de).
+[reisekostenbeihilfe@fossgis.de](mailto:reisekostenbeihilfe@fossgis.de).
 
