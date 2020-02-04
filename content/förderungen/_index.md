@@ -16,7 +16,7 @@ sind möglich.
 
 Der FOSSGIS e.V. unterstützt Dich mit einer
 [Reisekostenbeihilfe](reisekostenbeihilfe), wenn Du unsere Veranstaltungen
-besuchen willst, aber nicht genug Geld für Reise- und/oder Unterkunft hast.
+besuchen willst, aber nicht genug Geld für die Anreise und/oder Unterkunft hast.
 
 ## Wie bekomme ich mein Geld?
 
