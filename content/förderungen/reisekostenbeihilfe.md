@@ -3,7 +3,7 @@ title: "Reisekostenbeihilfe"
 menu:
     side:
         parent: "Förderungen"
-        weight: 20
+        weight: 30
 ---
 
 Die Veranstaltungen des FOSSGIS e.V. sind meist kostenlos oder es gibt

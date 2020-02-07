@@ -5,6 +5,11 @@ menu:
         weight: 45
 ---
 
+## Förderung von Vereinstreffen
+
+Für Vereinstreffen, Hackweekends und dergl. können Mitglieder Geld für
+Räumlichkeiten oder Essen und Trinken [beantragen](vereinstreffen).
+
 ## Projektförderungen
 
 Der FOSSGIS e.V. fördert jedes Jahr viele Projekte. Meistens geht es bei den

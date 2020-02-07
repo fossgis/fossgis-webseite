@@ -3,7 +3,7 @@ title: "Projektförderungen"
 menu:
     side:
         parent: "Förderungen"
-        weight: 10
+        weight: 20
 ---
 
 Der Verein fördert viele Projekte aus den Bereichen Open Source und Open Data.
