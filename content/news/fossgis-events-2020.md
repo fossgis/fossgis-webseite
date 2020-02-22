@@ -12,5 +12,5 @@ Das Ereignis des Jahres 2020 rund um **F**reie **O**pen **S**ource **S**oftware 
  * [FOSS4G Europe 2020 in Valmiera (Lettland)](https://2020.europe.foss4g.org/) (13.-18.07.2020)
  * [FOSS4G 2020 in Calgary (Alberta, Canada)](https://2020.foss4g.org/) (24.8.-29.08.2020)
   
-Eine vollst&auml;ndige &Uuml;bersicht &uuml;ber die Veranstaltungen zu OpenStreetMap gibt es im [OSM-Kalender](https://wiki.openstreetmap.org/wiki/Current_events) OSM-Kalender.
-Auch die  OSGeo verf&uuml;gt &uuml;ber eine Veranstaltungs&uuml;bersicht: [OSGeo Events](https://www.osgeo.org/events/) OSGeo Events.
+Eine vollst&auml;ndige &Uuml;bersicht &uuml;ber die Veranstaltungen zu OpenStreetMap gibt es im [OSM-Kalender](https://wiki.openstreetmap.org/wiki/Current_events).
+Auch die  OSGeo verf&uuml;gt &uuml;ber eine Veranstaltungs&uuml;bersicht: [OSGeo Events](https://www.osgeo.org/events/).
