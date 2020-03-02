@@ -2,7 +2,7 @@
 title: "Community"
 menu:
   side:
-    weight: 60
+    weight: 70
   top:
     weight: 5
 ---
