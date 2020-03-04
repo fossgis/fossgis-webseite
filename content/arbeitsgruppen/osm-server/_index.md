@@ -17,6 +17,8 @@ Der Aufgabenbereich des OSM-Server-Teams umfasst zur Zeit
 
 Das Ziel ist es, einen stabilen Betrieb mit hoher Verfügbarkeit zu sichern.
 
+[Nutzungsbedingungen](./nutzungsbedingungen)
+
 # Mitglieder
 
 Leiter: Michael Spreng (<michael.spreng@fossgis.de>)
