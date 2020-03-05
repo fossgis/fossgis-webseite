@@ -21,5 +21,12 @@ Das Ziel ist es, einen stabilen Betrieb mit hoher Verfügbarkeit zu sichern.
 
 # Mitglieder
 
-Leiter: Michael Spreng (<michael.spreng@fossgis.de>)
+* Dietmar Seifert
+* Lars Lingner
+* Michael Reichert
+* Robert Klemm
+* Roland Olbricht
+* Sarah Hoffmann
+* Sven Geggus
+* Leiter: Michael Spreng (<michael.spreng@fossgis.de>)
 
