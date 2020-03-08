@@ -64,6 +64,7 @@ Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
 * [Vorstandssitzung vom 30.11.2019](2019-11-30-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 22.10.2019](2019-10-22-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 17.09.2019](2019-09-17-protokoll-vorstandssitzung)
+* [Vorstandssitzung vom 28.01.2020](2020-01-28-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 18.02.2020](2020-02-18-protokoll-vorstandssitzung)
 
 Ältere Protokolle der Vorstandssitzung wurden [im
