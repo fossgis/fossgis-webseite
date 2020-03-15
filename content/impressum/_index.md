@@ -7,20 +7,21 @@ aliases:
 
 ## Angaben gemäß § 5 TMG
 
-FOSSGIS e.V.
-Römerweg 5
-79199 Kirchzarten
+    FOSSGIS e.V.
+    Römerweg 5
+    79199 Kirchzarten
 
 ## Vertreten durch
 
-Dominik Helle
-Jörg Thomsen
-Jochen Topf
-Hanna Krüger
+* Dominik Helle
+* Jörg Thomsen
+* Jochen Topf
+* Hanna Krüger
 
 ## Kontakt
 
 Telefon: +49 331 2812 9857
+
 E-Mail: [info@fossgis.de](mailto:info@fossgis.de)
 
 ## Registereintrag
