@@ -7,26 +7,26 @@ aliases:
 
 ## Angaben gemäß § 5 TMG
 
-FOSSGIS e.V.  
-Römerweg 5  
+FOSSGIS e.V.
+Römerweg 5
 79199 Kirchzarten
 
 ## Vertreten durch
 
-Dominik Helle  
-Michael Reichert  
-Jochen Topf  
-Arne Schubert
+Dominik Helle
+Jörg Thomsen
+Jochen Topf
+Hanna Krüger
 
 ## Kontakt
 
-Telefon: +49 331 2812 9857  
+Telefon: +49 331 2812 9857
 E-Mail: [info@fossgis.de](mailto:info@fossgis.de)
 
 ## Registereintrag
 
-Eintragung im Vereinsregister.  
-Registergericht: Stadt Mainz  
+Eintragung im Vereinsregister.
+Registergericht: Stadt Mainz
 Registernummer: 90 VR 3594
 
 ## Streitschlichtung
