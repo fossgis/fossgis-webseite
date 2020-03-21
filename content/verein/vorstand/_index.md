@@ -10,9 +10,9 @@ Der Vorstand des FOSSGIS e.V. wird jedes Jahr auf der Mitgliederversammlung
 gewählt. Zur Zeit besteht er aus:
 
 * Dominik Helle (1. Vorsitz)
-* Michael Reichert (2. Vorsitz)
+* Jörg Thomsen (2. Vorsitz)
 * Jochen Topf (Finanzen)
-* Arne Schubert (Schriftführer)
+* Hanna Krüger (Schriftführer)
 
 ## Was macht der Vorstand?
 
