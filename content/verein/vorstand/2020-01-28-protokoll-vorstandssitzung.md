@@ -1,4 +1,6 @@
-Vorstandssitzung 28.01.2020
+---
+title: "Protokoll der Vorstandssitzung 28.01.2020"
+---
 
 Beginn: 20:30 Uhr
 
