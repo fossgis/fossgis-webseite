@@ -1,10 +1,5 @@
 ---
 title: "Protokoll der Vorstandssitzung 30.11.2019"
-date: "2019-11-30T08:42:19+00:00"
-menu:
-  side:
-    parent: Vorstand
-    weight: 30
 ---
 
 Anwesende Vorstände: 
