@@ -41,6 +41,12 @@ Seit 1.1.2009 beträgt der Jahresbeitrag...
 * für nicht Erwerbstätige/Studierende: 10 Euro
 * für juristische Personen: 100 Euro
 
+Ab dem 1.1.2021 beträgt der Jahresbeitrag...
+
+* für Erwerbstätige: 40 Euro
+* für nicht Erwerbstätige/Studierende: 10 Euro
+* für juristische Personen: 200 Euro
+
 Die Mitgliedsbeiträge gelten für das laufende Kalenderjahr (1.1.-31.12.).
 
 ## Lastschriftmandat
