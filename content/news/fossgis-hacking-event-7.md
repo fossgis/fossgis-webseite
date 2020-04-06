@@ -10,7 +10,7 @@ aliases:
 <p>
 Vom 20.1.-22.1.2017 trafen sich zum nunmehr siebten Mal OSM- und Geodatenbegeisterte zum FOSSGIS-Hackingevent im Linuxhotel. Aus ganz Deutschland machten sich 22 Interessierte auf den Weg nach Essen. Bei draußen eisigen Temperaturen und Sonnenschein trafen sie sich in den gemütlichen Räumen des Linuxhotels. 
 </p>
-<img src="/news/legacy/800px-PANO_20170121_085343_kl.jpg">
+<img width="800px" src="/news/images/2017-01-29-PANO_20170121_085343_kl.jpg"/>
 
 <p>
 Es wurde wieder intensiv an einer Vielzahl von Open-Source-Projekten gearbeitet und diskutiert. Außerdem erfolgten wichtige Vorbereitungen für die im März in Passau stattfindende FOSSGIS-Konferenz. Manche Themen wurden auch bei einem Spaziergang an der Ruhr diskutiert. Viele der Teilnehmer waren zum ersten Mal beim FOSSGIS Hacking Event und waren von dem einizgartigen Ambiente des Linuxhotels und dem herzlichen Austausch begeistert. 

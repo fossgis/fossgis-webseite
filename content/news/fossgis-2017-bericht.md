@@ -135,13 +135,13 @@ In 2017 ist der FOSSGIS e.V. auf verschiedenen Veranstaltungen aktiv oder als Sp
 
 <ul>
   <li>8. FOSSGIS Hacking Event 2017 vom 23.-25.6.2017 im Linuxhotel https://www.fossgis.de/wiki/FOSSGIS_Hacking_Event_2017_Nummer_8</li>
-  <li>AGIT 2017 â€“ vom 05. bis 07. Juli 2017 in Salzburg mit OSGeo Park und OSGeo Day http://agit.at/</li>
+  <li>AGIT 2017 vom 05. bis 07. Juli 2017 in Salzburg mit OSGeo Park und OSGeo Day http://agit.at/</li>
   <li>FOSS4G Europe 2017 Paris 18.-22. Juli 2017 https://europe.foss4g.org/2017/</li>
   <li>FOSS4G 2017 Boston 14.-19. August 2017 http://2017.foss4g.org/</li>
   <li>SOTM 2017 18.-20,8.2017 in Aizuwakamatsu, Fukushima, Japan. http://2017.stateofthemap.org/</li>
   <li>FrOSCon 2017 19.-20. August 2017 Hochschule Bonn-Rhein-Sieg https://www.froscon.de/startseite/</li>
   <li>Intergeo 26.-28.9 in Berlin (in Planung) https://www.intergeo.de/</li>
-  <li>... und natürlich viele Stammtische https://www.fossgis.de/community_stammtische.html. Hiweis: Wer die <a href="http://blog.openstreetmap.de/" target="_blank">OSM Wochennotiz</a> liest, ist immer gut informiert.
+  <li>... und natürlich viele Stammtische. Hinweis: Wer die <a href="https://blog.openstreetmap.de/" target="_blank">OSM Wochennotiz</a> liest, ist immer gut informiert.
 </ul>
 </p>
 <p>

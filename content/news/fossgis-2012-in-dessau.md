@@ -9,4 +9,4 @@ aliases:
 
 <p><strong>Der Ort für die FOSSGIS 2012 ist festgelegt!</strong></p>
 <p>Die FOSSGIS 2012 findet vom 20. bis 22 März in Dessau statt!</p>
-<p><strong>Zur <a href="http://www.fossgis.de/konferenz/2012/">offiziellen Seite der FOSSGIS-Konferenz 2012</a> geht&#39;s <a href="http://www.fossgis.de/konferenz/2012/">hier.</a></strong></p>
+<p><strong>Zur <a href="https://fossgis-konferenz.de/2012/">offiziellen Seite der FOSSGIS-Konferenz 2012</a> geht&#39;s <a href="https://fossgis-konferenz.de/2012/">hier.</a></strong></p>

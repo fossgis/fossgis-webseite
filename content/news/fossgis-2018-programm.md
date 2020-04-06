@@ -8,7 +8,7 @@ aliases:
 ---
 
 <p>
-Die FOSSGIS-Konferenz 2018 in Bonn rückt näher. Das Programm wurde veröffentlicht und die Anmeldung ist eröffnet. Der Frühbucherrabatt gilt bis zum 06.02.2018, 21 Uhr. <a href="https://www.fossgis-konferenz.de/2018/anmeldung/" target="_blank" alt="zur Anmeldung FOSSGIS 2018">Jetzt anmelden!</a>&nbsp;<a href="/news/legacy/FOSSGIS_Konferenz_Maerz_2018_Bonn.pdf" target="_blank" alt="zum FOSSGIS 2018 Werbeflyer">Jetzt Werbeposter drucken und aufhängen!</a><br>
+Die FOSSGIS-Konferenz 2018 in Bonn rückt näher. Das Programm wurde veröffentlicht und die Anmeldung ist eröffnet. Der Frühbucherrabatt gilt bis zum 06.02.2018, 21 Uhr.
 </p>
 <p>
 <img src="/news/legacy/fossgis-konferenz-2018_0.png" width=80px />&nbsp;

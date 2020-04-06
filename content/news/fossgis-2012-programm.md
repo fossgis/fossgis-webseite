@@ -14,6 +14,6 @@ aliases:
 </div>
 <div class="views-field-body">
 	<div class="field-content">
-		<p><strong>zur <a href="../../konferenz/2012/">offiziellen Seite der FOSSGIS-Konferenz 2012</a> </strong></p>
+		<p><strong>zur <a href="https://fossgis-konferenz.de/2012/">offiziellen Seite der FOSSGIS-Konferenz 2012</a> </strong></p>
 	</div>
 </div>

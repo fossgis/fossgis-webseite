@@ -7,7 +7,7 @@ aliases:
   - "/fossgis-sotm19"
 ---
 
-<p><img style="margin-left: auto; margin-right: auto;" src="/sites/default/files/sotm19-dark-quer.png" width="450" alt="Logobanner der State of the Map 2019"></p>
+<p><img style="margin-left: auto; margin-right: auto;" src="/news/images/2019-04-18-sotm19-dark-quer.png" width="450" alt="Logobanner der State of the Map 2019"></p>
 
 <p>Vom  21. bis 23. September 2019 findet an der Universität Heidelberg die Konferenz <a href="https://2019.stateofthemap.org/">State of the Map</a> (SotM) statt. Die "State of the Map" ist die internationale Konferenz über OpenStreetMap, die die OpenStreetMap Foundation jedes Jahr in einem anderen Land ausrichtet. Sie findet dieses Jahr erstmals in Deutschland statt.</p>
 
