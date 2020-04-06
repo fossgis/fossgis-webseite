@@ -3,7 +3,7 @@ date: "2020-01-08T06:55:00+01:00"
 title: FOSSGIS-Konferenz 2020 Ticketverkauf eröffnet
 ---
 
-![Freiburg Skyline](/news/legacy/freiburg-skyline.png)
+![Freiburg Skyline](/news/images/2020-01-08-freiburg-skyline.png)
 
 Der Ticketverkauf zur FOSSGIS-Konferenz 2020 wurde eröffnet, weitere Informationen sind zu finden auf der [Homepage der Konferenz](https://www.fossgis-konferenz.de/2020/anmeldung).
 Das Programmkomitee hat aus den einreichten Vorschlägen ein interessantes und [vielfältiges Programm](https://www.fossgis-konferenz.de/2020/programm) zusammengestellt.

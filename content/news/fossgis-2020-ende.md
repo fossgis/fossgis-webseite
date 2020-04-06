@@ -1,5 +1,5 @@
 ---
-title: "Erfolgreiche FOSSGIS Konferenz 2020 in Freiburg"
+title: "Erfolgreiche FOSSGIS-Konferenz 2020 in Freiburg"
 date: "2020-04-03T14:00:00+02:00"
 author: "Katja Haferkorn"
 ---
@@ -7,12 +7,12 @@ author: "Katja Haferkorn"
 
 389 Teilnehmer*innen informieren sich bei der FOSSGIS 2020 über freie GIS-Software und OpenStreetMap.
 
-![Gruppenfoto FOSSGIS 2020](/news/legacy/FOSSGIS2020-gruppenfoto.jpg)
+![Gruppenfoto FOSSGIS 2020](/news/images/2020-04-03-FOSSGIS2020-gruppenfoto.jpg)
 
 Die jährliche Konferenz des FOSSGIS e.V., welche gemeinsam mit der Universität Freiburg veranstaltet wurde, war Treffpunkt für Themen rund um freie GIS-Software und OpenStreetMap. In 60 Vorträgen und 13 Lightning Talks zu QGIS, MapServer, Satellitendaten- und OSM-Datenverarbeitung, XPlanung, Tile-Serverlösungen oder neuen OGC-API-Standards konnten die Teilnehmerinnen viel von den Referentinnen lernen. Zusätzlich konnten die Teilnehmer*innen einen der 21 Workshops besuchen.
 
 
-![Gruppenfoto FOSSGIS 2020](/news/legacy/FOSSGIS2020-hoersaal.jpg)
+![Gruppenfoto FOSSGIS 2020](/news/images/2020-04-03-FOSSGIS2020-hoersaal.jpg)
 
 In Freiburg wäre für bis zu 650 Teilnehmerinnen eine Teilnahme möglich gewesen, aufgrund der COVID-19-Pandemie sagten viele ihre Teilnahme ab.
 Durch die Aufzeichnung aller Vorträge und Übertragung im Livestream bot sich die Möglichkeit, die FOSSGIS-Vorträge live mitzuschauen.
