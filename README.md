@@ -30,3 +30,29 @@ Im Zweifelsfall Inhalte anlegen und Pull Request öffnen, wir finden eine Lösun
 
 - Überschriften mit max. 80—100 Zeichen
 - Die Dateinamen bestimmen die spätere URL, bitte kurz und prägnant, wie z.B. `fossgis-2019-cfp.md`
+
+## News anlegen
+
+*Früher wurden Artikel teilweise in anderen Formaten angelegt. Um die URLs
+nicht zu ändern, lassen wir die alten Artikel so.*
+
+Um einen News-Artikel anzulegen, legt man unter `content/news/` eine Datei an.
+Sie sollte als erstes das Datum im Namen haben und eine Markdown-Datei sein.
+Also etwa `2020-03-04-Great-News.md`.
+
+Oben muss dann rein:
+
+```
+---
+title: "Great News"
+date: "2020-03-04T11:00:00+02:00"
+author: "Oskar Seltenfröhlich"
+---
+```
+
+Darunter dann der Text im Markdown-Format.
+
+Verlinkte Bilder gehören nach `static/news/images`. Auch sie bekommen das Datum
+vorne in den Dateinamen. Bilder sollten immer lokal verlinkt werden, damit die
+News-Artikel nicht kaputt gehen, wenn sich externe Inhalte ändern.
+
