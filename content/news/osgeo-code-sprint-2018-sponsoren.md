@@ -21,7 +21,7 @@ aliases:
 
 <p>Was bieten wir:
 <ul>
-<li>Ihr Logo oben auf den <a href="http://osgeo.getinteractive.nl/events/osgeo-code-sprint-2018/">Webseiten des Code Sprints</a> [<a href="https://wiki.osgeo.org/wiki/OSGeo_Code_Sprint_2018">1</a>] als auch auf allen offiziellen Dokumenten rund um den Code Sprint</li>
+<li>Ihr Logo oben auf den Webseiten des Code Sprints [<a href="https://wiki.osgeo.org/wiki/OSGeo_Code_Sprint_2018">1</a>] als auch auf allen offiziellen Dokumenten rund um den Code Sprint</li>
 <li>Erwähnung in allen Mails rund um den Code Sprint</li>
 <li>...und last not least: Der Dank der Open Source Community ist unbezahlbar!</li>
 </ul>
@@ -40,13 +40,13 @@ Also...
 </ul>
 Herzlichen Dank!</p>
 
-<p>Kontakt: OSGeo Code Sprint unterstützen möchten, kontaktieren Sie bitte <a href="mailto:astrid_emde@osgeo.org">Astrid Emde</a>. Information zum Sponsoring <a href="https://www.fossgis.de/sites/default/files/Sponsoring_OSGeo_Code_Sprint_2018_Bonn_de_0.pdf">(pdf)</a>.</p> 
+<p>Kontakt: OSGeo Code Sprint unterstützen möchten, kontaktieren Sie bitte <a href="mailto:astrid_emde@osgeo.org">Astrid Emde</a>. Information zum Sponsoring [not available any more].</p>
 
 <p>The Open Source Geospatial Foundation (OSGeo) has a long tradition of organizing code sprints for developers of Open Source GIS software.
 (https://wiki.osgeo.org/wiki/Category:Code_Sprints).</p>
 
 <p>Simultaneously with the <a href="https://www.fossgis-konferenz.de/2018/">FOSSGIS Conference 2018 in Bonn</a> an international code sprint of the OSGeo will take place from 18 to 25 March 2018.
-We expect about 80 developers from all over the world to come from various <a href="http://www.osgeo.org/">projects</a>. Whether desktop application, geospatial library, metadata catalog or web mapping: be sure to find products in the list that you use. Thus, the Code Sprint is also an opportunity for your developers to meet with the core developers of the projects, get a deeper insight into the software and participate in the development.</p>
+We expect about 80 developers from all over the world to come from various <a href="https://www.osgeo.org/">projects</a>. Whether desktop application, geospatial library, metadata catalog or web mapping: be sure to find products in the list that you use. Thus, the Code Sprint is also an opportunity for your developers to meet with the core developers of the projects, get a deeper insight into the software and participate in the development.</p>
 
 <p>The code sprint will take place at <a href="http://www.basecamp-bonn.de/">BaseCamp</a> in Bonn. During the <a href="http://www.foss4g2016.org/home.html">FOSS4G 2016</a> in Bonn we have already organized a <a href="https://wiki.osgeo.org/wiki/FOSS4G_2016_Code_Sprint">code sprint</a> at this location, in which about 100 developers worked on the open source projects every day.</p>
 
@@ -58,7 +58,7 @@ We expect about 80 developers from all over the world to come from various <a hr
 
 <p>What we offer:
 <ul>
-<li>Your logo on top of the <a href="http://osgeo.getinteractive.nl/events/osgeo-code-sprint-2018/">websites of the Code Sprint</a> [<a href="https://wiki.osgeo.org/wiki/OSGeo_Code_Sprint_2018">1</a>] as well as on all official documents around the Code Sprint</li>
+<li>Your logo on top of the websites of the Code Sprint [<a href="https://wiki.osgeo.org/wiki/OSGeo_Code_Sprint_2018">1</a>] as well as on all official documents around the Code Sprint</li>
 <li>Mention in all code sprint related mails</li>
 <li>Our undying gratitude, which comes in handy when you least expect it (Remember that feature you wanted...)</li>
 </ul>
@@ -76,4 +76,4 @@ So...
 </ul>
 Thank you very much!</p>
 
-<p>Contact: To sponsor, please contact <a href="mailto:astrid_emde@osgeo.org">Astrid Emde</a> directly. <a href="https://www.fossgis.de/sites/default/files/Sponsoring_OSGeo_Code_Sprint_2018_Bonn_en_0.pdf">Information about the sponsoring (pdf)</a></p> 
+<p>Contact: To sponsor, please contact <a href="mailto:astrid_emde@osgeo.org">Astrid Emde</a> directly.</p>

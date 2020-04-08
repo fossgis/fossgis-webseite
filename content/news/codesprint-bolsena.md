@@ -7,6 +7,6 @@ aliases:
 
 ---
 
-<p>Die Teilnehmer des Codesprints 2013 in Bolsena bedanken sich beim FOSSGIS e.V. Im verlinkten Bericht lesen Sie mehr über das Treffen in Bolsena.<a href="http://www.fossgis.de/wiki/Bericht_Bolsena_2013_Bolsena_2013_-_Bericht"><br />
+<p>Die Teilnehmer des Codesprints 2013 in Bolsena bedanken sich beim FOSSGIS e.V. Im verlinkten Bericht lesen Sie mehr über das Treffen in Bolsena.<a href="https://www.fossgis.de/wiki/Bericht_Bolsena_2013_Bolsena_2013_-_Bericht"><br />
 	<br />
-	http://www.fossgis.de/wiki/Bericht_Bolsena_2013_Bolsena_2013_-_Bericht</a></p>
+	https://www.fossgis.de/wiki/Bericht_Bolsena_2013_Bolsena_2013_-_Bericht</a></p>

@@ -11,9 +11,9 @@ aliases:
 <p>Wer Engel sein möchte, registriert sich im Engelsystem [4] und bucht eine passende Arbeitsschicht. Für Fragen, die im Wikitext nicht beantwortet sind, stehen im System die Erzengel bereit (&quot;Ask an archangel&quot;).</p>
 <p>Freundliche Grüße FOSSGIS-Konferenz-Oranisationsteam</p>
 <p>Links:<br />
-	[1] <a class="external text" href="http://www.fossgis.de/konferenz/2015/anmeldung/" rel="nofollow" title="http://www.fossgis.de/konferenz/2015/anmeldung/">Anmeldung zur Konferenz</a></p>
-<p>[2] <a class="external text" href="http://www.fossgis.de/konferenz/2015/programm/" rel="nofollow" title="http://www.fossgis.de/konferenz/2015/programm/">Programm</a></p>
-<p>[3] <a class="external text" href="http://www.fossgis.de/wiki/Konferenz_2015/Helfer" rel="nofollow" title="http://www.fossgis.de/wiki/Konferenz_2015/Helfer">Wikiseite Engelsystem</a></p>
+	[1] <a class="external text" href="https://www.fossgis.de/konferenz/2015/anmeldung/" rel="nofollow" title="https://www.fossgis.de/konferenz/2015/anmeldung/">Anmeldung zur Konferenz</a></p>
+<p>[2] <a class="external text" href="https://www.fossgis.de/konferenz/2015/programm/" rel="nofollow" title="https://www.fossgis.de/konferenz/2015/programm/">Programm</a></p>
+<p>[3] <a class="external text" href="https://www.fossgis.de/wiki/Konferenz_2015/Helfer" rel="nofollow" title="https://www.fossgis.de/wiki/Konferenz_2015/Helfer">Wikiseite Engelsystem</a></p>
 <p>[4] <a class="external text" href="http://helfer.fossgis.de/" rel="nofollow" title="http://helfer.fossgis.de/">Engelsystem</a></p>
 <p><br />
 	&nbsp;</p>

@@ -21,7 +21,7 @@ Herzlichen Dank an alle Rednerinnen und das Programmkomitee für das gelungene P
 Die Herausforderung bestand darin das Programm möglichst vollständig zu halten.
 Danke an die Redner für die Bereitschaft den Vortrag über das Internet zu halten und danke an das Videoteam vom C3VOC für die professionelle Umsetzung.
 
-Alle veröffentlichten Videos und Vortragsfolien sind im <a href=https://www.fossgis-konferenz.de/2020/programm/">Vortragsprogramm</a> eingebettet und gesammelt auf <a href="https://media.ccc.de/c/fossgis2020">MediaCCC</a> sowie auf <a href="https://www.youtube.com/playlist?list=PLTli5-lbeoiZtkFHEWZk2Lp0eKNhOgpDr">YouTube</a>. Danke an das Videoteam vom C3VOC für die tolle Arbeit!
+Alle veröffentlichten Videos und Vortragsfolien sind im <a href="https://www.fossgis-konferenz.de/2020/programm/">Vortragsprogramm</a> eingebettet und gesammelt auf <a href="https://media.ccc.de/c/fossgis2020">MediaCCC</a> sowie auf <a href="https://www.youtube.com/playlist?list=PLTli5-lbeoiZtkFHEWZk2Lp0eKNhOgpDr">YouTube</a>. Danke an das Videoteam vom C3VOC für die tolle Arbeit!
 
 Die Vorträge stehen außerdem im <a href="https://av.tib.eu/series/631/fossgis+2020">TIB AV-Portal</a> zur Verfügung.
 

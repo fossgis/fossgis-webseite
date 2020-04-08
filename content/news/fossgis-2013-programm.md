@@ -21,4 +21,4 @@ aliases:
 <div id="cke_pastebin">
 	&nbsp;</div>
 <div id="cke_pastebin">
-	Da bis zu 400 Teilnehmer erwartet werden, ist eine Registrierung bis zum 04. Juni 2013 notwendig. Das Programm, Anmeldeformular und andere organisatorische Informationen finden sich auf der Konferenzseite unter http://www.fossgis.de/konferenz/2013/</div>
+	Da bis zu 400 Teilnehmer erwartet werden, ist eine Registrierung bis zum 04. Juni 2013 notwendig. Das Programm, Anmeldeformular und andere organisatorische Informationen finden sich auf der Konferenzseite unter https://www.fossgis.de/konferenz/2013/</div>

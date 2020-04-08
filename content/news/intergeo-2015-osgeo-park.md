@@ -12,5 +12,5 @@ aliases:
 	<br />
 	Neben der OSGeo Rechnerbereich mit den Projektständen und den ausstellenden Firmen, fand ein tagesfüllendes Vortragsprogramm statt. In Kurzvorträgen bekam das Publikum einen schnellen, aber weitreichenden Einblick in die Welt der Open-Source-Software und den damit verbundenen Möglichkeiten.</p>
 <p><br />
-	Vortragsprogramm zum Download: http://www.fossgis.de/wiki/Intergeo_2015<br />
+	Vortragsprogramm zum Download: https://www.fossgis.de/wiki/Intergeo_2015<br />
 	&nbsp;</p>

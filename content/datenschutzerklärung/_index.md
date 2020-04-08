@@ -56,6 +56,6 @@ Wenn Ihr Browser Web Fonts nicht unterstützt, wird eine Standardschrift von Ihr
 Weitere Informationen zu Google Web Fonts finden Sie unter https://developers.google.com/fonts/faq und in der Datenschutzerklärung von Google: https://www.google.com/policies/privacy/.
 
 ## 9. OPENSTREETMAP
-Wir binden die Landkarten des Dienstes "OpenStreetMap" ein (https://www.openstreetmap.org), die auf Grundlage der Open Data Commons Open Database Lizenz (ODbL) durch die OpenStreetMap Foundation (OSMF) angeboten werden. Datenschutzerklärung: https://wiki.openstreetmap.org/wiki/Privacy_Policy).
+Wir binden die Landkarten des Dienstes "OpenStreetMap" ein (https://www.openstreetmap.org), die auf Grundlage der Open Data Commons Open Database Lizenz (ODbL) durch die OpenStreetMap Foundation (OSMF) angeboten werden. [Datenschutzerklärung der OSMF](https://wiki.osmfoundation.org/wiki/Privacy_Policy).
 
 Nach unserer Kenntnis werden die Daten der Nutzer durch OpenStreetMap ausschließlich zu Zwecken der Darstellung der Kartenfunktionen und Zwischenspeicherung der gewählten Einstellungen verwendet. Zu diesen Daten können insbesondere IP-Adressen und Standortdaten der Nutzer gehören, die jedoch nicht ohne deren Einwilligung (im Regelfall im Rahmen der Einstellungen ihrer Mobilgeräte vollzogen), erhoben werden.

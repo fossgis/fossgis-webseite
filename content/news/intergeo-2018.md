@@ -15,7 +15,7 @@ aliases:
 Vom 16.-18. Oktober 2018 findet in diesem Jahr die INTERGEO 2018 in Frankfurt statt.
 </p>
 <p>
-<img src="http://www.fossgis.de/sites/default/files/intergeo2018_logo.jpg">
+<img src="https://www.fossgis.de/sites/default/files/intergeo2018_logo.jpg">
 </p>
 <br />
 <p>
@@ -31,7 +31,7 @@ Auf dem OSGeo Park können Besucher sich während der drei Veranstaltungstage ü
 <br />
 <p>
 <b>Vortragsbereich rund um OSGeo Projekte und OSM</b><br />
-Neben einem OSGeo & OSM Informationsstand gibt es ein tagesfüllendes Vortragsprogramm. In Kurzvorträgen bekommen die Besucher einen schnellen, aber weitreichenden Einblick in die Welt der Open-Source-Software aus dem GIS Bereich und den damit verbundenen Möglichkeiten (zum Programm <a href="http://www.fossgis.de/wiki/INTERGEO_2018#Vortragsprogramm" target="_blank">INTERGEO 2018</a>).
+Neben einem OSGeo & OSM Informationsstand gibt es ein tagesfüllendes Vortragsprogramm. In Kurzvorträgen bekommen die Besucher einen schnellen, aber weitreichenden Einblick in die Welt der Open-Source-Software aus dem GIS Bereich und den damit verbundenen Möglichkeiten (zum Programm <a href="https://www.fossgis.de/wiki/INTERGEO_2018#Vortragsprogramm" target="_blank">INTERGEO 2018</a>).
 </p>
 <p>
 <img src="/news/legacy/1.jpg">

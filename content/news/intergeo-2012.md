@@ -13,7 +13,7 @@ aliases:
 <div id="cke_pastebin">
 	&nbsp;</div>
 <div id="cke_pastebin">
-	Der OSGeo-Park lockte während der drei Veranstaltungstage viele Besucher an, die sich über zahlreiche Lösungen im Bereich Open Source informierten. Neben den Projektständen und den ausstellenden Firmen war das Vortragsforum ein Anziehungspunkt. In Kurzvorträgen wurde dem Publikum ein schneller, aber weitreichender Einblick in die Welt der Open-Source-Software und den damit verbundenen Möglichkeiten gegegeben (<a href="http://www.fossgis.de/wiki/Intergeo_2012/Vortragsprogramm">Zu den Kurzvorträgen</a>).</div>
+	Der OSGeo-Park lockte während der drei Veranstaltungstage viele Besucher an, die sich über zahlreiche Lösungen im Bereich Open Source informierten. Neben den Projektständen und den ausstellenden Firmen war das Vortragsforum ein Anziehungspunkt. In Kurzvorträgen wurde dem Publikum ein schneller, aber weitreichender Einblick in die Welt der Open-Source-Software und den damit verbundenen Möglichkeiten gegegeben (<a href="https://www.fossgis.de/wiki/Intergeo_2012/Vortragsprogramm">Zu den Kurzvorträgen</a>).</div>
 <div id="cke_pastebin">
 	&nbsp;</div>
 <div id="cke_pastebin">

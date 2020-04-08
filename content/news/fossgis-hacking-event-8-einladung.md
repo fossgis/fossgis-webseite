@@ -7,7 +7,7 @@ aliases:
 
 ---
 
-Der FOSSGIS e.V. lädt zum 8. FOSSGIS Hacking Event und gleichzeitig zum 3. OpenStreetMap SommerCamp im Linuxhotel (http://linuxhotel.de) ein.
+Der FOSSGIS e.V. lädt zum 8. FOSSGIS Hacking Event und gleichzeitig zum 3. OpenStreetMap SommerCamp im Linuxhotel (https://linuxhotel.de/) ein.
 
 https://www.fossgis.de/wiki/FOSSGIS_Hacking_Event_2017_Nummer_8
 

@@ -19,7 +19,7 @@ Call for Papers: <a href="https://www.froscon.de/cfp/" target="_blank">https://w
 <h4>FrOSCON 12 mit OSGeo & OSM Subkonferenz</h4>
 Open Geospatial, OpenStreetMap, OpenData, freie Software aus dem GIS-Bereich
 <p>
-Zum ersten Mal soll es in 2017 eine eigene Subkonferenz rund um freie Geodaten & -software auf der FrOSCon geben. Der FOSSGIS e.V. (http://fossgis.de) veranstaltet diesen Track und sucht Vorträge rund um OpenStreetMap, freie Geodaten, freie Software aus dem GIS-Bereich & mehr. Hierbei können sowohl Lightening Talks (20 min) als auch längere Vorträge (45 min) eingereicht werden.
+Zum ersten Mal soll es in 2017 eine eigene Subkonferenz rund um freie Geodaten & -software auf der FrOSCon geben. Der FOSSGIS e.V. (https://www.fossgis.de/) veranstaltet diesen Track und sucht Vorträge rund um OpenStreetMap, freie Geodaten, freie Software aus dem GIS-Bereich & mehr. Hierbei können sowohl Lightening Talks (20 min) als auch längere Vorträge (45 min) eingereicht werden.
 </p>
 <p>
 Wir freuen uns auf eure Beiträge und eine spannende Konferenz!

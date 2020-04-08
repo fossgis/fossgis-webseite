@@ -35,7 +35,7 @@ stattfindende <a href="https://wiki.osgeo.org/wiki/OSGeo_Code_Sprint_2018">OSGeo
 <p><a href="https://www.fossgis.de/wiki/FOSSGIS_Hacking_Event_2017_Nummer_9">Eine ausführlichere Dokumentation der Ergebnisse gibt es im FOSSGIS-Wiki.</a></p>
 
 <p>Auch im Jahr 2018 wird es sicher wieder <a href="https://www.fossgis.de/wiki/FOSSGIS_Hacking_Events">FOSSGIS-Hacking-Events</a> geben. Die Termine werden rechtzeitig über die
-<a href=" https://www.fossgis.de/community_mailinglisten.html">FOSSGIS-Mailinglisten</a> bekanntgegeben.</p>
+<a href=" https://www.fossgis.de/community/mailinglisten">FOSSGIS-Mailinglisten</a> bekanntgegeben.</p>
 
 <p>Das neunte <a href="https://www.fossgis.de/wiki/FOSSGIS_Hacking_Events">FOSSGIS-Hacking-Event</a> war,
 wie die acht vorangegangenen,

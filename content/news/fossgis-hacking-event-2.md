@@ -8,14 +8,14 @@ aliases:
 ---
 
 <p>Vom 9.-11. Januar 2015 fanden sich im Linuxhotel in Essen 27 begeisterte Hacker und Hackerinnen zusammen, um ein Wochenende intensiv an OpenSource Projekten zu arbeiten. Es war ein stürmisches und verregnetes Wochenende, so dass das Arbeiten im warmen und gemütlichen Linuxhotel umso angenehmer war. Wäre da nicht der Baum gewesen, der aus heiterem Himmel auf ein Auto kippte.</p>
-<p><img alt="" src="http://www.fossgis.de/w/images/4/49/IMG_20150110_122400.jpg" width="500" /></p>
+<p><img alt="" src="https://www.fossgis.de/w/images/4/49/IMG_20150110_122400.jpg" width="500" /></p>
 <p>Die anschließenden Holzarbeiten lockten viele der Teinehmer nach draußen. Glücklicherweise gab es nur Blechschaden und niemand wurde verletzt.</p>
 <div class="thumb tleft">
 	<div class="thumbinner">
-		<a class="image" href="http://www.fossgis.de/wiki/Datei:2_FOSSGIS_Hacking_Januar_2015_Gruppenfoto.jpg" title="Gruppenfoto auf der Treppe @Nakaner"><img alt="" border="0" class="thumbimage" src="http://www.fossgis.de/w/images/thumb/b/ba/2_FOSSGIS_Hacking_Januar_2015_Gruppenfoto.jpg/500px-2_FOSSGIS_Hacking_Januar_2015_Gruppenfoto.jpg" width="500" /></a>
+		<a class="image" href="https://www.fossgis.de/wiki/Datei:2_FOSSGIS_Hacking_Januar_2015_Gruppenfoto.jpg" title="Gruppenfoto auf der Treppe @Nakaner"><img alt="" border="0" class="thumbimage" src="https://www.fossgis.de/w/images/thumb/b/ba/2_FOSSGIS_Hacking_Januar_2015_Gruppenfoto.jpg/500px-2_FOSSGIS_Hacking_Januar_2015_Gruppenfoto.jpg" width="500" /></a>
 		<div class="thumbcaption">
 			<div class="magnify">
-				<a class="internal" href="http://www.fossgis.de/wiki/Datei:2_FOSSGIS_Hacking_Januar_2015_Gruppenfoto.jpg" title="Enlarge"><img alt="" height="11" src="http://www.fossgis.de/w/skins/common/images/magnify-clip.png" width="15" /></a></div>
+				<a class="internal" href="https://www.fossgis.de/wiki/Datei:2_FOSSGIS_Hacking_Januar_2015_Gruppenfoto.jpg" title="Enlarge"><img alt="" height="11" src="https://www.fossgis.de/w/skins/common/images/magnify-clip.png" width="15" /></a></div>
 			Gruppenfoto auf der Treppe @Nakaner</div>
 	</div>
 </div>
@@ -80,7 +80,7 @@ aliases:
 		<strong>Ein Open Source Projekt im Aufbau</strong></dt>
 </dl>
 <p>Matthias Scholz hatte sich das Ziel gesetzt, den Code für seine Lösung zur vollautomatischen Erfassung von georeferenzierten Bildern auf Straßen und Wegen als OpenSource bereitzustellen. Anschaulich stellte er das Ergebnis vor (<a class="external free" href="http://www.openjump.de/telescope/" rel="nofollow" title="http://www.openjump.de/telescope/">http://www.openjump.de/telescope/</a>) und auch das Equipenment konnte bestaunt werden.</p>
-<p><img alt="" src="http://www.fossgis.de/w/images/e/ec/Openjump_telescope.jpg" width="300px" /></p>
+<p><img alt="" src="https://www.fossgis.de/w/images/e/ec/Openjump_telescope.jpg" width="300px" /></p>
 <p>&nbsp;</p>
 <dl>
 	<dt>
@@ -100,19 +100,19 @@ aliases:
 	<dt>
 		<strong>FOSSGIS Konferenz</strong></dt>
 </dl>
-<p>Für die im März in Münster anstehende FOSSGIS Konferenz (<a class="external free" href="http://fossgis.de/konferenz/2015/" rel="nofollow" title="http://fossgis.de/konferenz/2015/">http://fossgis.de/konferenz/2015/</a>) ist ebenfalls einiges ins Rollen gebracht worden. Das Programm wurde in Teilen angepasst. Die Anerkennung der FOSSGIS Konferenz als Bildungsurlaub wurde diskutiert und soll weiter verfolgt werden. Das Artwork für die T-Shirts, Poster und Taschen wurde weitgehend vollendet und ist wieder toll geworden. Außerdem wurde am Programmheft gearbeitet, das in diesem Jahr als handliches Ringbuch im A6 Format herausgegeben wird.</p>
-<p><img alt="FOSSGIS2015_Skyline-Muenster_preview.png" src="http://www.fossgis.de/w/images/f/fe/FOSSGIS2015_Skyline-Muenster_preview.png" width="400px" /></p>
+<p>Für die im März in Münster anstehende FOSSGIS Konferenz (<a class="external free" href="https://fossgis-konferenz.de/2015/" title="https://fossgis-konferenz.de/2015/">https://fossgis-konferenz.de/2015/</a>) ist ebenfalls einiges ins Rollen gebracht worden. Das Programm wurde in Teilen angepasst. Die Anerkennung der FOSSGIS Konferenz als Bildungsurlaub wurde diskutiert und soll weiter verfolgt werden. Das Artwork für die T-Shirts, Poster und Taschen wurde weitgehend vollendet und ist wieder toll geworden. Außerdem wurde am Programmheft gearbeitet, das in diesem Jahr als handliches Ringbuch im A6 Format herausgegeben wird.</p>
+<p><img alt="FOSSGIS2015_Skyline-Muenster_preview.png" src="https://www.fossgis.de/w/images/f/fe/FOSSGIS2015_Skyline-Muenster_preview.png" width="400px" /></p>
 <p>Die Engel-Suche (Helfer-Suche) bekommt ein System, welches auch bei CCC Events verwendet wird. Hoffentlich melden sich viele Helfer zur FOSSGIS 2015, um mit dem neuen System zum Einsatz zu kommen. Es werden Helfer in den Bereichen FOSSGIS@Video, WelcomeDesk, Catering, Auf- und Abbau gesucht.</p>
-<p><img alt="" src="http://www.fossgis.de/w/images/f/f9/IMG_20150111_103459.jpg" width="500" /></p>
+<p><img alt="" src="https://www.fossgis.de/w/images/f/f9/IMG_20150111_103459.jpg" width="500" /></p>
 <p><br />
 	Das gemeinsame Abendessen mit Pizza und Beisammensein haben alle genossen, um dann bis tief in die Nacht zu arbeiten, zu diskutieren oder zu plaudern. Nebenbei verrichtete Kobold, die neue unter Linux laufende Reinigungskraft des Linuxhotels, die Krümelbeseitigung.</p>
 <p>Die Teilnehmer des Wochenendes machten sich am Sonntag zufrieden auf den Heimweg. Sie waren sich einig, dass es auch ein 3. FOSSGIS Hacking Event im Linuxhotel geben sollte. Es gab &Uuml;berlegungen, direkt im Sommer 2015 das 3. FOSSGIS Hacking Event folgen zu lassen.</p>
 <p>&nbsp;</p>
 <p><strong>Zum Schluss noch herzlichen Dank</strong></p>
 <p>Zum Schluss noch ein herzlicher Dank an den FOSSGIS Verein und die Organisatoren und Helfer, die so ein Event ermöglicht haben. Einen herzlichen Dank auch an das Linuxhotel. Er ist ein besonderer Ort und wir freuen uns jedes Mal auf die Atmosphäre und das herzliche und gastfreundliche Team.</p>
-<p><a class="external free" href="http://linuxhotel" rel="nofollow" title="http://linuxhotel">http://linuxhotel</a></p>
+<p><a class="external free" href="https://linuxhotel.de/">https://linuxhotel.de/</a></p>
 <p>&nbsp;</p>
-<p><img alt="" src="http://www.fossgis.de/w/images/8/85/Linuxhotel.png" /></p>
+<p><img alt="" src="https://www.fossgis.de/w/images/8/85/Linuxhotel.png" /></p>
 <p>&nbsp;</p>
 <p>Weitere Berichte finden sich unter</p>
 <ul>

@@ -17,7 +17,7 @@ Wo: Brauhaus Südstern, Hasenheide 69, 10967 Berlin
 <br/>
 Karte: <a href="http://www.openstreetmap.org/node/775332629"  target="_blank">http://www.openstreetmap.org/node/775332629</a>
 <br/>
-Wiki:  <a href=" http://wiki.openstreetmap.org/wiki/Berlin/Stammtisch"  target="_blank"> http://wiki.openstreetmap.org/wiki/Berlin/Stammtisch</a>
+Wiki:  <a href=" https://wiki.openstreetmap.org/wiki/Berlin/Stammtisch"  target="_blank"> https://wiki.openstreetmap.org/wiki/Berlin/Stammtisch</a>
 <br/>
 
 Meetup: <a href="https://www.meetup.com/de-DE/OSM-Berlin-Brandenburg/events/233344338/"  target="_blank"> https://www.meetup.com/de-DE/OSM-Berlin-Brandenburg/events/233344338/</a>

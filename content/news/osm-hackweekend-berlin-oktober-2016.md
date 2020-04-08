@@ -14,7 +14,7 @@ Wo: Büro 2.0, Weigandufer 45, 12059 Berlin, Konferenzraum (Ausschilderung folge
 Karte:
 http://www.openstreetmap.org/?mlat=52.479525&mlon=13.454199&zoom=18&layers=M
 <br/>
-Wiki: http://wiki.openstreetmap.org/wiki/Berlin_Hack_Weekend_October_2016
+Wiki: https://wiki.openstreetmap.org/wiki/Berlin_Hack_Weekend_October_2016
 <br/>
 Meetup:
 https://www.meetup.com/de-DE/OSM-Berlin-Brandenburg/events/231245752/

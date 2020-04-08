@@ -7,6 +7,7 @@ aliases:
 
 ---
 
-<p>Das Projektsteuerungskomitee (PSC) des deegree-Projekts traf sich am 27.09.2012 in Essen im Linuxhotel, um Maßnahmen zur Transparenz und Offenheit des Projekts zu diskutieren. Der FOSSGIS e.V. hat dieses Treffen finanziell unterstützt.<a href="http://wiki.deegree.org/deegreeWiki/PscMeeting/PscMeeting20120927"><br />
-	<br />
-	http://wiki.deegree.org/deegreeWiki/PscMeeting/PscMeeting20120927</a></p>
+<p>Das Projektsteuerungskomitee (PSC) des deegree-Projekts traf sich am 27.09.2012 in Essen im Linuxhotel, um Maßnahmen zur Transparenz und Offenheit des Projekts zu diskutieren. Der FOSSGIS e.V. hat dieses Treffen finanziell unterstützt.</p>
+
+<p><a href="https://wiki.deegree.org/deegreeWiki/PscMeeting(2f)PscMeeting20120927.html">
+https://wiki.deegree.org/deegreeWiki/PscMeeting(2f)PscMeeting20120927.html</a></p>

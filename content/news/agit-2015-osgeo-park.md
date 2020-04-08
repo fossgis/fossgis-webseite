@@ -22,5 +22,5 @@ aliases:
 </ul>
 <p>Deadline zur Anmeldung Eurer Aktivitäten ist der 21.2.2015!<br />
 	<br />
-	Unter <a href="http://www.fossgis.de/wiki/AGIT_2015">http://www.fossgis.de/wiki/AGIT_2015</a> findet Ihr alle wichtigen Infos.<br />
+	Unter <a href="https://www.fossgis.de/wiki/AGIT_2015">https://www.fossgis.de/wiki/AGIT_2015</a> findet Ihr alle wichtigen Infos.<br />
 	&nbsp;</p>

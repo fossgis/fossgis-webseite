@@ -48,8 +48,8 @@ Für Fragen stehen wir Ihnen gern per Mail an konferenz-orga@fossgis.de zur Verf
 <p>[1] https://www.fossgis-konferenz.de/2017/programm/</br>
 [2] https://www.fossgis-konferenz.de/2017/anmeldung/</br>
 [3] OSM-Events https://fossgis-konferenz.de/2017/socialevents/</br>
-[3a] http://wiki.openstreetmap.org/wiki/FOSSGIS_2017/OSM-Events</br>
-[4] FOSSGIS e.V. Mitglied werden https://www.fossgis.de/verein_mitgliedschaft.html</br>
+[3a] https://wiki.openstreetmap.org/wiki/FOSSGIS_2017/OSM-Events</br>
+[4] FOSSGIS e.V. Mitglied werden https://www.fossgis.de/verein/mitgliedschaft</br>
 [5] FOSSGIS Mitgliederversammlung https://fossgis-konferenz.de/2017/socialevents/</br>
 [6] https://www.fossgis.de/wiki/Konferenz_2017/Videoaufzeichnung_Sessionleitung#Zeitplan</br>
 [7] https://www.fossgis-konferenz.de/2017/anreise/</br>

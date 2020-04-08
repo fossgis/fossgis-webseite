@@ -29,8 +29,8 @@ aliases:
 	<br />
 	Mit freundlichen Grüßen vom FOSSGIS-Konferenz-Oranisationsteam<br />
 	<br />
-	Konferenzhomepage: http://www.fossgis.de/konferenz/2015/<br />
+	Konferenzhomepage: https://www.fossgis.de/konferenz/2015/<br />
 	Videodownload: http://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2015/<br />
 	Twitter: https://twitter.com #FOSSGIS<br />
-	Website FOSSGIS-Verein: http://www.fossgis.de<br />
+	Website FOSSGIS-Verein: https://www.fossgis.de<br />
 	&nbsp;</p>

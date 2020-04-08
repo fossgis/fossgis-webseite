@@ -21,7 +21,7 @@ Der FOSSGIS-Stammtisch Berlin-Brandenburg findet zusammen mit dem OSM-Stammtisch
 
 ## Freiburg i. Breisgau / Südwest
 
-* Aktuelle Themen und Termine finden Sie auf der [Stammtisch-Wiki-Seite](https://fossgis.de/wiki/Stammtisch_Freiburg)
+* Aktuelle Themen und Termine finden Sie auf der [Stammtisch-Wiki-Seite](https://www.fossgis.de/wiki/Stammtisch_Freiburg)
 
 ## Hannover
 
@@ -34,6 +34,6 @@ Der FOSSGIS-Stammtisch Berlin-Brandenburg findet zusammen mit dem OSM-Stammtisch
 * Wo: [Restaurant Da Giovanni](http://www.dagiovanni-bonn.de/) in Bonn-Beuel (Friedrich-Breuer-Str. 65).
 * gut erreichbar vom Hauptbahnhof mit den STR 62 und 66 bis Haltestelle Konrad-Adenauer-Platz, 10 Minuten zu Fuß vom Bhf. Beuel.
 * [OpenStreetMap Ausschnitt](https://nominatim.openstreetmap.org/details.php?place_id=11659711).
-* Weitere Informationen können auf der Wiki-Seite [Stammtisch Bonn](https://fossgis.de/wiki/Stammtisch_Bonn) eingestellt werden.
+* Weitere Informationen können auf der Wiki-Seite [Stammtisch Bonn](https://www.fossgis.de/wiki/Stammtisch_Bonn) eingestellt werden.
 
 Darüber hinaus unterstützen wir gerne auch die Gründung zusätzlicher Stammtischgruppen an anderen Orten. Sprechen Sie uns einfach an.

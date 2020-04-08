@@ -7,7 +7,7 @@ aliases:
 
 ---
 
-<img src="/news/legacy/freiburg-skyline.png">
+<img src="/news/images/2020-01-08-freiburg-skyline.png"/>
 
 <p>Der Call for Papers für die FOSSGIS-Konferenz 2020 läuft bis zum 17. November 2019.</p>
 

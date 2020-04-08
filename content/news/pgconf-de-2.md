@@ -7,7 +7,6 @@ aliases:
 
 ---
 
-<p><img alt="" src="https://pbs.twimg.com/profile_images/1384596712/pgconfde-twitter01.png" style="width: 73px; height: 63px;" /></p>
 <p>Gestern am 8. November 2013 fand im Rheinischen Industrie-Museum (RIM) in Oberhausen die zweite deutschsprachige PostgreSQL-Konferenz 2013 (PGConf.DE) statt.</p>
 <p>&Uuml;ber 100 Teilnehmer kamen nach Oberhausen, um sich ein vielfältiges Vortragsprogramm mit über 20 Vorträgen anzuhören. In drei parallelen Vortragsblöcken wurden Themen aus verschiedensten Bereichen vorgestellt. So gab es beispielsweise Präsentationen zur Indizierung, Performanceverbesserung, zu Foreign Data Wrapper, Neuerungen in PostgreSQL 9.3, zum PostGIS Thema PointCloud sowie Erfahrungsberichte. Der Großteil der Vorträge wurde auf Deutsch gehalten. Es waren aber auch Internationale Vortragende vertreten wie beispielsweise Simon Riggs, die auf englisch referierten. Es war beeindruckend zu sehen, wie weit PostgreSQL verbreitet ist und wie leistungsstark und vielfältig die Datenbank ist.<br />
 	<br />
@@ -24,9 +23,7 @@ aliases:
 	Die Vorträge stehen Online zur Verfügung</p>
 <p><a href="https://wiki.postgresql.org/wiki/German-Speaking_PostgreSQL_Conference_2013">https://wiki.postgresql.org/wiki/German-Speaking_PostgreSQL_Conference_2013</a></p>
 <p><br />
-	Das Programm und Impressionen von der Konferenz finden auf der Webseite.<a href="http://2013.pgconf.de/"><br />
-	<br />
-	http://2013.pgconf.de/</a><br />
+	Das Programm und Impressionen von der Konferenz finden Sie auf der Webseite <a href="https://2013.pgconf.de/">https://2013.pgconf.de/</a><br />
 	<br />
 	Auch für das nächste Jahr ist eine PGConf.DE geplant. Aufgrund des großen Interesses soll die Veranstaltung in einem etwas größeren Rahmen stattfinden. Aktuelle Hinweise werden über <a href="https://twitter.com/pgconfde">https://twitter.com/pgconfde</a> über verbreitet.<br />
 	<br />

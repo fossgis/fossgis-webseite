@@ -21,13 +21,6 @@ Das FOSSGIS-Konferenz-Team nutzt diese Liste zur Koordination der Messevorbereit
 
 *   [Anmelden](https://lists.fossgis.de/mailman/listinfo/konferenz-liste)
 
-## Presse
-
-Die Abstimmung über Pressemeldungen des Vereins läuft über diese Liste. Ferner ist es hier möglich, Presseanfragen zu stellen.
-
-*   [Anmelden](https://lists.fossgis.de/mailman/listinfo/presse-liste)
-*   [Archiv](https://lists.fossgis.de/pipermail/presse-liste/) (öffentlich)
-
 ## OpenStreetMap
 
 Unser Verein betreut zusätzlich eine Reihe von Mailinglisten lokaler OSM-Nutzergruppen im deutschsprachigen Raum. Eine Übersicht findet sich [hier](https://lists.openstreetmap.de/mailman/listinfo).

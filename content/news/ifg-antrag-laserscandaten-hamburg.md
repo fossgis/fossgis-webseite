@@ -7,11 +7,11 @@ aliases:
   - "/laserscandaten-hamburg"
 ---
 
-Hamburg hat seit 2012 ein progressives <a href="http://transparenz.hamburg.de/das-hmbtg/">Transparenzgesetz</a>,
+Hamburg hat seit 2012 ein progressives <a href="https://transparenz.hamburg.de/das-hmbtg/">Transparenzgesetz</a>,
 nach welchem Behörden eine Vielzahl von Informationen, darunter auch Geodaten, veröffentlichen müssen. Zusätzlich gibt es für Bürger die Möglichkeit den Zugang zu bestimmten Informationen zu beantragen.
 
 Als Johannes Kröger im Mai 2018 einen beeindruckenden Screenshot eines Digitalen Oberflächenmodells (Punktwolke) von Hamburg in einer Werbebroschüre des dortigen <a href="https://www.hamburg.de/bsw/landesbetrieb-geoinformation-und-vermessung/">Landesbetriebs Geoinformation und Vermessung</a> sah, fragte er sich warum diese
-Geodaten denn nicht im <a href="http://transparenz.hamburg.de/">Hamburger Transparenzportal</a> veröffentlicht worden waren. In einer kurzen <a href="https://fragdenstaat.de/anfrage/digitales-oberflachenmodell/#nachricht-91544">Nachricht</a>
+Geodaten denn nicht im <a href="https://transparenz.hamburg.de/">Hamburger Transparenzportal</a> veröffentlicht worden waren. In einer kurzen <a href="https://fragdenstaat.de/anfrage/digitales-oberflachenmodell/#nachricht-91544">Nachricht</a>
 an den LGV über die Plattform <a href="https://fragdenstaat.de/">FragDenStaat</a> bat er um eine
 Zusendung der Daten.
 
@@ -22,7 +22,7 @@ gegen die Ablehnung</a> argumentierte Johannes damit für die Veröffentlichung 
 
 Trotz direkter Hinweise auf die entsprechenden Paragraphen und einer Beschreibung wie die Daten mithilfe freier Software gefiltert werden könnten, hat der LGV seine Meinung in der Sache nicht geändert und Johannes angeboten, seinen Widerspruch zurückzuziehen.
 
-Wir denken, dass hier das HmbTG missachtet wird und wichtige Geodaten der Öffentlichkeit vorenthalten werden. In anderen Bundesländern sind DOM-Daten längst zugänglich, teilweise wie in <a href="https://www.opengeodata.nrw.de/produkte/geobasis/dom/dom1l/">NRW</a> und <a href="https://geoportal.geoportal-th.de/gaialight-th/_apps/atomfeedexplorer/?#feed=https://geoportal.geoportal-th.de/dienste/atom_th_hoehendaten_dom">Thüringen</a> sogar frei.
+Wir denken, dass hier das HmbTG missachtet wird und wichtige Geodaten der Öffentlichkeit vorenthalten werden. In anderen Bundesländern sind DOM-Daten längst zugänglich, teilweise wie in <a href="https://web.archive.org/web/20190326184827/https://www.opengeodata.nrw.de/produkte/geobasis/dom/dom1l/">NRW</a> und <a href="https://geoportal.geoportal-th.de/gaialight-th/_apps/atomfeedexplorer/?#feed=https://geoportal.geoportal-th.de/dienste/atom_th_hoehendaten_dom">Thüringen</a> sogar frei.
 
 Johannes hat mit Unterstützung des FOSSGIS e.V. seinen <a href="https://fragdenstaat.de/anfrage/digitales-oberflachenmodell/#nachricht-303809">Widerspruch mit einer detaillierten Begründung aufrecht erhalten</a>, so dass dieser nun von der Behörde für Stadtentwicklung und Wohnen behandelt wird. Zusätzlich <a href="https://fragdenstaat.de/anfrage/digitales-oberflachenmodell/#nachricht-349382">wurde der Hamburgische Beauftragte für Datenschutz und Informationsfreiheit
 eingeschaltet</a>. Sollte auch die BSW den Widerspruch ablehnen, wird der FOSSGIS die Kosten der dann fälligen Verwaltungsgebühren, die rechtlich auf maximal 500 Euro gedeckelt sind, tragen.  

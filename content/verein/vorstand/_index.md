@@ -73,6 +73,6 @@ Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
 * [Vorstandssitzung vom 17.09.2019](2019-09-17-protokoll-vorstandssitzung)
 
 Ältere Protokolle der Vorstandssitzung wurden [im
-FOSSGIS-Wiki](https://fossgis.de/wiki/Kategorie:Vorstandsprotokolle)
+FOSSGIS-Wiki](https://www.fossgis.de/wiki/Kategorie:Vorstandsprotokolle)
 gesammelt.
 

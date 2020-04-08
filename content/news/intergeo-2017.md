@@ -41,7 +41,7 @@ Die Vorträge waren sehr gut besucht. Großes Interesse herrschte vor allem an V
 Die Folien zu den Vorträgen sind auf der folgenden Seite verlinkt:
 </p>
 <p>
-Link zu den Vorträgen <a href="http://www.fossgis.de/wiki/Intergeo_2017">OSGeo Park @INTERGEO 2017</a>
+Link zu den Vorträgen <a href="https://www.fossgis.de/wiki/Intergeo_2017">OSGeo Park @INTERGEO 2017</a>
 </p>
 <p>
 <b>BMI Staatssekretär Klaus Vitt besucht den OSGeo Park</b><br/>

@@ -8,4 +8,4 @@ aliases:
 ---
 
 <p>Vom 17-18.03.2012 fand ein Treffen von OSM Entwicklern zum Thema 3D statt. Dabei ging es um die Organisation von Tagging-Schemas, das Outsourcen von Diensten, sowie einen generellen &Uuml;berblick über die Probleme und Hilfestellungen gehen. Der FOSSGIS e.V. hat dieses Treffen finanziell unterstützt.</p>
-<p><a href="http://wiki.openstreetmap.org/wiki/2nd_3D_Workshop_Garching">http://wiki.openstreetmap.org/wiki/2nd_3D_Workshop_Garching</a></p>
+<p><a href="https://wiki.openstreetmap.org/wiki/2nd_3D_Workshop_Garching">https://wiki.openstreetmap.org/wiki/2nd_3D_Workshop_Garching</a></p>

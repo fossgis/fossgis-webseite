@@ -37,7 +37,7 @@ aliases:
 Viele weitere Informationen zur FOSSGIS-Konferenz (Programm, Anreise und Unterkunft, Anmeldung, Helfermöglichkeiten und Sponsoren) entnehmen Sie bitte der <a href="https://www.fossgis-konferenz.de/2019/">Konferenzhomepage</a>.</p>
 
 <h5>Helfer:</h5>
-<p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen. Bei Interesse bitte im <a href="https://helfer-2019.fossgis.de/">Helfersystem</a> anmelden und eine E-Mail an konferenz-orga@fossgis.de senden. Helfer dürfen das kostenfreie "Community-Ticket" buchen.</p>
+<p>Freiwillige Helfer sind eingeladen und willkommen während der Konferenz bei den Videoaufnahmen, als Sessionleiter oder beim Catering zu unterstützen. Bei Interesse bitte im [Helfersystem] anmelden und eine E-Mail an konferenz-orga@fossgis.de senden. Helfer dürfen das kostenfreie "Community-Ticket" buchen.</p>
 
 <h5>OSM-Event:</h5>
 <p>Die Konferenz setzt sich ab Freitagnachmittag mit OpenStreetMap-spezifischen Vorträgen fort. Beginn ist 15 Uhr mit dem OSM-Quiz. Danach kann man sich für die Exkursion oder OSM-Vorträge entscheiden.<br>

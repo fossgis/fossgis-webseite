@@ -16,8 +16,8 @@ aliases:
 	<br />
 	Weitere Informationen zum Programm und zur Anreise finden Sie auf der Konferenzhomepage [2]. Der kürzeste Weg zur Anmeldung: [3]<br />
 	<br />
-	[1] http://www.fossgis.de/konferenz/2014/programm/<br />
-	[2] http://www.fossgis.de/konferenz/2014/<br />
+	[1] https://www.fossgis.de/konferenz/2014/programm/<br />
+	[2] https://www.fossgis.de/konferenz/2014/<br />
 	[3] https://www.fossgis.de/civicrm/event/info?id=4&amp;reset=1<br />
 	<br />
 	Die FOSSGIS Konferenz 2014 wird vom gemeinnützigen Verein FOSSGIS e.V, der deutschen OpenStreetMap Community und der Open Source Geospatial Foundation (OSGeo) in Zusammenarbeit mit der Beuth Hochschule für Technik Berlin durchgeführt.<br />

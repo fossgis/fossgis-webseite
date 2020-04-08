@@ -21,9 +21,9 @@ aliases:
 <p>Today, the Conference Committee announced the &quot;Call for papers&quot; for 2014. Because the conference-language is german, the CfP is either.</p>
 <p>The program committee will, however, also consider applications for talks or workshops held in English if they are deeemed to add to the quality of the conference. So if you don&#39;t speak German, but are a FOSS/Open Data celebrity, or have a story that only you can tell, please do submit your talk. We are unlikely to be able to provide interpreters, but we&#39;ll make sure you don&#39;t get lost in Berlin. Please be aware that you can submit paper until November, 15. 2013. You can submit your abstract using our Conference Software [2].</p>
 <p>We are looking forward to see you in Berlin March 19-21.</p>
-<p>[1] <a class="moz-txt-link-freetext" href="http://www.fossgis.de/konferenz/2014/">http://www.fossgis.de/konferenz/2014/</a></p>
+<p>[1] <a class="moz-txt-link-freetext" href="https://www.fossgis.de/konferenz/2014/">https://www.fossgis.de/konferenz/2014/</a></p>
 <p>[2] <a class="moz-txt-link-freetext" href="http://pb.fossgis.de/submission/FOSSGIS2014/">http://pb.fossgis.de/submission/FOSSGIS2014/</a></p>
-<p>[3] <a class="moz-txt-link-freetext" href="http://www.fossgis.de/wiki/Call_for_Papers_-_FAQ">http://www.fossgis.de/wiki/Call_for_Papers_-_FAQ</a></p>
+<p>[3] <a class="moz-txt-link-freetext" href="https://www.fossgis.de/wiki/Call_for_Papers_-_FAQ">https://www.fossgis.de/wiki/Call_for_Papers_-_FAQ</a></p>
 <p>[4] <a class="moz-txt-link-abbreviated" href="mailto:konferenz-orga@fossgis.de">konferenz-orga@fossgis.de</a></p>
 <p>Ihr FOSSGIS-Konferenz-Organisationsteam<br />
 	&nbsp;</p>

@@ -7,7 +7,7 @@ aliases:
 
 ---
 
-<p><a href="http://www.fossgis.de/konferenz/2015/" target="_blank"><img alt="FOSSGIS 2015" height="80px" src="http://www.fossgis.de/konferenz/2015/img/Fossgis15-logo.png" width="80px" /></a></p>
+<p><a href="https://www.fossgis.de/konferenz/2015/" target="_blank"><img alt="FOSSGIS 2015" height="80px" src="https://www.fossgis.de/konferenz/2015/img/Fossgis15-logo.png" width="80px" /></a></p>
 <p>Sie forschen, Sie entwickeln, Sie beschäftigen sich mit Open-Source-Geo-Software oder freien Geodaten? Sie haben neue Ideen in diesem Themenbereich oder sind bereits dabei, freie Software und freie Geodaten zu nutzen oder zu entwickeln? Dann sind Sie auf unserer Konferenz &mdash; der FOSSGIS-Konferenz 2015 &mdash; genau richtig.<br />
 	<br />
 	Wir bieten: Eine Plattform für Ihre Idee, Ihr Projekt, Ihren Erfahrungsbericht auf der größten deutschsprachigen Anwenderkonferenz für freie Geoinformationssysteme und freie Geodaten. Im Jahr 2015 findet die FOSSGIS vom 11. bis 13. März im Schloss der Westfälischen Wilhelms-Universität in Münster statt. Dazu rechnen wir mit über 300 Teilnehmern. An der Konferenz 2014 in Berlin nahmen sogar über 500 Besucher teil.<br />
@@ -24,14 +24,14 @@ aliases:
 	Werden Sie Teil der FOSSGIS Konferenz 2015 - wir freuen uns auf Sie!</p>
 <p><br />
 	Weitere Informationen finden Sie unter:<br />
-	http://www.fossgis.de/konferenz/2015.<br />
+	https://www.fossgis.de/konferenz/2015.<br />
 	<br />
 	Fragen werden unter FAQ [3] beantwortet. Bei weiteren Fragen können Sie<br />
 	uns gern per Email kontaktieren unter: konferenz-orga at fossgis.de.<br />
 	<br />
 	[1] http://pb.fossgis.de/submission/FOSSGIS2015<br />
-	[2] http://www.fossgis.de/konferenz/2015/callforpapers/<br />
-	[3] http://www.fossgis.de/konferenz/2015/callforpapers/faq.php<br />
+	[2] https://www.fossgis.de/konferenz/2015/callforpapers/<br />
+	[3] https://www.fossgis.de/konferenz/2015/callforpapers/faq.php<br />
 	<br />
 	Wir freuen uns auf Ihre Beitragseinreichung<br />
 	<strong>Ihr FOSSGIS-Konferenz-Organisationsteam</strong></p>

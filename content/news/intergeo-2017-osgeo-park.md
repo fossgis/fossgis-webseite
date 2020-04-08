@@ -7,7 +7,7 @@ aliases:
 
 ---
 
-<img src="http://www.fossgis.de/sites/default/files/500px-Intergeo_2017_logo.png">
+<img src="https://www.fossgis.de/sites/default/files/500px-Intergeo_2017_logo.png">
 <p>
 Vom 26.-28. September 2017 findet in diesem Jahr die INTERGEO 2017 in Berlin statt (Halle 5.1 Stand B5.045).  
 </p>
@@ -15,14 +15,14 @@ Vom 26.-28. September 2017 findet in diesem Jahr die INTERGEO 2017 in Berlin sta
 Der OSGeo Park wird in diesem Jahr wieder mit dabei sein. In 2017 wird dieser vom FOSSGIS e.V. und Engagierten der OpenStreetMap Community organisiert.
 </p>
 <p>
-<img src="http://www.fossgis.de/sites/default/files/osgeo-park.png" width="200px" />
+<img src="https://www.fossgis.de/sites/default/files/osgeo-park.png" width="200px" />
 </p>
 <p>
 Auf dem OSGeo-Park können Besucher sich während der drei Veranstaltungstage über zahlreiche Lösungen im Bereich Open Source GIS, freie Geodaten, GIS Technologie und OpenStreetMap informieren.
 </p>
 <p>
 <b>Vortragsprogramm rund um FOSSGIS, OSGeo & OSM</b>
-Neben einem OSGeo Informationsstand wird es ein tagesfüllendes Vortragsprogramm geben. In Kurzvorträgen wird dem Publikum ein schneller, aber weitreichender Einblick in die Welt der Open-Source-Software aus dem GIS Bereich und den damit verbundenen Möglichkeiten gegegeben (zum Programm http://www.fossgis.de/wiki/Intergeo_2017).
+Neben einem OSGeo Informationsstand wird es ein tagesfüllendes Vortragsprogramm geben. In Kurzvorträgen wird dem Publikum ein schneller, aber weitreichender Einblick in die Welt der Open-Source-Software aus dem GIS Bereich und den damit verbundenen Möglichkeiten gegegeben (zum Programm https://www.fossgis.de/wiki/Intergeo_2017).
 </p>
 <p>
 <b>OSGeo-Live zum Anfassen</b><br/>
@@ -41,5 +41,5 @@ Kommen Sie gerne am OSGeo Stand vorbei (Halle 5.1 Stand B5.045). Wir freuen uns 
 </p>
 <p>
 Herzlichen Dank an die HINTE für die Bereitstellung des Stands und die Unterstützung!
-<img src="http://www.fossgis.de/sites/default/files/HINTEdach_72-rgb.png " width="100px" />
+<img src="https://www.fossgis.de/sites/default/files/HINTEdach_72-rgb.png " width="100px" />
 </p>

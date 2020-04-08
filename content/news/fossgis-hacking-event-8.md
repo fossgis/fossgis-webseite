@@ -33,7 +33,7 @@ aus OSM-Daten erzeugt werden können.</li>
 <li><a href="http://www.openrailwaymap.org/ target="_blank">OpenRailwayMap</a>,eine OSM-Karte, die das Herz jeden Eisenbahnfans höher schlagen lässt.</li>
 <li><a href="http://regio-osm.de/ target="_blank">regio-osm.de</a>, wertet Hausnummerlisten von Gemeinden aus und stellt fest, welche Hausnummern davon bereits in OSM erfasst sind.</li>
 <li><a href="https://github.com/britiger/osm_address_db" target="_blank">osm_address_db</a> importiert Adressen in postgres.</li>
-<li><a href="http://wiki.openstreetmap.org/wiki/DE:Stolpersteine" target="_blank">Stolpersteine in OSM</a>. Von 60000 - 70000 verlegten Stolpersteinen sind nur 18974 in OSM sichtbar (Stand 25.07.2017).</li>
+<li><a href="https://wiki.openstreetmap.org/wiki/DE:Stolpersteine" target="_blank">Stolpersteine in OSM</a>. Von 60000 - 70000 verlegten Stolpersteinen sind nur 18974 in OSM sichtbar (Stand 25.07.2017).</li>
 </ul>
 <p>In zwei Workshops wurde in die Grundlagen der Arbeit mit Github und in das
 Projekt <a href="https://github.com/britiger/osm_address_db" target="_blank">osm_address_db</a> eingeführt. Ein Workshop richtete sich speziell an
@@ -41,7 +41,7 @@ die beiden mit angereisten jüngeren Teilnehmer: Anhand eines Beispiels
 wurden sie an die Webprogrammierung mit Javascript herangeführt.</p>
 
 <p>Diskutiert wurden Vorschläge und Forderungen, die in letzter Zeit an die
-OSM-Community herangetragen wurden. <a href="http://wiki.openstreetmap.org/wiki/RVR" target="_blank">Pläne des Regionalverbands Ruhr</a>, seine
+OSM-Community herangetragen wurden. <a href="https://wiki.openstreetmap.org/wiki/RVR" target="_blank">Pläne des Regionalverbands Ruhr</a>, seine
 Stadtpläne künftig mit Hilfe von OSM-Daten zu erstellen und im Gegenzug zu
 OSM beizutragen, stießen bei den Anwesenden auf Zustimmung. Kritischer wurde
 ein <a href="https://forum.openstreetmap.org/viewtopic.php?id=58758" target="_blank">Beitrag im OSM-Forum</a> zum Mappen von Hydranten diskutiert.</p>
