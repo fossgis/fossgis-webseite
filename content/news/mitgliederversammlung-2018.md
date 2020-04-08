@@ -1,7 +1,7 @@
 ---
 title: "Mitgliederversammlung und Neuer Vorstand für das Jahr 2018"
 date: "2018-03-28T11:43:29+00:00"
-author: "Dominik"
+author: "Dominik Helle"
 aliases:
   - "/node/312"
 

@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS Konferenz - Abgabetermin für Abstracts verlängert"
 date: "2013-01-29T20:25:52+00:00"
-author: "Dominik"
+author: "Dominik Helle"
 aliases:
   - "/node/152"
 

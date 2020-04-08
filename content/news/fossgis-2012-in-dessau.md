@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS 2012 in Dessau!"
 date: "2011-11-24T20:42:17+00:00"
-author: "gloesel"
+author: "Georg Lösel"
 aliases:
   - "/node/133"
 

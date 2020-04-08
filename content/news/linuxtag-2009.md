@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS e.V. ist auf dem Linuxtag!"
 date: "2009-06-23T21:26:03+00:00"
-author: "gloesel"
+author: "Georg Lösel"
 aliases:
   - "/node/64"
 

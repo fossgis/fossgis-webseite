@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS in Passau erfolgreich zu Ende gegangen"
 date: "2017-03-29T20:36:49+00:00"
-author: "mlechner"
+author: "Marco Lechner"
 aliases:
   - "/node/293"
 

@@ -1,7 +1,7 @@
 ---
 title: "Veranstaltungsort für die FOSSGIS 2013 "
 date: "2012-11-09T17:38:40+00:00"
-author: "Dominik"
+author: "Dominik Helle"
 aliases:
   - "/node/149"
 

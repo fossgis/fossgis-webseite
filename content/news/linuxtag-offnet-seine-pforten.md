@@ -1,7 +1,7 @@
 ---
 title: "Linuxtag öffnet seine Pforten"
 date: "2010-06-08T21:28:25+00:00"
-author: "lars"
+author: "Lars Lingner"
 aliases:
   - "/node/113"
 

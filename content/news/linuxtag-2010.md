@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS e.V. und OpenStreetMap auf dem Linuxtag unterstützen"
 date: "2010-05-03T07:44:07+00:00"
-author: "lars"
+author: "Lars Lingner"
 aliases:
   - "/node/112"
 

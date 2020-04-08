@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS e.V. im Zentrum des OSGeo Parks auf der Intergeo"
 date: "2009-08-26T10:37:15+00:00"
-author: "mlechner"
+author: "Marco Lechner"
 aliases:
   - "/node/73"
 

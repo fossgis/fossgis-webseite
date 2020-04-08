@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS-Konferenz 2019 Dresden - Programm veröffentlicht, Anmeldung eröffnet"
 date: "2019-01-13T16:58:31+00:00"
-author: "Hafi"
+author: "Katja Haferkorn"
 aliases:
   - "/node/325"
 

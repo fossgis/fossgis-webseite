@@ -1,7 +1,7 @@
 ---
 title: "Erfolgreiche FOSSGIS 2013 und FOSSGIS 2014 in Berlin"
 date: "2013-07-10T20:54:06+00:00"
-author: "Dominik"
+author: "Dominik Helle"
 aliases:
   - "/node/178"
 

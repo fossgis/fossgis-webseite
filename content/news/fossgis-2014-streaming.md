@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS Konferenz zum mit- und nachschauen"
 date: "2014-03-21T07:34:34+00:00"
-author: "mlechner"
+author: "Marco Lechner"
 aliases:
   - "/node/223"
 

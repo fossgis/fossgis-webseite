@@ -1,7 +1,7 @@
 ---
 title: "Jährliche Vollversammlung"
 date: "2012-03-02T16:10:33+00:00"
-author: "lars"
+author: "Lars Lingner"
 aliases:
   - "/node/140"
 

@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS-Konferenz 2020 - Call for Papers"
 date: "2019-10-03T09:26:26+00:00"
-author: "Hafi"
+author: "Katja Haferkorn"
 aliases:
   - "/node/335"
 

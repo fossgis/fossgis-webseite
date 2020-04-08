@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS e.V. als Leuchtturm für open Source auf der AGIT 2009"
 date: "2009-08-13T14:55:39+00:00"
-author: "mlechner"
+author: "Marco Lechner"
 aliases:
   - "/node/67"
 

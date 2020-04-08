@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS-Konferenz sucht Veranstaltungsort für 2011"
 date: "2010-04-16T21:28:49+00:00"
-author: "mlechner"
+author: "Marco Lechner"
 aliases:
   - "/node/107"
   - "/fossgis2011_CfL"

@@ -1,7 +1,7 @@
 ---
 title: "Interaktive Karten dank umap einfach erstellen"
 date: "2019-08-03T00:00:00+00:00"
-author: "Lars"
+author: "Lars Lingner"
 aliases:
   - "/node/333"
 

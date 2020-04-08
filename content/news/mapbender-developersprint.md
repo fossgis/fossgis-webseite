@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS fördert Mapbender Developersprint"
 date: "2009-11-09T12:18:14+00:00"
-author: "mlechner"
+author: "Marco Lechner"
 aliases:
   - "/node/82"
 

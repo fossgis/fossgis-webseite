@@ -1,7 +1,7 @@
 ---
 title: "GISday am GFZ Potsdam"
 date: "2013-11-18T11:00:18+00:00"
-author: "lars"
+author: "Lars Lingner"
 aliases:
   - "/node/211"
 

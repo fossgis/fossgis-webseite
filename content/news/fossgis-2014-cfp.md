@@ -1,7 +1,7 @@
 ---
 title: "Call for Papers FOSSGIS 2014 in Berlin"
 date: "2013-09-15T12:11:30+00:00"
-author: "lars"
+author: "Lars Lingner"
 aliases:
   - "/node/199"
 

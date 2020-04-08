@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS Konferenz 2016 - Abgabetermin für Beiträge verlängert"
 date: "2016-01-29T08:12:30+00:00"
-author: "Dominik"
+author: "Dominik Helle"
 aliases:
   - "/node/272"
 

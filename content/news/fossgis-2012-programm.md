@@ -1,7 +1,7 @@
 ---
 title: "Programm und Anmeldung der FOSSGIS 2012"
 date: "2012-02-02T21:11:43+00:00"
-author: "gloesel"
+author: "Georg Lösel"
 aliases:
   - "/node/139"
 

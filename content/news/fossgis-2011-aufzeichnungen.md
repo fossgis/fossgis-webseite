@@ -1,7 +1,7 @@
 ---
 title: "Aufzeichnungen und Folien der FOSSGIS 2011"
 date: "2011-04-09T09:16:49+00:00"
-author: "lars"
+author: "Lars Lingner"
 aliases:
   - "/node/125"
 

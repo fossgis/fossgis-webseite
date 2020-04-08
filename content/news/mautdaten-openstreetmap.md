@@ -1,7 +1,7 @@
 ---
 title: "Spende von Mautdaten an Openstreetmap"
 date: "2010-06-08T21:41:57+00:00"
-author: "lars"
+author: "Lars Lingner"
 aliases:
   - "/node/114"
 

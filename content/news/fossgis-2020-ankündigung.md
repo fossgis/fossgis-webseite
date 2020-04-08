@@ -1,7 +1,7 @@
 ---
 title: "Nach der FOSSGIS-Konferenz 2019 ist vor der FOSSGIS-Konferenz 2020"
 date: "2019-03-27T09:26:26+00:00"
-author: "Hafi"
+author: "Katja Haferkorn"
 aliases:
   - "/node/328"
 

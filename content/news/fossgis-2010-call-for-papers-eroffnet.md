@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS 2010 - Call for Papers eröffnet"
 date: "2009-10-14T17:40:57+00:00"
-author: "lars"
+author: "Lars Lingner"
 aliases:
   - "/node/78"
 

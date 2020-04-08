@@ -1,7 +1,7 @@
 ---
 title: "Intergeo 2010"
 date: "2010-09-29T17:38:43+00:00"
-author: "lars"
+author: "Lars Lingner"
 aliases:
   - "/node/118"
 

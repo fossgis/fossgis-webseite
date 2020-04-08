@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS Mitgliederversammlung wählt neuen Vorstand"
 date: "2011-04-08T09:57:44+00:00"
-author: "mlechner"
+author: "Marco Lechner"
 aliases:
   - "/node/124"
 

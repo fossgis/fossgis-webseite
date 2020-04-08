@@ -1,7 +1,7 @@
 ---
 title: "Verlängerung - Call for Papers FOSSGIS 2014 in Berlin"
 date: "2013-11-11T16:07:31+00:00"
-author: "Dominik"
+author: "Dominik Helle"
 aliases:
   - "/node/207"
 

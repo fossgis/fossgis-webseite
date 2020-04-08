@@ -1,7 +1,7 @@
 ---
 title: "Erfolgreicher OSGeo-Park auf der Intergeo 2012 "
 date: "2012-11-05T19:26:35+00:00"
-author: "Dominik"
+author: "Dominik Helle"
 aliases:
   - "/node/148"
 

@@ -1,7 +1,7 @@
 ---
 title: "erfolgreiche Unterstützung des OSGeo Code Sprint 2009 in Bolsena"
 date: "2009-08-26T10:08:17+00:00"
-author: "mlechner"
+author: "Marco Lechner"
 aliases:
   - "/node/71"
 

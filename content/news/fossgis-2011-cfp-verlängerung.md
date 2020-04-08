@@ -1,7 +1,7 @@
 ---
 title: "Verlängerung des Call for Papers zur FOSSGIS Konferenz 2011"
 date: "2010-11-29T20:41:25+00:00"
-author: "lars"
+author: "Lars Lingner"
 aliases:
   - "/node/120"
 

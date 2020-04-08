@@ -1,7 +1,7 @@
 ---
 title: "Vortragseinreichung für FOSSGIS 2019 bis 13. November 2018 verlängert"
 date: "2018-11-11T15:51:53+00:00"
-author: "Hafi"
+author: "Katja Haferkorn"
 aliases:
   - "/node/321"
 

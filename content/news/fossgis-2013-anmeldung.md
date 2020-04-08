@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS 2013 - Anmeldung noch bis zum 04. Juni 2013 möglich!"
 date: "2013-05-29T15:51:08+00:00"
-author: "Dominik"
+author: "Dominik Helle"
 aliases:
   - "/node/171"
 

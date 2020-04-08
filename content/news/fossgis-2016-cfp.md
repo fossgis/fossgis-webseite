@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS-Konferenz 2016 - Call for Papers  läuft"
 date: "2016-01-08T08:15:08+00:00"
-author: "Dominik"
+author: "Dominik Helle"
 aliases:
   - "/node/269"
 

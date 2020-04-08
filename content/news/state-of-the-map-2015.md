@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS e.V. unterstützt Map the World 2015 in Passau"
 date: "2016-01-27T07:58:04+00:00"
-author: "Dominik"
+author: "Dominik Helle"
 aliases:
   - "/node/271"
 

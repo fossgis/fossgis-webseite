@@ -1,7 +1,7 @@
 ---
 title: "Mapbender und QGIS Entwicklertreffen in Hannover"
 date: "2009-04-12T11:42:00+00:00"
-author: "admin"
+author: "Marco Lechner"
 aliases:
   - "/node/26"
 

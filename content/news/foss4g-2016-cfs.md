@@ -1,7 +1,7 @@
 ---
 title: "Reminder: Call for Submissions der FOSS4G 2016 endet am 21. März"
 date: "2016-05-10T22:20:05+00:00"
-author: "admin"
+author: "Katja Haferkorn"
 aliases:
   - "/node/274"
 

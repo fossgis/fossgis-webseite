@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS fördert Quantum GIS Entwicklertreffen in Wien"
 date: "2009-12-01T09:27:57+00:00"
-author: "dassau"
+author: "Otto Dassau"
 aliases:
   - "/node/84"
 

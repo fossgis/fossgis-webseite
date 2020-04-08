@@ -1,7 +1,7 @@
 ---
 title: "OSGeo startet Inkubation von GeoServer und MapFish "
 date: "2009-11-10T16:51:41+00:00"
-author: "lars"
+author: "Lars Lingner"
 aliases:
   - "/node/83"
 

@@ -1,7 +1,7 @@
 ---
 title: "Onlineanmeldung für FOSSGIS 2011 geschlossen"
 date: "2011-04-04T07:25:04+00:00"
-author: "admin"
+author: "Lars Lingner"
 aliases:
   - "/node/123"
 

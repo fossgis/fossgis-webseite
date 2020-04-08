@@ -1,7 +1,7 @@
 ---
 title: "Sponsoring - FOSSGIS-Konferenz 2019 - HTW Dresden"
 date: "2018-12-03T08:08:54+00:00"
-author: "Hafi"
+author: "Katja Haferkorn"
 aliases:
   - "/node/324"
 

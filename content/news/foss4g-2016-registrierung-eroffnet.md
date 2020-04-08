@@ -1,7 +1,7 @@
 ---
 title: "FOSS4G Registrierung eröffnet"
 date: "2016-05-10T22:21:42+00:00"
-author: "admin"
+author: "Katja Haferkorn"
 aliases:
   - "/node/275"
 

@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS 2013 - Programm veröffentlicht und Anmeldung eröffnet"
 date: "2013-04-11T19:02:31+00:00"
-author: "Dominik"
+author: "Dominik Helle"
 aliases:
   - "/node/153"
 

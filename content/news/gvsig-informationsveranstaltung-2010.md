@@ -1,7 +1,7 @@
 ---
 title: "gvSIG-Informationsveranstaltung am 18.11.2010 in Berlin"
 date: "2010-10-18T20:54:35+00:00"
-author: "gloesel"
+author: "Georg Lösel"
 aliases:
   - "/node/119"
 
