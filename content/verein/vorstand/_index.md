@@ -48,6 +48,9 @@ bringt, welche Aufgaben auf uns zu kommen, wie man die Konferenz besser
 organisieren kann und dergleichen. Die Protokolle der Vorstandssitzungen
 geben einen kleinen Einblick, was für eine vielfältige Aufgabe das ist.
 
+Der Vorstand organisiert seine Arbeit in einer
+[Geschäftsordnung](geschäftsordnung-vorstand).
+
 ## Vorstandssitzungen
 
 Der Vorstand trifft sich regelmässig etwa einmal im Monat zu
