@@ -4,7 +4,6 @@ date: "2020-04-03T14:00:00+02:00"
 author: "Katja Haferkorn"
 ---
 
-
 389 Teilnehmer*innen informieren sich bei der FOSSGIS 2020 über freie GIS-Software und OpenStreetMap.
 
 ![Gruppenfoto FOSSGIS 2020](/news/images/2020-04-03-FOSSGIS2020-gruppenfoto.jpg)
@@ -17,7 +16,7 @@ Die jährliche Konferenz des FOSSGIS e.V., welche gemeinsam mit der Universität
 In Freiburg wäre für bis zu 650 Teilnehmerinnen eine Teilnahme möglich gewesen, aufgrund der COVID-19-Pandemie sagten viele ihre Teilnahme ab.
 Durch die Aufzeichnung aller Vorträge und Übertragung im Livestream bot sich die Möglichkeit, die FOSSGIS-Vorträge live mitzuschauen.
 
-Herzlichen Dank an alle Rednerinnen und das Programmkomitee für das gelungene Programm und die vielen interssanten Vorträge sowie an alle Sessionleiter für die Moderation.
+Herzlichen Dank an alle Rednerinnen und das Programmkomitee für das gelungene Programm und die vielen interessanten Vorträge sowie an alle Sessionleiter für die Moderation.
 Die Herausforderung bestand darin das Programm möglichst vollständig zu halten.
 Danke an die Redner für die Bereitschaft den Vortrag über das Internet zu halten und danke an das Videoteam vom C3VOC für die professionelle Umsetzung.
 
@@ -38,6 +37,6 @@ Die Fotos zur FOSSGIS-Konferenz sind auf <a href="https://www.flickr.com/groups/
 
 Der OpenStreetMap-Samstag mußte leider abgesagt werden, da am Freitag, den 13.03.2020, Veranstaltungen mit mehr als 50 Personen ab 14 Uhr untersagt wurden.
 
-Herzlichen Dank an die Sponsoren und Aussteller der <a href="https://www.fossgis-konferenz.de/2020/">FOSSGIS-Konferenz 2020</a>. In diesem Jahr freuten wir uns über sechs Goldsponsoren, sechs Silber- sowie neun Bronzesponsoren und sechs Medienpartner. 
+Herzlichen Dank an die Sponsoren und Aussteller der <a href="https://www.fossgis-konferenz.de/2020/">FOSSGIS-Konferenz 2020</a>. In diesem Jahr freuten wir uns über sechs Goldsponsoren, sechs Silber- sowie neun Bronzesponsoren und sechs Medienpartner.
 
 Die FOSSGIS-Konferenz 2021 wird vom 06.-09.06.2021 in Rapperswil in der Schweiz stattfinden. Informationen zur nächsten FOSSGIS werden voraussichtlich ab Juli auf der <a href="https://www.fossgis-konferenz.de/2021/">Konferenzhomepage</a> zu finden sein.
