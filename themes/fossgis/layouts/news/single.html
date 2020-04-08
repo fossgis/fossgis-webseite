@@ -1,0 +1,9 @@
+{{ define "title" }}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+    <h1>{{ .Title }}</h1>
+    <p class="newsmeta">{{ .Date.Format "02.01.2006" }} von <i>{{ .Params.Author }}</i></p>
+    {{ .Content }}
+{{ end }}
