@@ -17,7 +17,7 @@ aliases:
 
 <p>Wo:</p>
 
-<p>Veranstaltungsort &amp; Unterkunft: BaseCamp Bonn (<a href="http://www.basecamp-bonn.de/">http://www.basecamp-bonn.de/</a>)<br />
+<p>Veranstaltungsort &amp; Unterkunft: BaseCamp Bonn (<a href="https://www.basecamp-bonn.de/">https://www.basecamp-bonn.de/</a>)<br />
 Buchungssystem für Unterkünfte: <a href="http://www.bonn-region.de/events/fossgis.html">http://www.bonn-region.de/events/fossgis.html</a></p>
 
 <p><b>Interessiert? Lesen Sie weiter und erfahren Sie mehr über den OSGeo Code Sprint...</b></p>
@@ -33,15 +33,15 @@ Buchungssystem für Unterkünfte: <a href="http://www.bonn-region.de/events/foss
 
 <p>Dieses Jahr findet der internationale Code Sprint der OSGeo vom 18. bis 25. März 2018 parallel zur <a href="https://www.fossgis-konferenz.de/2018/">FOSSGIS Konferenz 2018</a> in Bonn statt. Wir bieten einen Rahmen, in dem sich einzelne Projekte zu ihrem Code Sprint treffen können.</p>
 
-<p>Der Code Sprint findet im <a href="http://www.basecamp-bonn.de/">BaseCamp in Bonn</a> statt. Während der <a href="http://2016.foss4g.org/">FOSS4G 2016</a> fand dort bereits ein <a href="https://wiki.osgeo.org/wiki/FOSS4G_2016_Code_Sprint">Codesprint mit etwa 100 Entwicklern</a> statt. Das <a href="http://www.basecamp-bonn.de/">BaseCamp</a> ist ein großartiger Ort für eine solche Veranstaltung. Codesprint und Unterkunft sind in einer alten Fabrikhalle mit unterschiedlichsten <a href="http://www.basecamp-bonn.de/zimmer-hotel-bonn/">&Uuml;bernachtungsmöglichkeiten vom Campingwagen bis zur Gondel</a>.</p>
+<p>Der Code Sprint findet im <a href="https://www.basecamp-bonn.de/">BaseCamp in Bonn</a> statt. Während der <a href="http://2016.foss4g.org/">FOSS4G 2016</a> fand dort bereits ein <a href="https://wiki.osgeo.org/wiki/FOSS4G_2016_Code_Sprint">Codesprint mit etwa 100 Entwicklern</a> statt. Das <a href="https://www.basecamp-bonn.de/">BaseCamp</a> ist ein großartiger Ort für eine solche Veranstaltung. Codesprint und Unterkunft sind in einer alten Fabrikhalle mit unterschiedlichsten <a href="https://www.basecamp-bonn.de/zimmer-hotel-bonn/">&Uuml;bernachtungsmöglichkeiten vom Campingwagen bis zur Gondel</a>.</p>
 
-<p>Auf <a href="http://www.basecamp-bonn.com/">http://www.basecamp-bonn.com/</a> finden sich nähere Informationen zum Veranstaltungsort.</p>
+<p>Auf <a href="https://www.basecamp-bonn.de/">https://www.basecamp-bonn.de/</a> finden sich nähere Informationen zum Veranstaltungsort.</p>
 
 <p><b>Unterkünfte</b></p>
 <hline />
 <p>Arbeitsbereiche für die Entwickler werden eingerichtet. Gesunde und weniger gesunde Verpflegung (Essen und Getränke) stellen wir zur Verfügung. Die Teilnahme am Codesprint ist kostenlos. Die &Uuml;bernachtung muss jedoch von den Teilnehmern selbst bezahlt und gebucht werden.</p>
 
-<p>Das <a href="http://www.basecamp-bonn.com/">BaseCamp</a> ist ein Indoor-Campingplatz in einer alten Fabrikhalle. Es gibt dort verschiedene Wohnwagen, Schlafwagen, Airstreams, einen Trabant, VW-Busse und andere Schlafgelegenheiten.</p>
+<p>Das <a href="https://www.basecamp-bonn.de/">BaseCamp</a> ist ein Indoor-Campingplatz in einer alten Fabrikhalle. Es gibt dort verschiedene Wohnwagen, Schlafwagen, Airstreams, einen Trabant, VW-Busse und andere Schlafgelegenheiten.</p>
 
 <p>Für die, die lieber im Hotel übernachten, gibt es das <a href="http://www.bonnox.de/de/">Bonnox Boardinghouse</a> direkt nebenan. Außerdem stehen viele gute Hotels und Hostels in Bonn zur Verfügung.</p>
 
@@ -65,7 +65,7 @@ Buchungssystem für Unterkünfte: <a href="http://www.bonn-region.de/events/foss
   So 18.03.2018 12:00 mittags -â â  So 25.03.2018 12:00 mittags</p>
   
 <p><b>wo:</b><br/>
-  Veranstaltungsort &amp; Unterkunft: BaseCamp. (<a href="http://www.basecamp-bonn.com/">http://www.basecamp-bonn.com/</a>)<br/>
+  Veranstaltungsort &amp; Unterkunft: BaseCamp. (<a href="https://www.basecamp-bonn.de/">https://www.basecamp-bonn.de/</a>)<br/>
   Buchungssystem für Unterkünfte: <a href="http://www.bonn-region.de/events/fossgis.html">http://www.bonn-region.de/events/fossgis.html</a></p>
 
 <p><b>Fragen/Anmerkungen/Ideen:</b><br/>

@@ -70,17 +70,17 @@ Am FOSSGIS-Stand war immer viel los. Danke an alle Beteiligten. Das Projektemobi
 
 <h4>Dank</h4>
 Vielen Dank an das engagierte Team der AGIT, welches die Austragung der FOSSGIS professionell umgesetzt hat sowie an alle aktiv Beteiligten. Die gute Zusammenarbeit hat für das Gelingen der Verknüpfung von OSM-Sonntag, FOSSGIS-Konferenz und AGIT gesorgt. <br>
-Ein großer Dank geht an das Videoteam, welches eng mit dem CCC VOC (c3voc) Team zusammenarbeitet. Die gesamte Konferenz wurde im Livestream übertragen. Die Vorträge stehen im Youtube im FOSSGIS-Channel sowie auf der Konferenzhomepage zur Verfügung: http://www.fossgis-konferenz.de/2016/videos/.
+Ein großer Dank geht an das Videoteam, welches eng mit dem CCC VOC (c3voc) Team zusammenarbeitet. Die gesamte Konferenz wurde im Livestream übertragen. Die Vorträge stehen im Youtube im FOSSGIS-Channel sowie auf der Konferenzhomepage zur Verfügung: https://www.fossgis-konferenz.de/2016/videos/.
 
 <h4>Fotos</h4>
 Flickr: https://www.flickr.com/photos/uni-salzburg/albums/72157667838354303
-Website (coming soon): http://www.fossgis-konferenz.de/2016/
+Website (coming soon): https://www.fossgis-konferenz.de/2016/
 
 <h4>Mitgliederentwicklung FOSSGIS e.V.</h4>
 Der FOSSGIS-Verein konnte im Rahmen der Konferenz die Mitgliedermarke von 200 überschreiten und freut sich darüber sehr. An dieser Stelle ein herzliches Willkommen an alle neuen Vereinsmitglieder.
 
 <h4>FOSSGIS 2017</h4>
-Nach der Konferenz ist vor der Konferenz. Wir sind gespannt, zu welchem Standort uns die nächste FOSSGIS führen wird, aktuell sucht der FOSSGIS e.V. einen Austragungsort für 2017. Weitere Informationen dazu unter: http://www.fossgis-konferenz.de/2017/ Für Hinweise, Wünsche und Unterstützung sind wir offen.
+Nach der Konferenz ist vor der Konferenz. Wir sind gespannt, zu welchem Standort uns die nächste FOSSGIS führen wird, aktuell sucht der FOSSGIS e.V. einen Austragungsort für 2017. Weitere Informationen dazu unter: https://www.fossgis-konferenz.de/2017/ Für Hinweise, Wünsche und Unterstützung sind wir offen.
 
 
 Allen noch einen schönen Sommer und vielleicht schon bis in zwei Wochen zur FOSS4G 2016 in Bonn (http://2016.foss4g.org). 

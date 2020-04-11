@@ -59,7 +59,7 @@ Zeitgleich zur FOSSGIS findet der internationale OSGeo Code Sprint vom 19. bis 2
 Weitere Informationen zur FOSSGIS-Konferenz, zum Programm, Anreise und Unterkunft, Anmeldung, Helfermöglichkeiten und Sponsoren bietet die Konferenzhomepage.
 </p>
 <p>
- <a href="hhttps://www.fossgis-konferenz.de/2018" target="_blank">https://www.fossgis-konferenz.de/2018</a>
+ <a href="https://www.fossgis-konferenz.de/2018/" target="_blank">https://www.fossgis-konferenz.de/2018/</a>
 </p>
 <p>
 Folgen Sie uns auf Twitter sowie auf der FOSSGIS-Talk Mailingliste:<br/>

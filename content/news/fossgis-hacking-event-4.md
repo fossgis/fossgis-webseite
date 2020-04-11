@@ -14,11 +14,11 @@ aliases:
 <div id="cke_pastebin">
 	<strong>FOSSGIS-Konferenz</strong></div>
 <div id="cke_pastebin">
-	Die <a href="http://www.fossgis-konferenz.de/2016">&nbsp;FOSSGIS 2016</a> findet vom 04.06.-06.06.2016 in Salzburg statt. Während des Hacking-Weekends wurde auch die Planung der FOSSGIS-Konferenzen 2016 und 2017 vorangebracht. Neben organisatorischen Planungen rund um die nächste Konferenz in Salzburg wurde das Einreichungssystem für die Vorträge aktualisiert. Hierbei wird nun eine leicht angepasste Version des &quot;frab - conference management system&quot; eingesetzt. Die [http://www.fossgis-konferenz.de/2016/ Konferenzwebsite] bekommt neue Informationen. Für die Konferenzdarstellung gibt es jetzt die Skyline der Festung Hohensalzburg als [https://www.fossgis.de/wiki/Konferenz_2016/Artwork#Skyline_Salzburg &nbsp;wunderschönes Artwork]. Am Tag vor der Konferenz wird ein OSM-Hacktag (&quot;T-1&quot;) stattfinden. Ideen und Planungen können [[Konferenz 2016/Programm/OSM-Sonntag | hier]] bzw. [https://wiki.openstreetmap.org/wiki/FOSSGIS_2016/Hackday_t-1 hier] eingetragen werden.</div>
+	Die <a href="https://www.fossgis-konferenz.de/2016/">&nbsp;FOSSGIS 2016</a> findet vom 04.06.-06.06.2016 in Salzburg statt. Während des Hacking-Weekends wurde auch die Planung der FOSSGIS-Konferenzen 2016 und 2017 vorangebracht. Neben organisatorischen Planungen rund um die nächste Konferenz in Salzburg wurde das Einreichungssystem für die Vorträge aktualisiert. Hierbei wird nun eine leicht angepasste Version des &quot;frab - conference management system&quot; eingesetzt. Die [https://www.fossgis-konferenz.de/2016/ Konferenzwebsite] bekommt neue Informationen. Für die Konferenzdarstellung gibt es jetzt die Skyline der Festung Hohensalzburg als [https://www.fossgis.de/wiki/Konferenz_2016/Artwork#Skyline_Salzburg &nbsp;wunderschönes Artwork]. Am Tag vor der Konferenz wird ein OSM-Hacktag (&quot;T-1&quot;) stattfinden. Ideen und Planungen können [[Konferenz 2016/Programm/OSM-Sonntag | hier]] bzw. [https://wiki.openstreetmap.org/wiki/FOSSGIS_2016/Hackday_t-1 hier] eingetragen werden.</div>
 <div id="cke_pastebin">
 	&nbsp;</div>
 <div id="cke_pastebin">
-	Zudem wurde der Call for Location für die <a href="http://www.fossgis-konferenz.de/2017">FOSSGIS-Konferenz 2017 </a>vorbereitet und veröffentlicht.</div>
+	Zudem wurde der Call for Location für die <a href="https://www.fossgis-konferenz.de/2017/">FOSSGIS-Konferenz 2017 </a>vorbereitet und veröffentlicht.</div>
 <div id="cke_pastebin">
 	&nbsp;</div>
 <div id="cke_pastebin">

@@ -8,7 +8,7 @@ aliases:
 ---
 
 <p>AGIT 2015: Von 8.-10. Juli 2015 rückt die Universität Salzburg wieder ins Zentrum der internationalen Geoinformatik Community.</p>
-<p><a href="http://www.agit.at/">http://www.agit.at/</a></p>
+<p><a href="https://agit.at/">https://agit.at/</a></p>
 <p>Präsentiert Euer Open Source-Projekt auf der AGIT 2015 in Salzburg im OSGeo Park!<br />
 	<br />
 	Im OSGeo-Park von OSGeo und FOSSGIS e.V. könnt Ihr Euer Projekt</p>

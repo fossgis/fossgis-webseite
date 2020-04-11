@@ -8,4 +8,4 @@ aliases:
 ---
 
 <p>Der Call for Papers für die FOSSGIS-Konferenz 2014 in Berlin wurde bis zum<strong> 30. November 2013</strong> verlängert. Die Verlängerung soll den Einreichenden die nötige Zeit geben um qualitativ hochwertige Beiträge einzureichen.</p>
-<p>Weitere Informationen zum Call for Papers zum Beispile wie Sie Vorträge einreichen können finden Sie unter: <a href="https://www.fossgis.de/konferenz/2014/callforpapers/">https://www.fossgis.de/konferenz/2014/callforpapers/</a></p>
+<p>Weitere Informationen zum Call for Papers zum Beispile wie Sie Vorträge einreichen können finden Sie unter: <a href="https://fossgis-konferenz.de/2014/callforpapers/">https://fossgis-konferenz.de/2014/callforpapers/</a></p>

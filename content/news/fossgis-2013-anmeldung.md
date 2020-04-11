@@ -26,7 +26,7 @@ aliases:
 <div id="cke_pastebin">
 	&nbsp;</div>
 <div id="cke_pastebin">
-	Weitere Informationen zum Programm und zur Anreise finden Sie auf der Konferenzhomepage https://www.fossgis.de/konferenz/2013/</div>
+	Weitere Informationen zum Programm und zur Anreise finden Sie auf der Konferenzhomepage https://fossgis-konferenz.de/2013/</div>
 <div>
 	&nbsp;</div>
 <div>

@@ -52,7 +52,7 @@ Gefreut haben wir uns über den Besuch von Staatssekretär Klaus Vitt, der bei s
 </p>
 <p>
 <b>OSGeo-Live zum Anfassen</b><br/>
-An mehreren Rechnern konnten die Besucher die aktuelle <a href="http://live.osgeo.org">OSGeo-Live 11.0</a> ausprobieren und sich über 50 Softwareprojekte, Demodaten und Dokumentationen informieren. Manche Fragen konnten direkt über eine Demonstation an den Rechnern beantwortet werden.
+An mehreren Rechnern konnten die Besucher die aktuelle <a href="https://live.osgeo.org/">OSGeo-Live 11.0</a> ausprobieren und sich über 50 Softwareprojekte, Demodaten und Dokumentationen informieren. Manche Fragen konnten direkt über eine Demonstation an den Rechnern beantwortet werden.
 </p>
 <p>
 <img src="/news/legacy/2.jpg">

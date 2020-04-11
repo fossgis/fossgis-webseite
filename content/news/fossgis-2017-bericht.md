@@ -32,7 +32,7 @@ Der Einsteigerblock zum Thema "Open Source Projekte stellen sich vor" am Mittwoc
 Um 13 Uhr wurde die FOSSGIS-Konferenz von Dr. Marco Lechner und Prof. Harald Kosch (Vizepräsident Uni Passau) und Prof. Dr. Tomas Sauer (Lehrstuhl für Mathematik mit Schwerpunkt Digitale Bildverarbeitung) im Audimax eröffnet.
 <br />
 Das Programm setzte sich aus Vortragstracks zu GIS- und OSM-Themen zusammen. Insgesamt wurden 65 Vorträge gehalten. Themen waren OpenStreetMap, QGIS, Webmapping, Lizenzen, Serverlösungen, Satellitenbilder und vieles mehr.<br />
-Neben den Vorträgen besuchten 152 Teilnehmer die angebotenen 17 Workshops, die wie in den letzten Jahren erfolgreich mit <a href="https://live.osgeo.org" target="_blank">OSGeo-Live</a> durchgeführt wurden.
+Neben den Vorträgen besuchten 152 Teilnehmer die angebotenen 17 Workshops, die wie in den letzten Jahren erfolgreich mit <a href="https://live.osgeo.org/" target="_blank">OSGeo-Live</a> durchgeführt wurden.
 </p>
 <p>
 Die Konferenz wurde von 11 Sponsoren unterstützt. Goldsponsor WhereGroup eröffnete mit dem Vortrag "Mut zur Freiheit" und rief zu mehr Aktivitäten und Business auf. Im Foyer gab es einen Ausstellerbereich, in dem sich 5 Firmen präsentierten und während der gesamten Konferenz zum Gespräch einluden.
@@ -87,7 +87,7 @@ FOSSGIS Stand 2017 (Foto: Astrid)
 <p>
 <h5>Dank</h5>
 Der Verein bedankt sich ganz herzlich bei Peter Barth und seinem engagierten Team, welches ein super Lokalteam für die Veranstaltung der FOSSGIS war. Peter Barth resümiert: "Orga und Ausrichtung auf lokaler Seite haben wir natürlich gern gemacht, wir haben ja auch gut was dafür bekommen: Eine tolle Konferenz und das sogar in unserer Stadt :-)"<br />
-Danke an alle aktiv Beteiligten! Die gute Zusammenarbeit hat dafür gesorgt, dass das C3VOC-Videoteam alle Vorträge im Livestream bereitstellen und aufzeichnen konnte. Ein großer Dank geht an das engagierte Videoteam, welches von Dienstag bis Samstag Abend unermüdlich im Einsatz war, um die gesamte Konferenz aufzuzeichnen. Die Vorträge stehen auf <a href="http://www.fossgis-konferenz.de/2017/videos/" target="_blank">YouTube</a> im FOSSGIS-Channel, auf der Konferenzhomepage und in einigen Tagen im <a href="https://www.tib.eu/en/search/?id=198&tx_tibsearch_search%5Bquery%5D=fossgis+2017&tx_tibsearch_search%5Bsearchspace%5D=tn&tx_tibsearch_search%5Bsrt%5D=rk&tx_tibsearch_search%5Bcnt%5D=20" target="_blank">TIB-AV-Portal</a> zur Verfügung. Dank auch an das TIB-AV-Portal Team.
+Danke an alle aktiv Beteiligten! Die gute Zusammenarbeit hat dafür gesorgt, dass das C3VOC-Videoteam alle Vorträge im Livestream bereitstellen und aufzeichnen konnte. Ein großer Dank geht an das engagierte Videoteam, welches von Dienstag bis Samstag Abend unermüdlich im Einsatz war, um die gesamte Konferenz aufzuzeichnen. Die Vorträge stehen auf <a href="https://www.fossgis-konferenz.de/2017/videos/" target="_blank">YouTube</a> im FOSSGIS-Channel, auf der Konferenzhomepage und in einigen Tagen im <a href="https://www.tib.eu/en/search/?id=198&tx_tibsearch_search%5Bquery%5D=fossgis+2017&tx_tibsearch_search%5Bsearchspace%5D=tn&tx_tibsearch_search%5Bsrt%5D=rk&tx_tibsearch_search%5Bcnt%5D=20" target="_blank">TIB-AV-Portal</a> zur Verfügung. Dank auch an das TIB-AV-Portal Team.
 </p>
 <p>
 Herzlichen Dank an die Sponsoren, an die Sessionleiter, das super Catering des Studentenwerkes der Uni Passau und alle Teilnehmer - sie alle haben für eine gelingende Konferenz gesorgt.
@@ -125,7 +125,7 @@ Ein paar fotografisch festgehaltene Eindrücke finden Sie auf der <a href="https
 <p>
 <h5>FOSSGIS 2018</h5>
 Nach der Konferenz ist vor der Konferenz. Wir sind gespannt, zu welchem Standort uns die nächste FOSSGIS führen wird. <br />
-Weitere Infos auf der <a href="http://www.fossgis-konferenz.de/2018" target="_blank">Konferenzhomepage</a>.
+Weitere Infos auf der <a href="https://www.fossgis-konferenz.de/2018/" target="_blank">Konferenzhomepage</a>.
 </p>
 
 <p>
@@ -135,11 +135,11 @@ In 2017 ist der FOSSGIS e.V. auf verschiedenen Veranstaltungen aktiv oder als Sp
 
 <ul>
   <li>8. FOSSGIS Hacking Event 2017 vom 23.-25.6.2017 im Linuxhotel https://www.fossgis.de/wiki/FOSSGIS_Hacking_Event_2017_Nummer_8</li>
-  <li>AGIT 2017 vom 05. bis 07. Juli 2017 in Salzburg mit OSGeo Park und OSGeo Day http://agit.at/</li>
+  <li>AGIT 2017 vom 05. bis 07. Juli 2017 in Salzburg mit OSGeo Park und OSGeo Day https://agit.at/</li>
   <li>FOSS4G Europe 2017 Paris 18.-22. Juli 2017 https://europe.foss4g.org/2017/</li>
   <li>FOSS4G 2017 Boston 14.-19. August 2017 http://2017.foss4g.org/</li>
   <li>SOTM 2017 18.-20,8.2017 in Aizuwakamatsu, Fukushima, Japan. http://2017.stateofthemap.org/</li>
-  <li>FrOSCon 2017 19.-20. August 2017 Hochschule Bonn-Rhein-Sieg https://www.froscon.de/startseite/</li>
+  <li>FrOSCon 2017 19.-20. August 2017 Hochschule Bonn-Rhein-Sieg https://www.froscon.de/</li>
   <li>Intergeo 26.-28.9 in Berlin (in Planung) https://www.intergeo.de/</li>
   <li>... und natürlich viele Stammtische. Hinweis: Wer die <a href="https://blog.openstreetmap.de/" target="_blank">OSM Wochennotiz</a> liest, ist immer gut informiert.
 </ul>

@@ -12,8 +12,8 @@ aliases:
 	<br />
 	Wir erinnern uns gerne an die FOSSGIS Konferenzen der letzten Jahre. Jeder Besuch war eine Reise wert und hat einen bleibenden Eindruck hinterlassen.<br />
 	<br />
-	Die FOSSGIS 2013 (https://www.fossgis.de/konferenz/2013/) fand im Juni 2013 bei Sonnenschein an der HSR Hochschule für Technik in Rapperswil in der Schweiz statt. Mehr als 400 Besucher aus dem In- und Ausland kamen, um sich über aktuelle Entwicklungen freier Geoinformatik-Software und Geodaten zu informieren und auszutauschen.</p>
-<p>Im kommenden Frühjahr wird die FOSSGIS-Konferenz vom 19.-21. März 2014 an der <a href="https://www.fossgis.de/node/172">Beuth-Hochschule</a> für Technik in Berlin stattfinden.</p>
+	Die FOSSGIS 2013 (https://fossgis-konferenz.de/2013/) fand im Juni 2013 bei Sonnenschein an der HSR Hochschule für Technik in Rapperswil in der Schweiz statt. Mehr als 400 Besucher aus dem In- und Ausland kamen, um sich über aktuelle Entwicklungen freier Geoinformatik-Software und Geodaten zu informieren und auszutauschen.</p>
+<p>Im kommenden Frühjahr wird die FOSSGIS-Konferenz vom 19.-21. März 2014 an der <a href="https://www.beuth-hochschule.de/">Beuth-Hochschule</a> für Technik in Berlin stattfinden.</p>
 <p>Auch im Frühjahr 2015 soll es wieder eine FOSSGIS Konferenz geben. Sie möchten die FOSSGIS Konferenz direkt vor der Tür bzw. in Ihrem Haus haben? Dann bewerben Sie sich jetzt - Bewerbungsschluss ist der 1.02.2014. Wir freuen uns über Ihre Bewerbung.<br />
 	<br />
 	Die FOSSGIS findet von Mittwoch bis Freitag statt. Es besteht sicherlich die Möglichkeit am nachfolgenden Wochenende OSM-Community-Treffen oder andere Events zu organisieren.<br />

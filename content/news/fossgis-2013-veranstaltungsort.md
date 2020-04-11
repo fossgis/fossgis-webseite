@@ -7,7 +7,7 @@ aliases:
 
 ---
 
-<p>Potsdam, 09. November 2012 - Die <a href="https://www.fossgis.de/konferenz/2013/" target="_blank">FOSSGIS- und deutschsprachige OpenStreetMap-Konferenz </a>gibt Ihren Veranstaltungsort für das Jahr 2013 bekannt. Die FOSSGIS-Konferenz findet 2013 vom 12. bis 14. Juni an der HSR Hochschule für Technik in Rapperswil in der Schweiz statt. Die Konferenz ist die größte deutschsprachige Anwenderkonferenz für freie Geoinformationssysteme und freie Geodaten. Im März dieses Jahres nahmen 500 interessierte Teilnehmer an der FOSSGIS 2012 in Dessau teil.</p>
+<p>Potsdam, 09. November 2012 - Die <a href="https://fossgis-konferenz.de/2013/" target="_blank">FOSSGIS- und deutschsprachige OpenStreetMap-Konferenz </a>gibt Ihren Veranstaltungsort für das Jahr 2013 bekannt. Die FOSSGIS-Konferenz findet 2013 vom 12. bis 14. Juni an der HSR Hochschule für Technik in Rapperswil in der Schweiz statt. Die Konferenz ist die größte deutschsprachige Anwenderkonferenz für freie Geoinformationssysteme und freie Geodaten. Im März dieses Jahres nahmen 500 interessierte Teilnehmer an der FOSSGIS 2012 in Dessau teil.</p>
 <div>
 	&nbsp;</div>
 <div id="cke_pastebin">

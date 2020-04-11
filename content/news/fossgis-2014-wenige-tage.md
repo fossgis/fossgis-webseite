@@ -14,7 +14,7 @@ aliases:
 <p>Viele ehrenamtliche Helfer werden zum Gelingen der Konferenz beitragen. Zum Beispiel freuen wir uns, dass auch in diesem Jahr ein Videoteam die Vorträge aufzeichnen wird und diese im Anschluss der Konferenz öffentlich zugänglich gemacht werden. An dieser Stelle schon ein großer Dank an alle Beteiligten.</p>
 <img alt="FOSSGIS 2014 Berlin an der Beuth Hochschule für Technik" height="124px" src="https://www.fossgis.de/w/images/b/ba/03_300dpi_preview.png" style="width: 240px; height: 124px; float: right;" width="240px" />
 <p>Auf der Konferenzseite können Sie sich ausgiebig über die Konferenz informieren</p>
-<p><a href="https://www.fossgis.de/konferenz/2014/"><br />
-	https://www.fossgis.de/konferenz/2014/</a></p>
+<p><a href="https://fossgis-konferenz.de/2014/"><br />
+	https://fossgis-konferenz.de/2014/</a></p>
 <p><br />
 	Wir sehen uns in Berlin!</p>

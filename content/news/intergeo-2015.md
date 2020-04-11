@@ -8,7 +8,7 @@ aliases:
 ---
 
 <p>Vom 15. bis zum 17. September 2015 präsentiert sich der OSGeo-Park auf der INTERGEO, die in diesem Jahr in Stuttgart stattfinden wird. Dazu wird es wie schon in den letzten Jahren einen Open Source Park geben.</p>
-<p><a href="https://intergeo.de" target="_blank"><img alt="Intergeo 2015 Stuttgart" src="https://www.intergeo.de/wLayout/wGlobal/layout/images/weblication/wThumbnails/INTERGEO-Logo-d-Datum-f04e61eda69edecaae40dc59ebac689e.png" style="width: 300px; height: 87px;" /></a><br />
+<p><a href="https://www.intergeo.de/" target="_blank"><img alt="Intergeo 2015 Stuttgart" src="https://www.intergeo.de/wLayout/wGlobal/layout/images/weblication/wThumbnails/INTERGEO-Logo-d-Datum-f04e61eda69edecaae40dc59ebac689e.png" style="width: 300px; height: 87px;" /></a><br />
 	<br />
 	Dieser OSGeo-Park bietet Firmen aus dem Bereich Open Source und den Open-Source-Projekten selbst eine gelungene Plattform um Ihre Lösungen zu präsentieren.<br />
 	&nbsp;<br />

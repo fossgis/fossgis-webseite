@@ -28,7 +28,7 @@ die vom 11.-14. März 2020 in Freiburg stattfindet. Das Programmkomitee wählte
 die Vorträge für die Konferenz aus, das Pretix-System wurde aufgesetzt und
 wichtige organisatorische Fragen geklärt. Die angereisten Vorstandsmitglieder
 diskutierten grundsätzlich über die Zukunft des Vereins. Natürlich wurde auch an
-Open-Source- und OSM-Projekten gearbeitet: Der OSM-Kartendienst [MapOSMatic](https://maposmatic.osm-baustelle.de/) und der OSM-basierte Geocoder [Nominatim](http://nominatim.org/) wurden verbessert.
+Open-Source- und OSM-Projekten gearbeitet: Der OSM-Kartendienst [MapOSMatic](https://maposmatic.osm-baustelle.de/) und der OSM-basierte Geocoder [Nominatim](https://nominatim.org/) wurden verbessert.
 Ein kleines Team traf sich, um die deutschsprachige Übersetzung der
 [QGIS](https://qgis.de/)-Dokumentation voranzubringen.
 

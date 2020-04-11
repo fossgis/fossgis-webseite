@@ -19,6 +19,6 @@ aliases:
 		Social Event: 35 EUR (Buffet, Getränke, 19-23 Uhr)</li>
 </ul>
 <p>Die FOSSGIS Konferenz 2015 wird vom gemeinnützigen Verein FOSSGIS e.V, der OpenStreetMap Community und der Open Source Geospatial Foundation (OSGeo) in Zusammenarbeit mit dem Institut für Geoinformatik der Universität Münster veranstaltet. Freiwillige Helfer sind eingeladen und willkommen während der Konferenz zu unterstützen.</p>
-<p>Alle Informationen zur FOSSGIS-Konferenz (Programm, Anreise und Unterkunft, Anmeldung, Helfermöglichkeiten und Sponsoren) entnehmen Sie der Konferenzhomepage <a class="external free" href="https://www.fossgis.de/konferenz/2015/" rel="nofollow" title="https://www.fossgis.de/konferenz/2015/">https://www.fossgis.de/konferenz/2015/</a>.</p>
+<p>Alle Informationen zur FOSSGIS-Konferenz (Programm, Anreise und Unterkunft, Anmeldung, Helfermöglichkeiten und Sponsoren) entnehmen Sie der Konferenzhomepage <a class="external free" href="https://fossgis-konferenz.de/2015/" rel="nofollow" title="https://fossgis-konferenz.de/2015/">https://fossgis-konferenz.de/2015/</a>.</p>
 <p>Wir freuen uns auf eine spannende FOSSGIS-Konferenz 2015 in Münster und wünschen eine fröhliche Weihnachtszeit und einen angenehmen Jahreswechsel.</p>
 <p>Mit freundlichen Grüßen vom FOSSGIS-Konferenz-Oranisationsteam</p>

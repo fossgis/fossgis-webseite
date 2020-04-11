@@ -11,7 +11,7 @@ aliases:
 <div id="cke_pastebin">
 	&nbsp;</div>
 <div id="cke_pastebin">
-	Wir laden daher weiterhin alle Interessierten ein, einen Abstracts von 1500 Zeichen für Vorträge oder Workshops einzureichen. Mehr Informationen zum Call for Papers findest du unter&nbsp; <a href="https://www.fossgis.de/konferenz/2013/callforpapers/">https://www.fossgis.de/konferenz/2013/callforpapers/</a></div>
+	Wir laden daher weiterhin alle Interessierten ein, einen Abstracts von 1500 Zeichen für Vorträge oder Workshops einzureichen. Mehr Informationen zum Call for Papers findest du unter&nbsp; <a href="https://fossgis-konferenz.de/2013/callforpapers/">https://fossgis-konferenz.de/2013/callforpapers/</a></div>
 <div id="cke_pastebin">
 	&nbsp;</div>
 <div id="cke_pastebin">

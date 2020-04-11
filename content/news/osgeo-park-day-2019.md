@@ -33,4 +33,4 @@ In drei Blogbeiträgen wurden die Ereignisse anschaulich zusammengefasst:
 
 Herzlichen Dank an Markus Mayr (ScubbX), Andreas Voit (Geologist) und Jakob Miksch, die in diesem Jahr den OSGeo Park wieder großartig organisierten: Herzlichen Dank auch an das AGIT-Team für die tolle Veranstaltung
 
-Wir sehen uns zur [AGIT 2020](http://agit.at/) vom 8.-10. Juli 2020 in Salzburg!
+Wir sehen uns zur [AGIT 2020](https://agit.at/) vom 8.-10. Juli 2020 in Salzburg!

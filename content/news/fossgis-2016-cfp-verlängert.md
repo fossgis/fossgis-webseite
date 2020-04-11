@@ -12,7 +12,7 @@ aliases:
 <div>
 	&nbsp;</div>
 <div id="cke_pastebin">
-	Wir laden daher alle Interessierten ein, einen Beitrag in Form eines Vortrags oder Workshops einzureichen. Mehr Informationen zum Call for Papers findest du unter http://www.fossgis-konferenz.de/2016/</div>
+	Wir laden daher alle Interessierten ein, einen Beitrag in Form eines Vortrags oder Workshops einzureichen. Mehr Informationen zum Call for Papers findest du unter https://www.fossgis-konferenz.de/2016/</div>
 <div>
 	&nbsp;</div>
 <div id="cke_pastebin">

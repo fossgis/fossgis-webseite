@@ -9,4 +9,4 @@ aliases:
 
 <p>Du kannst oder konntest leider nicht an der FOSSGIS Konferenz teilnehmen? Du hast einen Vortrag verpasst, weil Du parallel dazu einen mindestens ebenso interessanten angeschaut hast?</p>
 <p>Unter <a href="http://streaming.fossgis.de/">http://streaming.fossgis.de</a> gibts Vorträge und Sessions live zum mitschauen.</p>
-<p>Um Vorträge später nachzuholenkannst Du ins <a href="https://www.fossgis.de/wiki/Konferenz_2014/Videoaufzeichnung">FOSSGIS Wiki</a> gehen oder auf <a href="http://youtube.com/fossgis ">Youtube youtube.com/fossgis</a> gehen</p>
+<p>Um Vorträge später nachzuholenkannst Du ins <a href="https://www.fossgis.de/wiki/Konferenz_2014/Videoaufzeichnung">FOSSGIS Wiki</a> gehen oder auf <a href="https://www.youtube.com/user/fossgis ">Youtube youtube.com/fossgis</a> gehen</p>

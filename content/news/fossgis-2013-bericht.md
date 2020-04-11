@@ -20,4 +20,4 @@ aliases:
 <div id="cke_pastebin">
 	&nbsp;</div>
 <div id="cke_pastebin">
-	Die nächste FOSSGIS im Jahr 2014 wird vom 19. bis 21. März 2014 in Berlin stattfinden. Weitere Informationen hierzu erhalten Sie immer unter: <a href="https://www.fossgis.de/konferenz/2014/">https://www.fossgis.de/konferenz/2014/</a></div>
+	Die nächste FOSSGIS im Jahr 2014 wird vom 19. bis 21. März 2014 in Berlin stattfinden. Weitere Informationen hierzu erhalten Sie immer unter: <a href="https://fossgis-konferenz.de/2014/">https://fossgis-konferenz.de/2014/</a></div>

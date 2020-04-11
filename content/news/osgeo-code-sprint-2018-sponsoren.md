@@ -9,13 +9,13 @@ aliases:
 
 <p>Die Open Source Geospatial Foundation (OSGeo) hat eine lange Tradition, Code Sprints für die Entwickler von Open Source GIS Software zu organisieren. (https://wiki.osgeo.org/wiki/Category:Code_Sprints).</p>
 
-<p>Im Rahmen der <a href="https://www.fossgis-konferenz.de/2018/">FOSSGIS-Konferenz 2018 in Bonn</a> wird ein internationaler Code Sprint der OSGeo parallel zur Konferenz vom 18. bis zum 25. März 2018 stattfinden. Wir rechnen mit rund 80 Entwicklern aus aller Welt aus diversen  <a href="http://www.osgeo.org/">Projekten</a>. Ob Desktop Applikationen, Bibliotheken zur Verarbeitung von raumbezogenen Daten, Metadatenkatalogen oder Web-Mapping: Sicher finden Sie auch Software in der Liste, die bei Ihnen im Einsatz ist. Somit ist der Code Sprint auch für Ihre Entwickler die Gelegenheit, sich mit den Kernentwicklern der Projekte zu treffen, einen tieferen Einblick in die Software zu bekommen und sich an der Entwicklung zu beteiligen.</p>
+<p>Im Rahmen der <a href="https://www.fossgis-konferenz.de/2018/">FOSSGIS-Konferenz 2018 in Bonn</a> wird ein internationaler Code Sprint der OSGeo parallel zur Konferenz vom 18. bis zum 25. März 2018 stattfinden. Wir rechnen mit rund 80 Entwicklern aus aller Welt aus diversen  <a href="https://www.osgeo.org/">Projekten</a>. Ob Desktop Applikationen, Bibliotheken zur Verarbeitung von raumbezogenen Daten, Metadatenkatalogen oder Web-Mapping: Sicher finden Sie auch Software in der Liste, die bei Ihnen im Einsatz ist. Somit ist der Code Sprint auch für Ihre Entwickler die Gelegenheit, sich mit den Kernentwicklern der Projekte zu treffen, einen tieferen Einblick in die Software zu bekommen und sich an der Entwicklung zu beteiligen.</p>
 
-<p>Der Code Sprint wird im <a href="http://www.basecamp-bonn.de/">BaseCamp</a> in Bonn stattfinden. Während der FOSS4G 2016 in Bonn haben wir an diesem Ort bereits einen <a href="https://wiki.osgeo.org/wiki/FOSS4G_2016_Code_Sprint">Code Sprint</a> organisiert, bei dem an allen Tagen rund 100 Entwickler an den Open Source Projekten gearbeitet haben.</p>
+<p>Der Code Sprint wird im <a href="https://www.basecamp-bonn.de/">BaseCamp</a> in Bonn stattfinden. Während der FOSS4G 2016 in Bonn haben wir an diesem Ort bereits einen <a href="https://wiki.osgeo.org/wiki/FOSS4G_2016_Code_Sprint">Code Sprint</a> organisiert, bei dem an allen Tagen rund 100 Entwickler an den Open Source Projekten gearbeitet haben.</p>
 
 <p>Neben den Kosten für die Bereitstellung der technischen Infrastruktur fallen vor allem Kosten für die Verpflegung der Entwickler an. Ein Buffet zur Mittagszeit und eine ganztägige Versorgung mit Getränken ist vorgesehen.</p>
 
-<p>Gefördert wird der Code Sprint bereits von der <a href="http://www.osgeo.org/">OSGeo</a> und dem <a href="https://www.fossgis.de/">FOSSGIS e.V.</a>.</p>
+<p>Gefördert wird der Code Sprint bereits von der <a href="https://www.osgeo.org/">OSGeo</a> und dem <a href="https://www.fossgis.de/">FOSSGIS e.V.</a>.</p>
 
 <p>Um die Kosten zu decken, würden wir uns allerdings über weitere Sponsoren sehr freuen!</p>
 
@@ -48,11 +48,11 @@ Herzlichen Dank!</p>
 <p>Simultaneously with the <a href="https://www.fossgis-konferenz.de/2018/">FOSSGIS Conference 2018 in Bonn</a> an international code sprint of the OSGeo will take place from 18 to 25 March 2018.
 We expect about 80 developers from all over the world to come from various <a href="https://www.osgeo.org/">projects</a>. Whether desktop application, geospatial library, metadata catalog or web mapping: be sure to find products in the list that you use. Thus, the Code Sprint is also an opportunity for your developers to meet with the core developers of the projects, get a deeper insight into the software and participate in the development.</p>
 
-<p>The code sprint will take place at <a href="http://www.basecamp-bonn.de/">BaseCamp</a> in Bonn. During the <a href="http://www.foss4g2016.org/home.html">FOSS4G 2016</a> in Bonn we have already organized a <a href="https://wiki.osgeo.org/wiki/FOSS4G_2016_Code_Sprint">code sprint</a> at this location, in which about 100 developers worked on the open source projects every day.</p>
+<p>The code sprint will take place at <a href="https://www.basecamp-bonn.de/">BaseCamp</a> in Bonn. During the <a href="http://www.foss4g2016.org/home.html">FOSS4G 2016</a> in Bonn we have already organized a <a href="https://wiki.osgeo.org/wiki/FOSS4G_2016_Code_Sprint">code sprint</a> at this location, in which about 100 developers worked on the open source projects every day.</p>
 
 <p>In addition to the costs of providing the technical infrastructure, the cost of food and drinks for the developers is the main cost. A buffet at lunchtime and drinks during the whole day are intended.</p>
 
-<p>So far, the code sprint is already sponsored by <a href="http://www.osgeo.org/">OSGeo</a> and <a href="https://www.fossgis.de/">FOSSGIS e. V.</a>.</p>
+<p>So far, the code sprint is already sponsored by <a href="https://www.osgeo.org/">OSGeo</a> and <a href="https://www.fossgis.de/">FOSSGIS e. V.</a>.</p>
 
 <p>In order to cover the costs, we would be very pleased about further sponsors!</p>
 
