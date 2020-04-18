@@ -1,34 +1,34 @@
 <nav class="side-nav">
 	<h3>Hauptmenü</h3>
 	<ul>
-		{{ $currentPage := . }}
-		{{ range .Site.Menus.side }}
-			{{ if .HasChildren }}
+		{{- $currentPage := . }}
+		{{- range .Site.Menus.side }}
+			{{- if .HasChildren }}
 				<li class="{{ if $currentPage.HasMenuCurrent "side" . }}active{{ end }}">
-					{{ if not ($currentPage.IsMenuCurrent "side" .) }}<a href="{{ .Page.RelPermalink }}">{{ end }}
-						{{ .Pre }}
-						<span>{{ .Name }}</span>
-					{{ if not ($currentPage.IsMenuCurrent "side" .) }}</a>{{ end }}
+					{{- if not ($currentPage.IsMenuCurrent "side" .) }}<a href="{{ .Page.RelPermalink }}">{{- end -}}
+						{{- .Pre -}}
+						<span>{{- .Name -}}</span>
+					{{- if not ($currentPage.IsMenuCurrent "side" .) -}}</a>{{- end -}}
 				</li>
-				{{ if or (eq $currentPage.Permalink .Page.Permalink) (eq ($currentPage.FirstSection.Permalink) (.Page.Permalink)) }}
+				{{- if or (eq $currentPage.Permalink .Page.Permalink) (eq ($currentPage.FirstSection.Permalink) (.Page.Permalink)) }}
 				<ul class="sub-menu">
-					{{ range .Children }}
+					{{- range .Children }}
 						<li class="{{ if $currentPage.IsMenuCurrent "side" . }}active{{ end }}">
-							{{ if not ($currentPage.IsMenuCurrent "side" .) }}<a href="{{ .Page.RelPermalink }}">{{ end }}
-								{{ .Name }}
-							{{ if not ($currentPage.IsMenuCurrent "side" .) }}</a>{{ end }}
+							{{- if not ($currentPage.IsMenuCurrent "side" .) -}}<a href="{{ .Page.RelPermalink }}">{{- end -}}
+								{{- .Name -}}
+							{{- if not ($currentPage.IsMenuCurrent "side" .) -}}</a>{{- end -}}
 						</li>
-					{{ end }}
+					{{- end }}
 				</ul>
-				{{ end }}
-			{{ else }}
+				{{- end -}}
+			{{- else }}
 				<li>
-					{{ if not ($currentPage.IsMenuCurrent "side" .) }}<a href="{{ .Page.RelPermalink }}">{{ end }}
-						{{ .Pre }}
-						<span>{{ .Name }}</span>
-					{{ if not ($currentPage.IsMenuCurrent "side" .) }}</a>{{ end }}
+					{{- if not ($currentPage.IsMenuCurrent "side" .) -}}<a href="{{ .Page.RelPermalink }}">{{- end -}}
+						{{- .Pre -}}
+						<span>{{- .Name -}}</span>
+					{{- if not ($currentPage.IsMenuCurrent "side" .) -}}</a>{{- end }}
 				</li>
-			{{ end }}
-		{{ end }}
+			{{- end }}
+		{{- end }}
 	</ul>
 </nav>
