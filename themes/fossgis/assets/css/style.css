@@ -157,3 +157,9 @@ footer {
     border-bottom: 1px solid grey;
 }
 
+table.calendar {
+    background-color: #efefef;
+    border: 1px solid #ccc;
+    width: 40em;
+}
+

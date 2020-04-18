@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FOSSGIS//NONSGML Version 1//EN
+{{ range $.Site.Data.kalender -}}
+{{- if .title -}}
+BEGIN:VEVENT
+SUMMARY:{{ .title }}
+UID:{{ jsonify . | md5 }}@fossgis.de
+DTSTAMP:{{ dateFormat "20060102T150405" .from }}
+DTSTART:{{ dateFormat "20060102T150405" .from }}
+{{ if .to -}}
+DTEND:{{ dateFormat "20060102" .to }}T235959
+{{ end -}}
+{{ if .url -}}
+URL:{{ .url }}
+{{ end -}}
+END:VEVENT
+{{ end -}}
+{{ end -}}
+END:VCALENDAR

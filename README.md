@@ -56,3 +56,20 @@ Verlinkte Bilder gehören nach `static/news/images`. Auch sie bekommen das Datum
 vorne in den Dateinamen. Bilder sollten immer lokal verlinkt werden, damit die
 News-Artikel nicht kaputt gehen, wenn sich externe Inhalte ändern.
 
+## Kalender-Eintrag anlegen
+
+Um hier einen Eintrag zu machen, kopiert man die Datei
+[`TEMPLATE.yaml`](data/kalender/TEMPLATE.yaml) in eine neue Datei und passt es
+dort an. Der Dateiname muss mit dem Datum des Eintrags anfangen und auf `.yaml`
+enden.
+
+### Felder in der Datei
+
+* `title`: Titel (Kurz und bündig bitte)
+* `from`: Anfangsdatum oder Timestamp im ISO-Format
+* `to`: Enddatum oder Timestamp im ISO-Format (optional)
+* `url`: Link zu weiteren Details über den Event (optional)
+
+Ein `to`-Datum sollte nur eingetragen werden, wenn der Event mehrere Tage
+geht.
+

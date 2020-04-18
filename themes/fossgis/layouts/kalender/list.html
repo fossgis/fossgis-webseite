@@ -1,0 +1,38 @@
+{{ define "title" }}
+    {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+<content id="main-content">
+    <h1>Kalender</h1>
+    {{ .Content }}
+    <table class="calendar">
+    {{ range $.Site.Data.kalender }}
+        {{- $event_from := time .from -}}
+        {{- $event_to := time .to -}}
+        {{- $yesterday := now.AddDate 0 0 -1 -}}
+        {{- if ge $event_from $yesterday -}}
+            <tr class="calendar-event">
+                <td class="calendar-timestamp">
+                {{- if .to -}}
+                    {{ dateFormat "02.01.2006" $event_from }} –
+                    {{ dateFormat "02.01.2006" $event_to }}
+                {{- else -}}
+                    {{- $weekdays := slice "So" "Mo" "Di" "Mi" "Do" "Fr" "Sa" -}}
+                    {{ index $weekdays $event_from.Weekday }}
+                    {{ dateFormat "02.01.2006 15:04 Uhr" $event_from }}
+                {{- end -}}
+                </td>
+                <td class="calendar-title">
+                    {{- if .url -}}
+                        <a href="{{ .url }}">{{ .title }}</a>
+                    {{- else -}}
+                        {{ .title }}
+                    {{- end -}}
+                </td>
+            </tr>
+        {{- end -}}
+    {{ end }}
+    </table>
+</content>
+{{ end }}
