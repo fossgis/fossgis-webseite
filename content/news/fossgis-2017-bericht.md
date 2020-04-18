@@ -94,7 +94,7 @@ Herzlichen Dank an die Sponsoren, an die Sessionleiter, das super Catering des S
 </p>
 
 <p>
-<h5>OSM-Event â€“ eine Bilanz</h5>
+<h5>OSM-Event - eine Bilanz</h5>
 Die OSM Mappingaktion am Freitag bzw. über den gesamten Konferenzzeitraum ein Erfolg. Während der Konferenz gab es 43 neue Changesets von 9 verschiedenen Personen. Zum Mappingevent selbst kamen dann nochmal 167 Changesets von knapp 40 Personen dazu. 
 </p>
 <p>

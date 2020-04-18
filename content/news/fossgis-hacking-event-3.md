@@ -61,6 +61,6 @@ aliases:
 <p><img alt="" src="https://www.fossgis.de/w/images/7/73/Grillbuffetx.png" style="width: 435px; height: 307px;" /></p>
 <p><img alt="" src="https://www.fossgis.de/w/images/7/7c/Feuer.png" style="width: 300px; height: 186px;" /></p>
 <p><strong>Herzlichen Dank</strong><br />
-	Zum Schluss wieder einen herzlichen Dank an den FOSSGIS Verein und die Organisatoren und Helfer, die das Event ermöglicht haben. Einen herzlichen Dank auch an das Linuxhotel. Es ist ein besonderer Ort und wir freuen uns jedes Mal auf die Atmosphäre und das herzliche und gastfreundliche Team.<a href="https://linuxhotel.de"><br />
+	Zum Schluss wieder einen herzlichen Dank an den FOSSGIS Verein und die Organisatoren und Helfer, die das Event ermöglicht haben. Einen herzlichen Dank auch an das Linuxhotel. Es ist ein besonderer Ort und wir freuen uns jedes Mal auf die Atmosphäre und das herzliche und gastfreundliche Team.<a href="https://linuxhotel.de/"><br />
 	<br />
-	https://linuxhotel.de</a></p>
+	https://linuxhotel.de/</a></p>

@@ -10,7 +10,7 @@ aliases:
 <p>Auch das dritte <a href="https://www.fossgis.de/wiki/FOSSGIS_Hacking_Events">FOSSGIS-Hacking-Event</a> im Jahr 2017, das am zweiten
 Adventswochenende (08.12.-10.12.2017) stattfand, war wieder ein voller Erfolg.
 Fünfundzwanzig OpenStreepMap- und Geodaten-Begeisterte trafen sich im
-<a href="https://www.linuxhotel.de/">Linux-Hotel</a> in Essen. Alle Zimmer waren von uns belegt. Es wurde programmiert, diskutiert, gemappt und es
+<a href="https://linuxhotel.de/">Linux-Hotel</a> in Essen. Alle Zimmer waren von uns belegt. Es wurde programmiert, diskutiert, gemappt und es
 gab regen gegenseitigen Austausch. Frost und Schneetreiben verwandelten den Park des
 Linuxhotels mit dem Miniatur-Lummerland in eine tief verschneite Winterlandschaft.
 Dies ergab eine ganz besondere Arbeitsatmosphäre. Freitag Abend nach dem
