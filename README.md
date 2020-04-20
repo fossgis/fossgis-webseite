@@ -52,6 +52,10 @@ author: "Oskar Seltenfröhlich"
 
 Darunter dann der Text im Markdown-Format.
 
+Da in der News-Übersicht bzw. im RSS-Feed nur der erste Absatz erscheint,
+sollte der die wichtigsten Punkte enthalten und auch "für sich alleine"
+funktionieren. Nicht jeder klickt auf den vollen Artikel durch.
+
 Verlinkte Bilder gehören nach `static/news/images`. Auch sie bekommen das Datum
 vorne in den Dateinamen. Bilder sollten immer lokal verlinkt werden, damit die
 News-Artikel nicht kaputt gehen, wenn sich externe Inhalte ändern.
