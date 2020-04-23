@@ -46,17 +46,12 @@ Zudem wurde beschlossen, dass Michael Reichert den Verein weiterhin im aktuellen
 Im Verlauf der Diskussion zur Aufgabenverteilung wurde angesprochen, dass die Öffentlichkeitsarbeit im Verein verbessert werden muss. Folgende Schritte sollen zur Verbesserung umgesetzt werden:
 
 1. Arbeitsgruppe für Kommunikation verstärken und besser organisieren
-
-* Jörg als Zuständiger soll Gespräch mit Astrid (Vorsitzende der Arbeitsgruppe) suchen - gezieltes Werben bei Vereinsmitgliedern, sich bei der Arbeitsgruppe zu engagieren
-
+	* Jörg als Zuständiger soll Gespräch mit Astrid (Vorsitzende der Arbeitsgruppe) suchen - gezieltes Werben bei Vereinsmitgliedern, sich bei der Arbeitsgruppe zu engagieren
 2. mehr Pressemitteilungen veröffentlichen
-
-* Pressekontakte für FOSSGIS und OSM ansprechen
-* Koordination und Kommunikation zwischen ihnen verbessern
-
+	* Pressekontakte für FOSSGIS und OSM ansprechen
+	* Koordination und Kommunikation zwischen ihnen verbessern
 3. Webseite muss regelmäßiger aktualisiert werden und neu gestaltet werden
-
-* Dominik hat sich bereiterklärt, in diesem Bereich die Führung zu übernehmen
+	* Dominik hat sich bereiterklärt, in diesem Bereich die Führung zu übernehmen
 
 ## Kommunikation mit der OSMF
 
@@ -95,59 +90,42 @@ Aktuelle Organisationsteams und deren Leitung:
 ## Kurzthemen
 
 1. Coronafall auf der Konferenz in Freiburg
-
-* es gab keine weiteren Meldungen von Coronafällen auf der Konferenz
-* bislang zeigt keiner der/die unter Quarantäne Stehenden Symptome
-
+	* es gab keine weiteren Meldungen von Coronafällen auf der Konferenz
+	* bislang zeigt keiner der/die unter Quarantäne Stehenden Symptome
 2. Mail an OSGeo wegen FOSS4G-Gewinn aus 2016
-
-* Jochen hatte im Vorfeld einen E-Mail-Entwurf an das OSGeo-Board geschrieben
-* vor dem Verschicken soll Jochen nochmal mit Till und Astrid als Mitglieder des OSGeo-Boards sprechen
-
+	* Jochen hatte im Vorfeld einen E-Mail-Entwurf an das OSGeo-Board geschrieben
+	* vor dem Verschicken soll Jochen nochmal mit Till und Astrid als Mitglieder des OSGeo-Boards sprechen
 3. Zugriffsrechte für Michael im GitLab
-
-* Michael soll Zugriffsrechte auf die Repositorys zum Rechtsstreit und zum Treffen mit dem BKG-Chef behalten
-* Dominik wird nochmal alle Tickets durchgehen und die Michaels Rechte entsprechend anpassen
-
+	* Michael soll Zugriffsrechte auf die Repositorys zum Rechtsstreit und zum Treffen mit dem BKG-Chef behalten
+	* Dominik wird nochmal alle Tickets durchgehen und die Michaels Rechte entsprechend anpassen
 4. MVB-Rechnung
-
-* ISBN-Nummern der FOSSGIS-Tagungsbänder sowie die Kontaktdaten wurden bislang in einem erweiterten kostenpflichtigen Eintrag beim MVB geführt
-* Link zum jetzigen Eintrag: https://www.adb-online.de/adbwas/
-* Alternative: kostenfreier, kleinerer Eintrag
-* Umlaufbeschluss für die Kündigung
-
+	* ISBN-Nummern der FOSSGIS-Tagungsbänder sowie die Kontaktdaten wurden bislang in einem erweiterten kostenpflichtigen Eintrag beim MVB geführt
+	* Link zum jetzigen Eintrag: https://www.adb-online.de/adbwas/
+	* Alternative: kostenfreier, kleinerer Eintrag
+	* Umlaufbeschluss für die Kündigung
 5. Informationsmail über FOSSGIS-Tätigkeiten an alle Vereinsmitglieder
-
-* Dominik wird Anfang April das Protokoll der MV zusammen mit einer E-Mail über die letzten Ereignisse im Verein an alle Mitglieder verschicken
-
+	* Dominik wird Anfang April das Protokoll der MV zusammen mit einer E-Mail über die letzten Ereignisse im Verein an alle Mitglieder verschicken
 6. Matrix-Server für Vorstand
-
-* Vorstand möchte sich einen Chatroom einrichten
-* Vorteil von Matrix: Open Source
-* Nachteil an Matrix: Verschlüsselung ist schwierig
-* Matrix würde sich auch als Chat für Konferenzorganisation eignen - für 250 €/a könnten wir Matrix-Server in Schweiz hosten lassen
-
-=> Hanna richtet Vorstands-Matrix-Channel ein
-
-=> Entscheidung, ob wir einen eigenen Server brauchen, wird vertagt
-
+	* Vorstand möchte sich einen Chatroom einrichten
+	* Vorteil von Matrix: Open Source
+	* Nachteil an Matrix: Verschlüsselung ist schwierig
+	* Matrix würde sich auch als Chat für Konferenzorganisation eignen - für 250 €/a könnten wir Matrix-Server in Schweiz hosten lassen
+	* TODOS: Hanna richtet Vorstands-Matrix-Channel ein
+	* Entscheidung, ob wir einen eigenen Server brauchen, wird vertagt
 7. Büroräume für die FOSSGIS-Koordinierungsstelle
-
-* Es gibt eine Angebot der WhereGroup, dass Katja bei ihnen in Berlin ein Büro mieten könnte
-* Kosten: aktuell für 500 € pro Monat auf dem Markt, Konditionen für den Verein verhandelbar - Alternative könnte sein bei WMDE anzufragen, ob Katja dort Räumlichkeiten nutzen kann
-* Jörg soll mit Katja sprechen und mit ihr möglichen Räumlichkeiten besichtigen
-
+	* Es gibt eine Angebot der WhereGroup, dass Katja bei ihnen in Berlin ein Büro mieten könnte
+	* Kosten: aktuell für 500 € pro Monat auf dem Markt, Konditionen für den Verein verhandelbar - Alternative könnte sein bei WMDE anzufragen, ob Katja dort Räumlichkeiten nutzen kann
+	* Jörg soll mit Katja sprechen und mit ihr möglichen Räumlichkeiten besichtigen
 8. Bürgerfest
-
-* Vortreffen beim Bundespräsidenten ist auf 20.04. verschoben
-* bis zum 07.04 muss eigentlich ein grobes Konzept abgeben werden
-* unklar ob diese Deadline aktuell noch steht
-* Dominik wird sich drum kümmern und nachfragen
-* Katja und Jochen haben auf der Konferenz besprochen, Standdesign an extern zu vergeben
-* Katja hat einen Kontakt hergestellt
-* könnte vielleicht auch für Artwork der Konferenz engagiert werden
-* Team muss schnell zusammengestellt und beauftragt werden, ein das Standkonzept auszuarbeiten
-* Vorschlag: zu einem extra Aktivenmumble speziell zum Bürgerfest einladen
+	* Vortreffen beim Bundespräsidenten ist auf 20.04. verschoben
+	* bis zum 07.04 muss eigentlich ein grobes Konzept abgeben werden
+	* unklar ob diese Deadline aktuell noch steht
+	* Dominik wird sich drum kümmern und nachfragen
+	* Katja und Jochen haben auf der Konferenz besprochen, Standdesign an extern zu vergeben
+	* Katja hat einen Kontakt hergestellt
+	* könnte vielleicht auch für Artwork der Konferenz engagiert werden
+	* Team muss schnell zusammengestellt und beauftragt werden, ein das Standkonzept auszuarbeiten
+	* Vorschlag: zu einem extra Aktivenmumble speziell zum Bürgerfest einladen
 
 Termin nächste Vorstandssitzung: 07.04 um 20:00 Uhr
 
