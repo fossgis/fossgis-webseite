@@ -56,3 +56,12 @@ Mitgliedsbeitrags nicht mehr vergessen), wenn Ihr ein
 [Lastschriftmandat](/verein/lsmandat.pdf) ausfüllt, unterschreibt und uns
 eingescannt oder per Post schickt.
 
+## Mitgliederversammlungen
+
+Mindestens einmal im Jahr findet eine ordentliche Mitgliederversammlung statt. Oft wird 
+im Zuge der anstehenden FOSSGIS-Konferenz durchgeführt.
+
+* [Protokoll der Mitgliederversammlung 2020](/verein/mitgliederversammlungen/2020-03-12-mv-protokoll.pdf)
+* [Protokoll der Mitgliederversammlung 2019](https://fossgis.de/wiki/Protokoll_Mitgliederversammlung/2019)
+
+
