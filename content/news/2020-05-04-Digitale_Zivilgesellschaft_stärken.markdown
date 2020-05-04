@@ -4,8 +4,6 @@ date: "2020-05-04T11:00:00+02:00"
 author: "Hanna Krüger"
 ---
 
-# "Aus der Krise lernen: Digitale Zivilgesellschaft stärken!"
-
 FOSSGIS e.V. schließt sich zivilgesellschaftlichem Bündnis an und unterzeichnet die [Forderungen](https://digitalezivilgesellschaft.org/) zur Stärkung der digitalen Zivilgesellschaft, dem Ausbau digitaler Infrastrukturen und mehr OpenData.
 
 In der aktuellen COVID-19 Krise merken wir täglich, wie wichtig gute Online-Medien geworden sind. Für Aufklärungskampagnen werden täglich die aktuellen Fallzahlen auf thematischen Karten visualisiert und Ideen für neue Corona-Apps, sei es zur Darstellung aktueller Öffnungszeiten oder zum Erfassen von Kontaktpersonen, sprießen geradezu aus dem Boden. 
