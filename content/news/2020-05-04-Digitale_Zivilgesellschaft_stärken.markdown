@@ -1,5 +1,6 @@
 ---
 title: "Aus der Krise lernen: Digitale Zivilgesellschaft stärken!"
+date: "2020-05-04T11:00:00+02:00"
 author: "Hanna Krüger"
 ---
 
