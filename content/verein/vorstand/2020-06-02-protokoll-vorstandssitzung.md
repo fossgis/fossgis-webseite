@@ -114,25 +114,25 @@ Offene Fragen:
 
 Weiterer Diskussionspunkte: 
 
-	- Würden wir die Bundeswehr auf FOSSGIS-Konferenz als Aussteller zulassen?
+- Würden wir die Bundeswehr auf FOSSGIS-Konferenz als Aussteller zulassen?
 
-		- Anmerkung: Aktuell ist unklar, ob die Bundeswehr überhaupt Interesse daran hätte. Bislang wurde seitens des BKG-Chefs nur nach eine Mitgliedschaft gefragt.
+	- Anmerkung: Aktuell ist unklar, ob die Bundeswehr überhaupt Interesse daran hätte. Bislang wurde seitens des BKG-Chefs nur nach eine Mitgliedschaft gefragt.
 
-		- Pro:
-			- Bundeswehr ist seit mehreren Jahren auf der Intergeo Aussteller
-			- FOSSGIS-Konferenz ist eine sehr kommerzielle Konferenz mit Community-Touch, OSM-Community ist nur Teil
+	- Pro:
+		- Bundeswehr ist seit mehreren Jahren auf der Intergeo Aussteller
+		- FOSSGIS-Konferenz ist eine sehr kommerzielle Konferenz mit Community-Touch, OSM-Community ist nur Teil
 
-		- Contra:
-			- Ein Stand auf der FOSSGIS-Konferenz ist kritischer  als Mitgliedschaft im Verein
-			- Werbung für die Bundeswehr statt einer finanziellen Unterstützung
+	- Contra:
+		- Ein Stand auf der FOSSGIS-Konferenz ist kritischer  als Mitgliedschaft im Verein
+		- Werbung für die Bundeswehr statt einer finanziellen Unterstützung
 
-	- Sollte wir eine Mitgliedschaft der Bundeswehr im Verein diskutieren lassen?
-		- Der Vorstand vertritt den Verein, man muss die Mitglieder nicht immer fragen.
-		- Diskussion wird vermutlich sehr kontrovers
-		- Mailingliste eher geeignetes Medium für diese Diskussion
-			- Diskussion könnte eskalieren und persönlich angreifend werden
-		- am Beispiel der Bundeswehr könnte über die Einführung einer Zivilklausel für Firmen und Behörden im Verein diskutiert werden
-		- Dokumentation dieser Diskussion im Protokoll kann als Gesprächsgrundlage für örtlichen Stammtische und weitere Mumble-Treffen dienen
+- Sollte wir eine Mitgliedschaft der Bundeswehr im Verein diskutieren lassen?
+	- Der Vorstand vertritt den Verein, man muss die Mitglieder nicht immer fragen.
+	- Diskussion wird vermutlich sehr kontrovers
+	- Mailingliste eher geeignetes Medium für diese Diskussion
+		- Diskussion könnte eskalieren und persönlich angreifend werden
+	- am Beispiel der Bundeswehr könnte über die Einführung einer Zivilklausel für Firmen und Behörden im Verein diskutiert werden
+	- Dokumentation dieser Diskussion im Protokoll kann als Gesprächsgrundlage für örtlichen Stammtische und weitere Mumble-Treffen dienen
 
 
 Nächste Schritte:
