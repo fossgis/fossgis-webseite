@@ -3,7 +3,7 @@ title: "Stammtische"
 menu:
   side:
     parent: Community
-    weight: 10
+    weight: 50
 ---
 
 Die Mitglieder des FOSSGIS e.V. sind im ganzen deutschsprachigen Raum verteilt. Die lokalen Stammtische sollen neben der bestehenden und gut funktionierenden elektronischen Kommunikation eine einfache Möglichkeit bieten, bekannte Leute mal (wieder) zu sehen und neue kennen zu lernen, die sich für Freie GIS Software und Freie Geodaten interessieren. Die Stammtische sind ganz im Sinne der Freien Software offen für alle Interessierten.
@@ -22,7 +22,7 @@ Der OSMF-Stammtisch findet etwa monatlich über den Voicechat Mumble statt. Es w
 Liste an Veröffnetlichungen und Blogposts
 
 * [Blogpost zur Einführung der Microgrants](https://blog.openstreetmap.de/blog/2020/04/foerderprogramm-der-openstreetmap-foundation/)
-* [Positionspapier zu bezahlten Kräften in der OSMF](/community/bezahlte_kraefte), [English Version](/community/bezahlte_kraefte_en)
+* [Positionspapier zu bezahlten Kräften in der OSMF](bezahlte_kraefte), [English Version](bezahlte_kraefte_en)
 
 ## Großraum Berlin/Potsdam
 
