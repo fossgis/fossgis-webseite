@@ -3,7 +3,7 @@ title: "Stammtische"
 menu:
   side:
     parent: Community
-    weight: 35
+    weight: 75
 ---
 
 Die Mitglieder des FOSSGIS e.V. sind im ganzen deutschsprachigen Raum verteilt. Die lokalen Stammtische sollen neben der bestehenden und gut funktionierenden elektronischen Kommunikation eine einfache Möglichkeit bieten, bekannte Leute mal (wieder) zu sehen und neue kennen zu lernen, die sich für Freie GIS Software und Freie Geodaten interessieren. Die Stammtische sind ganz im Sinne der Freien Software offen für alle Interessierten.
@@ -12,11 +12,11 @@ Zur Zeit existieren folgende Stammtischgruppen:
 
 ## OSMF-Stammtisch
 
-Der OSMF-Stammtisch findet etwa monatlich über den Voicechat Mumble statt. Es werden aktuelle Themen in der OSMF sowie Entscheidungen des Board und der WorkingGroups besprochen. Hin und wieder veröffentlich wir zu unseren Diskussionen Blogpost, offene Briefe und  holen Meinungsbilder des deutschen Local Chapters sowie der Community ein.
+Der OSMF-Stammtisch findet etwa monatlich über den Voicechat Mumble statt. Es werden aktuelle Themen in der OSMF sowie Entscheidungen des Board und der „Working Groups“ besprochen. Hin und wieder veröffentlich wir zu unseren Diskussionen Blogpost, offene Briefe und  holen Meinungsbilder des deutschen Local Chapters sowie der Community ein.
 
-* Termin: Bislang gibt es noch keinen festen Termin. Der nächste Termin wird aber mehrere Tage im Vorraus auf den FOSSGIS-Maininglisten und Talk-DE bekannt gegeben.
+* Termin: Bislang gibt es noch keinen festen Termin. Der nächste Termin wird aber mehrere Tage im Voraus auf den FOSSGIS-Mailinglisten und Talk-DE bekannt gegeben.
 * Link zum Mumble-Server: podcast.openstreetmap.de
-* Mehr zu Mumble: (http://podcast.openstreetmap.de/mitmachen/)
+* [Mehr zu Mumble](http://podcast.openstreetmap.de/mitmachen/)
 * [Protokolle](https://www.fossgis.de/wiki/FOSSGIS-OSMF-Stammtisch)
 
 Liste an Veröffnetlichungen und Blogposts
