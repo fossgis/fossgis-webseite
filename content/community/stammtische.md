@@ -22,7 +22,7 @@ Der OSMF-Stammtisch findet etwa monatlich über den Voicechat Mumble statt. Es w
 Liste an Veröffnetlichungen und Blogposts
 
 * [Blogpost zur Einführung der Microgrants](https://blog.openstreetmap.de/blog/2020/04/foerderprogramm-der-openstreetmap-foundation/)
-* [Positionspapier zu bezahlten Kräften in der OSMF](/community/bezahlte_kraefte.md), [English Version](/community/bezahlte_kraefte_en.md)
+* [Positionspapier zu bezahlten Kräften in der OSMF](/community/bezahlte_kraefte), [English Version](/community/bezahlte_kraefte_en)
 
 ## Großraum Berlin/Potsdam
 
