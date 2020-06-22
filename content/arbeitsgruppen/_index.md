@@ -21,4 +21,3 @@ um Werbung für unsere Sache, vom Aufkleber bis zum Tweet.
 Die [Arbeitsgruppe "OSM-Server"](/arbeitsgruppen/osm-server) organisiert und
 betreibt wichtige OpenStreetMap-Server, die wir für die Community und
 allgemeine Öffentlichkeit bereit stellen.
-
