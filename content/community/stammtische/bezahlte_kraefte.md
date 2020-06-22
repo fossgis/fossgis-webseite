@@ -1,9 +1,5 @@
 ---
 title: "Positionspapier zu bezahlten Kräfte in der OSMF"
-menu:
-  side:
-    parent: Community
-    weight: 20
 ---
 
 Nachdem der Vorstand der OpenStreetMap Foundation vor einiger Zeit [seine Pläne zur Einstellung zusätzlicher bezahlter Mitarbeiter](https://lists.openstreetmap.org/pipermail/osmf-talk/2020-May/006816.html) vorgestellt hat und dabei auch explizit um Rückmeldung von den lokalen Vertretungen der Mapper bat, haben wir im FOSSGIS über das Thema gesprochen und sind zu folgenden Empfehlungen gekommen, welche [vom FOSSGIS-Vorstand unterstützt werden](https://www.fossgis.de/verein/vorstand/2020-06-02-protokoll-vorstandssitzung/). Diese  Ideen wurden in der deutschen OSM-Community in den letzten Wochen im [deutschen OpenStreetMap-Forum](https://forum.openstreetmap.org/viewtopic.php?id=69517) und auf der [Mailingliste Talk-de](https://lists.openstreetmap.org/pipermail/talk-de/2020-May/116814.html) diskutiert. Wir glauben, dass diese Empfehlungen nützlich und wichtig sein können für eine langfristig tragfähige und harmonische Zusammenarbeit zwischen bezahlten Kräften in der OSMF und der vielfältigen globalen OSM-Community.

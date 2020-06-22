@@ -1,9 +1,5 @@
 ---
 title: "Statement to Foundation's Hiring Practices"
-menu:
-  side:
-    parent: Community
-    weight: 20
 ---
 
 *This is a English language translation of our statement.  Its discussion and development happened in German language so in case of differences in exact meaning between the German and English text the German version will more accurately represent our position*
