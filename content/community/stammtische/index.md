@@ -3,7 +3,7 @@ title: "Stammtische"
 menu:
   side:
     parent: Community
-    weight: 50
+    weight: 35
 ---
 
 Die Mitglieder des FOSSGIS e.V. sind im ganzen deutschsprachigen Raum verteilt. Die lokalen Stammtische sollen neben der bestehenden und gut funktionierenden elektronischen Kommunikation eine einfache Möglichkeit bieten, bekannte Leute mal (wieder) zu sehen und neue kennen zu lernen, die sich für Freie GIS Software und Freie Geodaten interessieren. Die Stammtische sind ganz im Sinne der Freien Software offen für alle Interessierten.
