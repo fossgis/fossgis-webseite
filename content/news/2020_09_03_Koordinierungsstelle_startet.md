@@ -7,7 +7,8 @@ author: "Katja Haferkorn"
 
 Am 01. September 2020 ist die Koordinierungsstelle des FOSSGIS e.V. gestartet. Das Büro ist in Berlin in der Bundesallee 23 verortet.
 Die Einrichtung der Koordinierungsstelle erfolgt mit der Absicht das Engagement im Verein zu stärken, die Vereinsarbeit mehr zu unterstützen und 
-auszuweiten. 
+auszuweiten.
+
 Katja Haferkorn, die schon seit meheren Jahren die Organisation der FOSSGIS-Konferenz begleitet, übernimmt die Aufgaben in der Koordinierungsstelle.
 
 Sie wird die ehrenamtliche Arbeit im Verein unterstützen. Die Koordinierungsstelle ist für die Themen des Vereins da, die gemeinsame Gestaltung liegt in unser aller Hand.
