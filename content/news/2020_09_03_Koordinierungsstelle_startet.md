@@ -31,7 +31,7 @@ Nachbereitung, Organisation von Räumen...; Unterstützung des Vorstandes bei an
 * Adresse: Bundesallee 23, 10717 Berlin 
 * Ansprechpartnerin: Katja Haferkorn
 * E-Mail: katja.haferkorn@fossgis.de
-* Telefon: +49 331 28129857
+* Telefon: +49 30 62932037
 * Mobil: +49 176 51194732
 * Web: https://fossgis.de 
 
