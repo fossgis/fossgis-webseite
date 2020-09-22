@@ -20,7 +20,7 @@ aliases:
 
 ## Kontakt
 
-Telefon: +49 331 2812 9857
+Telefon: +49 30-62932037
 
 E-Mail: [info@fossgis.de](mailto:info@fossgis.de)
 
