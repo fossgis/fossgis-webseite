@@ -1,9 +1,9 @@
 # Vorstandssitzung 22.09.2020
 
-Anwesende Vorstände: Dominik Helle, Jörg Thomsen, Jochen Topf, Hanna Krüger
+Anwesende Vorstände: Dominik Helle, Jörg Thomsen, Jochen Topf, Hanna Krüger  
 Gäste: gislars, Hafi, JakobMiksch, Marc, Nakaner, Okilimu
 
-Start: 20:05 Uhr
+Start: 20:05 Uhr  
 Ende: 20:37 Uhr
 
 Nächster Vorstandssitzung:
