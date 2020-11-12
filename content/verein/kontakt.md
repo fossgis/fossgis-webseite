@@ -6,12 +6,28 @@ menu:
     weight: 20
 ---
 
-Allgemeine Anfragen an unseren Verein können Sie per E-Mail richten an [info@fossgis.de](mailto:info@fossgis.de).
+### Koordinierungsstelle FOSSGIS e.V.
 
-Eine postalische Adresse finden Sie im [Impressum](/impressum/).
+Bundesallee 23, 10717 Berlin 
 
-Für verschiedene Themenbereiche haben wir zudem [Mailinglisten](/community/mailinglisten/) eingerichtet.
+Ansprechpartnerin: Katja Haferkorn
 
-Auch per [Chat](/community/irc/) ist eine Kontaktaufnahme möglich.
+E-Mail: [info@fossgis.de](mailto:info@fossgis.de)
 
+Telefon: +49 30-6293203
+
+*Termine bitte nach Vereinbarung.*
+
+
+
+### Allgemeine Anfragen 
+an unseren Verein richten Sie per E-Mail an [info@fossgis.de](mailto:info@fossgis.de).
+
+
+### Fragen zu verschiedenen Themenbereichen
+Nutzen Sie bitte unsere [Mailinglisten](/community/mailinglisten/).
+
+<!--Auch per [Chat](/community/irc/) ist eine Kontaktaufnahme möglich.-->
+
+### Wo treffen Sie uns?
 Gerne können Sie uns auch persönlich treffen, zum Beispiel auf unserer jährlichen [FOSSGIS-Konferenz](/konferenz/).
