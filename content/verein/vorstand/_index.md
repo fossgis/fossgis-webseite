@@ -64,6 +64,7 @@ auch mitmachen. Eine Anleitung für Mumble gibt es
 
 Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
 
+* [Vorstandssitzung vom 05.11.2020](2020-11-05-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 22.09.2020](2020-09-22-protokoll-vorstandssitzung)
 * [Face-to-Face-Meeting des Vorstands am 29./30.08.2020](2020-08-29_30-protokoll-face-to-face)
 * [Vorstandssitzung vom 25.08.2020](2020-08-25-protokoll-vorstandssitzung)
