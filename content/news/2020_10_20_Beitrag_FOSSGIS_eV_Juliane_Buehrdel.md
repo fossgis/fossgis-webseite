@@ -18,10 +18,10 @@ Als ein schönes „Nebenprodukt“ entstand in Zusammenarbeit mit meiner Betreu
 In Auckland, dem Hauptstandort des Institutes, scannte ich zudem ein Weingut, um ein 3D-Model zu erstellen, in welchem die Ausbreitung eines Pilzes raumzeitlich innerhalb des Weinguts und einzelner Pflanzen visualisiert und ausgewertet werden soll. Dabei kam unter anderem auch CloudCompare, eine Open Source Software zur 3D-Punktwolkenverarbeitung, zum Einsatz.
 
 Neben dem Praktikum hatte ich auch einige Gelegenheiten das Land zu bereisen, die Pflanzen- und Tierwelt sowie die Kultur der Māori kennenzulernen und die wunderschöne Natur mit ihren teilweise atemberaubenden Landschaften zu bestaunen – denn diese ist es wirklich wert, gesehen zu werden.
-Pünktlich vor Beginn der Corona-Einschränkungen reiste ich Ende Februar zurück nach Deutschland, um direkt in das Offline-Semester zu starten. Dafür blicke ich nach wie vor auf eine fantastische Zeit „am anderen Ende der Welt“ zurück und bedanke mich an dieser Stelle noch einmal beim FOSSGIS e.V. für die Förderung meines Deutschlandstipendiums!
+Pünktlich vor Beginn der Corona-Einschränkungen reiste ich Ende Februar zurück nach Deutschland, um direkt in das Online-Semester zu starten. Dafür blicke ich nach wie vor auf eine fantastische Zeit „am anderen Ende der Welt“ zurück und bedanke mich an dieser Stelle noch einmal beim FOSSGIS e.V. für die Förderung meines Deutschlandstipendiums!
 
 
-![Bild würde das Scannen des Weinguts mit einem Trimble SX10 zur Anfertigung eines 3D-Modells zeigen](../legacy/J-Buehrdel_Wein_Scan.jpg "Scannen des Weinguts") ![Aussicht vom Gipfel des Roys Peak (auf der Südinsel in der Nähe von Wanaka) in über 1.500 m Höhe](../legacy/J-Buehrdel_Roys_Peak.JPG "Aussicht Gipfel Roys Peak")
+![Bild würde das Scannen des Weinguts mit einem Trimble SX10 zur Anfertigung eines 3D-Modells zeigen](/news/images/J-Buehrdel_Wein_Scan.jpg "Scannen des Weinguts") ![Aussicht vom Gipfel des Roys Peak (auf der Südinsel in der Nähe von Wanaka) in über 1.500 m Höhe](/news/images/J-Buehrdel_Roys_Peak.JPG "Aussicht Gipfel Roys Peak")
 *Bild links: Scannen des Weinguts mit einem Trimble SX10 zur Anfertigung eines 3D-Modells,  Bild rechts: Aussicht vom Gipfel des Roys Peak (auf der Südinsel in der Nähe von Wanaka) in über 1.500 m Höhe*
 
 
