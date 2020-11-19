@@ -118,11 +118,11 @@ Gäste: hafi, Plentyn (Arne), mblinn (später)
 
 - Demosessions sehr beliebt, Vorbereitung seie einfacher
 - bislang kaum OSM-Themen, evtl. noch mal in  Wochennotiz oder Social Media bewerben
-- Terminbeschluss: 21.01.2021 nachmittags 
+- Terminbeschluss: 28.01.2021 nachmittags 
 - keine Sponsoren für die Veranstaltung, Finanzierung rein über Ticketverkauf
 - Ticketverkauf über Pretix, keine Pretalx, nur ein Track
-- Als Videotool soll Vanuelless ausprobiert werden
-    - Katja soll bei Vanuelless Preise anfragen
+- Als Online-Event-Tool soll Venueless ausprobiert werden
+    - Katja soll bei Venueless Preise anfragen
     - Alternative Software 
         - https://www.meetecho.com/en/
         - Remo
@@ -130,6 +130,7 @@ Gäste: hafi, Plentyn (Arne), mblinn (später)
 - FOSSGIS Update sollte eine eigene Webseite haben
     - Dominik hat angeboten, eine Webseite zu bauen
 - über Logo wird entschieden, wenn Webseite steht
+- Wikilink: https://www.fossgis.de/wiki/FOSSGIS-Update/28Januar2020
 
 ### Firmenliste (20 min)
 
