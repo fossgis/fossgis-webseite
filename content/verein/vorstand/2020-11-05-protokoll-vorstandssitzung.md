@@ -130,7 +130,7 @@ Gäste: hafi, Plentyn (Arne), mblinn (später)
 - FOSSGIS Update sollte eine eigene Webseite haben
     - Dominik hat angeboten, eine Webseite zu bauen
 - über Logo wird entschieden, wenn Webseite steht
-- Wikilink: https://www.fossgis.de/wiki/FOSSGIS-Update/28Januar2020
+- Wikilink: https://www.fossgis.de/wiki/FOSSGIS-Update/28Januar2021
 
 ### Firmenliste (20 min)
 
