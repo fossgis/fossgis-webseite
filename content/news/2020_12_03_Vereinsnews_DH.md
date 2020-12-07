@@ -51,7 +51,7 @@ Bitte denkt daran, ggf. eingerichtete Daueraufträge anzupassen. Oder ihr unters
 
 #### FOSSGIS-UPDATE
 
-Am 28.01.2020 startet unser neues Online-Format FOSSGIS-UPDATE Hiermit schaffen wir die Möglichkeit auch zwischen den FOSSGIS-Konferenzen auf dem neusten Stand zu bleiben.
+Am 28.01.2021 startet unser neues Online-Format FOSSGIS-UPDATE Hiermit schaffen wir die Möglichkeit auch zwischen den FOSSGIS-Konferenzen auf dem neusten Stand zu bleiben.
 
 Bekannte Entwickler und Open-Source & OpenStreetmap-Enthusiasten stellen spannende Themen vor. Von  QGIS, über OpenLayers bis hin zu Vector Tiles sind am Nachmittag von 13  - 17 Uhr Vorträge und Demosessions geplant. Anschließend besteht die  Möglichkeit zum Austausch und Netzwerken. Weitere Informationen und Tickets: https://fossgis-update.de/
 
