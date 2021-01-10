@@ -19,7 +19,7 @@ Mitgliedschaft beim FOSSGIS e.V. tun!
 Bitte stelle Deinen Mitgliedsantrag in schriftlicher Form mit dem folgenden
 Formular:
 
-[Mitgliedsantrag als PDF-Datei](/verein/mitgliedsantrag_2_0.pdf)
+[Mitgliedsantrag als PDF-Datei](/verein/mitgliedsantrag.pdf)
 
 Der ausgefüllte Antrag ist zu senden an:
 
@@ -34,12 +34,6 @@ oder per E-Mail an [info@fossgis.de](mailto:info@fossgis.de)
 Der Mitgliedsbeitrag dient dazu, die Arbeit des Vereins und von ihm geförderte
 Projekte zu finanzieren. Er soll auch eine gewisse finanzielle Unabhängigkeit
 von Sponsoren und Spenden sicherstellen.
-
-Seit 1.1.2009 beträgt der Jahresbeitrag...
-
-* für Erwerbstätige: 30 Euro
-* für nicht Erwerbstätige/Studierende: 10 Euro
-* für juristische Personen: 100 Euro
 
 Ab dem 1.1.2021 beträgt der Jahresbeitrag...
 
