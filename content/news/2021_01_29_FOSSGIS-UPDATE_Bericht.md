@@ -10,8 +10,8 @@ Das Thema Online-Veranstaltungen ist in aller Munde. Auch das Organisationsteam 
 
 Die unerwartet hohe Anmeldezahl (> 200) hat gezeigt, dass die FOSSGIS und OSM-Szene an Wissen, Input und Austausch interessiert ist.
 
-Gern erklärten sich Vortragende bereit einen Slot zu übernehmen. Vielen Dank an Jörg Thomasen für die Moderation.
-Danke An Peter Heidelbach für den interessanten Vortrag zu Migration zwischen ArcGis und QGIS. Astid Emde hatte viele News zu Vector Tiles mit PostGIS und QGIS und verloste obendrein ein GDAL-T-Shirt verbunden mit einem Rätsel an die Zuhöhrenden. Marc Jansen hatte Neuigkeiten zum Thema GeoServer und zeigte dies in einer Demosession. Johannes Kröger kreierte einen 3D-Wandertrack in QGIS und dekorierte es zum Schluss mit originalen Fotos. Pirmin Kalberer stellt die Frage, ob Game Engines etwas für die Zukunft von 3D GIS sind und stellt die Open Source Game Engine Godot vor. Andreas Hocevar & Marc Jansen haben Neuigkeiten von OpenLayers mitgebracht. 
+Gern erklärten sich Vortragende bereit einen Slot zu übernehmen. Vielen Dank an Jörg Thomsen für die Moderation.
+Danke an Peter Heidelbach für den interessanten Vortrag zu Migration zwischen ArcGis und QGIS. Astid Emde hatte viele News zu Vector Tiles mit PostGIS und QGIS und verloste obendrein ein GDAL-T-Shirt verbunden mit einem Rätsel an die Zuhöhrenden. Marc Jansen brachte Neuigkeiten zum Thema GeoServer mit und zeigte dies in einer Demosession. Johannes Kröger kreierte einen 3D-Wandertrack in QGIS und dekorierte es zum Schluss mit originalen Fotos. Pirmin Kalberer stellt die Frage, ob Game Engines etwas für die Zukunft von 3D GIS sind und stellt die Open Source Game Engine Godot vor. Andreas Hocevar & Marc Jansen brachten Neuigkeiten von OpenLayers mit. 
 
 Alle Vorträge wurden live gehalten, im Hintergrund standen Mumble* für die Komunikation, über OBS.Ninja* stellten die Vortragenden ihr Video und ihre Bildschiminhalte zur Verarbeitung in OBS-Studio* zur Verfügung. Der Livestream wurde über OBS-Studio produziert. Die Regie betreuten Nikals Alt und Katja Haferkorn.
 
