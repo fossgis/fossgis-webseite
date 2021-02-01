@@ -15,7 +15,7 @@ Danke An Peter Heidelbach für den interessanten Vortrag zu Migration zwischen A
 
 Alle Vorträge wurden live gehalten, im Hintergrund standen Mumble* für die Komunikation, über OBS.Ninja* stellten die Vortragenden ihr Video und ihre Bildschiminhalte zur Verarbeitung in OBS-Studio* zur Verfügung. Der Livestream wurde über OBS-Studio produziert. Die Regie betreuten Nikals Alt und Katja Haferkorn.
 
-Danke an Sophie Schiller vom C3VOC (Videoteam des CCC für die Beratung zur Umsetzung.
+Danke an Sophie Schiller vom C3VOC (Videoteam des CCC) für die Beratung zur Umsetzung.
 
 
 ### Online-Plattform  
