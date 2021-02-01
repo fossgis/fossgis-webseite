@@ -4,7 +4,7 @@ date: "2020-12-23"
 author: "Katja Haferkorn"
 ---
 
-![Bild kündigt Call for Participation an](/news/images/2020-12-23_fossgis21-CfP_für_News.png "https://pretalx.com/fossgis2021/cfp") 
+![Bild kündigt Call for Participation an](/news/images/2020-12-23_fossgis21-CfP_für_News.png "CfP") 
 
 
 ### Call for Participation ist eröffnet
