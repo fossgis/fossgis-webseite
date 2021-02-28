@@ -7,4 +7,11 @@ menu:
     weight: 2
 ---
 
-Unser Verein betreut eine Reihe von Projekten und anderen Aktivitäten, die sich an den Vereinszielen orientieren. Nachfolgend sind einige davon aufgelistet. Der ebenfalls von uns ausgerichteten FOSSGIS-Konferenz ist ein separater Menüpunkt zugeordnet. Haben Sie weitere Vorschläge, in welchem Bereich der FOSSGIS e.V. unterstützend tätig werden könnte, so treten Sie einfach mit uns in [Kontakt](/verein/kontakt/).
+Unser Verein ist vielseitig aktiv und unterstützt sowohl ehrenamtliche Projkte als auch kommerzielle Branchen- und Interessensvereinigungen. Die folgenden Seiten geben Ihnen eine Überblick über die große Spannweite an Aktivitäten und geförderten Projekten:
+
+- [Langzeitfördungen von ehrenamtlichen OpenSource Projekten](langzeitförderungen)
+- [FOSSGIS Konferenz](/konferenz)
+- [Local Chapter Arbeit für OpenStreetMap](openstreetmap)
+- [Unterstützung des Projekts OSGeo Live](osgeo-live) 
+
+Haben Sie weitere Vorschläge, in welchem Bereich der FOSSGIS e.V. unterstützend tätig werden könnte, so treten Sie einfach mit uns in [Kontakt](/verein/kontakt/).
