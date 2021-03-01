@@ -18,7 +18,7 @@ Der Zeitplan für die Veranstaltung ist abhängig von der Zahl der Themen.
 
 Beteiligt Euch und nutzt es als Hacking Event.
 
-Auf Matrix ist auch ein [Gruppenchat](https://matrix.to/#/!smhvrOMjdzdLWLKOSO:matrix.org?via=matrix.org&via=partim.org) eingerichtet.
+Auf Matrix ist auch ein [Gruppenchat](https://matrix.to/#/!smhvrOMjdzdLWLKOSO:matrix.org?) eingerichtet.
 
 
 Links:<br>
