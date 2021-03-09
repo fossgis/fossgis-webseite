@@ -14,7 +14,7 @@ Diese Förderungen sind nur möglich, weil es dem FOSSGIS e.V. in den letzten Ja
 
 Aktuell werden diese 12 ehrenamtliche Projekte von uns gefördert:
 
-- [DEEGREE](deegree)
+- [deegree](deegree)
 - Großformatkartendrucker
 - [Historic.Place](historic-place)
 - [JOSM](josm)
