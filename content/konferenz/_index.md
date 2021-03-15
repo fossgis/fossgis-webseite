@@ -9,9 +9,9 @@ menu:
 
 Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Geo-Software und OpenStreetMap.
 
-Die FOSSGIS-Konferenz 2021 wird vom gemeinnützigen FOSSGIS e.V., der OpenStreetMap Community und mit dem [OST Campus Rapperswil](http://www.ost.ch/index.php) veranstaltet.
+Die FOSSGIS-Konferenz 2021 wird vom gemeinnützigen FOSSGIS e.V., der OpenStreetMap Community und mit Unterstützung des Instituts für Software des OST Campus Rapperswil organisiert.
 
-Aufgrund der derzeitigen Pandemiesituation wird die FOSSGIS als hybride Veranstaltung geplant, d.h. es wird möglich sein nach Rapperswil zu reisen oder online teilzunehmen.
+Aufgrund der derzeitigen Pandemiesituation wird die FOSSGIS ausschließlich als Online-Event stattfinden. Es wird die Möglichkeit geben den Campus Rapperswil virtuell zu erkunden, lassen Sie sich überraschen.
 
 Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://fossgis-konferenz.de/2021/).
 
