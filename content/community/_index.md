@@ -23,8 +23,10 @@ Spätestens seit [_Wikipedia_](https://www.wikipedia.de) ist dieser Begriff fast
 
 * [Zum FOSSGIS Wiki](https://www.fossgis.de/wiki)
 
-### IRC/Chat
+### Chat
 
-Mit _Chatten_ ist eine Kommunikation in "Echtzeit" gemeint. Im Falle eines textbasierten Chats gibt man eine Textnachricht in ein Chat-Programm ein und alle Teilnehmer können diese Nachricht sofort lesen. Damit kann man Informationen sehr schnell untereinander austauschen. IRC ist ein spezielles, textbasiertes Chat-System (mehr Informationen: [https://de.wikipedia.org/wiki/Internet_Relay_Chat](https://de.wikipedia.org/wiki/Internet_Relay_Chat))
+Mit _Chatten_ ist eine Kommunikation in "Echtzeit" gemeint, lange Jahre diente IRC für diese Art der Kommunikation in der Community, den [FOSSGIS-IRC-Chat](/community/irc/) scheint keiner mehr zu nutzen.
 
-* [Zum FOSSGIS Chat](/community/irc/)
+Seit 2021 gibt es den Chat-Kanal _FOSSGIS e. V._ in Matrix. 
+
+* [Neu Matrix-Chat](https://matrix.to/#/#fossgis:matrix.org)
