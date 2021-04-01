@@ -13,10 +13,10 @@ aliases:
 
 ## Vertreten durch
 
-* Dominik Helle
 * Jörg Thomsen
+* Pirmin Kalberer
 * Jochen Topf
-* Hanna Krüger
+* Falk Zscheile
 
 ## Kontakt
 
