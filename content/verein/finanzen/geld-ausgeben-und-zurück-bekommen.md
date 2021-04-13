@@ -32,8 +32,8 @@ Vereins dann bezahlt. Gerade bei größeren Summen ist das der beste Weg. Wenn
 irgend möglich sollte der Empfänger der Rechnung der
 
     FOSSGIS e.V.
-    Römerweg 5
-    79199 Kirchzarten
+    Bundesallee 23
+    10717 Berlin
 
 sein. Der korrekte Empfänger ist vorallem bei Rechnungen über höhere Beträge
 in Zusammenhang mit der Konferenz wichtig, denn nur dann können wir die

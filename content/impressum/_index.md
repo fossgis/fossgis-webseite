@@ -8,8 +8,8 @@ aliases:
 ## Angaben gemäß § 5 TMG
 
     FOSSGIS e.V.
-    Römerweg 5
-    79199 Kirchzarten
+    Bundesallee 23
+    10717 Berlin
 
 ## Vertreten durch
 

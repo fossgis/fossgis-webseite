@@ -24,8 +24,8 @@ Formular:
 Der ausgefüllte Antrag ist zu senden an:
 
     FOSSGIS e.V.
-    Römerweg 5
-    79199 Kirchzarten
+    Bundesallee 23
+    10717 Berlin
 
 oder per E-Mail an [info@fossgis.de](mailto:info@fossgis.de)
 
