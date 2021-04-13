@@ -18,7 +18,7 @@ Folgende Aufgabenbereiche sind aktuell u.a. formuliert:
 * Koordination der Organisation der FOSSGIS-Konferenz;
 
 * Vereinsinterne Unterstützung und Koordination - dazu gehören Vernetzung von Mitgliedern und Aktiven untereinander, d.h. im weiteren 
-Sinne Räume schaffen für Austausch und Vernetzung, im konkreten unterstützt die Koordinirungsstelle Sitzungen und Treffen gegebenfalls durch Vor- und 
+Sinne Räume schaffen für Austausch und Vernetzung, im konkreten unterstützt die Koordinierungsstelle Sitzungen und Treffen gegebenfalls durch Vor- und 
 Nachbereitung, Organisation von Räumen...; Unterstützung des Vorstandes bei anstehenden Aufgaben, z.B. Mitgliederverwaltung.
 
 * Kontakte zu Partnern und Kommunikation nach Außen - Kooperationen aufbauen, neue Kontakte erschließen, Koordinierungsstelle steht als Ansprechpartnerin für den FOSSGIS e.V. zur Verfügung, ist telefonisch erreichbar, koordiniert Anfragen von Extern, unterstützt Pressearbeit.
