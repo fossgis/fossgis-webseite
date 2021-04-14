@@ -14,7 +14,7 @@ Ansprechpartnerin: Katja Haferkorn
 
 E-Mail: [info@fossgis.de](mailto:info@fossgis.de)
 
-Telefon: +49 30-6293203
+Telefon: +49 30-62932037
 
 *Termine bitte nach Vereinbarung.*
 
