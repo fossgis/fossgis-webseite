@@ -1,4 +1,4 @@
-# Protokoll der Vorstandssitzung vom 03.05.2021 (interne Version)
+# Protokoll der Vorstandssitzung vom 03.05.2021 (öffentliche Version)
 
 Anwesende Vorstände: Jörg, Jochen, Pirmin, Falk
 
