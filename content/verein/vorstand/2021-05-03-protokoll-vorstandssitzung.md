@@ -8,14 +8,12 @@ Start: 19:30 Uhr
 
 Ende: 21:18 Uhr
 
-Nächster Termin:
-
 ## Tagesordnung
 
 - Umlaufbeschluss Gästeliste Bürgerfest
 - Umlaufbeschluss Aufnahme neues Mitglied
 - Initiative Transparente Zivilgesellschaft
-- RA &#219 wegen Waldwegen in OSM
+- RA K&#9608;&#9608;&#9608;&#9608; wegen Waldwegen in OSM
 - Versicherung Büro etc.
 - "Sitz" des FOSSGIS e.V.
 - Auftragsdatenverarbeitungsvereinbarung mit unserem Admin
@@ -31,17 +29,18 @@ Nächster Termin:
 ## Protokoll
 
 ### TOP 1 Umlaufbeschluss Gästeliste Bürgerfest des Bundespräsidenten
-Der Umlaufbeschluss ist im Vorstand nicht zustandegekommen. Die öffentliche Abstimmung wurde zwischenzeitlich von Michael Reichert gestartet. Die 5 Personen mit den meisten Stimmen in ihrer Kategorie werden (wenn sie das wollen) an das  Bundespräsidialamt gemeldet und im Folgenden vom Bundespräsidenten eingeladen. Katja meldet die durch die Community bestimmten Personen ans Bundespräsidialamt.
+Der Umlaufbeschluss ist im Vorstand nicht zustandegekommen. Die öffentliche Abstimmung wurde zwischenzeitlich von M&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; R&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; gestartet. Die 5 Personen mit den meisten Stimmen in ihrer Kategorie werden (wenn sie das wollen) an das  Bundespräsidialamt gemeldet und im Folgenden vom Bundespräsidenten eingeladen. Katja meldet die durch die Community bestimmten Personen ans Bundespräsidialamt.
 
-### TOP 2  Umlaufbeschluss Aufnahme neues Mitglied Florian Micklich
-https://gitlab.fossgis.de/vorstand/todos/-/issues/240
+### TOP 2  Umlaufbeschluss Aufnahme neues Mitglied F&#9608;&#9608;&#9608;&#9608;&#9608;&#9608; M&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;
+
+Der Umlaufbeschluss wurde gefasst.
 
 ### TOP 3  Initiative Transparente Zivilgesellschaft
 Es geht um Transparenz der Institutionen im Hinblick auf den Mitteleinsatz. Die Mitglieder können sich von der Initiative  auditieren lassen. Wir sind vermutlich nicht groß genug für das Projekt und haben auch nicht die entsprechende Klientel, so dass Aufwand und Nutzen für uns derzeit nicht in einem angemessenen Verhältnis stehen.
 
 Eine Mitgliedschaft oder Auditierung wird derzeit nicht angestrebt.
 
-### TOP 4  RA Kraas wegen Waldwegen in OSM
+### TOP 4  RA K&#9608;&#9608;&#9608;&#9608; wegen Waldwegen in OSM (TOP 12 vom 12.04.2021)
 Auf unsere erste E-Mail auf das Rechtsanwaltschreiben hatte uns der Rechtsanwalt geantwortet. Jörg hat dem Rechtsanwalt erneut geantwortet. Wir hoffen, dass wir eine einvernehmliche Lösung finden.
 
 ### TOP 5  Versicherung Büro etc. (TOP 5 vom 12.04.2021)
