@@ -1,3 +1,10 @@
+---
+title: "Mitgliedschaft"
+menu:
+  side:
+    parent: Verein
+    weight: 30
+---
 
 # Protokoll der Mitgliederversammlung 2021 des FOSSGIS e.V.
 
