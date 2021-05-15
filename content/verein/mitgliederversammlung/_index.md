@@ -1,5 +1,5 @@
 ---
-title: "Vorstand"
+title: "Mitgliederversammlung"
 menu:
   side:
     parent: Verein
