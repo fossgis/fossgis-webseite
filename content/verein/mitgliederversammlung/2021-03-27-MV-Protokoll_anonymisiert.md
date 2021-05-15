@@ -3,7 +3,7 @@ title: "Mitgliederversammlung 2021"
 menu:
   side:
     parent: Mitgliederversammlung
-    weight: 30
+    weight: 35
 ---
 
 # Protokoll der Mitgliederversammlung 2021 des FOSSGIS e.V.
