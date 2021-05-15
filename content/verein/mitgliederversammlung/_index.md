@@ -1,6 +1,6 @@
 ---
 title: "Mitgliederversammlung"
-menu:
+menu: 
   side:
     parent: Verein
     weight: 35

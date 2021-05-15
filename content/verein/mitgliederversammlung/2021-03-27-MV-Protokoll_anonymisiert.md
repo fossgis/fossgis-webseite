@@ -1,8 +1,8 @@
 ---
-title: "Mitgliedschaft"
+title: "Mitgliederversammlung 2021"
 menu:
   side:
-    parent: Verein
+    parent: Mitgliederversammlung
     weight: 30
 ---
 
