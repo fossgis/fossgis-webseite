@@ -29,10 +29,10 @@ jobs:
       run: |
         hugo
         
-    # - name: Rollout site
-    #   env:
-    #     SSH_KEY: ${{ secrets.SSH_KEY }}
-    #   run: |
-    #     eval $(ssh-agent -s)
-    #     ssh-add - <<< "${SSH_KEY}"
-    #     rsync --exclude=/w --delete -r -e "ssh -o StrictHostKeyChecking=no -p 22" public/ web@web2.fossgis.de:/
+    - name: Rollout site
+      env:
+        SSH_KEY: ${{ secrets.SSH_KEY }}
+      run: |
+        eval $(ssh-agent -s)
+        ssh-add - <<< "${SSH_KEY}"
+        rsync --exclude=/w --delete -r -e "ssh -o StrictHostKeyChecking=no -p 22" public/ web@web2.fossgis.de:/
