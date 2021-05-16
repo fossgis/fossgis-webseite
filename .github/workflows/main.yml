@@ -19,14 +19,20 @@ jobs:
         sudo ln -s $(pwd)/hugo /usr/bin/hugo
         cd -
 
+    - name: Fetch calendar
+      run: |
+        pip install icalevents
+        wget https://github.com/pka/ical2json/raw/main/ical_to_json.py
+        python ical_to_json.py https://calendar.fossgis.de/fossgis-verein.ical >data/fossgis_verein.json
+
     - name: Build site
       run: |
         hugo
         
-    - name: Rollout site
-      env:
-        SSH_KEY: ${{ secrets.SSH_KEY }}
-      run: |
-        eval $(ssh-agent -s)
-        ssh-add - <<< "${SSH_KEY}"
-        rsync --exclude=/w --delete -r -e "ssh -o StrictHostKeyChecking=no -p 22" public/ web@web2.fossgis.de:/
+    # - name: Rollout site
+    #   env:
+    #     SSH_KEY: ${{ secrets.SSH_KEY }}
+    #   run: |
+    #     eval $(ssh-agent -s)
+    #     ssh-add - <<< "${SSH_KEY}"
+    #     rsync --exclude=/w --delete -r -e "ssh -o StrictHostKeyChecking=no -p 22" public/ web@web2.fossgis.de:/

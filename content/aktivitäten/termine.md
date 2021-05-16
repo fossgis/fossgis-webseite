@@ -4,6 +4,7 @@ title: "Vereinstermine"
 #  side:
 #    parent: Aktivitäten
 #    weight: 20
+layout: calendar
 ---
 
 
