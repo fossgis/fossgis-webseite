@@ -1,13 +1,15 @@
 ---
 title: "Vereinstermine"
-menu:
-  side:
-    #parent: Aktivitäten
-    weight: 20
+#menu:
+#  side:
+#    parent: Aktivitäten
+#    weight: 20
 ---
 
 
 Der FOSSGIS e.V. pflegt einen Kalender mit Terminen für Mitglieder und Aktive des Vereins, sowie einen Kalender für die Organsiation der FOSSGIS-Konferenz.
+
+OpenStreetMap-Termine werden weltweit im [OpenStreetMap Calendar](https://osmcal.org/) gesammelt.
 
 ## Abonnierung der Kalender
 
