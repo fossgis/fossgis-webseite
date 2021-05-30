@@ -1,8 +1,11 @@
 <div>
-	<ul>
-		{{ range . }}
-			<li>{{ dateFormat "02.01.06" .start }}{{ if not .all_day }}
-			    {{ dateFormat "15:04" .start }}{{ end }}: {{ .summary }}</li>
-		{{ end }}
-	</ul>
+	{{ range  . }}
+		<details>
+			<summary>
+				{{ dateFormat "02.01.06" .start }}{{ if not .all_day }}
+		        {{ dateFormat "15:04" .start }}{{ end }}: {{ .summary }}
+		    </summary>
+		    {{ .location | markdownify }}
+		</details>
+	{{ end }}
 </div>

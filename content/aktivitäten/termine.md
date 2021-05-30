@@ -1,9 +1,9 @@
 ---
 title: "Vereinstermine"
-#menu:
-#  side:
-#    parent: Aktivitäten
-#    weight: 20
+menu:
+  side:
+    parent: Aktivitäten
+    weight: 30
 layout: calendar
 ---
 
