@@ -117,12 +117,12 @@ Hat Ihnen die Konferenz gefallen und wollen Sie weiterhin informiert bleiben? Da
 
 #### weitere Fotoeindrücke
 
-![Hochschule mit Schiffssteg](/news/images/2021_06_09_Hochschule_mit_Schiffssteg.jpg)
-![OBS-Regie](/news/images/2021_06_09_OBS-Regie_01.jpg)
-![OBS-Regie](/news/images/2021_06_09_OBS-Regie_02.jpg)
-![Viewer per Stream](/news/images/2021_06_09_Statistik_Viewer_per_Stream.png)
-![Backstage FOSSGIS-Büro](/news/images/2021_06_09_Backstage_FOSSGIS-Büro.jpg)
-![Außenstelle Leipzig](/news/images/2021_06_09_fossgisKonf21_aussenstelleLeipzig.jpg)
-![Abschlussparty am Brunnen](/news/images/2021_06_09_Abschlussparty_am_Brunnen.png)
-![Abschlussparty am Brunnen](/news/images/2021_06_09_Abschlussparty_am_Brunnen_02.png)
+![Hochschule mit Schiffssteg](/news/images/2021_06_09_Hochschule_mit_Schiffssteg.jpg)*Hchschule Rapperswil OST mit Schiffssteg*
+![OBS-Regie](/news/images/2021_06_09_OBS-Regie_01.jpg)*Team Rapperswil*
+![OBS-Regie](/news/images/2021_06_09_OBS-Regie_02.jpg)*Team Rapperswil*
+![Viewer per Stream](/news/images/2021_06_09_Statistik_Viewer_per_Stream.png)*Zuschauer im Livestream*
+![Backstage FOSSGIS-Büro](/news/images/2021_06_09_Backstage_FOSSGIS-Büro.jpg)*Backstage FOSSGIS-Büro*
+![Außenstelle Leipzig](/news/images/2021_06_09_fossgisKonf21_aussenstelleLeipzig.jpg)*Backstage Außenstelle Leipzig*
+![Abschlussparty am Brunnen](/news/images/2021_06_09_Abschlussparty_am_Brunnen.png)*Abschlussparty am Brunnen*
+![Abschlussparty am Brunnen](/news/images/2021_06_09_Abschlussparty_am_Brunnen_02.png)*Abschlussparty am Brunnen*
 
