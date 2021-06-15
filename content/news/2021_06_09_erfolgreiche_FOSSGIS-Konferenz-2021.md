@@ -12,7 +12,7 @@ Aufgrund der andauernden Pandemiesituation fand die FOSSGIS-Konferenz 2021 als O
 Das Organisationsteam freute sich, dass in diesem Jahr keine Limitierung der Besucherzahlen bestand. 
 
 
-![Gruppenfoto der Avatare in der netzwerkwelt](/news/images/2021_06_09_Gruppenfoto_FOSSGIS2021.jpeg "Gruppenfoto")*Gruppenfoto in der virtuellen Welt*
+![Gruppenfoto der Avatare in der netzwerkwelt](/news/images/2021_06_09_Gruppenfoto_FOSSGIS2021.jpeg "Gruppenfoto")*Gruppenfoto in der virtuellen Welt*  
    
 
 Unter Beibehaltung des typischen Konferenzformates wurden über 100 Beiträge - Vorträge, Demosessions, Lightning Talks - auf 4 Bühnen via Livestream übertragen.
@@ -37,7 +37,7 @@ Das Programmkomitee hat sich gefreut, dass für die Keynotes Vertreter von GDIs 
 
 Großen Spaß hatten die Teilnehmenden sowie auch Zuschauer beim [Jeopardy-Quiz](https://media.ccc.de/v/fossgis2021-7648-fossgis-jeopardy-1), bei auch kniffelige Fragen souverän beantwortet wurden und es tolle Preise zu gewinnen gab. 
 
-![Jeopardy](/news/images/2021_06_09_Jeopardy.png)
+![Jeopardy](/news/images/2021_06_09_Jeopardy.png)*Jeopardy-Quiz*  
 
 #### FOSSGIS-Videos im Netz
 Wie jedes Jahr werden die Aufzeichnungen veröffentlicht. Sie sind über die [Media-CCC-Plattform](https://media.ccc.de/c/fossgis2021) verfügbar, sowie auf [Youtube](https://www.youtube.com/channel/UCujhdu-f-arhIZNh-2Qgh7Q) und bald auch im [TIB-AV Portal](https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V.).
@@ -47,15 +47,15 @@ Wie jedes Jahr werden die Aufzeichnungen veröffentlicht. Sie sind über die [Me
 Während der Pausen waren die Teilnehmenden eingeladen die Netzwerkwelt zu besuchen. Dazu gab es eine virtuelle Variante des Campus Rapperswil, auf dem sich die Teilnehmenden mit einem Avatar per Tastatur bewegten. In der [virtuellen Firmenausstellung](https://fossgis-konferenz.de/2021/expo/) präsentierten sich einige der Sponsoren, diese konnten an ihrem Stand besucht werden.
 
 
-![Ausstellerstände rder Expo](/news/images/2021_06_09_Expo.png)
-![Netzwerkwelt virtueller Campus Rapperswil](/news/images/2021_06_09_Netzwerkwelt_komplett.png)
+![Ausstellerstände der Expo](/news/images/2021_06_09_Expo.png)*Ausstellerstände in der Expo*  
+![Netzwerkwelt virtueller Campus Rapperswil](/news/images/2021_06_09_Netzwerkwelt_komplett.png)*virtueller Campus Rapperswil*  
 
 
 In der Netzwerkwelt konnte auch gebaut werden. Dafür standen DIY-Räume (DIY - Do it Yourself) zur Verfügung. Im DIY-Raum 6 entstand eine neue Abenteuerwelt mit Hinweisen zu QGIS, PostGIS und GDAL. 
-![DIY-Räume EG](/news/images/2021_06_09_Gebaeude_6_Erdgeschoss.png)![DIY-Räume 1OG](/news/images/2021_06_09_Gebaeude_6_erster-Stock.png)![DIY-Räume Kino](/news/images/2021_06_09_Gebaeude_6_Cinema.png)
+![DIY-Räume EG](/news/images/2021_06_09_Gebaeude_6_Erdgeschoss.png)![DIY-Räume 1OG](/news/images/2021_06_09_Gebaeude_6_erster-Stock.png)![DIY-Räume Kino](/news/images/2021_06_09_Gebaeude_6_Cinema.png)*DIY-Räume mit OSGeo-Infos*  
 
 Am Dienstagnachmittag fand der "Fototermin" auf der Fotowoiese in der Netzwerkwelt statt.  
-![Gruppenfoto der Avatare in der netzwerkwelt](/news/images/2021_06_09_Netzwerkwelt_Fototermin_FOSSGIS_2021_10sec_Loop.gif)
+![Gruppenfoto der Avatare in der netzwerkwelt](/news/images/2021_06_09_Netzwerkwelt_Fototermin_FOSSGIS_2021_10sec_Loop.gif)*FOSSGIS-Konferenz 2021 Gruppenfoto auf der Fotowiese*
 
 
 Am letzten Tag der Konferenz schaute Angelos Tzotzos der Präsident der OSGeo in der Netzwerkwelt vorbei und traf das FOSSGIS-Konferenzteam. Trotz mangelnder Deutschkenntnisse, hatte er den Konferenz-Livestream angeschaut und war begeistert. Er bedankte sich im Namen der OSGeo für die beeindruckende Konferenz und den Einsatz des FOSSGIS e.V. für FOSS4G.
@@ -89,7 +89,7 @@ Ticketbuchungen:
 - Zuschauer:innen an den Bühnen: 583 
 - Anzahl von Chatnachrichten an den Bühnen: 1793
 - Anzhal von direkten Chats: 182
-- Anzahl von Nachrichtne im dirketen Chat: 950  
+- Anzahl von Nachrichten im dirketen Chat: 950  
 Nur wenige nutzen die Videochatfunktion der OnlinePlattform.  
 
 - Bestellte Tagungsbände: 153, diese wurden per Post zugestellt.
@@ -108,7 +108,7 @@ In 2021 darf sich die Community auf weitere wichtige Konferenzen freuen. So sei 
 
 
 #### Werden Sie Teil einer weltweiten Community
-Hat Ihnen die Konferenz gefallen und wollen Sie weiterhin informiert bleiben? Dann werden Sie Mitglied des FOSSGIS-Vereins und abonnieren Sie unsere Mailinglisten oder folgen Sie auf Twitter.   
+Hat Ihnen die Konferenz gefallen und wollen Sie weiterhin informiert bleiben? Dann werden Sie Mitglied des FOSSGIS-Vereins und abonnieren Sie unsere Mailinglisten oder folgen Sie dem FOSSGIS auf Twitter.   
 
 -  [Vereinsmailingliste bei Mitgliedschaft](https://fossgis.de/verein/)
 -  [weitere Mailinglisten](https://fossgis.de/community/)
@@ -117,7 +117,7 @@ Hat Ihnen die Konferenz gefallen und wollen Sie weiterhin informiert bleiben? Da
 
 #### weitere Fotoeindrücke
 
-![Hochschule mit Schiffssteg](/news/images/2021_06_09_Hochschule_mit_Schiffssteg.jpg)*Hchschule Rapperswil OST mit Schiffssteg*
+![Hochschule mit Schiffssteg](/news/images/2021_06_09_Hochschule_mit_Schiffssteg.jpg)*Hchschule Rapperswil OST mit Schiffssteg*  
 ![OBS-Regie](/news/images/2021_06_09_OBS-Regie_01.jpg)*Team Rapperswil*  
 ![OBS-Regie](/news/images/2021_06_09_OBS-Regie_02.jpg)*Team Rapperswil*  
 ![Viewer per Stream](/news/images/2021_06_09_Statistik_Viewer_per_Stream.png)*Zuschauer im Livestream*  
