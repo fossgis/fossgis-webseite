@@ -76,21 +76,21 @@ Die  technische Umsetzung der Konferenz war etwas anders, als wenn die Veranstal
 
 #### FOSSGIS in Zahlen
 Ticketbuchungen:   
-* Normalticket: 308
-* Frühbucherticket: 94
-* Ticket reduzierter Preis: 41
-* Community- und Helfer:innenticket: 92
-* Vortragendenticket: 116
-----
-* Zuschauer:innen an den Bühnen: 583 
-* Anzahl von Chatnachrichten an den Bühnen: 1793
-* Anzhal von direkten Chats: 182
-* Anzahl von Nachrichtne im dirketen Chat: 950  
-Nur wenige nutzen die Videochatfunktion der OnlinePlattform.
----
-* Bestellte Tagungsbände: 153, diese wurden per Post zugestellt.
-* 266 Workshopbuchungen, 8  Workshops waren ausgebucht.
----
+- Normalticket: 308
+- Frühbucherticket: 94
+- Ticket reduzierter Preis: 41
+- Community- und Helfer:innenticket: 92
+- Vortragendenticket: 116  
+
+- Zuschauer:innen an den Bühnen: 583 
+- Anzahl von Chatnachrichten an den Bühnen: 1793
+- Anzhal von direkten Chats: 182
+- Anzahl von Nachrichtne im dirketen Chat: 950  
+Nur wenige nutzen die Videochatfunktion der OnlinePlattform.  
+
+- Bestellte Tagungsbände: 153, diese wurden per Post zugestellt.
+- 266 Workshopbuchungen, 8  Workshops waren ausgebucht.  
+
 In der Netzwerkwelt waren zwischen 50 und 200 Personen aktiv unterwegs.
 
 #### Nach der Konferenz ist vor der Konferenz
