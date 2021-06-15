@@ -80,7 +80,7 @@ Ticketbuchungen:
 - Normalticket: 308
 - Frühbucherticket: 94
 - Ticket reduzierter Preis: 41
-- Community- und Helfer:innenticket: 92
+- Community- und Helfer_innenticket: 92
 - Vortragendenticket: 116  
 
 - Zuschauer:innen an den Bühnen: 583 
@@ -106,6 +106,7 @@ In 2021 darf sich die Community auf weitere wichtige Konferenzen freuen. So sei 
 
 #### Werden Sie Teil einer weltweiten Community
 Hat Ihnen die Konferenz gefallen und wollen Sie weiterhin informiert bleiben? Dann werden Sie Mitglied des FOSSGIS-Vereins und abonnieren Sie unsere Mailinglisten oder folgen Sie auf Twitter.   
+
 -  [Vereinsmailingliste bei Mitgliedschaft](https://fossgis.de/verein/)
 -  [weitere Mailinglisten](https://fossgis.de/community/)
 -  [Konferenz @ Twitter](https://twitter.com/FOSSGIS_Konf)
