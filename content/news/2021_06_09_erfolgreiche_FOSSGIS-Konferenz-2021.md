@@ -68,6 +68,9 @@ Wir danken an dieser Stelle den Sponsoren, die mit ihrer finanziellen Unterstüt
 
 #### Team und Helfer:innen
 Ein großer Dank geht an das Team, das in diesem Jahr die Konferenz organisiert und die neuen Herausforderungen des Onlineformats mit Bravour bewältigt hat. Das Lokal-Team in Rapperswill hat dennnoch das Flair von Rapperswil auch Online reingebracht. So konnten die Teilnehmenden das Rauschen des Sees in der Netzwerkwelt hören, den Campus entdecken und wurden von Stefan Keller als Lokalen Veranstalter - ohne Krawatte und Jacket - willkommen geheißen.   
+![Team Rapperswil](/news/images/2021_06_09_FOSSGIS_IFS-OST-Team_05.jpg)*Team Rapperswil*
+
+
 Das Lokal-Team war vor Ort im Hintergrund aktiv im Einsatz am Infodesk, die Bühne 1 und 2 wurden aus Rapperswill gesendet. Um Bühne 3 und 4 kümmerten sich die Expert:innen vom C3VOC. An jeder Bühne waren zu jeder Zeit zwischen 6 und 10 Personen mit OBS-Regie, Bühnenkoordination und Sessionleitung sowie die Vortragenden selbst für die Fragen-Antwort-Session im Hintergrund aktiv.  
 Beeindruckend waren die zahlreichen Helfer:innen, die uns unterstützt haben, denn auch bei einer Onlineveranstaltung gab es im Vorfeld und während der Veranstaltung viel zu tun. Der Bau der Netzwerkwelt, die Prüfung und Schnitt der vorab aufgezeichneten Videos und die Präsenz am InfoDesk waren Helfer:innenjobs.  
 Herzlichen Dank an alle Beteiligten für den großartigen Einsatz.  
@@ -112,5 +115,8 @@ Hat Ihnen die Konferenz gefallen und wollen Sie weiterhin informiert bleiben? Da
 -  [Konferenz @ Twitter](https://twitter.com/FOSSGIS_Konf)
 -  [Verein @ Twitter](https://twitter.com/FOSSGIS_Verein)
 
+#### weitere Fotoeindrücke
 
+![Abschlussparty am Brunnen](/news/images/2021_06_09_Abschlussparty_am_Brunnen.png)
+![Abschlussparty am Brunnen](/news/images/2021_06_09_Abschlussparty_am_Brunnen_02.png)
 
