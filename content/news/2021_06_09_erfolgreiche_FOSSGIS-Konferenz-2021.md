@@ -26,14 +26,13 @@ Es wurden Themen rund um OpenStreetMap diskutiert.
 
 
 #### Das Programm
-Am Montag begann die FOSSGIS-Konferenz pünktlich um 9 Uhr auf Bühne 1. Nach der [Eröffnung](https://media.ccc.de/v/fossgis2021-9768-erffnung) durch Jörg Thomsen als 1. Vorsitzender des FOSGSIS e.V. begrüßte Stefan Keller die Besucher als Leiter des lokalen Teams aus Rapperswil. Stefan Keller regte mit seiner Keynote [ Open Whatever im Trend und im Clinch](https://media.ccc.de/v/fossgis2021-9726-keynote-open-whatever-im-trend-und-im-clinch) direkt zu Diskussionen an. Anschließend wurde das Programm auf 4 Bühnen fortgesetzt.
+Am Montag begann die FOSSGIS-Konferenz pünktlich um 9 Uhr auf Bühne 1. Nach der [Eröffnung](https://media.ccc.de/v/fossgis2021-9768-erffnung) durch Jörg Thomsen als 1. Vorsitzender des FOSGSIS e.V. begrüßte Stefan Keller die Besucher als Leiter des lokalen Teams des OST Campus Rapperswil. Prof. Dr. Stefan Keller regte mit seiner Keynote [ Open Whatever im Trend und im Clinch](https://media.ccc.de/v/fossgis2021-9726-keynote-open-whatever-im-trend-und-im-clinch) direkt zu Diskussionen an. Anschließend wurde das Programm auf 4 Bühnen fortgesetzt.
 
-Es wurde ein abwechslungsreiches Programm angeboten, welches durch die hochwertigen Einreichungen möglich wurde. Die Themen wurden in thematisch passenden Tracks präsentiert. Hervorzuheben ist das wachsende Interesse an Vector Tiles, dass sich auch in den Einreichungen spiegelte. 
+Es wurde ein abwechslungsreiches Programm angeboten, welches durch die vielfältigen Einreichungen möglich wurde. Die Vorträge wurden in thematisch passend in Tracks präsentiert, was zu interessanten Diskussionen im Chat und in den Fragen führte. Hervorzuheben ist das wachsende Interesse an Vector Tiles. QGIS und PostgreSQL/PostGIS erfreuen sich weiterhin großer Beliebtheit.
 
-Es gab Jubiläen zu feiern wie 20 Jahre PostGIS, 10 Jahre Overpass-API, 20 Jahre deegree-Projekt.
+Es wurden Jubiläen gefeiert wie 20 Jahre PostGIS, 10 Jahre Overpass-API und 20 Jahre deegree-Projekt. Herzlichen Glückwunsch!
 
-Das Programmkomitee hat sich gefreut, dass für die Keynotes Vertreter von GDIs gewonnen werden konnten. So machte David Oesch von swisstopo mit seiner Keynote zu [Geodata on Stereoids: Open-Government-Geodata und OSS](https://pretalx.com/fossgis2021/talk/BBSDVU/) den Auftakt und Prof. Paul Becker vom Bundesamt für Kartographie und Geodäseie (BKG) ging in der Abschlusskeynote [Open Data, Open Source – Open End?](https://media.ccc.de/v/fossgis2021-10419-open-data-open-source-open-end-) auf die Zusammenarbeit vom BKG mit der OpenStreetMap-Community ein.
-
+Das Programmkomitee hat sich gefreut, dass für die Keynotes Vertreter von GDIs gewonnen werden konnten. So machte David Oesch von swisstopo mit seiner Keynote zu [Geodata on Stereoids: Open-Government-Geodata und OSS](https://pretalx.com/fossgis2021/talk/BBSDVU/) den Auftakt und Prof. Dr. Paul Becker vom Bundesamt für Kartographie und Geodäseie (BKG) ging in der Abschlusskeynote [Open Data, Open Source – Open End?](https://media.ccc.de/v/fossgis2021-10419-open-data-open-source-open-end-) auf die Zusammenarbeit vom BKG mit der OpenStreetMap-Community ein.
 
 Großen Spaß hatten die Teilnehmenden sowie auch Zuschauer beim [Jeopardy-Quiz](https://media.ccc.de/v/fossgis2021-7648-fossgis-jeopardy-1), bei auch kniffelige Fragen souverän beantwortet wurden und es tolle Preise zu gewinnen gab. 
 
