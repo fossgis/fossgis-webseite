@@ -86,41 +86,41 @@ Ticketbuchungen:
 - Normalticket: 308
 - Frühbucherticket: 94
 - Ticket reduzierter Preis: 41
-- Community- und Helfer_innenticket: 92
+- Community- und Helfer:innenticket: 92
 - Vortragendenticket: 116  
 
 - Zuschauer:innen an den Bühnen: 583 
 - Anzahl von Chatnachrichten an den Bühnen: 1793
-- Anzhal von direkten Chats: 182
-- Anzahl von Nachrichten im dirketen Chat: 950  
-Nur wenige nutzen die Videochatfunktion der OnlinePlattform.  
+- Anzahl von direkten Chats: 182
+- Anzahl von Nachrichten im direkten Chat: 950  
+Nur wenige nutzen die Videochatfunktion der Onlineplattform.  
 
-- Bestellte Tagungsbände: 153, diese wurden per Post zugestellt.
+- Bestellte Tagungsbände: 153 (per Post zugestellt)
 - 266 Workshopbuchungen, 8  Workshops waren ausgebucht.  
 
 In der Netzwerkwelt waren zwischen 50 und 200 Personen aktiv unterwegs.
 
 #### Nach der Konferenz ist vor der Konferenz
-Wir freuen uns, dass sich Marburg für die Austragung der [FOSSGIS-Konferenz im März 2022](https://fossgis-konferenz.de/2022) bereit erklärt. Hoffentlich ist in 2022 wieder eine Konferenz vor Ort möglich. Das positive Feedback der diesjährigen Konferenz hat gezeigt, dass wir die Konferenz im nächsten Jahr hybrid denken sollten. 
+Wir freuen uns, dass sich Marburg für die Austragung der [FOSSGIS-Konferenz im März 2022](https://fossgis-konferenz.de/2022) bereit erklärt. Hoffentlich ist in 2022 wieder eine Konferenz vor Ort möglich. Das positive Feedback der diesjährigen Konferenz hat gezeigt, dass die Konferenz im nächsten Jahr hybrid stattfinden sollte. 
 
 
-In 2021 darf sich die Community auf weitere wichtige Konferenzen freuen. So sei an dieser Stelle auf die SoTM und die FOSS4G hingewiesen. Beide Konferenzen sind englischsprachig und online. Das Onlineformat ermöglicht eine einfachere Teilnahme an einer globalen Konferenz. Für die SoTM wird es erstmalig Simultanübersetzung in unterschiedliche Sprachen geben.
+In 2021 darf sich die Community auf weitere wichtige Konferenzen freuen. So sei an dieser Stelle auf die SotM und die FOSS4G hingewiesen. Beide Konferenzen sind englischsprachig und online. Das Onlineformat ermöglicht eine einfachere Teilnahme an einer globalen Konferenz. Für die SotM wird es erstmalig Simultanübersetzung in unterschiedliche Sprachen geben.
 
 * 9.-11.07.2021 SotM - [State of the Map Online](https://2021.stateofthemap.org/)
 * 27.9. - 2.10.2021 [FOSS4G Buenos Aires Online](https://2021.foss4g.org/)
 
 
 #### Werden Sie Teil einer weltweiten Community
-Hat Ihnen die Konferenz gefallen und wollen Sie weiterhin informiert bleiben? Dann werden Sie Mitglied des FOSSGIS-Vereins und abonnieren Sie unsere Mailinglisten oder folgen Sie dem FOSSGIS auf Twitter.   
+Hat Ihnen die Konferenz gefallen und wollen Sie weiterhin informiert bleiben? Dann werden Sie Mitglied im FOSSGIS e.V. und abonnieren Sie unsere Mailinglisten oder folgen Sie dem FOSSGIS e.V. und der FOSSGIS-Konferenz auf Twitter.   
 
 -  [Vereinsmailingliste bei Mitgliedschaft](https://fossgis.de/verein/)
 -  [weitere Mailinglisten](https://fossgis.de/community/)
--  [Konferenz @ Twitter](https://twitter.com/FOSSGIS_Konf)
--  [Verein @ Twitter](https://twitter.com/FOSSGIS_Verein)
+-  [Twitter @FOSSGIS_Konf](https://twitter.com/FOSSGIS_Konf)
+-  [Twitter @FOSSGIS_Verein](https://twitter.com/FOSSGIS_Verein)
 
 #### weitere Fotoeindrücke
 
-![Hochschule mit Schiffssteg](/news/images/2021_06_09_Hochschule_mit_Schiffssteg.jpg)*Hchschule Rapperswil OST mit Schiffssteg*  
+![Hochschule mit Schiffssteg](/news/images/2021_06_09_Hochschule_mit_Schiffssteg.jpg)*Hochschule Rapperswil OST mit Schiffssteg*  
 ![OBS-Regie](/news/images/2021_06_09_OBS-Regie_01.jpg)*Team Rapperswil*  
 ![OBS-Regie](/news/images/2021_06_09_OBS-Regie_02.jpg)*Team Rapperswil*  
 ![Viewer per Stream](/news/images/2021_06_09_Statistik_Viewer_per_Stream.png)*Zuschauer im Livestream*  
