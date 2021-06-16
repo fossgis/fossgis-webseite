@@ -53,6 +53,7 @@ Während der Pausen waren die Teilnehmenden eingeladen die Netzwerkwelt zu besuc
 In der Netzwerkwelt konnte auch gebaut werden. Dafür standen DIY-Räume (DIY - Do it Yourself) zur Verfügung. Im DIY-Raum 6 entstand eine neue Abenteuerwelt mit Hinweisen zu QGIS, PostGIS und GDAL. 
 ![DIY-Räume EG](/news/images/2021_06_09_Gebaeude_6_Erdgeschoss.png)![DIY-Räume 1OG](/news/images/2021_06_09_Gebaeude_6_erster-Stock.png)![DIY-Räume Kino](/news/images/2021_06_09_Gebaeude_6_Cinema.png)*DIY-Räume mit OSGeo-Infos*  
 
+
 Am Dienstagnachmittag fand der "Fototermin" auf der Fotowoiese in der Netzwerkwelt statt.  
 ![Gruppenfoto der Avatare in der netzwerkwelt](/news/images/2021_06_09_Netzwerkwelt_Fototermin_FOSSGIS_2021_10sec_Loop.gif)*FOSSGIS-Konferenz 2021 Gruppenfoto auf der Fotowiese*
 
@@ -63,18 +64,21 @@ Schauen Sie sich unbedingt noch einmal das [Erklärvideo](https://vortraege.foss
 
 
 #### Sponsoren
-Wir danken an dieser Stelle den Sponsoren, die mit ihrer finanziellen Unterstützung die Konferenz ermöglicht haben. Besonderer Dank gilt dabei den [Platin-Sponsoren Camptocamp und WhereGroup](https://fossgis-konferenz.de/2021/). 
+Wir danken an dieser Stelle den Sponsoren, die mit ihrer finanziellen Unterstützung die Konferenz ermöglicht haben. Besonderer Dank gilt dabei den [Platin-Sponsoren Camptocamp und WhereGroup](https://fossgis-konferenz.de/2021/).
+
 
 #### Team und Helfer:innen
-Ein großer Dank geht an das Team, das in diesem Jahr die Konferenz organisiert und die neuen Herausforderungen des Onlineformats mit Bravour bewältigt hat. Das Lokal-Team in Rapperswill hat dennnoch das Flair von Rapperswil auch Online reingebracht. So konnten die Teilnehmenden das Rauschen des Sees in der Netzwerkwelt hören, den Campus entdecken und wurden von Stefan Keller als Lokalen Veranstalter - ohne Krawatte und Jacket - willkommen geheißen.   
+Ein großer Dank geht an das Team, das in diesem Jahr die Konferenz organisiert und die neuen Herausforderungen des Onlineformats mit Bravour bewältigt hat. Das Lokal-Team hat dennnoch das Flair von Rapperswil auch Online reingebracht. So konnten die Teilnehmenden das Rauschen des Sees in der Netzwerkwelt hören, den Campus entdecken und wurden von Stefan Keller als lokalem Veranstalter - ohne Krawatte und Jacket - willkommen geheißen.   
 ![Team Rapperswil](/news/images/2021_06_09_FOSSGIS_IFS-OST-Team_05.jpg)*Team Rapperswil*
 
 
-Das Lokal-Team war vor Ort im Hintergrund aktiv im Einsatz am Infodesk, die Bühne 1 und 2 wurden aus Rapperswill gesendet. Um Bühne 3 und 4 kümmerten sich die Expert:innen vom C3VOC. An jeder Bühne waren zu jeder Zeit zwischen 6 und 10 Personen mit OBS-Regie, Bühnenkoordination und Sessionleitung sowie die Vortragenden selbst für die Fragen-Antwort-Session im Hintergrund aktiv.  
-Beeindruckend waren die zahlreichen Helfer:innen, die uns unterstützt haben, denn auch bei einer Onlineveranstaltung gab es im Vorfeld und während der Veranstaltung viel zu tun. Der Bau der Netzwerkwelt, die Prüfung und Schnitt der vorab aufgezeichneten Videos und die Präsenz am InfoDesk waren Helfer:innenjobs.  
-Herzlichen Dank an alle Beteiligten für den großartigen Einsatz.  
-Die  technische Umsetzung der Konferenz war etwas anders, als wenn die Veranstaltung vor Ort stattfindet. Einen [Bericht, wie dies gelungen ist](https://vmx.cx/cgi-bin/blog/index.cgi/video-uploads-for-an-online-conference%3A2021-06-12%3Aen%2Cconference%2Cgeo), hat Volker Mische verfasst.
+Das Lokal-Team war vor Ort im Hintergrund aktiv im Einsatz am Infodesk, die Bühne 1 und 2 wurden aus Rapperswil gesendet. Um Bühne 3 und 4 kümmerten sich die Expert:innen vom c3voc. An jeder Bühne waren zu jeder Zeit zwischen 6 und 10 Personen mit Regie, Bühnenkoordination und Sessionleitung sowie die Vortragenden selbst für die Fragen-Antwort-Session im Hintergrund aktiv.
 
+Beeindruckend waren die zahlreichen Helfer:innen, die unterstützt haben, denn auch bei einer Onlineveranstaltung gab es im Vorfeld und während der Veranstaltung viel zu tun. Der Bau der Netzwerkwelt, die Prüfung und Schnitt der vorab aufgezeichneten Videos und die Präsenz am InfoDesk waren Helfer:innenjobs.
+
+Herzlichen Dank an alle Beteiligten für den großartigen Einsatz.  
+
+Die  technische Umsetzung der Konferenz war etwas anders, im Vergleich zu einer Vor-Ort-Veranstaltung. Wie dies gelungen ist beschreibt Volker Mische aus technischer Sicht in seinem [Bericht](https://vmx.cx/cgi-bin/blog/index.cgi/video-uploads-for-an-online-conference%3A2021-06-12%3Aen%2Cconference%2Cgeo).
 
 #### FOSSGIS in Zahlen
 Ticketbuchungen:   
