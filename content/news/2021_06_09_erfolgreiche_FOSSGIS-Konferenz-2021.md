@@ -1,5 +1,5 @@
 ---
-title:  "erfolgreiche FOSSGIS-Konferenz 2021"
+title:  "Rückblick auf eine erfolgreiche FOSSGIS-Konferenz 2021"
 date: "2021-06-09"
 author: "Katja Haferkorn und Astrid Emde"
 ---
@@ -8,6 +8,7 @@ author: "Katja Haferkorn und Astrid Emde"
 ## Nach der Konferenz ist vor der Konferenz
 
 Mehr als 500 Teilnehmer:innen besuchten die FOSSGIS-Konferenz 2021, die vom 06.-09. Juni 2021 stattfand und informierten sich über freie GIS-Software und OpenStreetMap. Die hohe Beteiligung spiegelt die Beliebtheit der Veranstaltung und verdeutlicht das Interesse an Open-Source und Open Data.   
+
 Aufgrund der andauernden Pandemiesituation fand die FOSSGIS-Konferenz 2021 als Online-Event statt.
 Das Organisationsteam freute sich, dass in diesem Jahr keine Limitierung der Besucherzahlen bestand. 
 
@@ -18,16 +19,15 @@ Das Organisationsteam freute sich, dass in diesem Jahr keine Limitierung der Bes
 Unter Beibehaltung des typischen Konferenzformates wurden über 100 Beiträge - Vorträge, Demosessions, Lightning Talks - auf 4 Bühnen via Livestream übertragen.
 Die 21 Workshops, die Teilnehmende im Rahmen der Konferenz buchen konnten, fanden in  Form von Videokonferenzen statt. Es wurden 266 Workshopteilnahmen gebucht. Die Workshops fanden teilweise mit [OSGeoLive](http://live.osgeo.org/de/index.html) statt.
 
-Die Teilnehmenden erhielten den Zugang zum Online-Event über das gebuchte Konferenzticket.
-
 
 #### OSM Sonntag mit OSM-Unkonferenz
 Den Auftakt der Konferenz bildetet am Sonntag, den 6. Juni 2021 der OSM-Sonntag mit OSM-Unkonferenz, an dem circa 60 Personen teilnahmen.  
 Es wurden Themen rund um OpenStreetMap diskutiert.
 
-Am Montag eröffnete die FOSSGIS-Konferenz pünktlich um 9 Uhr auf Bühne 1. Nach der [Eröffnung](https://media.ccc.de/v/fossgis2021-9768-erffnung) wurde das Programm auf 4 Bühnen fortgesetzt.
 
 #### Das Programm
+Am Montag begann die FOSSGIS-Konferenz pünktlich um 9 Uhr auf Bühne 1. Nach der [Eröffnung](https://media.ccc.de/v/fossgis2021-9768-erffnung) durch Jörg Thomsen als 1. Vorsitzender des FOSGSIS e.V. begrüßte Stefan Keller die Besucher als Leiter des lokalen Teams aus Rapperswil. Stefan Keller regte mit seiner Keynote [ Open Whatever im Trend und im Clinch](https://media.ccc.de/v/fossgis2021-9726-keynote-open-whatever-im-trend-und-im-clinch) direkt zu Diskussionen an. Anschließend wurde das Programm auf 4 Bühnen fortgesetzt.
+
 Es wurde ein abwechslungsreiches Programm angeboten, welches durch die hochwertigen Einreichungen möglich wurde. Die Themen wurden in thematisch passenden Tracks präsentiert. Hervorzuheben ist das wachsende Interesse an Vector Tiles, dass sich auch in den Einreichungen spiegelte. 
 
 Es gab Jubiläen zu feiern wie 20 Jahre PostGIS, 10 Jahre Overpass-API, 20 Jahre deegree-Projekt.
