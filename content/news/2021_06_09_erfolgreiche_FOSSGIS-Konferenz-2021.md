@@ -5,7 +5,7 @@ author: "Katja Haferkorn und Astrid Emde"
 ---
 
 
-## Nach der Konferenz ist vor der Konferenz
+### Nach der Konferenz ist vor der Konferenz
 
 Mehr als 500 Teilnehmer:innen besuchten die FOSSGIS-Konferenz 2021, die vom 06.-09. Juni 2021 stattfand und informierten sich über freie GIS-Software und OpenStreetMap. Die hohe Beteiligung spiegelt die Beliebtheit der Veranstaltung und verdeutlicht das Interesse an Open-Source und Open Data.   
 
@@ -26,13 +26,15 @@ Es wurden Themen rund um OpenStreetMap diskutiert.
 
 
 #### Das Programm
-Am Montag begann die FOSSGIS-Konferenz pünktlich um 9 Uhr auf Bühne 1. Nach der [Eröffnung](https://media.ccc.de/v/fossgis2021-9768-erffnung) durch Jörg Thomsen als 1. Vorsitzender des FOSGSIS e.V. begrüßte Stefan Keller die Besucher als Leiter des lokalen Teams des OST Campus Rapperswil. Prof. Dr. Stefan Keller regte mit seiner Keynote [ Open Whatever im Trend und im Clinch](https://media.ccc.de/v/fossgis2021-9726-keynote-open-whatever-im-trend-und-im-clinch) direkt zu Diskussionen an. Anschließend wurde das Programm auf 4 Bühnen fortgesetzt.
+Am Montag begann die FOSSGIS-Konferenz pünktlich um 9 Uhr auf Bühne 1. Nach der [Eröffnung](https://media.ccc.de/v/fossgis2021-9768-erffnung) durch Jörg Thomsen als 1. Vorsitzender des FOSGSIS e.V. begrüßte Prof. Dr. Stefan Keller die Besucher als Leiter des lokalen Teams des OST Campus Rapperswil. Auch diesmal wurden die Teilnehmenden von Stefan Keller ohne Krawatte und Jacket willkommen geheißen. 
+Er regte mit seiner Keynote [Open Whatever im Trend und im Clinch](https://media.ccc.de/v/fossgis2021-9726-keynote-open-whatever-im-trend-und-im-clinch) direkt zu Diskussionen an. 
+Nach der Eröffnung wurde das Programm auf 4 Bühnen fortgesetzt.
 
-Es wurde ein abwechslungsreiches Programm angeboten, welches durch die vielfältigen Einreichungen möglich wurde. Die Vorträge wurden in thematisch passend in Tracks präsentiert, was zu interessanten Diskussionen im Chat und in den Fragen führte. Hervorzuheben ist das wachsende Interesse an Vector Tiles. QGIS und PostgreSQL/PostGIS erfreuen sich weiterhin großer Beliebtheit.
+Die FOSSGIS 2021 bot ein abwechslungsreiches Programm, welches durch die vielfältigen Einreichungen möglich wurde. Die Vorträge wurden in thematisch passenden Tracks präsentiert, was zu interessanten Diskussionen im Chat und in der Fragen-Antwort-Session führte. Hervorzuheben ist das wachsende Interesse an Vector Tiles. QGIS und PostgreSQL/PostGIS erfreuen sich weiterhin großer Beliebtheit.
 
 Es wurden Jubiläen gefeiert wie 20 Jahre PostGIS, 10 Jahre Overpass-API und 20 Jahre deegree-Projekt. Herzlichen Glückwunsch!
 
-Das Programmkomitee hat sich gefreut, dass für die Keynotes Vertreter von GDIs gewonnen werden konnten. So machte David Oesch von swisstopo mit seiner Keynote zu [Geodata on Stereoids: Open-Government-Geodata und OSS](https://pretalx.com/fossgis2021/talk/BBSDVU/) den Auftakt und Prof. Dr. Paul Becker vom Bundesamt für Kartographie und Geodäseie (BKG) ging in der Abschlusskeynote [Open Data, Open Source – Open End?](https://media.ccc.de/v/fossgis2021-10419-open-data-open-source-open-end-) auf die Zusammenarbeit vom BKG mit der OpenStreetMap-Community ein.
+Das Programmkomitee freute sich, dass für die Keynotes Vertreter von Geodateninfrastrukturen (GDIs) gewonnen werden konnten. So machte David Oesch von swisstopo mit seiner Keynote zu [Geodata on Stereoids: Open-Government-Geodata und OSS](https://pretalx.com/fossgis2021/talk/BBSDVU/) den Auftakt und Prof. Dr. Paul Becker vom Bundesamt für Kartographie und Geodäseie (BKG) ging in der Abschlusskeynote [Open Data, Open Source – Open End?](https://media.ccc.de/v/fossgis2021-10419-open-data-open-source-open-end-) auf die Zusammenarbeit vom BKG mit der OpenStreetMap-Community ein.
 
 Großen Spaß hatten die Teilnehmenden sowie auch Zuschauer beim [Jeopardy-Quiz](https://media.ccc.de/v/fossgis2021-7648-fossgis-jeopardy-1), bei auch kniffelige Fragen souverän beantwortet wurden und es tolle Preise zu gewinnen gab. 
 
@@ -47,7 +49,8 @@ Während der Pausen waren die Teilnehmenden eingeladen die Netzwerkwelt zu besuc
 
 
 ![Ausstellerstände der Expo](/news/images/2021_06_09_Expo.png)  *Ausstellerstände in der Expo*  
-![Netzwerkwelt virtueller Campus Rapperswil](/news/images/2021_06_09_Netzwerkwelt_komplett.png)  *virtueller Campus Rapperswil*  
+![Netzwerkwelt virtueller Campus Rapperswil](/news/images/2021_06_09_Netzwerkwelt_komplett.png)    
+*virtueller Campus Rapperswil*  
 
 
 In der Netzwerkwelt konnte auch gebaut werden. Dafür standen DIY-Räume (DIY - Do it Yourself) zur Verfügung. Im DIY-Raum 6 entstand eine neue Abenteuerwelt mit Hinweisen zu QGIS, PostGIS und GDAL. 
@@ -57,10 +60,9 @@ In der Netzwerkwelt konnte auch gebaut werden. Dafür standen DIY-Räume (DIY - 
 Am Dienstagnachmittag fand der "Fototermin" auf der Fotowoiese in der Netzwerkwelt statt.  
 ![Gruppenfoto der Avatare in der netzwerkwelt](/news/images/2021_06_09_Netzwerkwelt_Fototermin_FOSSGIS_2021_10sec_Loop.gif)*FOSSGIS-Konferenz 2021 Gruppenfoto auf der Fotowiese*
 
-
-Am letzten Tag der Konferenz schaute Angelos Tzotzos der Präsident der OSGeo in der Netzwerkwelt vorbei und traf das FOSSGIS-Konferenzteam. Trotz mangelnder Deutschkenntnisse, hatte er den Konferenz-Livestream angeschaut und war begeistert. Er bedankte sich im Namen der OSGeo für die beeindruckende Konferenz und den Einsatz des FOSSGIS e.V. für FOSS4G.
-
 Schauen Sie sich unbedingt noch einmal das [Erklärvideo](https://vortraege.fossgis.de/f/d575438dc2fb42c0a253/ ) an, um den Campus in Rapperswil vor Ort und auch virtuell zu entdecken. 
+
+Am letzten Tag der Konferenz schaute Angelos Tzotzos der Präsident der OSGeo in der Netzwerkwelt vorbei und traf das FOSSGIS-Konferenzteam. Er hatte die Konferenz im Livestream verfolgt und war begeistert. Er bedankte sich im Namen der OSGeo für die beeindruckende Konferenz und den Einsatz des FOSSGIS e.V. für FOSS4G.
 
 
 #### Sponsoren
@@ -68,17 +70,16 @@ Wir danken an dieser Stelle den Sponsoren, die mit ihrer finanziellen Unterstüt
 
 
 #### Team und Helfer:innen
-Ein großer Dank geht an das Team, das in diesem Jahr die Konferenz organisiert und die neuen Herausforderungen des Onlineformats mit Bravour bewältigt hat. Das Lokal-Team hat dennnoch das Flair von Rapperswil auch Online reingebracht. So konnten die Teilnehmenden das Rauschen des Sees in der Netzwerkwelt hören, den Campus entdecken und wurden von Stefan Keller als lokalem Veranstalter - ohne Krawatte und Jacket - willkommen geheißen.   
+Ein großer Dank geht an das Team, das in diesem Jahr die Konferenz organisiert und die neuen Herausforderungen des Onlineformats mit Bravour bewältigt hat. Dem Lokal-Team ist es gelungen das Flair von Rapperswil auch Online einzubringen. So konnten die Teilnehmenden das Rauschen des Sees in der Netzwerkwelt hören, den Campus entdecken.   
 ![Team Rapperswil](/news/images/2021_06_09_FOSSGIS_IFS-OST-Team_05.jpg)*Team Rapperswil*
-
 
 Das Lokal-Team war vor Ort im Hintergrund aktiv im Einsatz am Infodesk, die Bühne 1 und 2 wurden aus Rapperswil gesendet. Um Bühne 3 und 4 kümmerten sich die Expert:innen vom c3voc. An jeder Bühne waren zu jeder Zeit zwischen 6 und 10 Personen mit Regie, Bühnenkoordination und Sessionleitung sowie die Vortragenden selbst für die Fragen-Antwort-Session im Hintergrund aktiv.
 
-Beeindruckend waren die zahlreichen Helfer:innen, die unterstützt haben, denn auch bei einer Onlineveranstaltung gab es im Vorfeld und während der Veranstaltung viel zu tun. Der Bau der Netzwerkwelt, die Prüfung und Schnitt der vorab aufgezeichneten Videos und die Präsenz am InfoDesk waren Helfer:innenjobs.
+Beeindruckend waren die zahlreichen Mitorganisator:innen und Helfer:innen, die unterstützt haben. Denn auch bei einer Onlineveranstaltung gab es im Vorfeld und während der Veranstaltung viel zu tun. Der Bau der Netzwerkwelt, die Prüfung und Schnitt der vorab aufgezeichneten Videos und die Präsenz am InfoDesk waren Aufgaben, die getan werden mussten.
 
 Herzlichen Dank an alle Beteiligten für den großartigen Einsatz.  
 
-Die  technische Umsetzung der Konferenz war etwas anders, im Vergleich zu einer Vor-Ort-Veranstaltung. Wie dies gelungen ist beschreibt Volker Mische aus technischer Sicht in seinem [Bericht](https://vmx.cx/cgi-bin/blog/index.cgi/video-uploads-for-an-online-conference%3A2021-06-12%3Aen%2Cconference%2Cgeo).
+Die technische Umsetzung der Konferenz war im Vergleich zu einer Vor-Ort-Veranstaltung etwas anders. Wie dies gelungen ist, beschreibt Volker Mische aus technischer Sicht in seinem [Bericht](https://vmx.cx/cgi-bin/blog/index.cgi/video-uploads-for-an-online-conference%3A2021-06-12%3Aen%2Cconference%2Cgeo).
 
 #### FOSSGIS in Zahlen
 Ticketbuchungen:   
@@ -91,9 +92,6 @@ Ticketbuchungen:
 
 - Zuschauer:innen an den Bühnen: 583 
 - Anzahl von Chatnachrichten an den Bühnen: 1793
-- Anzahl von direkten Chats: 182
-- Anzahl von Nachrichten im direkten Chat: 950  
-Nur wenige nutzen die Videochatfunktion der Onlineplattform.  
 
 - Bestellte Tagungsbände: 153 (per Post zugestellt)
 - 266 Workshopbuchungen, 8  Workshops waren ausgebucht.  
@@ -102,7 +100,6 @@ In der Netzwerkwelt waren zwischen 50 und 200 Personen aktiv unterwegs.
 
 #### Nach der Konferenz ist vor der Konferenz
 Wir freuen uns, dass sich Marburg für die Austragung der [FOSSGIS-Konferenz im März 2022](https://fossgis-konferenz.de/2022) bereit erklärt. Hoffentlich ist in 2022 wieder eine Konferenz vor Ort möglich. Das positive Feedback der diesjährigen Konferenz hat gezeigt, dass die Konferenz im nächsten Jahr hybrid stattfinden sollte. 
-
 
 In 2021 darf sich die Community auf weitere wichtige Konferenzen freuen. So sei an dieser Stelle auf die SotM und die FOSS4G hingewiesen. Beide Konferenzen sind englischsprachig und online. Das Onlineformat ermöglicht eine einfachere Teilnahme an einer globalen Konferenz. Für die SotM wird es erstmalig Simultanübersetzung in unterschiedliche Sprachen geben.
 
@@ -115,8 +112,8 @@ Hat Ihnen die Konferenz gefallen und wollen Sie weiterhin informiert bleiben? Da
 
 -  [Vereinsmailingliste bei Mitgliedschaft](https://fossgis.de/verein/)
 -  [weitere Mailinglisten](https://fossgis.de/community/)
--  [Twitter @FOSSGIS_Konf](https://twitter.com/FOSSGIS_Konf)
--  [Twitter @FOSSGIS_Verein](https://twitter.com/FOSSGIS_Verein)
+-  [Twitter: @FOSSGIS_Konf](https://twitter.com/FOSSGIS_Konf)
+-  [Twitter: @FOSSGIS_Verein](https://twitter.com/FOSSGIS_Verein)
 
 #### weitere Fotoeindrücke
 
