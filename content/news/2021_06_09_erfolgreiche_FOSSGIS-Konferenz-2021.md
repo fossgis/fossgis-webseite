@@ -43,11 +43,11 @@ Wie jedes Jahr werden die Aufzeichnungen veröffentlicht. Sie sind über die [Me
 
 
 #### Netzwerkwelt
-Während der Pausen waren die Teilnehmenden eingeladen die Netzwerkwelt zu besuchen. Dazu gab es eine virtuelle Variante des Campus Rapperswil, auf dem sich die Teilnehmenden mit einem Avatar per Tastatur bewegten. In der [virtuellen Firmenausstellung](https://fossgis-konferenz.de/2021/expo/) präsentierten sich einige der Sponsoren, diese konnten an ihrem Stand besucht werden.
+Während der Pausen waren die Teilnehmenden eingeladen die Netzwerkwelt zu besuchen. Dazu gab es eine virtuelle Variante des Campus Rapperswil, auf dem sich die Teilnehmenden mit einem Avatar per Tastatur bewegten. In der [virtuellen Firmenausstellung](https://fossgis-konferenz.de/2021/expo/) präsentierten sich einige der Sponsoren und konnten an ihrem Stand besucht werden.
 
 
-![Ausstellerstände der Expo](/news/images/2021_06_09_Expo.png)*Ausstellerstände in der Expo*  
-![Netzwerkwelt virtueller Campus Rapperswil](/news/images/2021_06_09_Netzwerkwelt_komplett.png)*virtueller Campus Rapperswil*  
+![Ausstellerstände der Expo](/news/images/2021_06_09_Expo.png)  *Ausstellerstände in der Expo*  
+![Netzwerkwelt virtueller Campus Rapperswil](/news/images/2021_06_09_Netzwerkwelt_komplett.png)  *virtueller Campus Rapperswil*  
 
 
 In der Netzwerkwelt konnte auch gebaut werden. Dafür standen DIY-Räume (DIY - Do it Yourself) zur Verfügung. Im DIY-Raum 6 entstand eine neue Abenteuerwelt mit Hinweisen zu QGIS, PostGIS und GDAL. 
