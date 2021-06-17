@@ -26,8 +26,9 @@ Es wurden Themen rund um OpenStreetMap diskutiert.
 
 
 #### Das Programm
-Am Montag begann die FOSSGIS-Konferenz pünktlich um 9 Uhr auf Bühne 1. Nach der [Eröffnung](https://media.ccc.de/v/fossgis2021-9768-erffnung) durch Jörg Thomsen als 1. Vorsitzender des FOSGSIS e.V. begrüßte Prof. Dr. Stefan Keller die Besucher als Leiter des lokalen Teams des OST Campus Rapperswil. Auch diesmal wurden die Teilnehmenden von Stefan Keller ohne Krawatte und Jacket willkommen geheißen. 
-Er regte mit seiner Keynote [Open Whatever im Trend und im Clinch](https://media.ccc.de/v/fossgis2021-9726-keynote-open-whatever-im-trend-und-im-clinch) direkt zu Diskussionen an. 
+Am Montag begann die FOSSGIS-Konferenz pünktlich um 9 Uhr auf Bühne 1. Nach der [Eröffnung](https://media.ccc.de/v/fossgis2021-9768-erffnung) durch Jörg Thomsen als 1. Vorsitzender des FOSGSIS e.V. begrüßte Prof. Dr. Stefan Keller die Besucher als Leiter des lokalen Teams des OST Campus Rapperswil. Auch diesmal wurden die Teilnehmenden von Stefan Keller ohne Krawatte und Jacket willkommen geheißen.   
+[![Keynote Stefan Keller](/news/images/2021_06_09_Stefan_Keller_Keynote.png)](https://media.ccc.de/v/fossgis2021-9726-keynote-open-whatever-im-trend-und-im-clinch)
+Er regte mit seiner Keynote [Open Whatever im Trend und im Clinch](https://pretalx.com/fossgis2021/talk/WGRAXU/) direkt zu Diskussionen an. 
 Nach der Eröffnung wurde das Programm auf 4 Bühnen fortgesetzt.
 
 Die FOSSGIS 2021 bot ein abwechslungsreiches Programm, welches durch die vielfältigen Einreichungen möglich wurde. Die Vorträge wurden in thematisch passenden Tracks präsentiert, was zu interessanten Diskussionen im Chat und in der Fragen-Antwort-Session führte. Hervorzuheben ist das wachsende Interesse an Vector Tiles. QGIS und PostgreSQL/PostGIS erfreuen sich weiterhin großer Beliebtheit.
@@ -54,7 +55,7 @@ Während der Pausen waren die Teilnehmenden eingeladen die Netzwerkwelt zu besuc
 
 
 In der Netzwerkwelt konnte auch gebaut werden. Dafür standen DIY-Räume (DIY - Do it Yourself) zur Verfügung. Im DIY-Raum 6 entstand eine neue Abenteuerwelt mit Hinweisen zu QGIS, PostGIS und GDAL. 
-![DIY-Räume EG](/news/images/2021_06_09_Gebaeude_6_Erdgeschoss.png)![DIY-Räume 1OG](/news/images/2021_06_09_Gebaeude_6_erster-Stock.png)![DIY-Räume Kino](/news/images/2021_06_09_Gebaeude_6_Cinema.png)*DIY-Räume mit OSGeo-Infos*  
+![DIY-Räume 1OG](/news/images/2021_06_09_Gebaeude_6_erster-Stock.png)![DIY-Räume Kino](/news/images/2021_06_09_Gebaeude_6_Cinema.png)*DIY-Räume mit OSGeo-Infos*  
 
 
 Am Dienstagnachmittag fand der "Fototermin" auf der Fotowoiese in der Netzwerkwelt statt.  
