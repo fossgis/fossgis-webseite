@@ -63,6 +63,7 @@ auch mitmachen. Eine Anleitung für Mumble gibt es
 [hier](https://podcast.openstreetmap.de/mitmachen/).
 
 Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
+
 * [Vorstandssitzung vom 24.06.2021](2021-06-24-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 31.05.2021](2021-05-31-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 03.05.2021](2021-05-03-protokoll-vorstandssitzung)
