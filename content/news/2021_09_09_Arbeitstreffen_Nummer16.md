@@ -1,7 +1,7 @@
 ---
 title:  "Bericht vom Arbeitstreffen im Linux-Hotel"
 date: "2021-09-13"
-author: "Oliver Rudzik und Katja Haferkorn"
+author: "Oliver Rudzick und Katja Haferkorn"
 ---
 
 
