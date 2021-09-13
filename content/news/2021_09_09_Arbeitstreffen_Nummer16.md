@@ -14,13 +14,17 @@ Unter Beachtung der 2G-Regel (geimpft und genesen) trafen sich 15 FOSSGIS- und O
 Das Treffen startete am Freitag mit gemeinsamen Pizzaessen und einer Einstiegsrunde sowie ersten Diskussionen. Am Samstag gab es zum Frühstück selbst gemachte Marmelade und selbst gemachten Apfelstreuselkuchen, am Abend wurde gegrillt. 
 
 ### Konferenzorganisation
-Die konzeptionellen Überlegungen zur hybriden Gestaltung der [FOSSGIS-Konferenz 2022](https://fossgis-konferenz.de/2022/) in Marburg wurden fortgeführt und bringen ein paar neue Formatideen mit sich.
+Die konzeptionellen Überlegungen zur hybriden Gestaltung der [FOSSGIS-Konferenz 2022](https://fossgis-konferenz.de/2022/) in Marburg wurden fortgeführt und bringen ein paar weiterentwickelte Formatideen mit sich.  
 * Das Programm wird, wie gewohnt, thematisch gestaltet. Online-Vorträge werden sich mit live gehaltenen Vor-Ort-Beiträgen mischen, dabei wird das Konferenzteam vom Videoteam des [C3VOC](https://c3voc.de/) unterstützt. Zwei Vertreter:innen vom Videoteam berieten das Konferenzteam zu technischen Umsetzungsmöglichkeiten.
 Die Fragen zum Vortrag werden im Hörsaal und aus der Online-Plattform über die Sessionleitung gestellt.
  
 * Die Anwendertreffen sind so zu gestalten, dass Online-Teilnahme möglich ist.
+
+* Es soll wieder einen Online-Raum für Demo-Sessions geben.
  
 * Das neue Format "Ask the Expert" bzw. "Exptert:innenfragestunde" wird als zusätzliches Online-Angebot ausprobiert. 
+
+Das System für die Konferenztickets ist in ersten Schritt konfiguriert.
 
 Das Konferenzorgateam trifft sich am 22.09.2022 um 20 Uhr. Weitere Informationen zum Treffen im [Wiki](https://www.fossgis.de/wiki/Konferenz_2022/Konferenzplanung/Planungstreffen_20210922).
 
@@ -50,7 +54,7 @@ Das Linuxhotel bot mit seiner guten technischen Austattung, dem wunderschönen p
 ![Konferenzorgateam](/news/images/2021_09_09_Nr_16_Konferenzorgadiskussionen.jpg)*Konferenzorgadiskussionen auf der Linuxhotel Arbeitswiese*  
 ![(n)Einhorn](/news/images/2021_09_09_Nr_16_Flauschehorn.jpg)*@flauschehorn im Lummerland*  
 ![Hornisse](/news/images/2021_09_09_Nr_16_Hornisse.jpg)*Mitternächtliche Besucherin*  
-![Umgebung](/news/images/2021_09_09_Nr_16_Linux-Hotel_Blick_ueber_die_Ruhr.jpg)*Linuxhotel Umgebung*  
+![Umgebung](/news/images/2021_09_09_Nr_16_Linux-Hotel_Blick_ueber_die_Ruhr.jpg)*Panoramablick auf die Ruhr vom Garten des Linuxhotels*  
 
 
 
