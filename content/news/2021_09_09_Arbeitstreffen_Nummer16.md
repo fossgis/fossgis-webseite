@@ -15,6 +15,7 @@ Das Treffen startete am Freitag mit gemeinsamen Pizzaessen und einer Einstiegsru
 
 ### Konferenzorganisation
 Die konzeptionellen Überlegungen zur hybriden Gestaltung der [FOSSGIS-Konferenz 2022](https://fossgis-konferenz.de/2022/) in Marburg wurden fortgeführt und bringen ein paar weiterentwickelte Formatideen mit sich.  
+
 * Das Programm wird, wie gewohnt, thematisch gestaltet. Online-Vorträge werden sich mit live gehaltenen Vor-Ort-Beiträgen mischen, dabei wird das Konferenzteam vom Videoteam des [C3VOC](https://c3voc.de/) unterstützt. Zwei Vertreter:innen vom Videoteam berieten das Konferenzteam zu technischen Umsetzungsmöglichkeiten.
 Die Fragen zum Vortrag werden im Hörsaal und aus der Online-Plattform über die Sessionleitung gestellt.
  
