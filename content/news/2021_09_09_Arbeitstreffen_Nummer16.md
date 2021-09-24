@@ -40,7 +40,7 @@ Ein Teilnehmer verglich die Radfahrfreundlichekeit von Städten, indem er in Rou
 
 ### Gäste
  
-Eine Mitarbeiterin vom [BKG](https://https://www.bkg.bund.de/DE/Home/home.html) war als Tagesgast dabei und nutzte die Gelegenheit, ein paar Leute aus dem FOSSGIS e.V. bei einem Spaziergang durch den Garten der Villa Vogelsang persönlich kennenzulernen.
+Eine Mitarbeiterin vom [BKG](https://www.bkg.bund.de/DE/Home/home.html) war als Tagesgast dabei und nutzte die Gelegenheit, ein paar Leute aus dem FOSSGIS e.V. bei einem Spaziergang durch den Garten der Villa Vogelsang persönlich kennenzulernen.
 
 Beim Weiterarbeiten nach dem Grillen besuchte uns um Mitternacht eine nachaktive Hornisse. Mit Hilfe eines Insektenretters schenkten wir ihr die Freiheit.  
 
