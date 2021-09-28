@@ -9,14 +9,15 @@ menu:
 
 Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Geo-Software und OpenStreetMap.
 
-Die FOSSGIS-Konferenz 2021 wird vom gemeinnützigen FOSSGIS e.V., der OpenStreetMap Community und mit Unterstützung des Instituts für Software des OST Campus Rapperswil organisiert.
+Die FOSSGIS-Konferenz 2022 wird vom gemeinnützigen FOSSGIS e.V und der OpenStreetMap Community mit Unterstützung der Universität Marburg organisiert.
 
-Aufgrund der derzeitigen Pandemiesituation wird die FOSSGIS ausschließlich als Online-Event stattfinden. Es wird die Möglichkeit geben den Campus Rapperswil virtuell zu erkunden, lassen Sie sich überraschen.
+Wir nehmen die Gegebenheiten zum Anlass die FOSSGIS 2022 als hybrides Event zu organisieren. Damit ist eine Teilnahme vor Ort in Marburg als auch online möglich. 
 
-Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://fossgis-konferenz.de/2021/).
+Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://fossgis-konferenz.de/2022/).
 
 ### Vorjahre
 
+* [FOSSGIS-Konferenz 2021](https://fossgis-konferenz.de/2020/) virtuell in Rapperswil und online
 * [FOSSGIS-Konferenz 2020](https://fossgis-konferenz.de/2020/) in Freiburg i.Br.
 * [FOSSGIS-Konferenz 2019](https://fossgis-konferenz.de/2019/) in Dresden
 * [FOSSGIS-Konferenz 2018](https://fossgis-konferenz.de/2018/) in Bonn
