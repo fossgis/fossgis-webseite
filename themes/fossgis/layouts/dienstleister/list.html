@@ -1,0 +1,51 @@
+{{ define "title" }}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+<content class="provider-content">
+    <div class="row">
+        <div class="col-sm-8">
+            <h1>Dienstleister Übersicht</h1>
+            <p>Open-Source-Software und Open Data, sowie die Daten aus dem OpenStreetMap-Projekt, werden von einem breiten Ökosystem von Dienstleistern unterstützt. </p>
+            <p>Auf der hier aufgeführten Liste geben wir einen Einblick über Dienstleister die Leistungen in diesem Bereich anbieten. </p>
+        </div>
+    </div>
+
+    <div class="row">
+    	{{ range .Paginator.Pages }}
+			<div class="provider-item col-sm-3">
+                <div class="provider-item-logo">
+                    <img src="/dienstleister/{{ .Params.Logo }}" 
+                        srcset="/dienstleister/{{ .Params.Logo }} 1x, 
+                        /dienstleister/{{ .Params.Logo2x }} 2x">
+                </div>
+
+				<h4>{{ .Title }}</h4>	
+
+                <div class="provider-item-badges">
+                    {{ range .Params.Categories }}
+                        <span class="provider-badge">{{ . }}</span>
+                    {{ end }}
+                </div>
+                <div class="provider-item-details">
+                    <a href="{{ .RelPermalink }}">
+                        Weitere Informationen ansehen »
+                    </a>
+                    <br>
+                    <a href="{{ .Params.link }}">
+                        Direkt zur Website »
+                    </a>
+                </div>
+			</div>
+	    {{ end }}
+    </div>
+
+    <div class="row">
+        <div class="col-sm-8">
+            {{ .Content }}
+        </div>
+    </div>
+
+</content>
+{{ end }}

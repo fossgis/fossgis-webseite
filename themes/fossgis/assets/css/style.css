@@ -50,7 +50,7 @@ h1, h2 {
 	hyphens: auto;
 	text-align: justify;
 
-	max-width: 40em;
+	/* max-width: 40em; */
 }
 
 .main-content ul, .main-content ol {
@@ -158,3 +158,83 @@ footer {
     border-bottom: 1px solid grey;
 }
 
+.provider-badge {
+    display: inline-block;
+    padding: .35em .65em;
+    font-size: .75em;
+    line-height: 1;
+	font-weight: 700;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+	background-color: #767676;
+}
+
+.provider-badge.provider-software {
+	background-color: #f29933;
+} 
+
+.provider-badge.provider-project {
+	background-color: #4AAE5B;
+}
+
+.provider-item {
+	border: 1px solid #CCCCCC;
+	margin-top: 2rem;
+	margin-right: 1rem;
+}
+
+.provider-item-logo {
+	border-bottom: 1px solid #CCCCCC;
+	height: 11rem;
+    text-align: center;
+    line-height: 15rem;
+}
+
+.provider-item-badges {
+	height: 7rem;
+}
+
+.provider-item-details {
+	margin-top: 1rem;
+}
+
+.provider-item-details a {
+	font-size: 90%;
+	text-decoration: none;
+}
+
+.provider-item-details a:hover {
+	text-decoration: underline;
+} 
+
+.provider-content {
+	line-height: 1.5em;
+}
+
+.provider-content h1 {
+	-webkit-hyphens: auto;
+	hyphens: auto;
+}
+
+.provider-content p, .provider-content ul, .provider-content ol {
+	-webkit-hyphens: auto;
+	hyphens: auto;
+	text-align: justify;
+}
+
+.provider-content ul, .provider-content ol {
+	max-width: 36em;
+}
+
+.provider-content .text-center {
+	text-align: center;
+}
+
+.provider-content img {
+	max-width: 100%;
+	padding-left: .5rem;
+	padding-right: .5rem;
+}
