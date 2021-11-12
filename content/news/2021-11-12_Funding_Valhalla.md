@@ -10,7 +10,7 @@ Zusätzlich zum bereits existierenden und viel genutzten OSRM Server hat der FOS
 
 Valhalla ist ein ursprüngliches Mapzen Projekt das [2015](https://www.mapzen.com/blog/valhalla-intro/) gestartet wurde: ein C++ Framework für hoch-dynamisches und effizientes Openstreetmap Routing.
 
-Valhalla baut, im Gegensatz zu den meisten vergleichbaren FOSS Lösungen, auf einem gekachelten Graphen auf, der, ähnlich wie Map Vector Tiles, in eine Hierarchie gegliedert ist. Damit wird der RAM Verbrauch beim Betrieb eines Servers relativ gering gehalten, gleichzeitig können alle Bewegungsprofile auf dem gleichen Graphen agieren. Aufgrund der hoch flexiblen Routingalgorithmen und der reichhaltigen Attribution in den Kacheln, lässt sich die Routenfindung mit vielen Einstellungsmöglichkeiten bei jeder Routenanfrage anpassen, u.a.:
+Valhalla baut, im Gegensatz zu den meisten vergleichbaren FOSS Lösungen, auf einem gekachelten Graphen auf, der, ähnlich wie Map Vector Tiles, in eine Hierarchie gegliedert ist. Damit wird der RAM Verbrauch beim Betrieb eines Servers relativ gering gehalten, gleichzeitig können alle Bewegungsprofile auf dem gleichen Graphen agieren. Daher kann man Valhalla problemlos auch offline auf Mobilgeräten laufen lassen. Aufgrund der hoch flexiblen Routingalgorithmen und der reichhaltigen Attribution in den Kacheln, lässt sich die Routenfindung mit vielen Einstellungsmöglichkeiten bei jeder Routenanfrage anpassen, u.a.:
 - Polygone vermeiden, z.Bsp. bei großen Events oder temporären Baustellen
 - Fahrzeugdimensionen einhalten, z.Bsp. Höhe und Gewicht des Autos/LKWs
 - Höhenmeter vermeiden oder begünstigen für Fahrrad/Fußgänger
@@ -22,7 +22,12 @@ Eine vollständige Liste aller Optionen findet man in der [Dokumentation](https:
 
 Eine weitere Besonderheit von Valhalla ist, dass die meisten obigen Optionen für **alle Endpunkte** gelten, also kann man sogar eine Matrix berechnen die die Vehikeldimensionen bei der Routenfindung beachtet.
 
-![Valhalla Isochrone Berlin](../../static/news/images/2021-11-12_Valhalla_Isochrone_Berlin.png)
+<figure>
+  <img
+  src="../../static/news/images/2021-11-12_Valhalla_Isochrone_Berlin.png"
+  alt="Valhalla Isochrone in Berlin">
+  <figcaption>&copy; Data by <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap Contributors</a>, &copy; Positron base map by <a href="https://carto.com" target="_blank">Carto</a></figcaption>
+</figure>
 
 ## Wie nutzt man Valhalla?
 
@@ -40,7 +45,7 @@ Es gibt auch eine Reihe unterstützender FOSS für Valhalla um den Einstieg zu e
 - [QGIS Plugin](plugins.qgis.org/plugins/valhalla/)
 - (sehr bald): Valhalla Web App auf https://valhalla1.openstreetmap.de
 
-**Wichtig**: Ähnlich zu den Bestandsservern (z.Bsp. OSRM) müssen wir auch hier auf die begrenzten Ressourcen aufpassen. Daher lassen wir vorerst nur 1 Amfrage pro Nutzer pro Sekunde zu, darüber hinaus bekommt man 429 HTTP Fehler zurück. Diese Zugangsbeschränkungen gelten bis auf Weiteres und wir behalten uns vor diese gegebenenfalls zu ändern.
+**Wichtig**: Ähnlich zu den Bestandsservern (z.Bsp. OSRM) müssen wir auch hier auf die begrenzten Ressourcen aufpassen. Daher lassen wir vorerst nur 1 Anfrage pro Nutzer pro Sekunde zu, darüber hinaus bekommt man 429 HTTP Fehler zurück. Diese Zugangsbeschränkungen gelten bis auf Weiteres und wir behalten uns vor diese gegebenenfalls zu ändern.
 
 ## Vergleich Valhalla & OSRM
 
@@ -50,4 +55,4 @@ Ein paar zusätzliche Vergleiche:
 
 - OSRM erfordert eine riesige Menge RAM für den Graphen, während Valhalla auf einem alten Smartphone (theoretisch) den ganzen Planeten laufen lassen kann
 - Valhalla benötigt relativ viel zusätzlichen RAM für individuelle Anfragen, während OSRM wenig extra RAM braucht für selbst sehr große Anfragen
-- Die Matrix API (und weniger auch die Routing API) ist Größenordnungen schneller bei OSRM, Valhalla ist dafür vielseitiger einsetzbar (funktional und Hardware)
+- Die Matrix API (und in geringerem Maße auch die Routing API) ist Größenordnungen schneller bei OSRM, Valhalla ist dafür vielseitiger einsetzbar (funktional und Hardware)
