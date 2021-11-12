@@ -26,12 +26,12 @@ Eine weitere Besonderheit von Valhalla ist, dass die meisten obigen Optionen fü
 
 ## Wie nutzt man Valhalla?
 
-Der Server ist erreichbar auf https://valhalla1.openstreetmap.de und bisher leider nur als HTTP API zu verwenden. Die folgenden Endpunkte sind freigeschaltet (Links führen zur entsprechenden Dokumentation):
+Der Server ist erreichbar auf https://valhalla1.openstreetmap.de und bisher leider nur als HTTP API zu verwenden, es gibt noch keine Web App. Die folgenden Endpunkte sind freigeschaltet (Links führen zur entsprechenden Dokumentation):
 - [`/route`](https://github.com/valhalla/valhalla/blob/master/docs/api/turn-by-turn/api-reference.md): Eine Route mit bis zu 20 Wegpunkten berechnen
 - [`/sources_to_targets`](https://github.com/valhalla/valhalla/blob/master/docs/api/matrix/api-reference.md): Eine Matrix mit bis zu 50 OD Paare
 - [`/isochrone`](https://github.com/valhalla/valhalla/blob/master/docs/api/isochrone/api-reference.md): Bis zu 100 Minuten/150 Kilometer Isochronen & Isodistanzen
-- [`optimized_route`](https://github.com/valhalla/valhalla/blob/master/docs/api/optimized/api-reference.md): Lösung des Traveling Salesman Problem
-- [`/trace_route`, `trace_attributes`](https://github.com/valhalla/valhalla/blob/master/docs/api/map-matching/api-reference.md): Map-matching und -tracing
+- [`/optimized_route`](https://github.com/valhalla/valhalla/blob/master/docs/api/optimized/api-reference.md): Lösung des Traveling Salesman Problem
+- [`/trace_route`, `/trace_attributes`](https://github.com/valhalla/valhalla/blob/master/docs/api/map-matching/api-reference.md): Map-matching und -tracing
 - [`/status`](https://github.com/valhalla/valhalla/blob/master/docs/api/status/api-reference.md): Healthcheck und Zeitstempel des Graphen
 - (sehr bald): `/expansion`, wie `/isochrone` aber mit einzelnen Straßengeometrien statt Polygonen
 
@@ -40,11 +40,11 @@ Es gibt auch eine Reihe unterstützender FOSS für Valhalla um den Einstieg zu e
 - [QGIS Plugin](plugins.qgis.org/plugins/valhalla/)
 - (sehr bald): Valhalla Web App auf https://valhalla1.openstreetmap.de
 
-**Wichtig**: Ähnlich zu den Bestandsservern (z.Bsp. OSRM) müssen wir auch hier auf die begrenzten Ressourcen aufpassen. Daher lassen wir vorerst nur 1 Request pro Nutzer pro Sekunde zu, darüber hinaus bekommt man 429 HTTP Fehler zurück. Diese Zugangsbeschränkungen gelten bis auf Weiteres und wir behalten uns vor diese gegebenenfalls zu ändern.
+**Wichtig**: Ähnlich zu den Bestandsservern (z.Bsp. OSRM) müssen wir auch hier auf die begrenzten Ressourcen aufpassen. Daher lassen wir vorerst nur 1 Amfrage pro Nutzer pro Sekunde zu, darüber hinaus bekommt man 429 HTTP Fehler zurück. Diese Zugangsbeschränkungen gelten bis auf Weiteres und wir behalten uns vor diese gegebenenfalls zu ändern.
 
 ## Vergleich Valhalla & OSRM
 
-Man könnte annehmen dass es sich bei beiden um Konkurrenten handelt. Tatsächlich erfüllen sie recht unterschiedliche Aufgaben in ihrem derzeitigen Entwicklungsstadium und ergänzen sich funktional hervorragend: während OSRM sich über riesige Matrizen in Rekordzeit freut, ist Valhalla feinfühliger und kann auch sehr speziellere Routingoptionen wunderbar umsetzen.
+Man könnte annehmen dass es sich bei beiden um Konkurrenten handelt. Tatsächlich erfüllen sie recht unterschiedliche Aufgaben in ihrem derzeitigen Entwicklungsstadium und ergänzen sich funktional hervorragend: während OSRM sich über riesige Matrizen in Rekordzeit freut, ist Valhalla feinfühliger und kann auch sehr spezielle Routingoptionen wunderbar umsetzen.
 
 Ein paar zusätzliche Vergleiche:
 
