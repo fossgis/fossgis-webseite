@@ -45,7 +45,7 @@ Es gibt auch eine Reihe unterstützender FOSS für Valhalla um den Einstieg zu e
 - [QGIS Plugin](plugins.qgis.org/plugins/valhalla/)
 - (sehr bald): Valhalla Web App auf https://valhalla1.openstreetmap.de
 
-**Wichtig**: Ähnlich zu den Bestandsservern (z.Bsp. OSRM) müssen wir auch hier auf die begrenzten Ressourcen aufpassen. Daher lassen wir vorerst nur 1 Anfrage pro Nutzer pro Sekunde zu, darüber hinaus bekommt man 429 HTTP Fehler zurück. Diese Zugangsbeschränkungen gelten bis auf Weiteres und wir behalten uns vor diese gegebenenfalls zu ändern.
+Es gelten die aktuellen [Nutzungsbedingungen](https://fossgis.de/arbeitsgruppen/osm-server/nutzungsbedingungen/) der FOSSGIS e.V. Dienste.
 
 ## Vergleich Valhalla & OSRM
 
