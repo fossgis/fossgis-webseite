@@ -1,0 +1,35 @@
+{{ define "title" }}
+    Neuigkeiten {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+<content id="main-content">
+    {{ $year := int .Title }}
+    <div class="news-year-list">
+        {{ range seq now.Year 2009 }}
+            {{ if eq . $year }}
+                <span>{{ . }}</span>
+            {{- else -}}
+                <a href="/news/{{ . }}/">{{ . }}</a>
+            {{- end -}}
+        {{ end }}
+    </div>
+    <h1>Neuigkeiten {{ $year }}</h1>
+    {{ range where .Site.Pages "Section" "news" }}
+        {{ if eq .Date.Year $year }}
+        <article class="row">
+            <div class="col-sm-2 last-xs first-sm article-meta">
+                {{ .Date.Format "02.01.2006" }}<br>
+                {{ .Params.Author }}
+            </div>
+
+            <div class="col-xs-12 col-sm-10">
+                <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2></a>
+                {{ .Summary }}
+                <br><a href="{{ .RelPermalink }}">Ganzen Beitrag lesen »</a>
+            </div>
+        </article>
+        {{ end }}
+    {{ end }}
+</content>
+{{ end }}
