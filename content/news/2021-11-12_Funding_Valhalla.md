@@ -23,11 +23,10 @@ Eine vollständige Liste aller Optionen findet man in der [Dokumentation](https:
 
 Eine weitere Besonderheit von Valhalla ist, dass die meisten obigen Optionen für **alle Endpunkte** gelten, also kann man sogar eine Matrix berechnen die die Vehikeldimensionen bei der Routenfindung beachtet.
 
-![Valhalla Isochrone Berlin](/news/images/2021_11_12_Valhalla_Isochrone_Berlin.png)
+![Valhalla Isochrone Berlin](/news/images/2021_11_12_Valhalla_Isochrone_Berlin.png "Valhalla Isochrone in Berlin")
 <figure>
   <img
-  src="/news/images/2021-11-12_Valhalla_Isochrone_Berlin.png"
-  alt="Valhalla Isochrone in Berlin">
+  src="/news/images/2021-11-12_Valhalla_Isochrone_Berlin.png">
   <figcaption>&copy; Data by <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap Contributors</a>, &copy; Positron base map by <a href="https://carto.com" target="_blank">Carto</a></figcaption>
 </figure>
 
