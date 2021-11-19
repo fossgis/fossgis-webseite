@@ -28,7 +28,7 @@ Eine weitere Besonderheit von Valhalla ist, dass die meisten obigen Optionen fü
   <img
   src="/news/images/2021-11-12_Valhalla_Isochrone_Berlin.png"
   alt="Valhalla Isochrone in Berlin">
-  <figcaption>&copy; Data by <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap Contributors</a>, &copy; Positron base map by <a href="https://carto.com" target="_blank">Carto</a></figcaption>
+  <figcaption>&copy; Data by <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap Contributors</a>, &copy; Position base map by <a href="https://carto.com" target="_blank">Carto</a></figcaption>
 </figure>
 
 ## Wie nutzt man Valhalla?
