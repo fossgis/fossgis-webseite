@@ -1,5 +1,5 @@
 ---
-title: ahocevar geospatial, 
+title: ahocevar geospatial
 link: https://ahocevar.com/
 logo: 011_steinadlock@2x.png
 kind: Einzelperson

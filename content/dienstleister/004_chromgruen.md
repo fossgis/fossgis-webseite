@@ -1,6 +1,6 @@
 ---
 title: chromgruen Planungs- und Beratungs- GmbH & Co. KG
-link: www.chromgruen.com
+link: https://www.chromgruen.com
 logo: 004_chromgruen.png
 kind: Firma
 logo2x: logo2x.png

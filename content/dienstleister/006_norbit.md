@@ -1,6 +1,6 @@
 ---
 title: norBIT gmbH
-link: www.norbit.de/
+link: https://www.norbit.de/
 logo: 006_norbit.png
 kind: Firma
 logo2x: 006_norbit@2x.png
