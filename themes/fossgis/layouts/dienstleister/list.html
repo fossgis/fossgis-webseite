@@ -13,8 +13,8 @@
     </div>
 
     <div class="row">
-    	{{ range .Paginator.Pages }}
-			<div class="provider-item col-sm-3">
+        {{ range .Pages | shuffle }}
+            <div class="provider-item col-sm-3">
                 <div class="provider-item-logo">
                     <img src="/dienstleister/{{ .Params.Logo }}" 
                         srcset="/dienstleister/{{ .Params.Logo }} 1x, 
