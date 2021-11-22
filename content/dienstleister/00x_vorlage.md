@@ -53,7 +53,15 @@ software: [
 	PostNAS/norGIS-ALKIS-Import, 
     con4gis,
 	Contao CMS,
-	OpenLayers
+	OpenLayers,
+PostgreSQL, PostGIS, pgRouting, Geoserver, Point Clouds, Vector Tiles, Redmine, Flutter, CKAN, MobilityDB, Graphhopper, CI, p2p (distributed ledger), Augmented Reality, Mobile Mapping, i18n, Sensors (IoT), FIWARE,
+OpenLayers, proj4.js, ol-mapbox-style, GeoServer, PostGIS, QGIS, Open Layers, PostGIS, PostgreSQL, PostGIS, MongoDB, mySQL, Oracle, SQL-Server, Pointcloud, QGIS, GeoServer, OpenLayers, Linux Server, Docker, MapProxy sowie OpenStreetMap als Datenquelle, Robot Framework, Entwicklung: JavaScript/TypeScript, NodeJS, React, Rest + GraphQL, Python, C/C++, C#, QGIS Desktop, QGIS Server, QGIS Web Client (QWC2), PostgreSQL/PostGIS, 
+C++, Python, Ruby on Rails, 
+GDAL/OGR, 
+OpenLayers, 
+MapFish, MapServer, 
+Tiny OWS
+
 ]
 projects: [
     OSGeo-Projekt Mapbender

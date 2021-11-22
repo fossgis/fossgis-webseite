@@ -27,9 +27,9 @@ software: [
 	OpenLayers, 
 	Linux Server, 
 	Docker, 
-	MapProxy
+	MapProxy,
 	OpenStreetMap als Datenquelle, 
-	Robot Framework
+	Robot Framework,
 	Entwicklung: JavaScript/TypeScript, 
 	NodeJS, 
 	React, 
