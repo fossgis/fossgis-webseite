@@ -37,7 +37,6 @@ software: [
 	Python, 
 	C/C++, 
 	C#
-
 ]
 projects: [
  
