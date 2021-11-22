@@ -1,9 +1,9 @@
 ---
 title: WhereGroup GmbH
 link: https://wheregroup.com/
-logo: wheregroup.png
+logo: 002_wheregroup.png
 kind: Firma
-logo2x: wheregroup@2x.png
+logo2x: 002_wheregroup@2x.png
 categories: [
     Web-Mapping,
     Geodatenbanken,

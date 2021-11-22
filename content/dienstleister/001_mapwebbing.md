@@ -1,9 +1,9 @@
 ---
 title: mapwebbing - lars lingner
 link: https://www.lingner.eu/
-logo: mapwebbing.png
+logo: 001_mapwebbing.png
 kind: Einzelperson
-logo2x: mapwebbing@2x.png
+logo2x: 001_mapwebbing@2x.png
 categories: [
     Geodatenbanken,
     Desktop-Anwendungen,
