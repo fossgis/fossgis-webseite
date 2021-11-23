@@ -14,6 +14,7 @@ Der Aufgabenbereich des OSM-Server-Teams umfasst zur Zeit
 * [Tileserver](https://tile.openstreetmap.de/)
 * [OSRM-Routingserver](https://routing.openstreetmap.de/)
 * Overpass-API
+* [Weekly OSM](https://weeklyosm.eu/)
 
 Das Ziel ist es, einen stabilen Betrieb mit hoher Verfügbarkeit zu sichern.
 

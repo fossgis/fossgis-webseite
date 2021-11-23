@@ -26,5 +26,6 @@ Aktuell werden diese 12 ehrenamtliche Projekte von uns gefördert:
 - [Overpass API](overpass)
 - [Trufi](https://www.trufi-association.org)
 - [Umap](umap)
+- [Valhalla Routing Server](https://github.com/valhalla/valhalla)
 
 Falls auch Sie daran interessiert sind, dass der FOSSGIS e.V. Ihr ehrenamtliches GIS-Projekt finanziell unterstützt, reichen Sie gerne eine Förderantrag bei uns ein. Alle wichtigen Informationen zu unseren Förderbedingungen und dem Antragsverfahren finden Sie [hier](/förderungen).

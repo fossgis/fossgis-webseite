@@ -25,7 +25,7 @@ unten).
 
 Diese Nutzungsbedingungen gelten für
 * die Tileserver des FOSSGIS e.V. (tile.openstreetmap.de).
-* die Routingserver des FOSSGIS e.V. (routing.openstreetmap.de)
+* die Routingserver des FOSSGIS e.V. (routing.openstreetmap.de, valhalla1.openstreetmap.de)
 
 Sie gelten nicht für die Routing- oder Tileserver anderer Betreiber (z.B.
 tile.openstreeetmap.org der OpenStreetMap Foundation und diverse gewerbliche
@@ -95,7 +95,7 @@ normalerweise alle der oben stehenden technischen Nutzungsvoraussetzungen ein.
   untersagt.
 * Die Tiles von tile.openstreetmap.de unterliegen der Lizenz CC-BY-SA 2.0.
 
-## Zusätzliche Bedingungen für die Nutzung der Routingserver (routing.openstreetmap.de)
+## Zusätzliche Bedingungen für die Nutzung der Routingserver (routing.openstreetmap.de, valhalla1.openstreetmap.de)
 
 * Maximal eine Anfrage pro Sekunde.
 
@@ -123,6 +123,7 @@ steht. Wir garantieren keine Verfügbarkeit.
 * [Dienstleister und kommerzieller Support](https://wiki.openstreetmap.org/wiki/Commercial_OSM_Software_and_Services)
 * [Anleitung zur Installation eigener Tileserver](http://switch2osm.org/)
 * [Anleitung zur Installation von OSRM](https://github.com/Project-OSRM/osrm-backend/wiki)
+* [Anleitung zur Installation von Valhalla](https://github.com/valhalla/valhalla)
 
 ## Kontakt
 
