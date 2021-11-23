@@ -17,7 +17,7 @@ Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://f
 
 ### Vorjahre
 
-* [FOSSGIS-Konferenz 2021](https://fossgis-konferenz.de/2020/) virtuell in Rapperswil und online
+* [FOSSGIS-Konferenz 2021](https://fossgis-konferenz.de/2021/) virtuell in Rapperswil und online
 * [FOSSGIS-Konferenz 2020](https://fossgis-konferenz.de/2020/) in Freiburg i.Br.
 * [FOSSGIS-Konferenz 2019](https://fossgis-konferenz.de/2019/) in Dresden
 * [FOSSGIS-Konferenz 2018](https://fossgis-konferenz.de/2018/) in Bonn
