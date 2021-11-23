@@ -8,27 +8,41 @@ categories: [
     Web-Mapping,
     Geodatenbanken,
     Desktop-Anwendungen,
+	Metadatenkataloge,
     Mobile Anwendungen,
     OpenStreetMap,
-    Schulungen/Workshops
+    Schulungen/Workshops,
+	Einf. von Digitalisierungs- und IT-Prozessen
 ]
 software: [
-    Mapbender,
     QGIS,
-    OpenStreetMap,
-    QGIS-Server,
-    MapServer,
-    GeoServer,
+	Mapbender,
     PostgreSQL/PostGIS,
     MapProxy,
-    Solr,
-    PostNAS
+	OpenLayers,
+    MapServer,
+    GeoServer,
+    QGIS-Server,
+	QWC2, 
+    PostNAS,
+	Metador, 
+    solr,
+	MapLibre,
+	OpenStreetMap,
+	Mapnik
 ]
 projects: [
-    OSGeo-Projekt Mapbender
+    Mapbender (https://mapbender.org/)
+	Metador (https://github.com/metador-md)
+	MapComponents (https://github.com/mapcomponents)
+	MapQonverter (https://github.com/WhereGroup/mapqonverter)
+	PostNAS (http://trac.wheregroup.com/PostNAS)
+	MapServer (https://mapserver.org/)
+	OpenStreetMap (openstreetmap.org)
 ]
 ---
 
-Die WhereGroup ist Dienstleister für Geoinformationssysteme. Wir beraten und unterstützen in allen Phasen von GIS- und Datenbankprojekten mit freier Software. Unser Leistungsspektrum für Kunden aus Wirtschaft und Öffentlichem Sektor umfasst Geodateninfrastrukturen, individuelle WebGis-Lösungen, angepasste OpenStreetMap-Karten, mobile Anwendungen und Geoportale. Über unser hauseigenes Schulungsinstitut, die FOSS Academy, bieten wir Schulungen zum Thema „GIS mit Open-Source-Software“ an.
+Die WhereGroup ist ein dynamisches mittelständisches Software-Haus für Geoinformationssysteme. Wir entwickeln Open-Source-Lösungen mit Raumbezug und sind tief in der Open-Source-Community verwurzelt. Zu unseren Kunden gehören Unternehmen sowie größere Behörden und Kommunen.   
+Von der Ist-Analyse über die Planung und Softwareentwicklung bis zum produktiven Betrieb betreuen wir alle Phasen von GIS- und Datenbank-Projekten. Unser Leistungsspektrum umfasst Geoinformationssysteme, WebGIS-Lösungen, angepasste OpenStreetMap-Karten, mobile Anwendungen und kommunale Geoportale.
 
 
