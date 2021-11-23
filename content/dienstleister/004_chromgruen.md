@@ -11,7 +11,7 @@ categories: [
     Mobile Anwendungen,
 	freie Geodatenbibliotheken,
     Schulungen/Workshops,
-	Einführung von Digitalisierungs- und IT-Prozessen
+	Einf. von Digitalisierungs- und IT-Prozessen
 ]
 software: [
 	Postgres/PostGIS, 

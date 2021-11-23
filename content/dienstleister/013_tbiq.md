@@ -12,7 +12,7 @@ categories: [
     freie Geodatenbibliotheken,
     OpenStreetMap,
     Schulungen/Workshops,
-	Einführung von Digitalisierungs- und IT-Prozessen
+	Einf. von Digitalisierungs- und IT-Prozessen
 ]
 software: [
     PostgreSQL, 

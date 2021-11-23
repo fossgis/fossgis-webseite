@@ -16,9 +16,11 @@
         {{ range .Pages | shuffle }}
             <div class="provider-item col-sm-5 col-md-4 col-lg-3">
                 <div class="provider-item-logo">
-                    <img src="/dienstleister/{{ .Params.Logo }}" 
-                        srcset="/dienstleister/{{ .Params.Logo }} 1x, 
-                        /dienstleister/{{ .Params.Logo2x }} 2x">
+                    <a href="{{ .RelPermalink }}">
+                        <img src="/dienstleister/{{ .Params.Logo }}" 
+                            srcset="/dienstleister/{{ .Params.Logo }} 1x, 
+                            /dienstleister/{{ .Params.Logo2x }} 2x">
+                    </a>
                 </div>
 
 				<h4>{{ .Title }}</h4>	
