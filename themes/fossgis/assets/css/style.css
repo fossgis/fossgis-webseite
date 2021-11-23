@@ -169,7 +169,12 @@ footer {
     white-space: nowrap;
     vertical-align: baseline;
     border-radius: .25rem;
-	background-color: #767676;
+	background-color: #ababab;
+}
+
+.provider-badge a, .provider-badge a:hover {
+	color: #fff;
+	text-decoration: none;
 }
 
 .provider-badge.provider-software {
@@ -177,20 +182,23 @@ footer {
 } 
 
 .provider-badge.provider-project {
-	background-color: #4AAE5B;
+	background-color: #44ad55;
 }
 
 .provider-item {
 	border: 1px solid #CCCCCC;
-	margin-top: 2rem;
-	margin-right: 1rem;
+	margin-top: 1rem;
+	padding: .5rem;
 }
 
 .provider-item-logo {
 	border-bottom: 1px solid #CCCCCC;
 	height: 11rem;
-    text-align: center;
     line-height: 15rem;
+	display: flex;
+	flex-direction: row;
+	align-items: center; 
+	justify-content: center
 }
 
 .provider-item-badges {
@@ -232,11 +240,19 @@ footer {
 .provider-content .text-center {
 	text-align: center;
 }
-
+  
 .provider-content img {
 	max-width: 100%;
     margin-right: auto;
     margin-left: auto;
-    max-height: 150px;
+    max-height: 130px;
 	padding-top: 1rem;
+	display: block;
+	padding-bottom: 1rem;
+
+}
+
+.provider-content .back-button {
+	margin-top: 1rem;
+	display: block;
 }

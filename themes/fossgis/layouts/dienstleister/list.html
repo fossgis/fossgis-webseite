@@ -5,7 +5,7 @@
 {{ define "main" }}
 <content class="provider-content">
     <div class="row">
-        <div class="col-sm-8">
+        <div class="col-sm-12 col-md-12 col-lg-9">
             <h1>Dienstleister im Bereich FOSSGIS und OSM</h1>
             <p>Der FOSSGIS e.V. hat zum Ziel die Förderung und Verbreitung Freier Geographischer  Informationssysteme (GIS) im Sinne von Freier Software und Freier Geodaten. Open-Source-Software und Open Data, sowie die Daten aus dem OpenStreetMap-Projekt, werden von einem breiten Ökosystem von Dienstleistern unterstützt. 
 			</p>
@@ -16,37 +16,37 @@
 
     <div class="row">
         {{ range .Pages | shuffle }}
-            <div class="provider-item col-sm-5 col-md-4 col-lg-3">
-                <div class="provider-item-logo">
-                    <a href="{{ .RelPermalink }}">
-                        <img src="/dienstleister/{{ .Params.Logo }}" 
-                            srcset="/dienstleister/{{ .Params.Logo }} 1x, 
-                            /dienstleister/{{ .Params.Logo2x }} 2x">
-                    </a>
-                </div>
+            <div class="col-sm-6 col-md-6 col-lg-4">
+                <div class="provider-item flex">
+                    <div class="provider-item-logo">
+                        <a href="{{ .RelPermalink }}">
+                            <img src="/dienstleister/{{ .Params.Logo }}"> 
+                        </a>
+                    </div>
 
-				<h4>{{ .Title }}</h4>	
+                    <h4>{{ .Title }}</h4>	
 
-                <div class="provider-item-badges">
-                    {{ range .Params.Categories }}
-                        <span class="provider-badge">{{ . }}</span>
-                    {{ end }}
-                </div>
-                <div class="provider-item-details">
-                    <a href="{{ .RelPermalink }}">
-                        Weitere Informationen ansehen »
-                    </a>
-                    <br>
-                    <a href="{{ .Params.link }}">
-                        Direkt zur Website »
-                    </a>
+                    <div class="provider-item-badges">
+                        {{ range .Params.Categories }}
+                            <span class="provider-badge">{{ . }}</span>
+                        {{ end }}
+                    </div>
+                    <div class="provider-item-details">
+                        <a href="{{ .RelPermalink }}">
+                            Weitere Informationen ansehen »
+                        </a>
+                        <br>
+                        <a href="{{ .Params.link }}">
+                            Direkt zur Website »
+                        </a>
+                    </div>
                 </div>
 			</div>
 	    {{ end }}
     </div>
 
     <div class="row">
-        <div class="col-sm-8">
+        <div class="col-sm-12 col-md-12 col-lg-9">
             {{ .Content }}
         </div>
     </div>

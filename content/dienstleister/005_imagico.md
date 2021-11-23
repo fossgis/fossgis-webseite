@@ -3,7 +3,7 @@ title: Imagico.de Geovisualisierungen
 link: https://imagico.de/services/
 logo: 005_logo_Christoph_Hormann.png
 kind: Einzelperson
-logo2x: logo2x.png
+logo2x: 005_logo_Christoph_Hormann.png
 categories: [
     Geodatenbanken,
     freie Geodatenbibliotheken,
