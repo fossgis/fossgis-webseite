@@ -32,12 +32,12 @@ software: [
 	Mapnik
 ]
 projects: [
-    Mapbender (https://mapbender.org/)
-	Metador (https://github.com/metador-md)
-	MapComponents (https://github.com/mapcomponents)
-	MapQonverter (https://github.com/WhereGroup/mapqonverter)
-	PostNAS (http://trac.wheregroup.com/PostNAS)
-	MapServer (https://mapserver.org/)
+    Mapbender (https://mapbender.org/),
+	Metador (https://github.com/metador-md),
+	MapComponents (https://github.com/mapcomponents),
+	MapQonverter (https://github.com/WhereGroup/mapqonverter),
+	PostNAS (http://trac.wheregroup.com/PostNAS),
+	MapServer (https://mapserver.org/),
 	OpenStreetMap (openstreetmap.org)
 ]
 ---

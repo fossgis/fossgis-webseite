@@ -26,5 +26,5 @@ Eine Beauftragte der Arbeitsgruppe entscheidet über die Aufnahme in die Liste 
 
 ### Sie haben einen Fehler entdeckt? 
 
-Wir überprüfen die Eintrage regelmäßig, aber dennoch können uns und den teilnehmenden Firmen Fehler unterlaufen. Daher freuen wir uns über Feedback. Wir werden diese Informationen aufnehmen und in Zusammenarbeit mit der gelisteten betroffenen Firma, wo der Fehler gefunden wurde, zeitnah beseitigen.
+Wir überprüfen die Einträge regelmäßig, aber dennoch können uns und den teilnehmenden Firmen Fehler unterlaufen. Daher freuen wir uns über Feedback. Wir werden diese Informationen aufnehmen und in Zusammenarbeit mit der gelisteten betroffenen Firma, wo der Fehler gefunden wurde, zeitnah beseitigen.
 
