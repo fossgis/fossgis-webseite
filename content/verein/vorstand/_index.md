@@ -55,12 +55,10 @@ Der Vorstand organisiert seine Arbeit in einer
 
 Der Vorstand trifft sich regelmässig etwa einmal im Monat zu
 Vorstandssitzungen. Manchmal passiert das "in Person", meist aber online
-über Mumble. Die Termine werden auf der Vereinsmailingliste vorher bekannt
-gegeben.
+als Videokonferenz unter: [https://meet.fossgis.de/vorstand](https://meet.fossgis.de/vorstand). Die Termine werden im [Vereinskalender](https://fossgis.de/aktivit%C3%A4ten/termine/) bekannt gegeben.
 
 Die Sitzungen sind öffentlich, ihr könnt Euch selber dazuschalten, zuhören und
-auch mitmachen. Eine Anleitung für Mumble gibt es
-[hier](https://podcast.openstreetmap.de/mitmachen/).
+auch mitmachen. 
 
 Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
 
