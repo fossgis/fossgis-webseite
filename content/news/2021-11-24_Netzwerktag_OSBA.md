@@ -7,7 +7,7 @@ author: "Katja Haferkorn"
 
 ### Open Source und Digitale Souveränität als Schicksalsfrage der Zukunft
 
-Angefangen von was bedeutet Open Source bis hin zur Schicksalsfrage für die Zukunft  wurden beim Netzwerktag der Open Source Business Alliance (OSBA) am 18.11.2021 wichtige Themen rund um Open Source besprochen.
+Angefangen von was bedeutet Open Source bis hin zur Schicksalsfrage für die Zukunft wurden beim [Netzwerktag der Open Source Business Alliance (OSBA)](https://osb-alliance.de/veranstaltungen/netzwerktag-2021-der-osb-alliance) am 18.11.2021 wichtige Themen rund um Open Source besprochen.
 
 Im ersten Teil trafen sich die Working Groups zum gemeinsamen Austausch, im zweiten Teil fand die Mitgliederversammlung im hybriden Format statt. Am Nachmittag gab es im Rahmen des **Open Source Day – „Die Zukunft Europas entscheidet sich im Digitalen – warum Souveränität so wichtig ist“** Vorträge zu Digitaler Souveränität, demokratischer Verpflichtung und dem Status Quo in Sachen Open Source.
 Referent:innen waren *Peter Ganten*, Vorstandsvorsitzender OSBA, *Ann Cathrin Riedel*, LOAD e.V., *Adriana Groh*, The New Institute und *Anika Krellmann*, KGSt. Zum Schluss wurde das 10-jährige Jubiläum gefeiert.
