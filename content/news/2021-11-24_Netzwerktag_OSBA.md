@@ -26,11 +26,11 @@ Die Veröffentlichung ["Open Source in Kommunen - Ein Baustein für mehr Digital
 *Adriana Groh* von der Open Knowledge Foundation sagt, Digitale Souveränität stärken, heißt in offene und digitale Infrastrukturen zu investieren und berichtet von Ideen zu einem Souverein Tech Fund. 
 Die ["Machbarkeitsstudie zur Prüfung eines Förderprogramms für offene digitale Basistechnologien als Grundlage von Innovationen und digitaler Souveränität"](https://sovereigntechfund.de/SovereignTechFund_Machbarkeitsstudie.pdf) erbringt das Ergebnis, dass Förderung ins OSS Ökosystem fließen sollte. Es geht darum in Grundlagen zu investieren, das heißt sowohl Innovationen zu fördern als auch Bestehendes zu pflegen.
 
-In der abschließenden Podiumsdiskussion werden die Baustellen benannt:
-- Es gibt immer noch zu viel Unwissenheit und Vorurteile beim Thema OSS - es braucht mehr Aufklärungsarbeit.  
-- Die "Heilsversprechen" von Open Source sollten in Geschichten verpackt erzählt werden, um den Kulturwandel entsprechend zu befördern.  
-- Offene Standards sollten in Ausschreibungen verpflichtend sein.  
-- Ein großes Potential wird im Geschäftsfeld zur Beratung zu erfolgreichen OS-Businessmodellen sowie auch in der Begleitung von Digitalisierungs- und IT-Prozessen hin zu OSS gesehen.  
+In der abschließenden Podiumsdiskussion werden die Baustellen benannt:  
+* Es gibt immer noch zu viel Unwissenheit und Vorurteile beim Thema OSS - es braucht mehr Aufklärungsarbeit.  
+* Die "Heilsversprechen" von Open Source sollten in Geschichten verpackt erzählt werden, um den Kulturwandel entsprechend zu befördern.  
+* Offene Standards sollten in Ausschreibungen verpflichtend sein.  
+* Ein großes Potential wird im Geschäftsfeld zur Beratung zu erfolgreichen OS-Businessmodellen sowie auch in der Begleitung von Digitalisierungs- und IT-Prozessen hin zu OSS gesehen.  
 
 Die Veranstaltung gab ein paar Einblicke in die Arbeit der OSBA, die vor allem auf Bundesebene Open Source Lobbyismus betreibt sowie das SCS-Projekt auf den Weg gebracht hat, welches die Entwicklung und den Aufbau des Sovereign Cloud Stack beinhaltet.
 Wichtige Bausteine sollen über Ausschreibungen an Unternehmen vergeben werden, dazu wird eine eigene Test-, Demo- und  Entwicklungsplattform aufgebaut und betrieben. 
