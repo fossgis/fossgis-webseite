@@ -32,7 +32,7 @@ Eine Beauftrage der AG entscheidet über die Aufnahme in die Liste oder die „A
 
 Die Einträge werden regelmäßig überprüft. Feedback ist willkommen. Wir werden diese Informationen aufnehmen und benannte Fehler in Zusammenarbeit mit der gelisteten betroffenen Firma, wo ein Fehler gefunden wurde, zeitnah beseitigen.
 
-Wer Ideen zur Fortführung oder Weiterentwicklung hat, ist eingeladen sich in der Arbeitsgruppe zu engagieren.  
+Wer Ideen zur Fortführung oder Weiterentwicklung hat, ist eingeladen sich in der Arbeitsgruppe zu engagieren.   
 Wikiseite: https://www.fossgis.de/wiki/Arbeitsgruppe_Dienstleistende
 
 
