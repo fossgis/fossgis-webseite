@@ -7,10 +7,8 @@
     <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-9">
             <h1>Dienstleister im Bereich FOSSGIS und OSM</h1>
-            <p>Der FOSSGIS e.V. hat zum Ziel die Förderung und Verbreitung Freier Geographischer  Informationssysteme (GIS) im Sinne von Freier Software und Freier Geodaten. Open-Source-Software und Open Data, sowie die Daten aus dem OpenStreetMap-Projekt, werden von einem breiten Ökosystem von Dienstleistern unterstützt. 
-			</p>
-            <p>Auf der hier aufgeführten Liste geben wir einen Einblick über Dienstleister die Leistungen in diesem Bereich anbieten. 
-			</p>
+            <p>Der FOSSGIS e.V. hat zum Ziel die Förderung und Verbreitung Freier Geographischer Informationssysteme (GIS) im Sinne von Freier Software und Freier Geodaten. Open-Source-Software und Open Data, sowie die Daten aus dem OpenStreetMap-Projekt, werden von einem breiten Ökosystem von Dienstleistern unterstützt.</p>
+            <p>Hier geben wir einen Überblick der Dienstleister in diesem Bereicht.</p>
         </div>
     </div>
 
@@ -20,11 +18,11 @@
                 <div class="provider-item flex">
                     <div class="provider-item-logo">
                         <a href="{{ .RelPermalink }}">
-                            <img src="/dienstleister/{{ .Params.Logo }}"> 
+                            <img src="/dienstleister/{{ .Params.Logo }}">
                         </a>
                     </div>
 
-                    <h4>{{ .Title }}</h4>	
+                    <h4>{{ .Title }}</h4>
 
                     <div class="provider-item-badges">
                         {{ range .Params.Categories }}
@@ -32,17 +30,13 @@
                         {{ end }}
                     </div>
                     <div class="provider-item-details">
-                        <a href="{{ .RelPermalink }}">
-                            Weitere Informationen ansehen »
-                        </a>
+                        <a href="{{ .RelPermalink }}">Weitere Informationen ansehen »</a>
                         <br>
-                        <a href="{{ .Params.link }}">
-                            Direkt zur Website »
-                        </a>
+                        <a href="{{ .Params.link }}">Direkt zur Website »</a>
                     </div>
                 </div>
-			</div>
-	    {{ end }}
+            </div>
+        {{ end }}
     </div>
 
     <div class="row">
