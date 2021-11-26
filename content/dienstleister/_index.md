@@ -13,7 +13,7 @@ Unser Ziel ist es auf dieser Seite neutral und offen über Dienstleister zu in
 
 ### Ihr Eintrag fehlt? 
 
-Wir können keine Vollständigkeit der Liste garantieren. Wenn Sie Dienstleister:in im Open-Source-Ökosystem sind und in der Liste erscheinen wollen, füllen Sie dieses Formular aus und senden es an katja.haferkorn@fossgis.de. Der Eintrag ist kostenlos und nicht an eine Vereinsmitglieschaft gebunden.
+Wir können keine Vollständigkeit der Liste garantieren. Wenn Sie Dienstleister:in im Open-Source-Ökosystem sind und in der Liste erscheinen wollen, füllen Sie [dieses Formular](https://files.fossgis.de/Koordinierungsstelle/Liste_Dienstleistende/Formular_Liste_Dienstleistende_Website_FOSSGIS-Verein.pdf) aus und senden es an katja.haferkorn@fossgis.de. Der Eintrag ist kostenlos und nicht an eine Vereinsmitglieschaft gebunden.
 
 Wichtig ist, dass Sie mit Ihrem Angebot unsere Kriterien für unsere Dienstleister-Liste erfüllen. Diese sind:
 
