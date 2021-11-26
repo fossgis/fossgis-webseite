@@ -38,9 +38,7 @@ software: [
 	C/C++, 
 	C#
 ]
-projects: [
- 
-]
+
 ---
 
 Vor über 30 Jahren als Ein-Mann Unternehmen für Software Entwicklung gegründet sind wir heute mit 10 Mitarbeitern in zwei Geschäftsbereichen tätig. 
