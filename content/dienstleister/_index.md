@@ -18,7 +18,8 @@ Wir können keine Vollständigkeit der Liste garantieren. Wenn Sie Dienstleister
 Wichtig ist, dass Sie mit Ihrem Angebot unsere Kriterien für unsere Dienstleister-Liste erfüllen.
 
 Diese sind:
-* Angebot von Dienstleistungen und/ oder Support im Bereich Geo-Open-Source-Software, OpenStreetMap oder anderer freier Geodaten
+
+* Angebot von Dienstleistungen und/oder Support im Bereich Geo-Open-Source-Software, OpenStreetMap oder anderer freier Geodaten
 * Angebot von Dienstleistungen in folgenden Bereichen, auf Basis von freier und Open-Software-Software zur Verarbeitung von Geodaten, z.B.  Web-Mapping, Geodatenbanken, Desktop-GIS, Metadatenkataloge, Mobile GIS- und Mapping-Anwendungen, freie Geodatenbibliotheken, OpenStreetMap. 
 * Angebot von Schulungen/Workshops im Bereich FOSSGIS oder OpenStreetMap 
 
