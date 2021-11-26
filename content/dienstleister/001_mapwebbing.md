@@ -1,6 +1,6 @@
 ---
 title: mapwebbing - lars lingner
-link: https://www.lingner.eu/
+link: http://www.lingner.eu/index.php
 logo: 001_mapwebbing.png
 kind: Einzelperson
 logo2x: 001_mapwebbing@2x.png
