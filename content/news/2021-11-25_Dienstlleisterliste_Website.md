@@ -1,21 +1,21 @@
 ---
-title: "Dienstleisterliste"
+title: "Dienstleisterliste veröffentlicht"
 date: "2021-11-25T10:00:00+02:00"
 author: "Katja Haferkorn"
 ---
 
-### Was lange währt, wird gut
+### Übersicht von Unternehmen veröffentlicht
 
 Vor mehr als einem Jahr entstand die Idee eine Liste mit Dienstleistenden, die im Geo-Bereich mit Open Source Software und Open Data arbeiten zu erstellen.
 
-Verschiedenste Anfragen, sowohl per E-Mail als auch die telefonsichen Anfragen spiegeln den Bedarf nach professionellen Dienstleistern.
+Verschiedenste Anfragen, sowohl per E-Mail als auch die telefonischen Anfragen spiegeln den Bedarf nach professionellen Dienstleistern.
 Die Arbeitsgruppe "Liste der Dienstleistenden im Open Source und Open Data Bereich" hat es sich zur Aufgabe gemacht eine solche zu entwickeln, mit dem Ziel möglichst neutral und offen über professionellen Support zu informieren. 
 
 Der Aufruf zum Mitmachen brachte 5 Mitstreitende zusammen. Die Idee war es das Vorhaben möglichst einfach zu halten, heißt, eine aussagekräftige Übersicht für Interessierte zu haben und die Pflege im machbaren Rahmen zu halten.  
 Die Wikiseite gibt einen Überblick über die gegangenen Schritte:
 https://www.fossgis.de/wiki/Arbeitsgruppe_Dienstleistende
 
-Die Übersicht ist auf der Vereinswebsite zu finden: https://fossgis.de/dienstleister
+Die Übersicht ist auf der Vereins-Website zu finden: https://fossgis.de/dienstleister
 
 Der FOSSGIS e.V. garantiert nicht für die Vollständigkeit und Korrektheit der in dieser Übersicht bereitgestellten Informationen. Die Informationen werden von den Dienstleistenden selbst zur Verfügung gestellt und auf die Webseite übertragen.
 
