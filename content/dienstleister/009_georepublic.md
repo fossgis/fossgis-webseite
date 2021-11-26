@@ -38,8 +38,8 @@ projects: [
     pgRouting - https://pgrouting.org/,
 	GTT Project - https://gtt-project.org/,
 	Consento - https://consento.org/,
-	SensorAtlas - https://github.com/ha4db,
-	Ha4db - https://github.com/sensoratlas,
+	SensorAtlas - https://github.com/sensoratlas,
+	Ha4db - https://github.com/ha4db,
 ]
 ---
 
