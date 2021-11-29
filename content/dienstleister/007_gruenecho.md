@@ -11,9 +11,7 @@ categories: [
     Mobile Anwendungen,
 	Einf. von Digitalisierungs- und IT-Prozessen
 ]
-software: [
-    
-]
+
 projects: [
     VINV - Specifications to standardize forest inventory data (https://vinv.io),
 	Tree Species - Support forestry-specific software to prepare tree species for internationalization (https://github.com/b-lack/tree-species)

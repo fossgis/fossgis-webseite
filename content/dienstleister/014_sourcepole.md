@@ -1,6 +1,6 @@
 ---
 title: Sourcepole AG
-link: www.sourcepole.com
+link: http://sourcepole.ch/
 logo: 014_sourcepole.png
 kind: Firma
 logo2x: 014_sourcepole@2x.png
