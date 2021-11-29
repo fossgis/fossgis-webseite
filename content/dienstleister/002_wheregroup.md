@@ -36,7 +36,7 @@ projects: [
 	Metador (https://github.com/metador-md),
 	MapComponents (https://github.com/mapcomponents),
 	MapQonverter (https://github.com/WhereGroup/mapqonverter),
-	PostNAS (http://trac.wheregroup.com/PostNAS),
+	PostNAS (http://postnas.org/),
 	MapServer (https://mapserver.org/),
 	OpenStreetMap (openstreetmap.org)
 ]
