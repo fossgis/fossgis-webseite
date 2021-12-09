@@ -32,6 +32,8 @@ In der abschließenden Podiumsdiskussion werden die Baustellen benannt:
 * Offene Standards sollten in Ausschreibungen verpflichtend sein.  
 * Ein großes Potential wird im Geschäftsfeld zur Beratung zu erfolgreichen OS-Businessmodellen sowie auch in der Begleitung von Digitalisierungs- und IT-Prozessen hin zu OSS gesehen.  
 
+Die Vorträge und Podiumsdiskussion sind auf [YouTube veröffentlicht](https://www.youtube.com/watch?v=L3V6Z4MOT1c).
+
 Die Veranstaltung gab ein paar Einblicke in die Arbeit der OSBA, die vor allem auf Bundesebene Open Source Lobbyismus betreibt sowie das SCS-Projekt auf den Weg gebracht hat, welches die Entwicklung und den Aufbau des Sovereign Cloud Stack beinhaltet.
 Wichtige Bausteine sollen über Ausschreibungen an Unternehmen vergeben werden, dazu wird eine eigene Test-, Demo- und  Entwicklungsplattform aufgebaut und betrieben. 
 Weitere Infos sind hier zu finden: [https://osb-alliance.de/sovereign-cloud-stack-scs](https://osb-alliance.de/sovereign-cloud-stack-scs).
