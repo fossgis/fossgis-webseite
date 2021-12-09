@@ -6,6 +6,8 @@ author: "Nils Nolde"
 
 Zusätzlich zum bereits existierenden und viel genutzten OSRM Server hat der FOSSGIS e.V. nun einen [Förderantrag](https://www.fossgis.de/wiki/Förderanträge/Valhalla-Routingserver) genehmigt für die Bereitstellung einer globalen und freien Server Instanz der FOSS Routing Software [Valhalla](https://github.com/valhalla/valhalla).
 
+Ein interaktiver Router ist auf https://valhalla.openstreetmap.de verfügbar.
+
 ## Was ist Valhalla?
 
 Valhalla ist ein ursprüngliches Mapzen Projekt das [2015](https://www.mapzen.com/blog/valhalla-intro/) gestartet wurde: ein C++ Framework für hoch-dynamisches und effizientes Openstreetmap Routing.
@@ -33,7 +35,9 @@ Eine weitere Besonderheit von Valhalla ist, dass die meisten obigen Optionen fü
 
 ## Wie nutzt man Valhalla?
 
-Der Server ist erreichbar auf https://valhalla.openstreetmap.de und bisher leider nur als HTTP API zu verwenden, es gibt noch keine Web App. Die folgenden Endpunkte sind freigeschaltet (Links führen zur entsprechenden Dokumentation):
+Ein interaktiver Router ist auf https://valhalla.openstreetmap.de verfügbar. 
+
+Die HTTP Schnittstelle ist erreichbar auf https://valhalla1.openstreetmap.de (beachte die **1**). Die folgenden Endpunkte sind freigeschaltet (Links führen zur entsprechenden Dokumentation):
 
 - [`/route`](https://github.com/valhalla/valhalla/blob/master/docs/api/turn-by-turn/api-reference.md): Eine Route mit bis zu 20 Wegpunkten berechnen  
 - [`/sources_to_targets`](https://github.com/valhalla/valhalla/blob/master/docs/api/matrix/api-reference.md): Eine Matrix mit bis zu 50 OD Paare  
@@ -47,7 +51,7 @@ Es gibt auch eine Reihe unterstützender FOSS für Valhalla um den Einstieg zu e
 
 - [Valhalla JS Demos](https://github.com/valhalla/demos)  
 - [QGIS Plugin](plugins.qgis.org/plugins/valhalla/)  
-- [Valhalla Web App](https://valhalla1.openstreetmap.de)  
+- [Valhalla Web App](https://github.com/gis-ops/valhalla-app)  
 
 Es gelten die aktuellen [Nutzungsbedingungen](https://fossgis.de/arbeitsgruppen/osm-server/nutzungsbedingungen/) der FOSSGIS e.V. Dienste.
 
