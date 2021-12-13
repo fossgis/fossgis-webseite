@@ -75,7 +75,7 @@ Wir übernehmen das bestehende GitLab-Repository zur Verwaltung der
 Förderanträge und heben es auf den aktuellen Stand, um die Einhaltung
 unserer Förderbedingungen zu überwachen. Außerdem können wir mit den
 Projekten und Projektberichten auch PR für den Verein machen. (Ticket
-#270)
+#271)
 
 
 ### TOP 6 Stand FOSSGIS-Konferenz 2022
