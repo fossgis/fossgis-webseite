@@ -1,6 +1,6 @@
 ---
 title: GEOLiS GmbH
-link: www.geolis.ch
+link: https://www.geolis.ch
 logo: 026_GEOLiS.png
 kind: Firma
 logo2x: 026_GEOLiS@2x.png
