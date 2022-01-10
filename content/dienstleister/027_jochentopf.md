@@ -1,7 +1,7 @@
 ---
 title: Jochen Topf
 link: https://www.jochentopf.com/
-logo: 027_jtlogo.svg
+logo: 027_jtlogo.svg.png
 kind: Einzelperson
 logo2x: 027_jtlogo@2x.svg
 categories: [
