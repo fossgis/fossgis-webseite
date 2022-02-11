@@ -1,6 +1,6 @@
 ---
 title: PBSGEO GmbH
-link: www.pbsgeo.com, www.friedhofsplan.de
+link: https://www.pbsgeo.com
 logo: 012_pbsgeo.png
 kind: Firma
 logo2x: 012_pbsgeo@2x.png
