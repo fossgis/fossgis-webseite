@@ -62,6 +62,7 @@ auch mitmachen.
 
 Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
 
+* [Vorstandssitzung vom 13.12.2021](2021-12-13-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 17.11.2021](2021-11-17-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 19.10.2021](2021-10-19-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 19.08.2021](2021-08-19-protokoll-vorstandssitzung)
