@@ -13,19 +13,19 @@ Aufgrund der andauernden Pandemiesituation fand die FOSSGIS-Konferenz 2022 als O
 
 Das typische Konferenzformat wurde beibehalten, über 100 Beiträge - Vorträge, Demosessions, Lightning Talks - wurden auf 4 Bühnen via Livestream übertragen.
 Die 22 Workshops, die Teilnehmende im Rahmen der Konferenz buchen konnten, fanden in  Form von Videokonferenzen statt. Es wurden 250 Workshopteilnahmen gebucht. Die Workshops fanden teilweise mit [OSGeoLive](http://live.osgeo.org/de/index.html) statt.
-Neu im Programm waren die Expert:innenfragestunden, daran nahmen bis zu 60 Interessierte teil.  
-Vielen dank an alle Beitragenden!
+Neu im Programm waren die Expert:innenfragestunden. Daran nahmen bis zu 60 Interessierte teil.  
+Vielen Dank an alle Beitragenden!
 
 ### Das Programm
-Am Mittwoch begann die FOSSGIS-Konferenz pünktlich um 9 Uhr auf Bühne 1 mit der [Eröffnung](https://pretalx.com/fossgis2022/talk/VG3993/) durch Jörg Thomsen als 1. Vorsitzender des FOSGSIS-Vereins.   
-Gleich darauf folgen die Keynotevorträge:  
+Am Mittwoch begann die FOSSGIS-Konferenz pünktlich um 9 Uhr auf Bühne 1 mit der [Eröffnung](https://pretalx.com/fossgis2022/talk/VG3993/) durch Jörg Thomsen, dem 1. Vorsitzenden des FOSSGIS-Vereins.   
+Gleich darauf folgten die Keynotevorträge:  
 [![Keynote Marco Lechner](/news/images/2022_03_09_FOSSGIS_2022_Keynote_M_Lechner.png)](https://pretalx.com/fossgis2022/talk/ZRTSMF/) [![Keynote Prof. Sebastian Meier](/news/images/2022_03_09_FOSSGIS_2022_Keynote_S_Meier.png)](https://pretalx.com/fossgis2022/talk/GLLY99/)
 
-Nach der Eröffnung wurde das Programm auf 4 Bühnen fortgesetzt. Auch die zweite Online-FOSSGIS bot ein abwechslungsreiches Programm, ermöglicht durch die vielfältigen Einreichungen. Die Vorträge wurden in thematisch passenden Tracks präsentiert, was zu interessanten Diskussionen im Chat und in der Fragen-Antwort-Session führte. Hervorzuheben ist das wachsende Interesse an... weiterhin großer Beliebtheit.
+Nach der Eröffnung wurde das Programm auf 4 Bühnen fortgesetzt. Auch die zweite Online-FOSSGIS bot ein abwechslungsreiches Programm, ermöglicht durch die vielfältigen Einreichungen. Die Vorträge wurden in thematisch passenden Tracks präsentiert, was zu interessanten Diskussionen im Chat und in der Fragen-Antwort-Session führte. <!--Hervorzuheben ist das wachsende Interesse an... weiterhin großer Beliebtheit.-->
 
-Die Anwendertreffen, BoF-Sessions, Expert:innen und Workshops fanden in Videokonferenzräumen statt.
+Die Anwendertreffen, BoF-Sessions, Expert:innenfragestunden und Workshops fanden in Videokonferenzräumen statt.
 
-Es haben zwei Podiumsdiskussionen stattgefunden.  
+Erstmals fanden Podiumsdiskussionen statt.  
 [![AG Agiles Vorgehen in öffentlichen Ausschreibungen](/news/images/2022_03_10_FOSSGIS_2022_Dialogpanel_Agiles.png "Die -AG Agiles Vorgehen in öffentlichen Ausschreibungen- hat eine Runde zum Thema 'Wie kommen öffentliche Ausschreibungsverfahren und agiles Vorgehen zusammen?' organisiert. ")](https://pretalx.com/fossgis2022/talk/8MC3QQ/)      [!["Open Source GIS und Open Data im Spannungsfeld zwischen Cloud, Datenschutz und digitaler Souveränität"](/news/images/2022_03_11_FOSSGIS_Podiumsdiskussion.png "Podiumsdiskussion zum Thema 'Open Source GIS und Open Data im Spannungsfeld zwischen Cloud, Datenschutz und digitaler Souveränität' zum Abschluss der Konferenz")](https://pretalx.com/fossgis2022/talk/T9GVYG/)  
 
 <!--Im Wesentlichen.....  -->
