@@ -88,8 +88,8 @@ Zur technischen Umsetzung der Konferenz haben wir auf Volker Misches Umsetzungsk
 
 Dem Konferenzteam ist es wichtig für die Organisation und Umsetzung der Konferenz ausschließlich Open Source Software zu benutzen. 
 
-Das Vortragsprogramm wird in [Pretalx](https://pretalx.com/p/about/) organisiet.
-Die Teilnehmenden buchen sich ein Konferenzticket im [Pretix](https://pretix.eu/about/de/) und betreten die Online-Plattform Venuless, um die Vorträge zu sehen, Fragen zu stellen, mit Teilnehmenden zu diskutieren, Workshops zu besuchen und mit den Ausstellern in Kontakt zu gehen.
+Das Vortragsprogramm wird in [Pretalx](https://pretalx.com/p/about/) organisiert.
+Die Teilnehmenden buchen sich ein Konferenzticket im [Pretix](https://pretix.eu/about/de/) und betreten die Online-Plattform Venueless, um die Vorträge zu sehen, Fragen zu stellen, mit Teilnehmenden zu diskutieren, Workshops zu besuchen und mit den Ausstellern in Kontakt zu gehen.
 Venueless kann den Zeitplan aus Pretalx integrieren sowie sich Nutzer:innenrechte über die IDs der Pretix-Produkt steuern lassen.
 
 Die Regie hat mit [Open Broadcaster Sudio Software](https://obsproject.com/de) gearbeitet, die [BigBlueButton](https://bigbluebutton.org/)-Instanz der [Universität Marburg](https://www.uni-marburg.de/de) diente mit Videokonferenzräumen für die Bühnen, daraus wurde das Video- und Audiosignal der Vortragenden sowie Sessionleitung für den Livestream abgegriffen.
