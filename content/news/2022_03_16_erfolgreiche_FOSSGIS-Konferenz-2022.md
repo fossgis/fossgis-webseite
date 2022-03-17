@@ -50,7 +50,7 @@ Im [Programm](https://pretalx.com/fossgis2022/schedule/) ist das Video jeweils i
  
 ### FOSSGIS-Jeopardy
 
-Großen Spaß hatten die Teilnehmenden sowie auch Zuschauenden beim *Jeopardy-Quiz*, Danke an Hannes und Dominik für die tolle Moderation.  
+Großen Spaß hatten die Teilnehmenden sowie auch Zuschauenden beim *Jeopardy-Quiz*. Herzlichen Dank an Hannes und Dominik für die tolle Moderation.  
 [![Jeopardy-Quiz](/news/images/2022_03_09_FOSSGIS_2022_Jeopardy_Preise.png)](https://pretalx.com/fossgis2022/talk/8CFXUG/)
 
 #### Netzwerkwelt
@@ -63,7 +63,7 @@ Am Mittwoch fand im Rahmen der Abendveranstaltung ein Liveact mit musikalischer 
 ![Gruppenfoto der Avatare in der Netzwerkwelt](/news/images/2022_03_10_Gruppenfoto_FOSSGIS2022.png "Gruppenfoto FOSSGIS 2022")  
 *FOSSGIS-Konferenz 2022 Gruppenfoto auf dem Kompass in der virtuellen Welt*  
 
-Die Netzwerkwelt steht zur Nachnutzung mit bis zu 15 Teilnehmenden bereit und kann für Arbeitstreffen oder Communityttreffen genutzt werden, [URL Netzwerkwelt](https://play.workadventu.re/@/fossgis-e.v./fossgis-konferenz2022/netzwerkwelt).
+Die Netzwerkwelt steht zur Nachnutzung mit bis zu 15 Teilnehmenden bereit und kann für Arbeits- oder Communitytreffen genutzt werden ([URL Netzwerkwelt](https://play.workadventu.re/@/fossgis-e.v./fossgis-konferenz2022/netzwerkwelt)).
 
 
 ### Sponsoren und Aussteller
