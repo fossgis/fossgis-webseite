@@ -2,7 +2,7 @@
 title: lat/lon gesellschaft für raumbezogene informationssysteme mbH
 link: https://www.lat-lon.de/ 
 logo: 028_latlon.png
-kind: Firma oder Einzelperson
+kind: Firma
 logo2x: 028_latlon@2x.png
 categories: [
     Web-Mapping,
