@@ -115,7 +115,7 @@ Herzlichen Dank an das Technikteam für den großartigen Einsatz!
 In der Netzwerkwelt waren bis zu 150 Personen aktiv unterwegs.
 
 #### Nach der Konferenz ist vor der Konferenz
-Wir freuen uns, dass sich Berlin für die Austragung der [FOSSGIS-Konferenz im März 2023](https://fossgis-konferenz.de/2023) bereit erklärt. Wir hoffen alle auf eine Präsenzkonferenz in Berlin, eine Onlineteilnahme wird ermöglicht.  
+Wir freuen uns, dass sich Berlin für die Austragung der [FOSSGIS-Konferenz 2023](https://fossgis-konferenz.de/2023) bereit erklärt. Wir hoffen alle auf eine Präsenzkonferenz in Berlin, eine Onlineteilnahme wird ermöglicht.  
 
 In 2022 darf sich die Community auf weitere wichtige Konferenzen freuen. So sei an dieser Stelle auf die SotM und die FOSS4G hingewiesen. Beide Konferenzen finden in Italien in Florenz statt.
 
