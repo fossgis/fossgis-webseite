@@ -34,10 +34,10 @@ Erstmals fanden Podiumsdiskussionen statt.
 Im Abschluss gab Jörg Thomsen bekannt, dass es nun eine Rahmenvereinbarung zur Zusammenarbeit zwischen FOSSGIS e.V. und BKG gibt. Ebenso wurde Berlin-Adlershof als Konferenzstandort 2023 angekündigt.  
 
 ### OSM Samstag mit OSM-Unkonferenz
-Im Anschluss an die Konferenz trafen sich am Samstag traf sich OpenStreetMap-Community zu einer Unkonferenz zusammen.
+Im Anschluss an die Konferenz traf sich am Samstag die OpenStreetMap-Community zu einer Unkonferenz zusammen.
 Es haben circa 60 Personen teilgenommen.  
-Einige Themen wurden bereits im Voraus erarbeitet und eingereicht. Zum WarmUp am Morgen gab es bereits rege Diskussionen zu weitere Themen, die dann in die Ideenliste aufgenommen wurden. Es wurde schießlich ein ausgewogenes Programm für zwei Räume zusammengestellt. Nach einem langen Tag mit Themen zur Verkehrswende, Datenformaten und Modellen, speziellen Mappingthenen sowie der neuen deutschen OpenStreetMap-Seite waren sich die teilnehmenden einig, dass es solch ein Online-Event zweimal jährlich geben sollte. 
-Wer sich ein Bild der Themen und Ergebnisse machen will kann kann das auf der [Wikiseite](https://wiki.openstreetmap.org/wiki/FOSSGIS_2022/OSM-Samstag) nachlesen.
+Einige Themen wurden bereits im Voraus erarbeitet und eingereicht. Zum Auftakt am Morgen gab es bereits rege Diskussionen zu weitere Themen, die dann in die Ideenliste aufgenommen wurden. Es wurde schießlich ein ausgewogenes Programm für zwei Räume zusammengestellt. Nach einem langen Tag mit Themen zur Verkehrswende, Datenformaten und Modellen, speziellen Mappingthemen sowie der neuen deutschen OpenStreetMap-Seite waren sich die Teilnehmenden einig, dass es solch ein Online-Event zweimal jährlich geben sollte. 
+Wer sich ein Bild zu den Themen und Ergebnissen machen will, kann auf der [Wikiseite](https://wiki.openstreetmap.org/wiki/FOSSGIS_2022/OSM-Samstag) nachlesen.
 
 [![Wikiseite](/news/images/2022_03_12_FOSSGIS_Programm_OSM-Event.png)](https://wiki.openstreetmap.org/wiki/FOSSGIS_2022/OSM-Samstag)  
 *Themenübersicht OSM-Unkonferenz*
@@ -45,21 +45,22 @@ Wer sich ein Bild der Themen und Ergebnisse machen will kann kann das auf der [W
 
 ### FOSSGIS-Videos im Netz
 Wie jedes Jahr werden die Aufzeichnungen veröffentlicht. Sie sind über die [Media-CCC-Plattform](https://media.ccc.de/c/fossgis2021) verfügbar, sowie auf [Youtube](hhttps://www.youtube.com/user/fossgis) und bald auch im [TIB-AV Portal](https://av.tib.eu/search?f=publisher%3Bhttp://av.tib.eu/resource/FOSSGIS_e.V.).
-Am einfachsten ist es sich das [Programm](https://pretalx.com/fossgis2022/schedule/) zu nehmen und das Video im jeweiligen Beitrag zu schauen.   
+Im [Programm](https://pretalx.com/fossgis2022/schedule/) ist das Video jeweils im Beitrag verlinkt.   
 [![Programm](/news/images/2022_03_12_FOSSGIS_Programm_Videos.png)](https://pretalx.com/fossgis2022/schedule/) 
  
 ### FOSSGIS-Jeopardy
 
-Großen Spaß hatten die Teilnehmenden sowie auch Zuschauer beim *Jeopardy-Quiz*, Danke an Hannes und Dominik für die tolle Moderation  
-[![Jeopardy-Quiz](/news/images/2022_03_09_FOSSGIS_2022_Jeopardy_Preise.png)](https://pretalx.com/fossgis2022/talk/8CFXUG/).
+Großen Spaß hatten die Teilnehmenden sowie auch Zuschauenden beim *Jeopardy-Quiz*, Danke an Hannes und Dominik für die tolle Moderation.  
+[![Jeopardy-Quiz](/news/images/2022_03_09_FOSSGIS_2022_Jeopardy_Preise.png)](https://pretalx.com/fossgis2022/talk/8CFXUG/)
 
 #### Netzwerkwelt
-Während der Pausen waren die Teilnehmenden eingeladen die neue Netzwerkwelt zu besuchen. Teilnehmende bewegen sich mit einem Avatar per Tastatur. Am Mittwoch fand im Rahmen der Abendveranstaltung ein Liveact mit musikalischer Darbietung durch David Brooke und Johannes Menzel statt.
+Während der Pausen waren die Teilnehmenden eingeladen die neue Netzwerkwelt zu besuchen. Teilnehmende bewegen sich mit einem Avatar per Tastatur.  
+Am Mittwoch fand im Rahmen der Abendveranstaltung ein Liveact mit musikalischer Darbietung durch David Brooke und Johannes Menzel statt.
 
 ![Netzwerkwelt](/news/images/2022_03_12_Netzwerkwelt_2022_mitRahmen.png) ![Abendveranstaltung](/news/images/2022_03_09_Liveact_Social-Event.png)
 
 
-![Gruppenfoto der Avatare in der netzwerkwelt](/news/images/2022_03_10_Gruppenfoto_FOSSGIS2022.png "Gruppenfoto FOSSGIS 2022")  
+![Gruppenfoto der Avatare in der Netzwerkwelt](/news/images/2022_03_10_Gruppenfoto_FOSSGIS2022.png "Gruppenfoto FOSSGIS 2022")  
 *FOSSGIS-Konferenz 2022 Gruppenfoto auf dem Kompass in der virtuellen Welt*  
 
 Die Netzwerkwelt steht zur Nachnutzung mit bis zu 15 Teilnehmenden bereit und kann für Arbeitstreffen oder Communityttreffen genutzt werden, [URL Netzwerkwelt](https://play.workadventu.re/@/fossgis-e.v./fossgis-konferenz2022/netzwerkwelt).
@@ -69,7 +70,7 @@ Die Netzwerkwelt steht zur Nachnutzung mit bis zu 15 Teilnehmenden bereit und ka
 Dank geht an dieser Stelle an die Sponsoren für die finanzielle Unterstützung der Konferenz. Besonderer Dank gilt dabei den Platin-Sponsoren [Camptocamp und WhereGroup](https://fossgis-konferenz.de/2022/#Sponsoren).  
 Die Firmenausstellung fand als EXPO in der Online-Plattform statt. Die Aussteller konnten direkt über die Plattform kontaktiert werden.
 
-![Sponsoren und Aussteller](/news/images/2022_03_12_Sponsoren_FOSSGIS_20220306.png)
+[![Sponsoren und Aussteller](/news/images/2022_03_12_Sponsoren_FOSSGIS_20220306.png)](https://fossgis-konferenz.de/2022/#Sponsoren)
 
 
 ### Team und Helfer:innen 
