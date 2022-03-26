@@ -62,6 +62,9 @@ auch mitmachen.
 
 Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
 
+* [Vorstandssitzung vom 20.01.2022](2022-01-20-protokoll-vorstandssitzung)
+* [Vorstandssitzung vom 13.12.2021](2021-12-13-protokoll-vorstandssitzung)
+* [Vorstandssitzung vom 17.11.2021](2021-11-17-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 19.10.2021](2021-10-19-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 19.08.2021](2021-08-19-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 29.07.2021](2021-07-29-protokoll-vorstandssitzung)
@@ -89,6 +92,7 @@ Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
 * [Vorstandssitzung vom 30.11.2019](2019-11-30-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 22.10.2019](2019-10-22-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 17.09.2019](2019-09-17-protokoll-vorstandssitzung)
+
 
 Ältere Protokolle der Vorstandssitzung wurden [im
 FOSSGIS-Wiki](https://www.fossgis.de/wiki/Kategorie:Vorstandsprotokolle)

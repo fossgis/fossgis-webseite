@@ -7,12 +7,11 @@ menu:
     weight: 3
 ---
 
-Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Geo-Software und OpenStreetMap.
+Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Geo-Software und OpenStreetMap und wird vom gemeinnützigen FOSSGIS e.V und der OpenStreetMap Community mit Unterstützung des jeweiligen Lokalen Teams organisiert.
 
-Die FOSSGIS-Konferenz 2022 wird vom gemeinnützigen FOSSGIS e.V und der OpenStreetMap Community mit Unterstützung der Universität Marburg organisiert.
+Die Organisation der FOSSGIS-Konferenz 2022 wird vom Lokal Team der Uni Marburg unterstützt. 
 
-Wir nehmen die Gegebenheiten zum Anlass die FOSSGIS 2022 als hybrides Event zu organisieren. Damit ist eine Teilnahme vor Ort in Marburg als auch online möglich. 
-
+Die FOSSGIS 2022 wird als Online-Veranstaltung stattfinden.   
 Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://fossgis-konferenz.de/2022/).
 
 ### Vorjahre
@@ -28,3 +27,9 @@ Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://f
 * [FOSSGIS-Konferenz 2013](https://fossgis-konferenz.de/2013/) in Rapperswil
 * [FOSSGIS-Konferenz 2012](https://fossgis-konferenz.de/2012/) in Dessau
 * [FOSSGIS-Konferenz 2011](https://fossgis-konferenz.de/2011/) in Heidelberg
+
+### Veranstaltungsort sein
+
+Sie wollen die FOSSGIS-Konferenz in Ihrer Stadt bzw. in Ihrer Hochschule holen? In diesem [kurzen Dokument](https://files.fossgis.de/Konferenz/CfL_FOSSGIS.pdf) finden Sie die Anforderungen. Für Fragen zögern Sie nicht uns anzusprechen.
+
+
