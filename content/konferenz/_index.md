@@ -9,13 +9,12 @@ menu:
 
 Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Geo-Software und OpenStreetMap und wird vom gemeinnützigen FOSSGIS e.V und der OpenStreetMap Community mit Unterstützung des jeweiligen Lokalen Teams organisiert.
 
-Die Organisation der FOSSGIS-Konferenz 2022 wird vom Lokal Team der Uni Marburg unterstützt. 
-
-Die FOSSGIS 2022 wird als Online-Veranstaltung stattfinden.   
-Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://fossgis-konferenz.de/2022/).
+Die FOSSGIS 2023 wird in Berlin auf dem Campus Adlershof an der HU-Berllin stattfinden.    
+Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://fossgis-konferenz.de/2023/).
 
 ### Vorjahre
 
+* [FOSSGIS-Konferenz 2022](https://fossgis-konferenz.de/2022/) online
 * [FOSSGIS-Konferenz 2021](https://fossgis-konferenz.de/2021/) virtuell in Rapperswil und online
 * [FOSSGIS-Konferenz 2020](https://fossgis-konferenz.de/2020/) in Freiburg i.Br.
 * [FOSSGIS-Konferenz 2019](https://fossgis-konferenz.de/2019/) in Dresden
