@@ -15,7 +15,7 @@ aliases:
 
 * Jörg Thomsen
 * Pirmin Kalberer
-* Jochen Topf
+* David Arndt
 * Falk Zscheile
 
 ## Kontakt

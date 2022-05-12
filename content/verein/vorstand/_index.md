@@ -11,7 +11,7 @@ gewählt. Zur Zeit besteht er aus:
 
 * Jörg Thomsen (1. Vorsitz)
 * Pirmin Kalberer (2. Vorsitz)
-* Jochen Topf (Finanzen)
+* David Arndt (Finanzen)
 * Falk Zscheile (Schriftführer)
 
 ## Was macht der Vorstand?
@@ -61,6 +61,7 @@ Die Sitzungen sind öffentlich, ihr könnt Euch selber dazuschalten, zuhören un
 auch mitmachen. 
 
 Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
+
 * [Vorstandssitzung vom 07.04.2022](2022-04-07-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 17.03.2022](2022-03-17-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 24.02.2022](2022-02-24-protokoll-vorstandssitzung)

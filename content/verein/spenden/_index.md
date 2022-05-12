@@ -32,7 +32,7 @@ Bitte geben Sie im Verwendungszweck mindestens das Wort „Spende“ an.
 
 ## Spendenbescheinigung
 
-Wenn Sie den FOSSGIS e.V. mit bis zu 200,00 Euro im Jahr unterstützt haben,
+Wenn Sie den FOSSGIS e.V. mit bis zu 300,00 Euro im Jahr unterstützt haben,
 benötigen Sie keine gesonderte Zuwendungsbestätigung („Spendenbescheinigung“)
 von uns. Zur Anerkennung Ihrer Zahlung als steuerlich abzugsfähige Zuwendung
 genügt es, wenn Sie in Ihrer Steuererklärung diesen [Vereinfachten
