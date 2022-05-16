@@ -62,6 +62,7 @@ auch mitmachen.
 
 Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
 
+* [Vorstandssitzung vom 04.05.2022](2022-05-04-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 07.04.2022](2022-04-07-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 17.03.2022](2022-03-17-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 24.02.2022](2022-02-24-protokoll-vorstandssitzung)
