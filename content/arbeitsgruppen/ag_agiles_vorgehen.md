@@ -11,7 +11,7 @@ Ziel ist es Informationen zusammenzustellen, die hilfreich sind, um die öffentl
 
 ## Mitglieder
 - Torsten Wiebke
-- Torsten Fribe
+- Torsten Friebe
 - Arnulf Christl
 - Ulrike Assmann
 - Marco Lechner
