@@ -9,7 +9,7 @@ menu:
 
 Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Geo-Software und OpenStreetMap und wird vom gemeinnützigen FOSSGIS e.V und der OpenStreetMap Community mit Unterstützung des jeweiligen Lokalen Teams organisiert.
 
-Die FOSSGIS 2023 wird in Berlin auf dem Campus Adlershof an der HU-Berllin stattfinden.    
+Die FOSSGIS 2023 wird in Berlin auf dem Campus Adlershof an der HU-Berlin stattfinden.    
 Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://fossgis-konferenz.de/2023/).
 
 ### Vorjahre
