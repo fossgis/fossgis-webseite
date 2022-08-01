@@ -6,7 +6,7 @@ menu:
     weight: 10
 ---
 
-Stand: 2020-04-07
+Fassung gemäß Vorstandsbeschluss vom 20. Juli 2022
 
 Nach der aktuellen Satzung besteht der Vorstand aus vier Personen:
 
@@ -21,8 +21,8 @@ Beschlüsse mit einer einfachen Mehrheit getroffen.
 ## Vorstandssitzungen
 
 Der Vorstand hält in der Regel einmal im Monat eine Vorstandssitzung ab.
-Sitzungen finden normalerweise per Sprachkonferenz (aktuell Mumble) statt,
-bei Gelegenheit auch in Person.
+Sitzungen finden normalerweise per Video- oder Sprachkonferenz (Jitsi, Mumble,
+etc.) statt, bei Gelegenheit auch in Person.
 
 Für alle Mitglieder des Vorstands besteht grundsätzlich Teilnahmepflicht.
 Die Sitzungen des Vorstands werden vom 1. Vorsitzenden geleitet.
@@ -52,12 +52,17 @@ werden.
 
 Das Protokoll wird in der Regel vom Schriftführer geführt, bei Abwesenheit
 von einem anderen Vorstandsmitglied. Es wird nach der Sitzung im
-Gitlab-Repository Verein/Dokumente eingestellt.
+Gitlab-Repository Vorstand/Dokumente eingestellt.
 
-Gegen den Inhalt des Protokolls kann jedes Vorstandsmitglied innerhalb von fünf
-Tagen im Gitlab-Repository schriftlich Einwendungen erheben. Gibt es innerhalb
-dieser Frist keine Einwände, wird das Protkoll vom Schriftführer auf der
-Webseite veröffentlicht.
+Der Protokollführer soll das Protokoll der Vorstandssitzung innerhalb
+von fünf Tagen nach der Sitzung fertigstellen.
+
+Das Protokoll wird nach der Fertigstellung durch den Protokollführer
+den Übrigen Vorstandsmitgliedern per Umlaufbeschluss zur Genehmigung
+vorgelegt. Wird das Protokoll genehmigt wird es vom Schriftführer auf
+der Webseite veröffentlicht. Kommt der Umlaufbeschluss nicht zustande,
+so wird das Protokoll in der nächsten Vorstandssitzung beraten und
+entsprechend des Ergebnisses der Beratung anschließend veröffentlicht.
 
 Protokolle der Vorstandssitzungen werden auf der Webseite des Vereins zeitnah
 öffentlich gemacht. Dabei können nach Maßgabe des Protokollführers Teile
@@ -94,7 +99,7 @@ Weniger wichtige Beschlüsse, für die keine Aussprache nötig ist, können auch
 zwischen den Sitzungen über Gitlab-Issues gefasst werden. Dazu stellt ein
 Vorstandsmitglied einen entsprechenden Beschlussantrag und die anderen können
 den Beschluss dann durch Kommentare im Gitlab-Issue annehmen oder ablehnen.
-Das Issue wird mit dem Tag "Umlaufbeschluß" gekennzeichnet.
+Das Issue wird im Titel mit "Umlaufbeschluß" gekennzeichnet.
 
 Der Beschluss ist nur angenommen, wenn alle Vorstandsmitglieder zugestimmt
 haben. Er wird dann bei der nächsten Vorstandssitzung nicht mehr besprochen
@@ -102,6 +107,12 @@ aber ins Protokoll aufgenommen.
 
 Haben sich nicht alle Vorstandsmitglieder für den Beschluss ausgesprochen,
 wird er bei der nächsten Vorstandssitzung diskutiert.
+
+Um den Ablauf nicht unnötig aufzuhalten, gilt ein Umlaufbeschluß
+* über die Aufnahme von neuen Mitgliedern in den Verein bzw.
+* über Urlaubsanträge von Angestellten des Vereins
+als angenommen, wenn innerhalb einer Woche kein Vorstandsmitglied im Gitlab
+widersprochen hat.
 
 Vorgänge, die keine formellen Beschlüsse benötigen oder wenn Beschlüsse erst
 vorbereitet werden, werden über die Issues im Vorstand/Todo-Repository
@@ -144,24 +155,24 @@ für die Zukunft. Über wesentliche Anliegen hält es die Vorstandskollegen auf
 dem Laufenden.
 
 * Verein: Interne Organisation, Tätigkeitsberichte, Kontakt zum Amtsgericht,
-  Einberufung und Durchführung MV, Vereinsarchiv (Dominik)
-* Recht: Datenschutz, Verträge, Versicherungen (Dominik)
+  Einberufung und Durchführung MV, Vereinsarchiv (Jörg)
+* Recht: Datenschutz, Verträge, Versicherungen (Falk)
 * Finanzen: Buchführung, Kontakt zum Steuerberater und zum Finanzamt,
   Rechnungsstellung, Erstattung von Auslagen, Mitgliedsgebühren,
-  Spendenverwaltung, Verwaltung Anlagevermögen, Domains (Jochen)
+  Spendenverwaltung, Verwaltung Anlagevermögen (David)
 * Mitgliederverwaltung: Eintragung und Begrüßung neuer Mitglieder, Führen der
-  Mitgliederdatenbank, Statistiken zur Mitgliederentwicklung (Jochen)
+  Mitgliederdatenbank, Statistiken zur Mitgliederentwicklung (David)
 * Protokolle: Protokolle der Vorstandssitzungen und der Mitgliederversammlung
-  (Hanna)
+  (Falk)
 * Öffentlichkeitsarbeit: Webseite, Pressekontakt, Werbung, Flyer, Poster
   (Jörg)
 * Technik: Betrieb der technischen Infrastruktur des Vereins, Kontakt zum
-  Sysadmin (Jörg)
+  Sysadmin (Pirmin)
 * OpenStreetMap: Kontakt zur OpenStreetMap-Community in Deutschland, Kontakt
   zur OSMF, Kontakt zu den OSM-Partnerorganisationen in der Schweiz und in
-  Österreich (Hanna)
-* Konferenz: Organisation der jährlichen FOSSGIS-Konferenz (Dominik)
-* Förderprogramme: Organisation und Durchführung der Förderprogramme (Hanna)
+  Österreich (Falk)
+* Konferenz: Organisation der jährlichen FOSSGIS-Konferenz (Jörg)
+* Förderprogramme: Organisation und Durchführung der Förderprogramme (Falk)
 
 Die Zuordnung von Personen ergibt sich einerseits aus deren Amt und andererseits
 aus den Neigungen und Fähigkeiten der Vorstandsmitglieder. Sie kann jederzeit
