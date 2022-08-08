@@ -2,7 +2,7 @@
 title:  "Bürgerfest des Bundespräsidenten"
 layout: forward
 target: https://fossgis.de/news/2022_08_08_einladung_zum_buergerfest/
-date: "2002-08-07"
+date: "2022-08-07"
 author: "AG Bürgerfest"
 ---
 
