@@ -22,14 +22,6 @@ Wir bedanken uns herzlich beim Bundespräsidenten für die Einladung zum Bürger
 Ganz besonderer Dank gilt den Freiwilligen der AG Bürgerfest und der Koordinierungsstelle des Vereins, die in monatelanger Arbeit den OSM-Auftritt vorbereitet haben, den Mitgliedern des Standteams, die teilweise aufgrund coronabedingter Absagen sehr kurzfristig aus verschiedenen
 teilen Deutschlands angereist sind sowie Mitgliedern der Berliner und Potsdamer OSM-Community, die angereiste Standbetreuer bei sich aufgenommen haben.
 
-Foto Standpersonal Freitag und Samstag,
-Foto Stand am Freitag mit Wetterradar (Oliver)
-Foto Fahrrad mit Fahrradanhänger am Donnerstag (Katja)
-(Gelebte Nachhaltigkeit - Transport der Standausstattung mit
-dem Fahrrad und ÖPNV))
-
-Vielleicht Wikiseite mit Showcaseses Kartenbeispielen,...?
-
 #### Eindrücke vom Bürgerfest
 
 ![Eindrücke Bürgerfest](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Stand_Buergerfest_August_2022_Freitag2.jpg)  
