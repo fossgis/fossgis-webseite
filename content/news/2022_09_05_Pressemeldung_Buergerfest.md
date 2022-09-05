@@ -24,10 +24,10 @@ teilen Deutschlands angereist sind sowie Mitgliedern der Berliner und Potsdamer 
 
 #### Eindrücke vom Bürgerfest
 
-![Eindrücke Bürgerfest](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Stand_Buergerfest_August_2022_Freitag2.jpg)  
+![Eindrücke Bürgerfest](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Stand_Buergerfest_August_2022_Freitag_2.jpg)  
 *Hauptbühne Bürgerfest, Foto: hafi*  
 
-![Eindrücke Bürgerfest](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Eindruck_Buergerfest_August_2022.jpg)  
+![Eindrücke Bürgerfest](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Eindruck_Buergerfest_August_2022_01.jpg)  
 *Bürgerfest am Freitag, Foto: oliver*  
 
 ![Eindrücke Bürgerfest](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Eindruck_Buergerfest_August_2022_03.jpg)  
@@ -38,10 +38,10 @@ teilen Deutschlands angereist sind sowie Mitgliedern der Berliner und Potsdamer 
 
 #### Standbetreuerteams
 
-![Standbetreuerteam Freitag](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Stand_Buergerfest_August_2022_Team_Freitag.jpg)  
+![Standbetreuerteam Freitag](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Stand_Buergerfest_August_2022_TeamFreitag.jpg)  
 *Standbetreuerteam Freitag*
 
-![Standbetreuerteam Samstag](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Stand_Buergerfest_August_2022_Team_Samstag.jpg)  
+![Standbetreuerteam Samstag](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Stand_Buergerfest_August_2022_TeamSamstag.jpg)  
 *Standbetreuerteam Samstag*
 
 #### Vielfalt der Kartenstile
@@ -49,19 +49,19 @@ teilen Deutschlands angereist sind sowie Mitgliedern der Berliner und Potsdamer 
 ![Vielfalt der Kartenstile](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Kartenstile_neu.png)  *Vielfalt der Kartenstile wurde auf dem Großformatdruck sichtbar gemacht*
 
 #### Der Aufbau des Standes wurde selbst organisiert
-Die vorab bestellten Möbel, waren bereit gestellt. Die Bildschirme sind zur Darstellung der Showcases vorgesehen.
+Das Aufbauteam brachte die Standmaterialien klimaneutral mit dem Fahrradanhänger zum Bürgerfest. Die vorab bestellten Möbel und Bildschirme waren auf Bestellung bereit gestellt.
 
-![Aufbau](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Stand_Buergerfest_Donnerstag_Aufbau.jpg)  
-![Aufbau](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Stand_Buergerfest_Donnerstag_Aufbau_2.jpg)  
+![Aufbau](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Stand_Buergerfest_Donnerstag_Aufbau_01.jpg)  
+![Aufbau](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Stand_Buergerfest_Donnerstag_Aufbau_02.jpg)  
 *Aufbau am Donnerstag, Foto: oliver, hafi*
 
 #### Showcasebeispiele
 
-![Showcase Feuerwehr](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Showcase_Feuerwehr_und_OSM/OpenFireMap_Screenshot_Nuernberg_01.png)  
+![Showcase Feuerwehr](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Showcase_Feuerwehr_und_OSM/OpenFireMap_Screenshot_Nuernberg_1.png)  
 *Showcase Feuerwehr- OpenFireMap*  
-![Showcase Feuerwehr](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Showcase_Feuerwehr_und_OSM/OpenFireMap_Screenshot_Nuernberg_03.png)  
+![Showcase Feuerwehr](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Showcase_Feuerwehr_und_OSM/OpenFireMap_Screenshot_Nuernberg_3.png)  
 *Showcase Feuerwehr- OpenFireMap*  
-![Showcase Feuerwehr](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Showcase_Feuerwehr_und_OSM/fireyak_quer.png)  
+![Showcase Feuerwehr](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Showcase_Feuerwehr_und_OSM/fireyak__quer.png)  
 *Showcase Feuerwehr - App-Anwendung FireYak-Wasserentnahmestellen*  
 
 ![Showcase Parkraumkarte](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Showcase_Parkraumanalyse/OSM_Parkraumprojekt_Karte_Neukoelln.png)  
