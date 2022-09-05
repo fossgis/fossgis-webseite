@@ -70,12 +70,12 @@ Das Aufbauteam brachte die Standmaterialien klimaneutral mit dem Fahrradanhänge
 ![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMBerlin.png)  
 *Showcase OpenCampingMap*  
 
-![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMPfadfinder.png)
+![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMPfadfinder.png)  
 *Showcase OpenCampingMap*  
 
-![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMCampingplatz_detailliert.png)
+![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMCampingplatz_detailliert.png)  
 *Showcase OpenCampingMap*  
 
-![Logo für Stand](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Logos.png)  
+![Logo für Stand](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Logo_Verein_OSM.png)  
 *Logo am Stand unter dem Motto: Wir spielen mit offenen Karten*
 
