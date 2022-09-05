@@ -64,16 +64,16 @@ Das Aufbauteam brachte die Standmaterialien klimaneutral mit dem Fahrradanhänge
 ![Showcase Feuerwehr](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Showcase_Feuerwehr_und_OSM/fireyak__quer.png)  
 *Showcase Feuerwehr - App-Anwendung FireYak-Wasserentnahmestellen*  
 
-![Showcase Parkraumkarte](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Showcase_Parkraumanalyse/OSM_Parkraumprojekt_Karte_Neukoelln.png)  
+![Showcase Parkraumkarte](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Showcase_Parkraumanalyse/OSM_Parkraumprojekt_KarteNeukoelln.png)  
 *Showcase - Parkraumkarte - das Berliner Verkehrswendeteam stellt einen Kartenstil zur Darstellung einer Parkraumanalyse vor*  
 
-![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCM_Berlin.png)  
+![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMBerlin.png)  
 *Showcase OpenCampingMap*  
 
-![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCM_Pfadfinder.png)
+![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMPfadfinder.png)
 *Showcase OpenCampingMap*  
 
-![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCM_Campingplatz_detailliert.png)
+![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMCampingplatz_detailliert.png)
 *Showcase OpenCampingMap*  
 
 ![Logo für Stand](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Logos.png)  
