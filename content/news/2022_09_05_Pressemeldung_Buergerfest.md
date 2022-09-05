@@ -67,15 +67,15 @@ Das Aufbauteam brachte die Standmaterialien klimaneutral mit dem Fahrradanhänge
 ![Showcase Parkraumkarte](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Showcase_Parkraumanalyse/OSM_Parkraumprojekt_KarteNeukoelln.png)  
 *Showcase - Parkraumkarte - das Berliner Verkehrswendeteam stellt einen Kartenstil zur Darstellung einer Parkraumanalyse vor*  
 
-![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMBerlin.png)  
+![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMBerlin.png)   
 *Showcase OpenCampingMap*  
 
-![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMPfadfinder.png)  
+![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMPfadfinder.png)   
 *Showcase OpenCampingMap*  
 
-![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMCampingplatz_detailliert.png)  
+![Showcase OpenCampingMap](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/OCMCampingplatz_detailliert.png)   
 *Showcase OpenCampingMap*  
 
 ![Logo für Stand](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/Logo_Verein_OSM.png)  
-*Logo am Stand unter dem Motto: Wir spielen mit offenen Karten*
+*Logo des Standes, Motto: **Wir spielen mit offenen Karten***
 
