@@ -27,7 +27,7 @@ teilen Deutschlands angereist sind sowie Mitgliedern der Berliner und Potsdamer 
 ![Eindrücke Bürgerfest](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Stand_Buergerfest_August_2022_Freitag_2.jpg)  
 *Hauptbühne Bürgerfest, Foto: hafi*  
 
-![Eindrücke Bürgerfest](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Eindruck_Buergerfest_August_2022_01.jpg)  
+![Eindrücke Bürgerfest](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Eindruck_Buergerfest_August_2022_001.jpg)  
 *Bürgerfest am Freitag, Foto: oliver*  
 
 ![Eindrücke Bürgerfest](https://files.fossgis.de/Koordinierungsstelle/Buergerfest/2022_09_05_Eindruck_Buergerfest_August_2022_03.jpg)  
