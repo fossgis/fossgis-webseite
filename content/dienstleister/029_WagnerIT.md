@@ -1,9 +1,9 @@
 ---
 title: Wagner-IT
 link: https://www.wagner-it.de 
-logo: 029_Wagner-IT_376x24.jpg
+logo: 029_Logo_Wagner-IT@.png
 kind: Einzelperson
-logo2x: 029_Wagner-IT_376x24@2x.jpg
+logo2x: 029_Logo_Wagner-IT@2x.png
 categories: [
     Web-Mapping,
     Content Management System,
