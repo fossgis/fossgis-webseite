@@ -1,7 +1,7 @@
 ---
 title: Wagner-IT
 link: https://www.wagner-it.de 
-logo: 029_Wagner-IT@.png
+logo: 029_Wagner-IT.png
 kind: Einzelperson
 logo2x: 029_Wagner-IT@2x.png
 categories: [
