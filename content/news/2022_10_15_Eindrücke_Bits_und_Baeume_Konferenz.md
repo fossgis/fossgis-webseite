@@ -7,7 +7,7 @@ author: Torsten Wiebke, Marc Gehling, Lars Lingner, Oliver Rudzick, Katja Haferk
  
 Vom 30.09.-02.10.2022 fand an der TU Berlin die *Bits & Bäume* Konferenz mit cirCA 2.500 Teilnehmenden und einem spannenden [Programm](https://bits-und-baeume.org/konferenz-2022/programm/) zu Digitalisierung und Nachhaltigkeit statt.  
 Es gab viele Themen bei denen FOSS-Technologie und OpenStreetMap sehr hilfreich ist und oft auch genutzt wird, z.B.   
-* [Wo finde ich Wasser?]((https://media.ccc.de/v/bitsundbaeume-20717-wo-finde-ich-wasser-die-kollektive-kartierung-von-trinkwasser-orten-in-osm-und-der-weg-dorthin-)) - Die kollektive Kartierung von Trinkwasser-Orten in OSM und der Weg dorthin,   
+* [Wo finde ich Wasser?](https://media.ccc.de/v/bitsundbaeume-20717-wo-finde-ich-wasser-die-kollektive-kartierung-von-trinkwasser-orten-in-osm-und-der-weg-dorthin-) - Die kollektive Kartierung von Trinkwasser-Orten in OSM und der Weg dorthin,   
 * [Parkplatzzählung und Parkraumanalysen mit OpenStreetMap](https://media.ccc.de/v/bitsundbaeume-20656-parkplatzzhlung-und-parkraumanalysen-mit-openstreetmap) und   
 * [Mit OpenStreetMap die Verkehrswende begleiten – Tagging, Tools und Analysen](https://media.ccc.de/v/bitsundbaeume-20657-mit-openstreetmap-die-verkehrswende-begleiten-tagging-tools-und-analysen).  
 
