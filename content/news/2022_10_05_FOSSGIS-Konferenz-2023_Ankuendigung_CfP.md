@@ -1,6 +1,6 @@
 ---
 title:  "FOSSGIS-Konferenz 2023"
-date: "2022-10-05"
+date: "2022-10-26"
 author: "Katja Haferkorn"
 ---
 
