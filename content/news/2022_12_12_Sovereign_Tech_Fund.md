@@ -24,7 +24,7 @@ Ziel des Abends ist es Anregungen aus den Communities des Open Source Ökosystem
 Im Jahr 2021 entstand eine [Machbarkeitsstudie](https://sovereigntechfund.de/SovereignTechFund_Machbarkeitsstudie.pdf).   
 
 ![xkcd “Dependency” CC BY-NC 2.5](https://imgs.xkcd.com/comics/dependency.png)  
-*Die Relevanz soll mit diesem Bild ausgedrückt werden*
+*Die Relevanz soll mit diesem Bild ausgedrückt werden, xkcd “Dependency” CC BY-NC 2.5*
 
 
 Der STF wird gefördert durch das Bundesministerium für Wirtschaft und Klimaschutz (BMWK), und startete im Oktober diesen Jahres mit 9 Projektförderungen, dazu gibt es eine [Pressemeldung](https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/10/20221018-der-sovereign-tech-fund-startet-die-forderung-eine-investition-in-die-digitale-souveranitat-europas.html) vom BMWK.
