@@ -61,7 +61,7 @@ Die Sitzungen sind öffentlich, ihr könnt Euch selber dazuschalten, zuhören un
 auch mitmachen. 
 
 Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
-
+* [Vorstandssitzung vom 29.09.2022](2022-09-29-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 30.08.2022](2022-08-30-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 20.07.2022](2022-07-20-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 04.05.2022](2022-05-04-protokoll-vorstandssitzung)
