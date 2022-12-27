@@ -1,4 +1,4 @@
-# Protokoll der Vorstandssitzung vom 13.12.2022 (interne Version)
+# Protokoll der Vorstandssitzung vom 13.12.2022 (externe Version)
 
 Anwesende Vorstände: Jörg, David, Pirmin, Falk
 
@@ -78,6 +78,7 @@ versendet werden. Die Einladung muss 4 Wochen vorher schriftlich oder
 per E-Mail erfolgen.
 
 Denkbare Satzungsanpassungen:
+
 * Onlinemitgliederversammlung
 * Wahlperiode
 * Stimmrechtsübertragungen
