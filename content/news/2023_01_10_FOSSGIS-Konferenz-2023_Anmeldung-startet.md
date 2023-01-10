@@ -23,6 +23,8 @@ Da die FOSSGIS 2023 als Präsenzkonferenz stattfindet, werden sich Firmen im Foy
 
 Am Samstag, den 18. März wird das beliebte OSM-Event von 9:30-17:30 Uhr stattfinden. Diese OSM-Unconference erfreut sich seit einigen Jahren großer Beliebtheit. Themen werden vorab über die [OSM-Wikiseite](https://wiki.openstreetmap.org/wiki/FOSSGIS_2023/OSM-Samstag) eingereicht.
 
+Wie jedes Jahr sind Helfende bei der Sessionleitung und Videoaufzeichnung gern gesehen, Infos unter [Helfen](https://fossgis-konferenz.de/2023/helfen/). 
+
 Weitere Informationen sind auf der Konferenzhomepage veröffentlicht: [fossgis-konferenz.de/2023/](https://fossgis-konferenz.de/2023/).
 
 Fragen an das [Konferenzorgateam per E-Mail](konferenz-orga@fossgis.de).
