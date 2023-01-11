@@ -105,8 +105,8 @@ der Vorjahre.
 
 ### TOP 7  Sonstiges
 
-Walhalla hat eine E-Mail an den Vorstand zur Weiterförderung
-geschrieben. Pirmin bespricht es mit Walhalla.
+Valhalla hat eine E-Mail an den Vorstand zur Weiterförderung
+geschrieben. Pirmin bespricht es mit Valhalla.
 
 Wir besprechen noch einmal die Problematik, einen laufenden Überblick
 über die geförderten Projekte zu behalten. Die Liste wurde von Falk
