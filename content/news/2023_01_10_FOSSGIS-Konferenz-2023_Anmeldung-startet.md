@@ -1,5 +1,5 @@
 ---
-title:  "FOSSGIS-Konferenz 2023 in Berlin"
+title:  "Ankündigung FOSSGIS-Konferenz 2023 in Berlin"
 date: "2023-01-10"
 author: "Katja Haferkorn"
 ---
