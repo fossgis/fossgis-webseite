@@ -1,5 +1,5 @@
 ---
-title:  "FOSSGIS-Konferenz 2023 in Berlin hat stattgefunden"
+title:  "FOSSGIS-Konferenz 2023 in Berlin war ein großer Erfolg"
 date: "2023-03-29"
 author: "Konferenzorgateam"
 ---
