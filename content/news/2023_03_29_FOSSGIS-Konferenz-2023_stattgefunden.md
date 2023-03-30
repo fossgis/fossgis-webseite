@@ -6,10 +6,9 @@ author: "Konferenzorgateam"
 
 ![Gruppenfoto FOSSGIS 2023](/news/images/2023-03-16_FOSSGIS2023_Gruppenbild_mitLogos.png "Gruppenfoto FOSSGIS 2023") 
 
+Vom 15.-18. März 2023 hat die bisher größte FOSSGIS-Konferenz in Berlin Adlershof sowie online stattgefunden.   
 
 ### Das war die FOSSGIS 2023 in Berlin Adlershof
-
-Vom 15.-18. März 2023 hat die bisher größte FOSSGIS-Konferenz in Berlin Adlershof sowie online stattgefunden.   
 Die FOSSGIS, größte deutschsprachige Anwenderkonferenz für freie Geoinformationssysteme und freie Geodaten, wurde vom gemeinnützigen FOSSGIS e.V., der OpenStreetMap-Community und dem Geographischen Institut der Humboldt-Universität zu Berlin organisiert.   
 Es waren 662 Personen vor Ort und 246 haben online teilgenommen.   
 Impressionen und Inhalte sind in den Social Media unter dem Hashtag #FOSSGIS2023 zu finden.
