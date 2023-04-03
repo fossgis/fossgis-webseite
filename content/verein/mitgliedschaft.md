@@ -16,18 +16,19 @@ Mitgliedschaft beim FOSSGIS e.V. tun!
 
 ## Wie werde ich Mitglied?
 
-Bitte stelle Deinen Mitgliedsantrag in schriftlicher Form mit dem folgenden
-Formular:
+Bitte stelle Deinen Mitgliedsantrag in schriftlicher Form unterschrieben und eingescannt 
 
-[Mitgliedsantrag als PDF-Datei](/verein/mitgliedsantrag.pdf)
+* per E-Mail an: [info@fossgis.de](mailto:info@fossgis.de) oder
+* per Post an:    
+  	FOSSGIS e.V.   
+  	Bundesallee 23   
+ 	 10717 Berlin   
 
-Der ausgefüllte Antrag ist zu senden an:
+### Formulare als PDF
+* Formular [Mitgliedsantrag + Lastschriftformular](Mitgliedsantrag_Lastschriftformular_FOSSGIS_eV.pdf)
+* Formular [Mitgliedsantrag](/verein/mitgliedsantrag.pdf)
 
-    FOSSGIS e.V.
-    Bundesallee 23
-    10717 Berlin
-
-oder per E-Mail an [info@fossgis.de](mailto:info@fossgis.de)
+Ein mitgesendetes Lastschriftmandat erleichtert die Arbeit sehr (und ihr könnt die Zahlung des Mitgliedsbeitrags nicht mehr vergessen). 
 
 ## Mitgliedsbeiträge
 
@@ -43,12 +44,7 @@ Ab dem 1.1.2021 beträgt der Jahresbeitrag...
 
 Die Mitgliedsbeiträge gelten für das laufende Kalenderjahr (1.1.-31.12.).
 
-## Lastschriftmandat
 
-Es erleichtert uns die Arbeit sehr (und ihr könnt die Zahlung des
-Mitgliedsbeitrags nicht mehr vergessen), wenn Ihr ein
-[Lastschriftmandat](/verein/lsmandat.pdf) ausfüllt, unterschreibt und uns
-eingescannt oder per Post schickt.
 
 
 
