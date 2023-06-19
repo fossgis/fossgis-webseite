@@ -90,3 +90,9 @@ Messdaten, die im Rahmen des Projekts entstehen, beispielsweise zu Albedo oder B
 <a name="1"></a>[1] Weinmann, Anika; Krisztian, Lina; Metz, Markus; Krelaus, Leonie; Nießen, Inga-Mareike: Automatisierte Detektion von Baumstandorten in der Metropole Ruhr. FOSSGIS Konferenz 2023 : Berlin, 15. - 18. März 2023, FOSSGIS e.V. et al., 2023. [https://doi.org/10.5446/61099](https://doi.org/10.5446/61099)
 
 <a name="2"></a>[2] Krelaus, Leonie; Nießen, Inga-Mareike; Metz, Markus: Gebäudedetektion auf Basis von Luftbildern und Punktwolken des Regionalverbands Ruhr. FOSSGIS Konferenz 2023 : Berlin, 15. - 18. März 2023, FOSSGIS e.V. et al., 2023. [https://doi.org/10.5446/61139](https://doi.org/10.5446/61139)
+
+
+<img src="logos/Logo_AdP-CS-rgb.png" width="30%"><img src="logos/LOGO_WID-rgb.png" width="30%"><img src="logos/mfn_logo_STANDARD_auf_weiss.png" width="30%">
+
+<img src="logos/BsW_Logo-m-Claim-WEB.png" width="30%"><img src="logos/BMBF_gefoerdert_vom_deutsch_online.jpg" width="30%"><img src="logos/BForschung_Logo_web.png" width="30%">
+
