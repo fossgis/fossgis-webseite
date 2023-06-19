@@ -9,6 +9,7 @@ menu:
 
 Unser Verein ist vielseitig aktiv und unterstützt sowohl ehrenamtliche Projkte als auch kommerzielle Branchen- und Interessensvereinigungen. Die folgenden Seiten geben Ihnen eine Überblick über die große Spannweite an Aktivitäten und geförderten Projekten:
 
+- [Citizen-Science-Projekt "Grüne Oasen oder Nachverdichtung?"](grueneoasen)
 - [Langzeitfördungen von ehrenamtlichen OpenSource Projekten](langzeitförderungen)
 - [FOSSGIS Konferenz](/konferenz)
 - [Local Chapter Arbeit für OpenStreetMap](openstreetmap)
