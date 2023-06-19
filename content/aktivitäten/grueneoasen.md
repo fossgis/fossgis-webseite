@@ -46,9 +46,9 @@ Die folgenden drei Kartenbeispiele zeigen einen Teil der Berliner Kleingartenkol
 Die OpenStreetMap-Karte besitzt einen viel höhren Detailgrad: Es sind die Umrisse der Lauben und die Parzellengrenzen eingezeichnet, beim Hineinzoomen erscheinen
 einzelne Bäume und Sträucher mit Bezeichnung der Art.
 
-### Das beste aus beiden Welten
+### Das Beste aus beiden Welten
 
-Bei den in OpenStreetMap erfassten Bäumen fehlen in der Regel die mikroklimatisch relevanten Parameter wie Höhe und Kronendurchmesser. Diese lassen sich mit Hilfe eines neu entwickelten machine-learning-basierten Verfahrens aus offenen Fernerkundungsdaten gewinnen, ebenso die Umrisse von Gebäuden. Die Verfahren wurden in zwei Vorträgen auf der diesjährigen FOSSGIS-Konferenz vorgestellt [[1](#1),[2](#2)] .  Mit den so erhaltenen Informationen über Baumstandorte, Baumhöhen und Baumkronendurchmesser können vorhandene OpenStreetMap-Daten vervollständigt werden. Die aus diesen Verfahren gewonnenen Daten können aber auch als Grundlage für die Kartierung weiterer Kleingartenkolonien und anderer innerstädtischer Grünanlagen in OpenStreetMap dienen.
+Bei den in OpenStreetMap erfassten Bäumen fehlen in der Regel die mikroklimatisch relevanten Parameter wie Höhe und Kronendurchmesser. Diese lassen sich mit Hilfe eines neu entwickelten machine-learning-basierten Verfahrens aus offenen Fernerkundungsdaten gewinnen, ebenso die Umrisse von Gebäuden. Die Verfahren wurden in zwei Vorträgen auf der diesjährigen [FOSSGIS-Konferenz](https://fossgis-konferenz.de/2023/) vorgestellt [[1](#1),[2](#2)] .  Mit den so erhaltenen Informationen über Baumstandorte, Baumhöhen und Baumkronendurchmesser können vorhandene OpenStreetMap-Daten vervollständigt werden. Die aus diesen Verfahren gewonnenen Daten können aber auch als Grundlage für die Kartierung weiterer Kleingartenkolonien und anderer innerstädtischer Grünanlagen in OpenStreetMap dienen.
 
 ### Und wozu Citzen Science und OpenStreetMap? Könnte man die Fernerkundungsdaten nicht auch direkt nutzen?
 
@@ -66,7 +66,7 @@ Fassaden (Albedo) eine Rolle. So können z.B. die Gartenlauben in einer Kleingar
 
 ### Was haben die Bürger&ast;innen von dem Projekt?
 
-Wir bringen Bürger&ast;innen, OpenStreetMap- und OpenSource-Communitys, Wissenschaftler&ast;innen und Stadtplaner&ast;innen zusammen. Die Bürger&ast;innen können eigene Forschungsfragen entwickeln. Sie können ihre eigenen Lebenswelterfahrungen mit dem in der Stadtklimaforschung bekanntem Wissen zusammenbringen (Gesteigertes Umweltbewusstsein und Stärkung der Handlungskompetenz) und sich somit aktiver als zuvor in Planungsprozesse einbringen (Verbesserte Stadtplanung und Entscheidungsfindung).
+Wir bringen Bürger&ast;innen, OpenStreetMap- und OpenSource-Communitys, Wissenschaftler&ast;innen und Stadtplaner&ast;innen zusammen. Die Bürger&ast;innen können eigene Forschungsfragen entwickeln, die im Projekt bearbeitet werden sollen. Sie können ihre eigenen Lebenswelterfahrungen mit dem in der Stadtklimaforschung bekanntem Wissen zusammenbringen und sich somit besser in Planungsprozesse einbringen.
 
 ### Und was bleibt, nachdem das Projekt abgeschlossen ist?
 
@@ -79,6 +79,13 @@ Fragestellungen.
 Die im Projekt entwickelten Konzepte lassen sich auf andere Kleingarten- bzw. Grünanlagen und auf andere Städte übertragen. Bürger&ast;innen, OpenStreetMap-Communitys und Wissenschaftler&ast;innen sollen überall zu ähnlichen Projekten ermutigt werden.
 Im Projekt entwickelte Software soll als freie OpenSource-Software dauerhaft zur Verfügung stehen.
 Messdaten, die im Rahmen des Projekts entstehen, beispielsweise zu Albedo oder Blattdichte, sollen gemäß der [FAIR](https://www.tu.berlin/ub/szf/informationen-tipps/leitlinien-empfehlungen)-Prinzipien dauerhaft verfügbar gemacht werden. 
+
+## Ansprechpersonen:
+
+- Oliver Rudzick csp@rudzick.de
+- Katja Haferkorn info@fossgis.de
+
+## Referenzen
 
 <a name="1"></a>[1] Weinmann, Anika; Krisztian, Lina; Metz, Markus; Krelaus, Leonie; Nießen, Inga-Mareike: Automatisierte Detektion von Baumstandorten in der Metropole Ruhr. FOSSGIS Konferenz 2023 : Berlin, 15. - 18. März 2023, FOSSGIS e.V. et al., 2023. [https://doi.org/10.5446/61099](https://doi.org/10.5446/61099)
 
