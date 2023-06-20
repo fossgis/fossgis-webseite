@@ -11,6 +11,10 @@ des Wettbewerbs ["Auf die Plätze! Citizen Science in deiner Stadt"](https://www
 
 Bis Ende Juli soll die Idee zu einem Konzept weiterentwickelt werden.  Drei der Vorhaben werden im September von der Jury ausgezeichnet und erhalten ein Preisgeld, um ihre Idee zu verwirklichen. Die Umsetzungsphase ist dann vom Oktober 2023 bis September 2024.
 
+## Abstimmung Publikumspunkte
+Bis zum 21.07.2023 können wir in einer Online-Abstimmung Publikumspunkte sammeln. Bitte unterstützen Sie unser Projekt mit Ihrer Stimme bei der Online-Abstimmung.
+Der Abstimmunglink ist ab 21.06. auf der [Webseite](https://www.citizenscience-wettbewerb.de/) des Wettbewerbs zu finden. Dort findet sich auch unser [Projektsteckbrief](https://www.citizenscience-wettbewerb.de/blog/nachgefragt-gruene-oasen-oder-nachverdichtung-wirkung-innerstaedtischer-gruenanlagen-auf-das)
+
 ## Unsere Ideenskizze als Schlaglicht
 
 Der Klimawandel begünstigt extreme Hitzeereignisse mit erheblichen Auswirkungen auf städtische Gebiete. Innerstädtisches Grün wie beispielsweise Kleingärten
