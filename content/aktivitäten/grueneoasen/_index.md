@@ -13,7 +13,7 @@ Bis Ende Juli soll die Idee zu einem Konzept weiterentwickelt werden.  Drei der 
 
 ## Abstimmung Publikumspunkte
 Bis zum 21.07.2023 können wir in einer Online-Abstimmung Publikumspunkte sammeln. Bitte unterstützen Sie unser Projekt mit Ihrer Stimme bei der Online-Abstimmung.
-Der Abstimmunglink ist ab 21.06. auf der [Webseite](https://www.citizenscience-wettbewerb.de/) des Wettbewerbs zu finden. Dort findet sich auch unser [Projektsteckbrief](https://www.citizenscience-wettbewerb.de/blog/nachgefragt-gruene-oasen-oder-nachverdichtung-wirkung-innerstaedtischer-gruenanlagen-auf-das)
+Der Abstimmunglink ist ab 21.06. auf der [Webseite](https://pollunit.com/de/polls/citizenscience-wettbewerb) des Wettbewerbs zu finden. Dort findet sich auch unser [Projektsteckbrief](https://www.citizenscience-wettbewerb.de/blog/nachgefragt-gruene-oasen-oder-nachverdichtung-wirkung-innerstaedtischer-gruenanlagen-auf-das)
 
 ## Unsere Ideenskizze als Schlaglicht
 
