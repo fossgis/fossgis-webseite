@@ -13,7 +13,7 @@ Bis Ende Juli soll die Idee zu einem Konzept weiterentwickelt werden.  Drei der 
 
 ## Abstimmung Publikumspunkte
 Bis zum 21.07.2023 können wir in einer Online-Abstimmung Publikumspunkte sammeln. Bitte unterstützen Sie unser Projekt mit Ihrer Stimme bei der Online-Abstimmung.
-Der Abstimmunglink ist ab 21.06. auf der [Webseite](https://pollunit.com/de/polls/citizenscience-wettbewerb) des Wettbewerbs zu finden. Dort findet sich auch unser [Projektsteckbrief](https://www.citizenscience-wettbewerb.de/blog/nachgefragt-gruene-oasen-oder-nachverdichtung-wirkung-innerstaedtischer-gruenanlagen-auf-das)
+Der [Abstimmunglink](https://pollunit.com/de/polls/citizenscience-wettbewerb) ist auf der [Webseite](https://www.citizenscience-wettbewerb.de/) des Wettbewerbs zu finden. Dort findet sich auch unser [Projektsteckbrief](https://www.citizenscience-wettbewerb.de/blog/nachgefragt-gruene-oasen-oder-nachverdichtung-wirkung-innerstaedtischer-gruenanlagen-auf-das)
 
 ## Unsere Ideenskizze als Schlaglicht
 
@@ -43,11 +43,13 @@ die öffentlichen Geodaten sehr gut ergänzen.
 
 Die folgenden drei Kartenbeispiele zeigen einen Teil der Berliner Kleingartenkolonie "Am Stadtpark I"
 (ein Klick auf den Link führt auf die interaktive Karte):
-- [ALKIS](https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=wmsk_alkis@senstadt&bbox=386837,5815890,387152,5816170) als Beispiel für amtliche Geodaten
-- [bildbasiertes Digitales Oberflächenmodell (bDOM)](https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=k_dom@senstadt&bbox=386855,5815904,387133,5816166) als Beispiel für die Information aus offenen Fernerkundungsdaten
-- [OpenStreetMap-Karte](https://obstbaumkarte.de/#map=18/1484574.59/6887895.58/0)
+[ALKIS](https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=wmsk_alkis@senstadt&bbox=386837,5815890,387152,5816170) als Beispiel für amtliche Geodaten (links),
+[bildbasiertes Digitales Oberflächenmodell (bDOM)](https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=k_dom@senstadt&bbox=386855,5815904,387133,5816166) als Beispiel für die Information aus offenen Fernerkundungsdaten (mittleres Bild), [OpenStreetMap-Karte](https://obstbaumkarte.de/#map=18/1484574.59/6887895.58/0) (rechts).
 
-Die OpenStreetMap-Karte besitzt einen viel höhren Detailgrad: Es sind die Umrisse der Lauben und die Parzellengrenzen eingezeichnet, beim Hineinzoomen erscheinen
+<a href="https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=wmsk_alkis@senstadt&bbox=386837,5815890,387152,5816170" style="margin: 0px; padding: 0px;"><img src="screenshots/2023_06_21_geoportal_berlin_screenshot_alkis.png" alt="ALKIS - Geoportal Berlin" style="vertical-align:middle;margin:0px 5px; width: 30%; max-width: 250px; min-width: 20px;"></a>
+<a href="https://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=zoomStart&mapId=k_dom@senstadt&bbox=386855,5815904,387133,5816166" style="margin: 0px; padding: 0px;"><img src="screenshots/2023_06_21_screenshot_geoportal_berlin_bDOM.png" alt="bDOM - Geoportal Berlin" style="vertical-align:middle;margin:0px 5px; width: 30%; max-width: 250px;min-width: 20px;"></a><iframe src="https://obstbaumkarte.de/iframe/#map=17/1484575.79/6887862.43/0" title="obstbaumkarte.de" scrolling="no" allowfullscreen="yes" style="vertical-align:middle;margin:0px 5px;  padding 0px; border: none; overflow: hidden; width: 30%; max-width: 250px;  min-width: 20px; aspect-ratio: 250/500;"></iframe> 
+
+Die OpenStreetMap-Karte besitzt einen viel höheren Detailgrad: Es sind die Umrisse der Lauben und die Parzellengrenzen eingezeichnet, beim Hineinzoomen erscheinen
 einzelne Bäume und Sträucher mit Bezeichnung der Art.
 
 ### Das Beste aus beiden Welten
