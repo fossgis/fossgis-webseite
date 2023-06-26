@@ -1,5 +1,5 @@
 ---
-title: "Cititzen-Science-Projekt"
+title: "Citizen-Science-Projekt"
 menu:
   side:
     parent: Aktivitäten
