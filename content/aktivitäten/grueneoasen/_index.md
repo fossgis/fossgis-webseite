@@ -15,6 +15,8 @@ Bis Ende Juli soll die Idee zu einem Konzept weiterentwickelt werden.  Drei der 
 Bis zum 21.07.2023 können wir in einer Online-Abstimmung Publikumspunkte sammeln. Bitte unterstützen Sie unser Projekt mit Ihrer Stimme bei der Online-Abstimmung.
 Der [Abstimmunglink](https://pollunit.com/de/polls/citizenscience-wettbewerb) ist auf der [Webseite](https://www.citizenscience-wettbewerb.de/) des Wettbewerbs zu finden. Dort findet sich auch unser [Projektsteckbrief](https://www.citizenscience-wettbewerb.de/blog/nachgefragt-gruene-oasen-oder-nachverdichtung-wirkung-innerstaedtischer-gruenanlagen-auf-das)
 
+[**Hier geht es direkt zur Abstimmung**](https://pollunit.com/de/polls/citizenscience-wettbewerb)
+
 ## Unsere Ideenskizze als Schlaglicht
 
 Der Klimawandel begünstigt extreme Hitzeereignisse mit erheblichen Auswirkungen auf städtische Gebiete. Innerstädtisches Grün wie beispielsweise Kleingärten
