@@ -93,6 +93,8 @@ Messdaten, die im Rahmen des Projekts entstehen, beispielsweise zu Albedo oder B
 - Oliver Rudzick csp@rudzick.de
 - Katja Haferkorn info@fossgis.de
 
+[**Projektflyer zum Herunterladen als Pdf**](https://files.fossgis.de/Koordinierungsstelle/Material_grueneOasen/Flyer_GrueneOasen_A4hoch.pdf)
+
 ## Referenzen
 
 <a name="1"></a>[1] Weinmann, Anika; Krisztian, Lina; Metz, Markus; Krelaus, Leonie; Nießen, Inga-Mareike: Automatisierte Detektion von Baumstandorten in der Metropole Ruhr. FOSSGIS Konferenz 2023 : Berlin, 15. - 18. März 2023, FOSSGIS e.V. et al., 2023. [https://doi.org/10.5446/61099](https://doi.org/10.5446/61099)
