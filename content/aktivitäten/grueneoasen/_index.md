@@ -4,6 +4,8 @@ menu:
   side:
     parent: Aktivitäten
     weight: 20
+aliases:
+  - /grueneoasen
 ---
 Die vom FOSSGIS e.V., der [Technischen Universität Berlin](https://www.tu.berlin/klima) und der [Kleingartenkolonie "Am Stadtpark I" e.V.](https://www.kolonie-am-stadtpark.de) eingereichte
 Ideenskizze  ***Grüne Oasen oder Nachverdichtung? – Wirkung innerstädtischer Grünanlagen auf das Stadtklima*** hat es unter die zehn Finalist&ast;innen
