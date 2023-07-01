@@ -7,14 +7,14 @@ menu:
 aliases:
   - /grueneoasen
 ---
-Die vom FOSSGIS e.V., der [Technischen Universität Berlin](https://www.tu.berlin/klima) und der [Kleingartenkolonie "Am Stadtpark I" e.V.](https://www.kolonie-am-stadtpark.de) eingereichte
-Ideenskizze  ***Grüne Oasen oder Nachverdichtung? – Wirkung innerstädtischer Grünanlagen auf das Stadtklima*** hat es unter die zehn Finalist&ast;innen
-des Wettbewerbs ["Auf die Plätze! Citizen Science in deiner Stadt"](https://www.citizenscience-wettbewerb.de/) geschafft.
+<div style="text-align: center; width: 100%;max-width: 600px;"><img src="artwork/social_GrueneOasen_quer.png" style="width: 95%; max-width: 700px;" ></div>
 
-Bis Ende Juli soll die Idee zu einem Konzept weiterentwickelt werden.  Drei der Vorhaben werden im September von der Jury ausgezeichnet und erhalten ein Preisgeld, um ihre Idee zu verwirklichen. Die Umsetzungsphase ist dann vom Oktober 2023 bis September 2024.
+Die vom FOSSGIS e.V., der [Technischen Universität Berlin](https://www.tu.berlin/klima) und der Berliner [Kleingartenkolonie "Am Stadtpark I" e.V.](https://www.kolonie-am-stadtpark.de) eingereichte
+Ideenskizze  ***Grüne Oasen oder Nachverdichtung? – Wirkung innerstädtischer Grünanlagen auf das Stadtklima*** hat es unter die zehn Finalist&ast;innen
+des Wettbewerbs ["Auf die Plätze! Citizen Science in deiner Stadt"](https://www.citizenscience-wettbewerb.de/) geschafft. Bis Ende Juli soll die Idee zu einem Konzept weiterentwickelt werden.  Drei der Vorhaben werden im September von der Jury ausgezeichnet und erhalten ein Preisgeld von <span style="white-space:nowrap">50&thinsp;000&thinsp;&euro;</span>, um ihre Idee zu verwirklichen. Die Umsetzungsphase ist dann von Oktober 2023 bis September 2024.
 
 ## Abstimmung Publikumspunkte
-Bis zum 21.07.2023 können wir in einer Online-Abstimmung Publikumspunkte sammeln. Bitte unterstützen Sie unser Projekt mit Ihrer Stimme bei der Online-Abstimmung.
+Bis zum **21.07.2023** können wir in einer Online-Abstimmung Publikumspunkte sammeln. Bitte unterstützen Sie unser Projekt mit Ihrer Stimme bei der Online-Abstimmung.
 Der [Abstimmunglink](https://pollunit.com/de/polls/citizenscience-wettbewerb) ist auf der [Webseite](https://www.citizenscience-wettbewerb.de/) des Wettbewerbs zu finden. Dort findet sich auch unser [Projektsteckbrief](https://www.citizenscience-wettbewerb.de/blog/nachgefragt-gruene-oasen-oder-nachverdichtung-wirkung-innerstaedtischer-gruenanlagen-auf-das)
 
 [**Hier geht es direkt zur Abstimmung**](https://pollunit.com/de/polls/citizenscience-wettbewerb)
