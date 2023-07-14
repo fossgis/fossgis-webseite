@@ -7,6 +7,8 @@ menu:
 aliases:
   - /grueneoasen
 description: Die vom FOSSGIS e.V., der TU Berlin und der Berliner Kleingartenkolonie "Am Stadtpark I" eingereichte Ideenskizze  ***Grüne Oasen oder Nachverdichtung? – Wirkung innerstädtischer Grünanlagen auf das Stadtklima*** ist im Finale des Wettbewerbs "Auf die Plätze! Citizen Science in deiner Stadt.".  Bis zum **21.07.2023** können wir in einer Online-Abstimmung Publikumspunkte sammeln. Bitte unterstützen Sie unser Projekt mit Ihrer Stimme bei der Online-Abstimmung.
+images:
+  - /aktivitäten/grueneoasen/artwork/GrüneOasen_2023_FOSSGIS_web_kl.jpg
 ---
 [**Grüne Oasen oder Nachverdichtung - Online-Abstimmung bis  21.07.**](#Abstimmung)
 
