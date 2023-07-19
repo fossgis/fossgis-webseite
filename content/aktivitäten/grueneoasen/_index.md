@@ -6,20 +6,20 @@ menu:
     weight: 20
 aliases:
   - /grueneoasen
-description: Die vom FOSSGIS e.V., der TU Berlin und der Berliner Kleingartenkolonie "Am Stadtpark I" eingereichte Ideenskizze  ***Grüne Oasen oder Nachverdichtung? – Wirkung innerstädtischer Grünanlagen auf das Stadtklima*** ist im Finale des Wettbewerbs "Auf die Plätze! Citizen Science in deiner Stadt.".  Bis zum **21.07.2023** können wir in einer Online-Abstimmung Publikumspunkte sammeln. Bitte unterstützen Sie unser Projekt mit Ihrer Stimme bei der Online-Abstimmung.
+description: Die vom FOSSGIS e.V., der TU Berlin und der Berliner Kleingartenkolonie "Am Stadtpark I" eingereichte Ideenskizze  ***Grüne Oasen – Wirkung innerstädtischer Grünflächen auf das Stadtklima*** ist im Finale des Wettbewerbs "Auf die Plätze! Citizen Science in deiner Stadt.".  Bis zum **21.07.2023** können wir in einer Online-Abstimmung Publikumspunkte sammeln. Bitte unterstützen Sie unser Projekt mit Ihrer Stimme bei der Online-Abstimmung.
 images:
   - /aktivitäten/grueneoasen/artwork/GrüneOasen_2023_FOSSGIS_web_kl.jpg
 ---
-[**Grüne Oasen oder Nachverdichtung - Online-Abstimmung bis  21.07.**](#Abstimmung)
+[**Grüne Oasen - Online-Abstimmung bis  21.07.**](#Abstimmung)
 
 <div style="text-align: center; width: 100%;max-width: 700px;"><a href="artwork/GrüneOasen_2023_FOSSGIS_web.jpg"><img src="artwork/GrüneOasen_2023_FOSSGIS_web_kl.jpg" style="width: 95%; max-width: 700px;" ></a></div>
 
 Die vom FOSSGIS e.V., der [Technischen Universität Berlin](https://www.tu.berlin/klima) und der Berliner [Kleingartenkolonie "Am Stadtpark I" e.V.](https://www.kolonie-am-stadtpark.de) eingereichte
-Ideenskizze  ***Grüne Oasen oder Nachverdichtung? – Wirkung innerstädtischer Grünanlagen auf das Stadtklima*** hat es unter die zehn Finalist&ast;innen
+Ideenskizze  ***Grüne Oasen – Wirkung innerstädtischer Grünflächen auf das Stadtklima*** hat es unter die zehn Finalist&ast;innen
 des Wettbewerbs ["Auf die Plätze! Citizen Science in deiner Stadt"](https://www.citizenscience-wettbewerb.de/) geschafft. Bis Ende Juli soll die Idee zu einem Konzept weiterentwickelt werden.  Drei der Vorhaben werden im September von der Jury ausgezeichnet und erhalten ein Preisgeld von <span style="white-space:nowrap">50&thinsp;000&thinsp;&euro;</span>, um ihre Idee zu verwirklichen. Die Umsetzungsphase ist dann von Oktober 2023 bis September 2024.
 
 ## <a name="Abstimmung"></a>Abstimmung Publikumspunkte
-Bis zum **21.07.2023** können wir in einer Online-Abstimmung Publikumspunkte sammeln. Bitte unterstützen Sie unser Projekt mit Ihrer Stimme bei der Online-Abstimmung.
+Bis zum **21.07.2023** können wir in einer Online-Abstimmung Publikumspunkte sammeln. Bitte unterstützen Sie unser Projekt ***Grüne Oasen*** mit Ihrer Stimme bei der Online-Abstimmung.
 Der [Abstimmunglink](https://pollunit.com/de/polls/citizenscience-wettbewerb) ist auf der [Webseite](https://www.citizenscience-wettbewerb.de/) des Wettbewerbs zu finden. Dort findet sich auch unser [Projektsteckbrief](https://www.citizenscience-wettbewerb.de/blog/nachgefragt-gruene-oasen-oder-nachverdichtung-wirkung-innerstaedtischer-gruenanlagen-auf-das)
 
 [**Hier geht es direkt zur Abstimmung**](https://pollunit.com/de/polls/citizenscience-wettbewerb)
