@@ -1,16 +1,14 @@
 ---
-title: "Beratungsstelle OpenStreetMap im FOSSGIS e.V."
+title: "Stellenausschreibung Beratungsstelle OpenStreetMap im FOSSGIS e.V."
 menu:
   side:
     parent: Aktivitäten
-    weight: 30
+    weight: 5
 aliases:
   - /osmstelle
-description: Der  FOSSGIS e.V schafft eine Stelle.... .
-
+description: Der  FOSSGIS e.V schafft eine Stelle, die sich der Beratung rund um OpenStreetMap widmet. Jetzt bewerben.
+images:
 ---
-
-<h1>Stellenausschreibung OSM-Berater:in</h1>
 
 ### Worte an die Community 
 Der FOSSGIS e.V. ist als Local Chapter der OpenStreetMap Foundation offizieller Ansprechpartner zu OSM-Fragen in Deutschland. Wir freuen uns, dass viele OSM-Aktive im FOSSGIS e.V. Mitglied sind und sich mit den unterschiedlichsten OSM-Themen befassen.
@@ -29,7 +27,7 @@ Der FOSSGIS e.V. ist ein gemeinnütziger Verein mit dem Ziel freie Software aus 
 OSM-Berater:in (m/w/d) im Umfang von 20 h/Woche befristet für 2 Jahre.
 
 #### Deine Aufgaben:
-* Zusammenarbeit mit der und Unterstützung der OSM-Community bei der Vernetzung und Organisation (z.B. von Community-Treffen, Messeauftritten, Mapping-Events).
+* Zusammenarbeit mit der und Unterstützung der OSM-Community bei der Vernetzung und Organisation (z.B. von Community-Treffen, Messeauftritten, Mapping-Events, OSM-Samstag).
 * Unterstützung der FOSSGIS-Koordinierungsstelle bei Themen zu OpenStreetMap.
 * Erstellen und Pflege von Dokumentationen und Webseiten (openstreetmap.de) die vom FOSSGIS betrieben werden.
 * Förderung der Vernetzung von OSM-Aktiven und Behörden, Bildungseinrichtungen sowie halbstaatlichen und zivilgesellschaftlichen Organisationen.
