@@ -5,7 +5,7 @@ menu:
     parent: Aktivitäten
     weight: 5
 aliases:
-  - /osmstelle
+  - /osm-stelle
 description: Der  FOSSGIS e.V schafft eine Stelle, die sich der Beratung rund um OpenStreetMap widmet. Jetzt bewerben.
 images:
 ---
