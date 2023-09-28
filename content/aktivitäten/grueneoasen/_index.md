@@ -17,8 +17,10 @@ images:
 
 Der  FOSSGIS e.V hat das Konzept ***Grüne Oasen – Wirkung innerstädtischer Grünflächen auf das Stadtklima*** gemeinsam mit der [Technischen Universität Berlin](https://www.tu.berlin/klima) sowie den Berliner Kleingartenkolonien ["Am Stadtpark I" e.V.](https://www.kolonie-am-stadtpark.de) und ["Grüne Aue"](https://kleingartenkolonie-gruene-aue.de/) für die zweite Stufe des bundesweiten Wettbewerbs ["Auf die Plätze! Citizen Science in deiner Stadt"](https://www.citizenscience-wettbewerb.de/) eingereicht. Das Konzept ist aus einer Ideenskizze entwickelt worden, die in der ersten Wettbewerbsstufe gemeinsam mit neun anderen Einreichungen für das Finale ausgewählt wurde. Drei dieser zehn Vorhaben werden im September von der Jury ausgezeichnet und erhalten ein Preisgeld von <span style="white-space:nowrap">50&thinsp;000&thinsp;&euro;</span>, um ihre Idee zu verwirklichen. Die Umsetzungsphase ist dann von Oktober 2023 bis September 2024.
 
+Leider wurde unser Projekt nicht für die Förderung ausgewählt. Wir gratulieren den drei Gewinnern ganz herzlich und danken allen, die uns unterstützt haben, ganz besonders den Organisator:innen des Wettbewerbs. Gemeinsam mit den anderen Beteiligten wollen wir ausloten, was von unserer Idee auch ohne die Förderung im Rahmen dieses Wettbewerbs umgesetzt werden kann.
+
 ## <a name="Abstimmung"></a>Abstimmung Publikumspunkte
-In einer [Online-Abstimmung](https://pollunit.com/de/polls/citizenscience-wettbewerb) konnten wir bis zum 21.07.2023 Publikumspunkte sammeln. Unser Projekt erhielt 481 Stimmen. Wir danken allen, die uns unterstützt haben.
+In einer [Online-Abstimmung](https://pollunit.com/de/polls/citizenscience-wettbewerb) konnten wir bis zum 21.07.2023 Publikumspunkte sammeln. Unser Projekt erhielt 481 Stimmen.
 
 ## Unsere Ideenskizze als Schlaglicht
 
