@@ -11,7 +11,7 @@ OSGeoLive bietet Ihnen die Möglichkeit, Freie und OpenSource Software in Verbin
 
 ![](https://www.fossgis.de/w/images/7/71/Osgeolive.png)
 
-Der FOSSGIS e.V. unterstützt OSGeoLive aktiv und setzt OSGeoLive auf der FOSSGIS Konferenz ein. Durch das Engagement einiger Vereinsmitglieder liegt OSGeoLive auch in deutscher Sprache vor.  
+Der FOSSGIS e.V. unterstützt OSGeoLive aktiv und setzt OSGeoLive auf der FOSSGIS Konferenz in den Workshops ein. Durch das Engagement einiger Vereinsmitglieder liegt OSGeoLive auch in deutscher Sprache vor.  
 Zudem wird die OSGeoLive auf Veranstaltungen wie der Intergeo, AGIT oder der FOSSGIS vom FOSSGIS e.V. beworben und verteilt.
 
 OSGeoLive ist eine bootfähige DVD, ein USB-Stick oder eine virtuelle Maschine basierend auf Lubuntu, die es Ihnen ermöglicht, eine Vielzahl von Open Source GIS Software auszuprobieren.
@@ -22,7 +22,7 @@ OSGeoLive besteht ausschließlich aus Freier Software, die Sie beliebig weiterge
 
 **Mitmachen!** Jede/r ist herzlich eingeladen bei dem Projekt mitzumachen. Beim Testing und der Übersetzung werden immer Aktive gesucht.
 
-* [Kontakt zum OSGeoLive Projekt](https://wiki.osgeo.org/wiki/Live_GIS_Disc#Contact_Us)
-* [Transifex zur Übersetzung von OSGeoLive](https://www.transifex.com/osgeo/osgeolive/)
+* [Kontakt zum OSGeoLive Projekt](https://live.osgeo.org/de/contact.html)
+* [Weblate zur Übersetzung von OSGeoLive](https://weblate.osgeo.org/projects/osgeolive/)
 
 Haben wir Ihr Interesse geweckt? Dann geht es [hier zum Download...](https://live.osgeo.org/de/download.html)
