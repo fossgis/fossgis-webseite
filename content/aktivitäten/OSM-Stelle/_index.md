@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Stellenausschreibung Beratungsstelle OpenStreetMap im FOSSGIS e.V."
 menu:
   side:
