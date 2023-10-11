@@ -10,7 +10,7 @@ description: Der  FOSSGIS e.V schafft eine Stelle, die sich der Beratung rund um
 images:
 ---
 
-### Worte an die Community 
+<!-- ### Worte an die Community 
 Der FOSSGIS e.V. ist als Local Chapter der OpenStreetMap Foundation offizieller Ansprechpartner zu OSM-Fragen in Deutschland. Wir freuen uns, dass viele OSM-Aktive im FOSSGIS e.V. Mitglied sind und sich mit den unterschiedlichsten OSM-Themen befassen.
 
 Die OSM-Community ist sehr informell strukturiert und kommt mit wenigen Richtlinien aus. Viele OSM-Aktive kennen sich über lokale oder thematische Vernetzungen. Viele OSM-Aktive mappen für sich und tragen einen großen Anteil zur Qualität, Aktualität und Detailgenauigkeit der OSM-Daten in ihrem Umfeld, ihrer Region oder in einem spezifischen Themenbereich bei. Diese Form der Selbstorganisation funktioniert seit fast 20 Jahren sehr gut.
