@@ -7,7 +7,7 @@ menu:
 aliases:
   - /osm-stelle
 description: Der  FOSSGIS e.V schafft eine Stelle, die sich der Beratung rund um OpenStreetMap widmet. Jetzt bewerben.
-images:
+images:-->
 ---
 
 <!-- ### Worte an die Community 
@@ -52,4 +52,4 @@ OSM-Berater:in (m/w/d) im Umfang von 20 h/Woche befristet für 2 Jahre.
 Interesse? Dann sprich uns an oder lass uns deine Bewerbung mit 
 Gehalts-/Honorarvorstellung bis zum 29.09.2023 zukommen per E-Mail an vorstand@fossgis.de.
 
-[1] https://www.deutsche-stiftung-engagement-und-ehrenamt.de/foerderung/transformd/
+[1] https://www.deutsche-stiftung-engagement-und-ehrenamt.de/foerderung/transformd/-->
