@@ -1,5 +1,5 @@
----
-<!-- title: "Stellenausschreibung Beratungsstelle OpenStreetMap im FOSSGIS e.V."
+<!-- ---
+title: "Stellenausschreibung Beratungsstelle OpenStreetMap im FOSSGIS e.V."
 menu:
   side:
     parent: Aktivitäten
