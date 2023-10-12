@@ -9,7 +9,7 @@ menu:
 
 Unser Verein ist vielseitig aktiv und unterstützt sowohl ehrenamtliche Projkte als auch kommerzielle Branchen- und Interessensvereinigungen. Die folgenden Seiten geben Ihnen eine Überblick über die große Spannweite an Aktivitäten und geförderten Projekten:
 
-<!-- - [Stellenausschreibung Beratungsstelle OpenStreetMap](osm-stelle)-->
+- [Stellenausschreibung Beratungsstelle OpenStreetMap](osm-stelle)
 - [Citizen-Science-Projekt "Grüne Oasen - Wirkung innerstädtischer Grünflächen auf das Stadtklima"](grueneoasen)
 - [Langzeitfördungen von ehrenamtlichen OpenSource Projekten](langzeitförderungen)
 - [FOSSGIS Konferenz](/konferenz)

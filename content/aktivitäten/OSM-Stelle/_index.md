@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Stellenausschreibung Beratungsstelle OpenStreetMap im FOSSGIS e.V."
 menu:
   side:
@@ -7,10 +7,10 @@ menu:
 aliases:
   - /osm-stelle
 description: Der  FOSSGIS e.V schafft eine Stelle, die sich der Beratung rund um OpenStreetMap widmet. Jetzt bewerben.
-images:-->
+images:
 ---
 
-<!-- ### Worte an die Community 
+### Worte an die Community 
 Der FOSSGIS e.V. ist als Local Chapter der OpenStreetMap Foundation offizieller Ansprechpartner zu OSM-Fragen in Deutschland. Wir freuen uns, dass viele OSM-Aktive im FOSSGIS e.V. Mitglied sind und sich mit den unterschiedlichsten OSM-Themen befassen.
 
 Die OSM-Community ist sehr informell strukturiert und kommt mit wenigen Richtlinien aus. Viele OSM-Aktive kennen sich über lokale oder thematische Vernetzungen. Viele OSM-Aktive mappen für sich und tragen einen großen Anteil zur Qualität, Aktualität und Detailgenauigkeit der OSM-Daten in ihrem Umfeld, ihrer Region oder in einem spezifischen Themenbereich bei. Diese Form der Selbstorganisation funktioniert seit fast 20 Jahren sehr gut.
@@ -52,4 +52,4 @@ OSM-Berater:in (m/w/d) im Umfang von 20 h/Woche befristet für 2 Jahre.
 Interesse? Dann sprich uns an oder lass uns deine Bewerbung mit 
 Gehalts-/Honorarvorstellung bis zum 29.09.2023 zukommen per E-Mail an vorstand@fossgis.de.
 
-[1] https://www.deutsche-stiftung-engagement-und-ehrenamt.de/foerderung/transformd/-->
+[1] https://www.deutsche-stiftung-engagement-und-ehrenamt.de/foerderung/transformd/
