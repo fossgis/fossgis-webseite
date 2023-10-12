@@ -21,13 +21,15 @@
             <div class="col-sm-6 col-md-6 col-lg-4">
                 <div class="provider-item flex">
                     <div class="provider-item-logo">
-                        <a href="{{ .RelPermalink }}">
-                            <img src="/dienstleister/{{ .Params.Logo }}">
-                        </a>
+                        <div>
+                            <a href="{{ .RelPermalink }}">
+                                <img src="/dienstleister/{{ .Params.Logo }}">
+                            </a>
+                        </div>
                     </div>
-
-                    <h4>{{ .Title }}</h4>
-
+                    <div class="provider-item-title">
+                        <h4>{{ .Title }}</h4>
+                    </div>
                     <div class="provider-item-badges">
                         {{ range .Params.Categories }}
                             <span class="provider-badge">{{ . }}</span>

@@ -1,6 +1,5 @@
 ---
-title: GKG - Dr.-Ing. Claas Leiner (Geodatenservice, Kartenwerkstatt und Gis-Schule)
-link: http://gkg-kassel.de
+title: GKG - Dr.-Ing. Claas Leiner
 logo: 019_gkg_logo.png
 kind: Einzelperson
 logo2x: 019_gkg_logo@2x.png
