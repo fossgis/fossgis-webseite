@@ -1,5 +1,6 @@
 ---
 title: GKG - Dr.-Ing. Claas Leiner
+link: http://gkg-kassel.de
 logo: 019_gkg_logo.png
 kind: Einzelperson
 logo2x: 019_gkg_logo@2x.png
