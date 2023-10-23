@@ -2,6 +2,9 @@
 title: "KonGeoS in Oldenburg"
 date: "2023-10-23"
 author: "Maik Sydoruk , Katja Haferkorn"
+description: Der  FOSSGIS e.V hat sich auf der KonGeoS in Oldenburg vorgestellt.
+images:
+  - /news/images/2023-10-20_Kongeos_Stand_04.jpg
 ---
 # FOSSGIS e.V. auf der KonGeoS in Oldenburg
 
