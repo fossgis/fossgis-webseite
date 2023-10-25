@@ -10,7 +10,7 @@ images:
 
 Vom 19.-22.10.2023 fand die [KonGeoS in Oldenburg](https://oldenburg23.kongeos.xyz/) statt. Die KonGeoS ist die Konferenz der Geodäsie-Studierenden der Hochschulen im DACH-Raum und findet zwei mal im Jahr statt.  Ziel ist es die Studierenden der 22 Geodäsie-Fachschaften aus Deutschland, Österreich und der Schweiz miteinander zu vernetzen. Die KonGeoS tourt, ähnlich wie die FOSSGIS-Konferenz, dabei durch die Universitäten und Hochschulen des DACH-Raumes.
 
-Der FOSSGIS e.V. hat die diesjährige Herbstausgabe der KonGeoS als Hauptsponsor finanziell maßgeblich durch die Finanzierung der Konferenz-T-Shirts unterstützt.   
+Der FOSSGIS e.V. hat die diesjährige Herbstausgabe der KonGeoS-Studierendenkonferenzals maßgeblich durch die Finanzierung der Konferenz-T-Shirts unterstützt.   
 ![Foto T-Shirt](/news/images/2023-10-20_Kongeos_Oldenburg_T-Shirts.jpg)   
 *blau Helfer:innenshirt, weiß Shirt für Teilnehmende, rot Orgateam*
 
