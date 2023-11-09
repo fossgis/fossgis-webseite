@@ -6,6 +6,8 @@ menu:
     weight: 40
 ---
 
+Der Verein wurde unter der Nummer 90 VR 3594 am 18. Januar 2001 bei der Stadt Mainz eingetragen.
+
 ### §1 Name, Sitz, Geschäftsjahr
 
 Der Verein führt den Namen FOSSGIS e.V. (Verein zur Förderung Freier (und) Open Source Software (für) Geoinformationssysteme e.V.). Der Sitz des Vereins ist Mainz und ist in das Vereinsregister eingetragen. Das Geschäftsjahr entspricht dem Kalenderjahr.  
@@ -50,19 +52,27 @@ Die Vereinsorgane sind:
 
 ### §7 Vorstand
 
-Dem Vorstand können nur natürliche Personen angehören, er wird aus der Mitgliederversammlung gewählt. Der Vorstand wird für ein Jahr gewählt. Der Vorstand arbeitet ehrenamtlich. Der Vorstand besteht aus jeweils einer Person für Vorsitz, zweiten Vorsitz, Kassenführung und Schriftführung. Die Mitglieder des Vorstandes sind einzelvertretungsberechtigt.
-
-Der Vorstand kann Beschlüsse fassen, Beschlüssen des Vorstandes müssen mindestens drei der Vorstandsmitglieder zustimmen. Der Vorstand kann für spezielle Aufgaben Bevollmächtigte ernennen. Der gesamte Vorstand oder einzelne Vorstandsmitglieder können vorzeitig abgewählt werden. Dazu ist eine Zweidrittelmehrheit der Mitgliederversammlung nötig. Es müssen bei der Mitgliederversammlung mindestens 30% der Mitglieder anwesend sein.  
+Dem Vorstand können nur natürliche Personen angehören, er wird von der Mitgliederversammlung gewählt. Der Vorstand wird für zwei Jahre gewählt. Der Vorstand arbeitet ehrenamtlich. Der Vorstand besteht aus jeweils einer Person für Vorsitz, zweiten Vorsitz, Kassenführung und
+Schriftführung. Die Mitglieder des Vorstandes sind einzelvertretungsberechtigt. Im Falle des Rücktritts eines Vorstandsmitglieds ist der verbleibende Vorstand berechtigt, ein
+Vereinsmitglied kommissarisch in den Vorstand zu berufen. Die Nachwahl des kommissarisch besetzten Postens hat auf der nächsten regulären Mitgliederversammlung zu erfolgen. Die Wahl erfolgt für die Restdauer der regulären Amtszeit des bestehenden Vorstands.
 
 ### §8 Mitgliederversammlung
 
-Eine ordentliche Mitgliederversammlung findet mindestens einmal pro Geschäftsjahr statt. Der Vorstand hat die ordentliche Mitgliederversammlung einzuberufen und muss die Vereinsmitglieder mindestens vier Wochen vorher schriftlich oder per E-Mail einladen. Es gilt der Poststempel bzw. das Absendedatum der E-Mail. Der Einladung ist die Tagesordnung beizulegen. Eine außerordentliche Mitgliederversammlung kann von mindestens 20% der Vereinsmitglieder durch schriftlichen Antrag beim Vorstand einberufen werden. Der Vorstand muss innerhalb von zwei Monaten eine außerordentliche Mitgliederversammlung einberufen. Der schriftlichen oder elektronischen Einladung, die wenigstens 3 Wochen vorher versendet werden muss, ist die Tagesordnung beizulegen, einschließlich der beantragten Tagesordnungspunkte. Die Mitgliederversammlung ist bei Anwesenheit mindestens sieben stimmberechtigten Personen, beschlussfähig.
+Eine ordentliche Mitgliederversammlung findet mindestens einmal pro Geschäftsjahr statt.  Der Vorstand hat die ordentliche Mitgliederversammlung einzuberufen und muss die Vereinsmitglieder mindestens vier Wochen vorher schriftlich oder per E-Mail einladen. Es gilt der Poststempel bzw. das Absendedatum der E-Mail. Der Einladung ist die Tagesordnung beizulegen. Eine außerordentliche Mitgliederversammlung kann von mindestens 20 % der Vereinsmitglieder durch schriftlichen Antrag beim Vorstand einberufen werden. Der Vorstand muss innerhalb von zwei Monaten eine außerordentliche Mitgliederversammlung einberufen. Der schriftlichen oder elektronischen Einladung, die wenigstens 3 Wochen vorher versendet werden muss, ist die Tagesordnung beizulegen, einschließlich der beantragten Tagesordnungspunkte. Die Mitgliederversammlung ist bei Anwesenheit mindestens sieben stimmberechtigten Personen,
+beschlussfähig. 
 
-Wird die Beschlussfähigkeit nicht erreicht, muss der Vorstand innerhalb von zwei Monaten eine neue Versammlung ansetzen. Die Mitglieder müssen wenigstens 3 Wochen vorher schriftlich oder per E-Mail eingeladen werden. Diese Mitgliederversammlung ist in jedem Falle beschlussfähig. Beschlüsse und die Wahl des Vorstandes werden mit einfacher Mehrheit gefasst. Auf Antrag eines Mitglieds müssen Wahlen und Abstimmungen geheim durchgeführt werden. Entlastung und Neuwahl des Vorstands erfolgt durch eine Mitgliederversammlung. Die Vorstandsmitglieder werden einzeln für die zu besetzenden Ämter gewählt.
+Die Mitgliederversammlung kann als Präsenzveranstaltung (persönliche Anwesenheit der Mitglieder an einem Ort) oder ausschließlich online als Videokonferenz durchgeführt werden. Hybride Veranstaltungen werden nicht durchgeführt. Ob die Mitgliederversammlung in Präsenz oder online durchgeführt wird, entscheidet der Vorstand und gibt die Entscheidung mit der Einladung zur Mitgliederversammlung bekannt. 
 
-Der Vorstand muss der Mitgliederversammlung einen Tätigkeits- und Jahresrechenschaftsbericht vorlegen. Der Bericht des Kassenprüfers wird der Mitgliederversammlung vor einer Entlastung des Vorstandes vorgelegt. Die Mitgliederversammlung beschließt Satzungsänderungen mit einer 2/3 Mehrheit. Die Satzungsänderungen müssen im Wortlaut vor der Einladung zur Mitgliederversammlung dem Vorstand bekannt gegeben werden. Der Vorstand verschickt alle Satzungsänderungsanträge mit der Einladung zur Mitgliederversammlung.
+Wird die Beschlussfähigkeit nicht erreicht, muss der Vorstand innerhalb von zwei Monaten eine neue Versammlung ansetzen. Die Mitglieder müssen wenigstens 3 Wochen vorher schriftlich oder per E-Mail eingeladen werden. Diese Mitgliederversammlung ist in jedem Falle beschlussfähig. Beschlüsse und die Wahl des Vorstandes werden mit einfacher Mehrheit gefasst. Auf Antrag eines Mitglieds müssen Wahlen und Abstimmungen geheim durchgeführt werden. Entlastung und Neuwahl des Vorstands erfolgt durch eine Mitgliederversammlung. Die
+Vorstandsmitglieder werden einzeln für die zu besetzenden Ämter gewählt.
 
-Mitglieder können bei Abwesenheit bei der Mitgliederversammlung ihre Stimme einem anwesenden Mitglied übertragen. Jedem anwesenden Mitglied kann maximal 1 weitere Stimme übertragen werden. Die Übertragung der Stimme ist dem Vorstand vor Beginn der Mitgliederversammlung schriftlich oder durch eine elektronisch signiert E-Mail zur Kenntnis zu geben. Diese Information wird allen anwesenden Mitgliedern zu Beginn der Mitgliederversammlung bekannt gegeben. Die Übertragung gilt nur jeweils für eine Mitgliederversammlung. Gäste können zu einzelnen Tagesordnungspunkten durch Beschluss der Mitgliederversammlung zugelassen werden.
+Der Vorstand muss der Mitgliederversammlung einen Tätigkeits- und Jahresrechenschaftsbericht vorlegen. Der Bericht des Kassenprüfers wird der Mitgliederversammlung vor einer Entlastung des Vorstandes vorgelegt. Die Mitgliederversammlung beschließt Satzungsänderungen mit einer 2⁄3 Mehrheit. Die Satzungsänderungen müssen im Wortlaut vor der Einladung zur Mitgliederversammlung dem Vorstand bekannt gegeben werden. Der Vorstand verschickt alle Satzungsänderungsanträge mit der Einladung zur Mitgliederversammlung.
+
+Mitglieder können bei Abwesenheit bei der Mitgliederversammlung ihre Stimme einem anwesenden Mitglied übertragen. Jedem anwesenden Mitglied kann maximal 1 weitere Stimme übertragen werden. Die Übertragung der Stimme ist dem Vorstand vor Beginn der Mitgliederversammlung
+schriftlich oder durch eine E-Mail durch das die Stimme übertragende Mitglied zur Kenntnis zu geben. Diese Information wird allen anwesenden Mitgliedern zu Beginn der Mitgliederversammlung bekannt gegeben. Die Übertragung gilt nur jeweils für eine
+Mitgliederversammlung.
+
+Gästen kann durch Beschluss der Mitgliederversammlung die Teilnahme insgesamt oder zu einzelnen Tagesordnungspunkten gestattet werden.
 
 ### §9 Kassenprüfer
 
