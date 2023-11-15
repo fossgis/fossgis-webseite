@@ -22,12 +22,11 @@ Aus den Reihen des FOSSGIS e.V. trugen Jochen Topf, Sarah Hoffmann, Martin Raife
 
 ### Fotoeindrücke SOTMEU
 
+![Foto Stand](/news/images/2023-11-13_STOM-EU_Standteam_H_K.jpg)   
+*Gemeinschaftsstand OSMF und FOSSGIS e.V.*
 
 ![Foto Stand](/news/images/2023-11-13_STOM-EU_Standteam.jpg)   
 *Standteam*
-
-![Foto Stand](/news/images/2023-11-13_STOM-EU_Stand.jpg)   
-*Gemeinschaftsstand OSMF und FOSSGIS e.V.*
 
 ![Foto Stand Drucker](/news/images/2023-11-13_STOM-EU_Drucker.jpg)   
 *Drucker - hier konnten die Teilnehmenden ihren eignen Kartenausschnitt drucken und mitnehmen*
