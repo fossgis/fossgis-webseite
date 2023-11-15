@@ -21,6 +21,7 @@ Die Stickerkiste erfreute sich großer Beliebtheit und hat Potential auch in der
 Aus den Reihen des FOSSGIS e.V. trugen Jochen Topf, Sarah Hoffmann, Martin Raifer und Roland Olbricht mit Vorträgen, Lightning Talks und Workshops zum [Programm](https://stateofthemap.eu/program) bei. Die Vortragsaufzeichnungen waren bei Veröffentlichung dieser News-Meldung noch nicht veröffentlicht worden.
 
 ### Fotoeindrücke SOTMEU
+Fotos von mstock, nakaner, hafi; CC-BY 4.0 
 
 ![Foto Stand](/news/images/2023-11-13_STOM-EU_Standteam_H_K.jpg)   
 *Gemeinschaftsstand OSMF und FOSSGIS e.V.*
