@@ -62,7 +62,8 @@ auch mitmachen.
 
 Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
 
-* [Vorstandssitzung vom 11.07.2023](2023-08-08-protokoll-vorstandssitzung)
+* [Vorstandssitzung vom 06.09.2023](2023-09-06-protokoll-vorstandssitzung)
+* [Vorstandssitzung vom 08.08.2023](2023-08-08-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 11.07.2023](2023-07-11-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 07.06.2023](2023-06-07-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 02.05.2023](2023-05-02-protokoll-vorstandssitzung)
