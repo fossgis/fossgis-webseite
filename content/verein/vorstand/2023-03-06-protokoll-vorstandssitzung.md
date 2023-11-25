@@ -1,4 +1,4 @@
-# Protokoll der Vorstandssitzung vom 06.03.2023 (externe)
+# Protokoll der Vorstandssitzung vom 06.03.2023 (externe Version)
 
 Anwesende Vorstände: Jörg, David, Pirmin, Falk (ab 19.40)
 
