@@ -7,7 +7,7 @@ menu:
 
 ## Förderung von Vereinstreffen
 
-Für Vereinstreffen, Hackweekends und dergl. können Mitglieder Geld für
+Für Vereinstreffen, Hackweekends und dergleichen mehr können Mitglieder Geld für
 Räumlichkeiten oder Essen und Trinken [beantragen](vereinstreffen).
 
 ## Projektförderungen
@@ -25,7 +25,7 @@ besuchen willst, aber nicht genug Geld für die Anreise und/oder Unterkunft hast
 
 ## Wie bekomme ich mein Geld?
 
-Wenn ihr eine Förderung beantragt und genehmigt bekommen habt, dann lest Euch
+Wenn Ihr eine Förderung beantragt und genehmigt bekommen habt, dann lest Euch
 bitte [dieses Dokument](/verein/finanzen/geld-ausgeben-und-zurück-bekommen)
 durch. Es erklärt, wie ihr an das Geld kommt. Bei Fragen könnt ihr Euch immer
 an den Schatzmeister (finanzen@fossgis.de) wenden.
