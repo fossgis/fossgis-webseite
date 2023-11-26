@@ -7,9 +7,9 @@ menu:
     weight: 5
 ---
 
-Die Idee, die hinter Freier Software und freien Geodaten steht, kann nur mit der Unterstützung einer starken Gemeinschaft (_Community_) und dem daraus resultierenden ehrenamtlichen Engagement verwirklicht werden. Naturgemäß spielen dabei im IT-Umfeld moderne, web-gestützte Formen der Zusammenarbeit eine sehr große Rolle. Der FOSSGIS e.V. stellt dafür die nötige Technik sowie die Software-Werkzeuge zur Verfügung. Bei all der virtuellen Kommunikation fördern wir aber auch "reale", regelmäßige Treffen zwischen GIS-Interessierten durch unsere lokalen Stammtische. Man muss übrigens keineswegs ein Vereinsmitglied sein, um sich in die Community einzubringen oder deren Hilfe in Anspruch zu nehmen. Die folgenden Angebote stehen allen Interessierten offen.
+Die Idee, die hinter freier Software und freien Geodaten steht, kann nur mit der Unterstützung einer starken Gemeinschaft (_Community_) und dem daraus resultierenden ehrenamtlichen Engagement verwirklicht werden. Naturgemäß spielen dabei im IT-Umfeld moderne, web-gestützte Formen der Zusammenarbeit eine sehr große Rolle. Der FOSSGIS e.V. stellt dafür die nötige Technik sowie die Software-Werkzeuge zur Verfügung. Neben der virtuellen Kommunikation fördern wir auch "reale" persönliche, regelmäßige Treffen zwischen GIS-Interessierten durch unsere lokalen Stammtische. Man muss übrigens kein Vereinsmitglied sein, um sich in die Community einzubringen oder deren Hilfe in Anspruch zu nehmen. Die folgenden Angebote stehen allen Interessierten offen.
 
-Für jene, die sich in den Begrifflichkeiten der modernen Web-Kommunikation nicht so gut auskennen, folgt nun noch eine kurze Erläuterung zu den einzelnen Angeboten unseres Vereins:
+Für alle, die sich in den Begrifflichkeiten der modernen Web-Kommunikation nicht so gut auskennen, folgt nun noch eine kurze Erläuterung zu den einzelnen Angeboten unseres Vereins:
 
 ## Mailingliste
 
@@ -19,7 +19,7 @@ Mailinglisten basieren auf der Kommunikation per EMail. Man trägt seine Mail-Ad
 
 ### Wiki
 
-Spätestens seit [_Wikipedia_](https://www.wikipedia.de) ist dieser Begriff fast Jeder/Jedem bekannt. Wikis dienen der Informationsammlung, egal ob streng hierarchisch geordnet oder als unverlinkte, einzelne Seiten. Jeder, der sich registriert und einen _Account_ erhalten hat, kann den Seiteninhalt direkt per Webbrowser bearbeiten. Dies ist das Hauptmerkmal eines Wikis.
+Spätestens seit [_Wikipedia_](https://www.wikipedia.de) ist dieser Begriff fast Jeder/Jedem bekannt. Wikis dienen der Informationsammlung, egal ob streng hierarchisch geordnet oder als unverlinkte, einzelne Seiten. Alle registrierten Nutzer:innen, können den Seiteninhalt direkt per Webbrowser bearbeiten. Diese Zusammenarbeit ist das Hauptmerkmal eines Wikis.
 
 * [Zum FOSSGIS Wiki](https://www.fossgis.de/wiki)
 

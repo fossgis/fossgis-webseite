@@ -9,10 +9,10 @@ menu:
 Der FOSSGIS e.V. braucht Spenden für seine Arbeit. Wir verwenden alle Spenden
 direkt für die Umsetzung unserer Vereinsziele. Der Verein ist als
 gemeinnützig anerkannt, d.h. Sie können Ihre Spenden von der Steuer absetzen.
-Selbstverständlich stellen wir Ihnen, wenn gewünscht, eine entsprechende
+Selbstverständlich stellen wir Ihnen auf Anfrage eine entsprechende
 Bescheinigung aus.
 
-Manchmal helfen uns auch Sachspenden weiter, bitte wenden Sie sich an
+Manchmal helfen uns auch Sachspenden weiter. Bitte wenden Sie sich an
 <a href="mailto:info@fossgis.de">info@fossgis.de</a>, wenn Sie etwas anzubieten
 haben.
 
@@ -24,9 +24,11 @@ Spenden können Sie über unseren Paypal-Spendenbutton
 
 oder auf folgendes Konto bei der Mainzer Volksbank:
 
-FOSSGIS e.V.<br/>
-IBAN: DE93 5519 0000 0415 9380 26<br/>
-BIC: MVBM DE 55
+~~~
+FOSSGIS e.V.
+IBAN: DE93 5519 0000 0415 9380 26
+BIC: MVBMDE55
+~~~
 
 Bitte geben Sie im Verwendungszweck mindestens das Wort „Spende“ an.
 
