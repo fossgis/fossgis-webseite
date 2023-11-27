@@ -8,7 +8,7 @@ menu:
 
 _(gemäß §3 der Vereinssatzung)_
 
-1. Förderung von Freier GIS Software und Freier Geodaten im deutschsprachigen Raum
+1. Förderung von freier GIS Software und freier Geodaten im deutschsprachigen Raum
 2. Förderung der Bildung, des Meinungsaustauschs und der Zusammenarbeit von Anwendern, Entwicklern und Forschern
 3. Weiterentwicklung und Forschung an freien Informationswerken 
 4. Bereitstellung freier GIS Software und Daten, sowie Förderung deren Verfügbarkeit
