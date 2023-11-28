@@ -1,5 +1,4 @@
-# Protokoll der Mitgliederversammlung 2022 des FOSSGIS
-  e. V. (öffentliche Version)
+# Protokoll der Mitgliederversammlung 2022 des FOSSGIS e. V. (öffentliche Version)
 
 Die Mitgliederversammlung des FOSSGIS e.V. findet am 23. April 2022
 zum zweiten Mal (erstmals 2021) als Onlineveranstaltung über die
