@@ -48,7 +48,7 @@ Veranstaltungshinweis: [SCS Summit](https://scs.community/summit2024/) 14.05.202
 Im Gespräch auf dem Podium präsentieren sich Berlin (Jörg Naumann, Strat. Planung Digitalisierung der Verwaltung Berlin), Dortmund (Christian Nähle, Geschäftsführer, Do-FOSS ) und München (Laura Dornheim leider wegen Bahnstreik nicht vor Ort) als Open Source Initiative Big 3 moderiert von Miriam Seyffarth (Leiterin Politische Kommunikation der OSBA).
 Auf Anregung der KgST haben sich Berlin, Dortmund und München zusammengeschlossen, um über ihre Digitalstrategien mit Open Source zu sprechen. 
 Die Wege, die jede Stadt gegangen ist, werden besprochen sowie aktuelle Fragestellungen diskutiert.
-Fazit: Es gibt noch nicht viele Produkte für Kommunalverwaltungen, die Open Source sind. Es braucht OSS-Wirtschaft mit Geschäftsmodellen mit Zugpferdausprägungen, die Verwaltungsbedürfnisse unterstützen können.    
+Fazit: Es gibt noch nicht viele Produkte für Kommunalverwaltungen (Beispielsweise Fachverfahren), die Open Source sind. Es braucht OSS-Wirtschaft mit Geschäftsmodellen mit Zugpferdausprägungen, die Verwaltungsbedürfnisse unterstützen können.    
 Das Weizenbauminstitut bietet an prozessbegleitend dabei zu sein, um zur Nachhaltigkeit zu forschen.
 [Video zum Podiumsgespräch](https://www.youtube.com/watch?v=EjMhMDBXj7E&list=PLa6LOAvstJvmjrcRccN5zgQlj10LtM_td&index=4)
 
