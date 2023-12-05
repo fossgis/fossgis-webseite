@@ -1,8 +1,23 @@
----
+ ---
 title: "Presse"
 menu:
   side:
     weight: 50
 ---
 
-Falls Sie auf den FOSSGIS verweisen und dazu unser Logo benötigen, steht Ihnen [unser Logopaket inkl. Nutzungshinweisen zum Download](/logos/FOSSGIS-logos.zip) zur Verfügung.
+Das Team der AG Öffentlichkeitsarbeit stellt hier Logos und Druckvorlagen bereit.
+
+## Logo FOSSGIS e.V.
+
+Manual: [PDF-Download](https://www.fossgis.de/mediawiki/images/5/56/Logo-FOSSGIS-Verein-Manual_2023-12-05.pdf)
+
+#### _Logo Standard als PNG_
+
+[![Logo FOSSGIS-Verein RGB_100x45mm_600dpi](https://www.fossgis.de/mediawiki/images/d/d3/FOSSGIS_Logo_RGB_100x45mm_600dpi.png)](https://www.fossgis.de/mediawiki/images/d/d3/FOSSGIS_Logo_RGB_100x45mm_600dpi.png)
+
+#### _Logo Graustufe als PNG_
+
+[![Logo FOSSGIS-Verein Grau_100x45mm_600dpi](https://www.fossgis.de/mediawiki/images/3/32/FOSSGIS_Logo_RGB_sw1_100x45mm_600dpi.png)](https://www.fossgis.de/mediawiki/images/3/32/FOSSGIS_Logo_RGB_sw1_100x45mm_600dpi.png)
+
+
+
