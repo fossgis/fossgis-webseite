@@ -5,8 +5,6 @@ author: "Jochen Topf"
 description: "Ab sofort unterstützt der FOSSGIS e.V. die OpenStreetMap Foundation mit einem jährlichen Beitrag"
 ---
 
-# FOSSGIS Deutschland unterstützt OSMF finanziell
-
 Der FOSSGIS e.V., das deutsche Chapter der OSM Foundation, wird ab sofort die
 OSM Foundation jährlich finanziell unterstützen. Dies ist das erste Mal, dass
 eine lokale OpenStreetMap-Organisation sich auf so eine Unterstützung festlegt.
