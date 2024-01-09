@@ -42,7 +42,7 @@ Die Arbeitsgruppen des FOSSGIS e.V. laufen kontinuierlich, Aktive treffen sich u
 
 ### Tischfahne für Stammtische und weitere OSM-Aktivitäten
 Über einen [Aufruf](https://community.openstreetmap.org/t/tischfahne-fur-osm-stammtisch/104575) konnten Menschen, die Stammtische und andere Aktivitäten rund um FOSSGIS oder OSM organisieren eine Tischfahne erhalten. Die Resonanz war gut, zahlreiche Tischfahnen wurden über die Koordinierungsstell verteilt.   
-* ![Tischfahne](https://files.fossgis.de/Koordinierungsstelle/Tischfahne_OSM_FOSSGIS_OSGeo.jpg)
+ ![Tischfahne](https://files.fossgis.de/Koordinierungsstelle/Tischfahne_OSM_FOSSGIS_OSGeo.jpg)
 
 
 
