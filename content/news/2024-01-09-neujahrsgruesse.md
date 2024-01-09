@@ -34,12 +34,15 @@ Der Verein hat im Jahr 2023 mehrere Ausstellerstände auf Veranstaltungen betreu
 Die Arbeitsgruppen des FOSSGIS e.V. laufen kontinuierlich, Aktive treffen sich und arbeiten zusammen an den Themen.
 
 * So ist derzeit die **AG Konferenzorganisation** dabei die FOSSGIS 2024 in Hamburg auf den Weg zu bringen, alle Infos sind auf der Konferenzhomepage zu finden: https://fossgis-konferenz.de/2024
-* Die **AG Kommunikation** kümmert sich um Presse und Öffentlichkeitsarbeit, hat das [Vereins-Logo](https://fossgis.de/presse/) weiterentwickelt und kümmert sich um das Artwork und Kommunikation zur FOSSGIS-Konferenz.
+* Die **AG Kommunikation** kümmert sich um Presse und Öffentlichkeitsarbeit, hat das [Vereins-Logo](https://fossgis.de/presse/) weiterentwickelt und kümmert sich um das Artwork und Kommunikation zur FOSSGIS-Konferenz.   
+ [![Logo FOSSGIS-Verein RGB_100x45mm_600dpi](https://www.fossgis.de/mediawiki/images/d/d3/FOSSGIS_Logo_RGB_100x45mm_600dpi.png)](https://www.fossgis.de/mediawiki/images/d/d3/FOSSGIS_Logo_RGB_100x45mm_600dpi.png)
 * Die **AG öffentliche Ausschreibungen mit FOSS** beschäftigt sich u.a. mit dem Thema nachhaltige Beschaffung, arbeitet eng mit der OSBA zusammen und organisiert eine Podiumsdiskussion auf der FOSSGIS-Konferenz: https://pretalx.com/fossgis2024/talk/YNPBM9/
 * Die **AG Open Data** hat neue Mitstreitende und beschäftigt sich mit dem Themen Hochwertige Datensätze, Archivierung von OSM-Daten sowie dem bleibenden Thema Lizenzen. 
 * Die **AG Dienstleisterliste** ist dabei die [Dienstleisterliste](https://fossgis.de/dienstleister/) weiterzuentwickeln, Ziel ist eine Schlagwortsuche zu integrieren.   
- [![Logo FOSSGIS-Verein RGB_100x45mm_600dpi](https://www.fossgis.de/mediawiki/images/d/d3/FOSSGIS_Logo_RGB_100x45mm_600dpi.png)](https://www.fossgis.de/mediawiki/images/d/d3/FOSSGIS_Logo_RGB_100x45mm_600dpi.png)
 
+### Tischfahne für Stammtische und weitere OSM-Aktivitäten
+Über einen [Aufruf](https://community.openstreetmap.org/t/tischfahne-fur-osm-stammtisch/104575) konnten Menschen, die Stammtische und andere Aktivitäten rund um FOSSGIS oder OSM organisieren eine Tischfahne erhalten. Die Resonanz war gut, zahlreiche Tischfahnen wurden über die Koordinierungsstell verteilt.   
+* ![Tischfahne](https://files.fossgis.de/Koordinierungsstelle/Tischfahne_OSM_FOSSGIS_OSGeo.jpg)
 
 
 
