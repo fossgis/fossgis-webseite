@@ -10,7 +10,7 @@ categories: [
     Desktop-Anwendungen,
     Mobile Anwendungen,
 	freie Geodatenbibliotheken,
-	Einf. von Digitalisierungs- und IT-Prozessen
+	Einführung von Digitalisierungs- und IT-Prozessen
 ]
 software: [
     QGIS, 

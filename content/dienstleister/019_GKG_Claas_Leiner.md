@@ -6,20 +6,20 @@ kind: Einzelperson
 logo2x: 019_gkg_logo@2x.png
 categories: [
     Web-Mapping,
-	Geodatenbanken,
+    Geodatenbanken,
     Desktop-Anwendungen,
     OpenStreetMap,
     Schulungen/Workshops,
-	Einführung von Digitalisierungs- und IT-Prozessen
+    Einführung von Digitalisierungs- und IT-Prozessen
 ]
 software: [
-   	QGIS, 
-	PostGis,
-	SpatiaLite,
-	GDAL/OGR,
-	GRASS,
-	QGIS-Server,
-	Lizmap
+    QGIS, 
+    PostGis,
+    SpatiaLite,
+    GDAL/OGR,
+    GRASS,
+    QGIS-Server,
+    Lizmap
 ]
 
 

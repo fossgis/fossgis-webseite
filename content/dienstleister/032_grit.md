@@ -22,7 +22,7 @@ software: [
     Masterportal, 
     MapServer, 
     GeoServer, 
-    QGis, 
+    QGIS, 
     Containerisierung
 
 ]

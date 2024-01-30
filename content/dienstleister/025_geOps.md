@@ -10,7 +10,7 @@ categories: [
     Geodatenbanken,
     Mobile Anwendungen,
 	OpenStreetMap,
-    Einf. von Digitalisierungs- und IT-Prozessen
+    Einführung von Digitalisierungs- und IT-Prozessen
 ]
 software: [
     Full Stack für Web-Mapping,

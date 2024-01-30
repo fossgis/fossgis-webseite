@@ -12,7 +12,7 @@ categories: [
     freie Geodatenbibliotheken,
     OpenStreetMap,
     Schulungen/Workshops,
-	Einf. von Digitalisierungs- und IT-Prozessen
+	Einführung von Digitalisierungs- und IT-Prozessen
 ]
 software: [
     PostgreSQL, 
@@ -30,7 +30,6 @@ software: [
 	MapProxy,
 	OpenStreetMap als Datenquelle, 
 	Robot Framework,
-	Entwicklung: JavaScript/TypeScript, 
 	NodeJS, 
 	React, 
 	Rest + GraphQL, 

@@ -2,7 +2,7 @@
 title: CSGIS GbR
 link: https://csgis.de
 logo: 021_csgis.png
-kind: Firma oder Einzelperson
+kind: Firma
 logo2x: 021_csgis@2x.png
 categories: [
     Web-Mapping,
@@ -12,7 +12,7 @@ categories: [
     freie Geodatenbibliotheken,
     OpenStreetMap,
     Schulungen/Workshops,
-	Einf. von Digitalisierungs- und IT-Prozessen,	
+	Einführung von Digitalisierungs- und IT-Prozessen,	
 	Übersetzungsleistung zu Software-Entwicklung
 ]
 software: [

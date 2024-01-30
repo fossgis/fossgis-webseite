@@ -11,7 +11,7 @@ categories: [
 ]
 software: [
 	QGIS, 
-	Open Layers, 
+	OpenLayers, 
 	PostGIS
 ]
 

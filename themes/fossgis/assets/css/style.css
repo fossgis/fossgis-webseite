@@ -158,6 +158,39 @@ footer {
     border-bottom: 1px solid grey;
 }
 
+.provider-filter {
+	background-color: #EAEAEA;
+	padding: 1em;
+}
+
+.provider-filter h3 {
+	margin-bottom: .25rem;
+	margin-top: 0;
+	font-size: 16px;
+}
+
+.provider-filter-panel {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: start;
+	align-content: flex-end;
+}
+
+.provider-filter-item {
+	flex: 0 0 auto;
+	padding-right: 2em
+}
+
+.provider-filter-item p {
+	margin-top: 0;
+}
+
+.provider-filter-item label {
+	cursor: pointer;
+}
+
 .provider-badge {
     display: inline-block;
     padding: .35em .65em;
