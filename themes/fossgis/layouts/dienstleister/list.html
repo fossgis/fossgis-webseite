@@ -40,11 +40,6 @@
                     <label for="{{ . }}"> {{ . }}</label><br>
                     {{ end }}              
                 </div>
-
-                <div class="col-sm-6 col-md-3">
-                    <h3>Standorte</h3>
-                    <p>Alle Standorte der unserer hier gelisteten Dienstleister kannst Du dir hier auf der Karte ansehen.</p>
-                </div>
             </div>
         </div>
     </div>
@@ -112,7 +107,6 @@
                     const c = d.data('categories').split(',').map(function(item) {
                         return item.trim();
                     });
-                    // const c = d.data('categories').split(',');
                     const k = d.data('kind').split(',');
                     if ((c.some(r=> categories.includes(r) || categories.length === 0)) && (k.some(r=> kind.includes(r) || kind.length === 0))) {
                         d.show();
@@ -120,7 +114,6 @@
                         d.hide();
                     }
                 });
-
             }
         });
 </script>
