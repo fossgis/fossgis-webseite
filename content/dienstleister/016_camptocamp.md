@@ -2,7 +2,7 @@
 title: Camptocamp
 link: https://www.camptocamp.com/
 logo: 016_camptocamp.png
-kind: Firma oder Einzelperson
+kind: Firma
 logo2x: 016_camptocamp@2x.png
 categories: [
     Web-Mapping,

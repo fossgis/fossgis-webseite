@@ -30,7 +30,7 @@ software: [
     QGIS,
     PostgreSQL / PostGIS,
     GeoNetwork,
-    MapFish Print,
+    MapFishPrint,
     Keycloak,
     Spring,
     Docker,

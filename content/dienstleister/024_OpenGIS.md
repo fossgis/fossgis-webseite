@@ -12,7 +12,7 @@ categories: [
     Metadatenkataloge,
     Mobile Anwendungen,
 	Schulungen/Workshops,
-	Einf. von Digitalisierungs- und IT-Prozessen
+	Einführung von Digitalisierungs- und IT-Prozessen
 ]
 software: [
     QGIS, 

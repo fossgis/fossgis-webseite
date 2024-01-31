@@ -8,7 +8,7 @@ categories: [
     Web-Mapping,
     Geodatenbanken,
     freie Geodatenbibliotheken,
-    Einf. von Digitalisierungs- und IT-Prozessen	
+    Einführung von Digitalisierungs- und IT-Prozessen	
 ]
 software: [
     Geo Engine, 
@@ -20,7 +20,6 @@ software: [
     Rust, 
     Python, 
     TensorFlow
-
 ]
 projects: [
     Geo Engine (https://github.com/geo-engine),

@@ -9,7 +9,7 @@ categories: [
     Geodatenbanken,
     Desktop-Anwendungen,
     Mobile Anwendungen,
-	Einf. von Digitalisierungs- und IT-Prozessen
+	Einführung von Digitalisierungs- und IT-Prozessen
 ]
 
 projects: [

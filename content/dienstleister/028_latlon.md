@@ -11,7 +11,7 @@ categories: [
     Metadatenkataloge,
     freie Geodatenbibliotheken,
     Schulungen/Workshops,
-	Einf. von Digitalisierungs- und IT-Prozessen,	
+	Einführung von Digitalisierungs- und IT-Prozessen,	
 	Übersetzungsleistung zu Software-Entwicklung
 ]
 software: [

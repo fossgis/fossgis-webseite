@@ -2,6 +2,13 @@
   {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 
+{{ define "head-import" }}
+
+{{ $jquery := resources.Get "js/jquery-3.7.1.min.js" | resources.Fingerprint }}
+<script src="{{ $jquery.RelPermalink }}"></script>
+
+{{ end }}
+
 {{ define "main" }}
 <content class="provider-content">
     <div class="row">
@@ -11,14 +18,46 @@
 
 			<p>Eine weitere Übersicht von Service-Providern gibt es bei der <a href="https://www.osgeo.org/service-providers/">OSGeo</a> oder auch im <a href="https://wiki.openstreetmap.org/wiki/Commercial_OSM_Software_and_Services">OSM-Wiki</a>.
 
-
             <p>Hier geben wir einen Überblick der Dienstleister in diesem Bereich, gepflegt über die <a href="../verein/kontakt/">Koordinierungsstelle</a> des FOSSGIS e.V.</p>
         </div>
     </div>
+    <div class="row provider-filter">
+        <div class="col-sm-12 col-md-12 col-lg-9">
+            <div class="row">
+                <div class="col-sm-6 col-md-3">
+                    <h3>Dienstleister</h3>
+                    <input type="checkbox" id="kind_firma" name="kind" value="Firma">
+                    <label for="kind_firma">Fima</label><br>
+                    <input type="checkbox" id="kind_einzelunternehmer" name="kind" value="Einzelperson">
+                    <label for="kind_einzelunternehmer">Einzelunternehmer</label><br>
+                </div>
 
-    <div class="row">
+                {{ $categories := slice }}
+                {{ range .Pages | shuffle }}
+                    {{ range .Params.categories }}
+                        {{ $categories = append . $categories }}
+                    {{ end }}
+                {{ end }}
+
+                {{ $categories = uniq $categories }}
+                <div class="col-sm-12 col-md-8">
+                    <h3>Kompetenzen</h3>
+                    {{ range $categories }}
+                    <input type="checkbox" id="{{ . }}" name="categories" value="{{ . }}">
+                    <label for="{{ . }}"> {{ . }}</label><br>
+                    {{ end }}              
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="dienstleister" class="row">
         {{ range .Pages | shuffle }}
-            <div class="col-sm-6 col-md-6 col-lg-4">
+            <div class="provider col-sm-6 col-md-6 col-lg-4" 
+                data-kind="{{.Params.kind}}"
+                data-categories="{{ delimit .Params.categories ", " }}"
+                >
+                
                 <div class="provider-item flex">
                     <div class="provider-item-logo">
                         <div>
@@ -31,7 +70,7 @@
                         <h4>{{ .Title }}</h4>
                     </div>
                     <div class="provider-item-badges">
-                        {{ range .Params.Categories }}
+                        {{ range .Params.categories }}
                             <span class="provider-badge">{{ . }}</span>
                         {{ end }}
                     </div>
@@ -50,6 +89,39 @@
             {{ .Content }}
         </div>
     </div>
-
 </content>
 {{ end }}
+
+{{- define "page-script" -}}
+    <script type="text/javascript">
+        $( document ).ready(function() {
+            $('input[name="kind"], input[name="categories"]').change(function(e) {
+                let kind = [];
+                $('input[name="kind"]:checked').each(function () {
+                    kind.push($(this).val())
+                });
+                let categories = [];
+                $('input[name="categories"]:checked').each(function () {
+                    categories.push($(this).val())
+                });
+                showProvider(kind, categories);
+            });
+
+            function showProvider(kind, categories) {
+                const dl = $('#dienstleister').children();
+                dl.each(element => {
+                    const d = $(dl[element]);
+                    const c = d.data('categories').split(',').map(function(item) {
+                        return item.trim();
+                    });
+                    const k = d.data('kind').split(',');
+                    if ((c.some(r=> categories.includes(r) || categories.length === 0)) && (k.some(r=> kind.includes(r) || kind.length === 0))) {
+                        d.show();
+                    } else {
+                        d.hide();
+                    }
+                });
+            }
+        });
+</script>
+{{- end -}}

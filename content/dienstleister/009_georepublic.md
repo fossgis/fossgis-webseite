@@ -12,7 +12,7 @@ categories: [
     Mobile Anwendungen,
 	freie Geodatenbibliotheken,
     OpenStreetMap,
-    Einf. von Digitalisierungs- und IT-Prozessen,	
+    Einführung von Digitalisierungs- und IT-Prozessen,	
 ]
 software: [
     PostgreSQL, 

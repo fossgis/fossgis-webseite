@@ -13,7 +13,7 @@ categories: [
 	freie Geodatenbibliotheken,
     OpenStreetMap,
     Schulungen/Workshops,
-	Einf. von Digitalisierungs- und IT-Prozessen
+	Einführung von Digitalisierungs- und IT-Prozessen
 ]
 software: [
     QGIS Desktop, 

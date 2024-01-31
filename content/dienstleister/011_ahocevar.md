@@ -10,7 +10,7 @@ categories: [
     Mobile Anwendungen,
 	freie Geodatenbibliotheken,
     Schulungen/Workshops,
-	Einf. von Digitalisierungs- und IT-Prozessen
+	Einführung von Digitalisierungs- und IT-Prozessen
 ]
 software: [
     OpenLayers, 
