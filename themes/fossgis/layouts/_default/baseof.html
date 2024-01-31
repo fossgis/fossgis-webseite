@@ -3,6 +3,7 @@
 <head>
 	<title>{{ block "title" . }} {{ .Site.Title }} {{ end }}</title>
 	{{- partial "head.html" . -}}
+	{{ block "head-import" . }}{{ end }}
 </head>
 <body>
 	<div class="container-fluid">
