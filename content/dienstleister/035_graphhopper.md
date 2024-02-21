@@ -1,9 +1,9 @@
 ---
 title: GraphHopper GmbH
 link: https://www.graphhopper.com/ 
-logo: 035_graphhopper.svg
+logo: 035_graphhopper.png
 kind: Firma
-logo2x: 035_graphhopper@2x.svg
+logo2x: 035_graphhopper@2x.png
 categories: [
     Web-Mapping,
     Geodatenbanken,
