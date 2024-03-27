@@ -22,27 +22,27 @@ Erstmals wurde ein Studierendenblock angeboten, in dem Studierende ihre Arbeiten
 ## Programm 
 Es wurden 92 Vorträge und 20 Lightning Talks sowie 4 Demosessions aufgezeichnet, diese sind im Programm verlinkt: https://www.fossgis-konferenz.de/2024/programm/.
 
-Die 20 Workshops wurden von circa 200 teilnehmenden besucht. Die OSGeolive kam in vielen Workshops zum Einsatz. Es erreichte uns sehr viel positives Feedback zu den Workshops und der Raumausstattung. Wer die OSGEoLive ausprobieren möchte, findet hier eine Donwloadmöglichkeit: https://nx112.your-storageshare.de/s/tdqEisGjpP7G3o3 (bis 31.12.24 verfügbar).
+Die 20 Workshops wurden von circa 200 Teilnehmenden besucht. Die OSGeolive kam in vielen Workshops zum Einsatz. Es erreichte uns sehr viel positives Feedback zu den Workshops und der Raumausstattung. Wer die OSGeoLive ausprobieren möchte, findet hier eine Donwloadmöglichkeit: https://nx112.your-storageshare.de/s/tdqEisGjpP7G3o3 (bis 31.12.24 verfügbar) und kann sich unter https://live.osgeo.org rund um OSGeoLive informieren.
 
 In 4 Expert:innenfragestunden wurden im direkten Gespräch Fragen beantwortet. 
-Es fanden 11 Anwendertreffen statt, das zeigt eindeutig, dass die FOSSGIS-Konferenz erfolgreich zur Vernetzung der Community beiträgt.
+Es fanden 11 Anwendertreffen statt. Dies zeigt eindeutig, dass die FOSSGIS-Konferenz erfolgreich zur Vernetzung der Community beiträgt.
 
 #### Nachhaltige Beschaffung mit Blick auf Open Source
-Auch in diesem Jahr organisierte die Arbeitsgruppe "Öffentliche Ausschreibungen mit FOSS" des FOSSGIS e.V. eine Dialogrunde. Diesmal ging es um Nachhaltige Beschaffung mit Blick auf Open Source. Es entstand eine rege Diskussion. Es wurde deutlich, dass es in diesem Bereich noch viel Potential gibt. Anregungen und Erfahrungen wurden ausgetauscht.
+Auch in diesem Jahr organisierte die Arbeitsgruppe "Öffentliche Ausschreibungen mit FOSS" des FOSSGIS e.V. eine Dialogrunde. Diesmal ging es um nachhaltige Beschaffung mit Blick auf Open Source. Es entstand eine rege Diskussion. Es wurde deutlich, dass es in diesem Bereich noch viel Potential gibt. Anregungen und Erfahrungen wurden ausgetauscht.
 Nachzuhören ist die Dialogrunde unter: https://pretalx.com/fossgis2024/talk/YNPBM9/
 
 
 ### FOSSGIS Jeopardy - Hummel hummel
-Hummel hummel - Mors, Mors [Wikipedia](https://de.wikipedia.org/wiki/Hamburger_Gru%C3%9F) war nicht das Einzige was die Teilnehmenden über Hamburg lernen konnten. Auch Neuwerk als nördlichster Stadtteil Hamburgs und der Schwanenvater waren Themen beim diesjährigen Jeopardy.   
+[Hummel hummel - Mors, Mors](https://de.wikipedia.org/wiki/Hamburger_Gru%C3%9F) war nicht das Einzige was die Teilnehmenden über Hamburg lernen konnten. Auch Neuwerk als nördlichster Stadtteil Hamburgs und der Schwanenvater waren Themen beim diesjährigen Jeopardy.   
 Das Quiz war wieder witzig, spannend und höchst lehrreich. Hannes Kröger und Mathias Gröbe moderierten souverän durch das Quiz. Am Ende gewann das Team Grün und freute sich über attraktive Preise der Sponsoren.
 Jeopardy zum nachschauen ist ebenfalls als Video verfügbar unter: https://pretalx.com/fossgis2024/talk/AZHLSL/
 
 Zum Ausklang der ersten drei Konferenztage lud der FOSSGIS e.V. zum Sektempfang ein.
 
 ### Rahmenprogramm
-Das großartige Rahmenprogramm wurde gut angenommen. Es gab Exkursionen durch Hamburg, in die Hamburger Unterwelten, ins Station von St. Pauli sowie die Kartensammlung der Stattsbibliothek besucht werden konnte. 
+Das großartige Rahmenprogramm wurde gut angenommen. Es gab Exkursionen durch Hamburg, in die Hamburger Unterwelten, ins Station von St. Pauli sowie die Kartensammlung der Staats- und Universitätsbibliothek Hamburg. 
 
-Das GeoChicas-Treffen am Dienstag vor der Konferenz wurde von 10 Teilnehmerinnen wahrgenommen sowie sich beim inoffiziellen Start in der Lämmerlounge über 70 schon angereiste Teilnehmende trafen.
+Das GeoChicas-Treffen am Dienstag vor der Konferenz wurde von 10 Teilnehmerinnen wahrgenommen. Auch der inoffiziellen Start am Vortrag der Konferenz lockte über 70 schon angereiste Teilnehmende in die Lämmerlounge.
 
 Die Abendveranstaltung im Privathotel Lindtner wurde zum gelungenen Abend mit einem leckeren Buffet und Getränken für 370 Teilnehmende.
 
@@ -51,24 +51,25 @@ Beim Treffen am Freitag in der Fischhalle Harburg am Binnenhafen zum Auftakt des
 ### OSM Samstag
 Am Samstag fand zum Abschluss der OSM Samstag statt. Über 60 Personen waren vor Ort dabei und weitere schalteten sich online dazu.
 
-Zahlreiche Themen standen auf der Agenda. Diese reichten von Diskussionen zu "Welche Daten gehören nach OSM und welche nicht?" bis hin zu Diskussionen zu OSM und Verkehrs- und Energiewende sowie OSM "die beste Karte mit dem schlechtesten Marketing".
+Zahlreiche Themen standen auf der Agenda. Diese reichten von Diskussionen zu "Welche Daten gehören nach OSM und welche nicht?" bis hin zu Diskussionen zu OSM und Verkehrs- und Energiewende sowie "OSM - die beste Karte mit dem schlechtesten Marketing".
 
 Die Themen und Ergebnisse sind hier dokumentiert: https://wiki.openstreetmap.org/wiki/FOSSGIS_2024/OSM-Samstag#Themensammlung
 
-Ein Gruppe machte einen kleinen Ausflug in die Nachbarschaft und kartierte noch fehlende Informationen auf dem Gelände der TUHH mit dem Teammodus bei StreetComplete.
-Wir sind sicher, dass zahlreiche Teilnehmende die fehlenden Informationen in Harburg erfasst haben und damit die Karte vervollständigt haben.
+Ein Gruppe machte einen kleinen Ausflug in die Nachbarschaft und kartierte noch fehlende Informationen auf dem Gelände der TUHH mit dem Teammodus bei [StreetComplete](https://wiki.openstreetmap.org/wiki/StreetComplete).
+Wir sind sicher, dass weitere Teilnehmende der Konferenz fehlenden Informationen in Harburg erfasst haben und damit die Karte verbessert haben.
 
 ### Dank
-Unser Dank geht an die Technische Universität Hamburg, die die Austragung der FOSSGIS 2024 ermöglich hat.    
+Unser Dank geht an die Technische Universität Hamburg, die die Austragung der FOSSGIS 2024 ermöglicht hat.    
 Der Caterer [Elbe-Werkstätten](https://www.elbe-werkstaetten.de/fuer-unternehmen/dienstleistungen/catering.html) hat hervorragend für das leibliche Wohl der Konferenzteilnehmenden gesorgt.    
 Danke an die Stadt Hamburg und das [Convention Bureau Hamburg](https://www.hamburg-convention.com/).
 
 Danke an alle Vortragenden und das Programmkomitee für das tolle [Programm](https://pretalx.com/fossgis2024/schedule/)!   
 Danke an alle Helfer:innen und das Konferenzorganisationsteam für die hervorragende Umsetzung!
+Danke an das Team des [c3voc](https://c3voc.de/) für euren Einsatz.
 
 ## FOSSGIS 2025 in Münster
 
-Nun heißt es wieder ein Jahr auf die nächste FOSSGIS warten. Nach 10 Jahren freuen wir uns auf eine FOSSGIS in Münster. Wir hoffen viele Gesichter wieder zu sehen und freuen uns auf Eure Beiträge.
+Nun heißt es wieder ein Jahr auf die nächste FOSSGIS warten. Nach 10 Jahren freuen wir uns wieder auf eine FOSSGIS in Münster. Wir hoffen viele bekannte Gesichter zu sehen und freuen uns auf eure Beiträge.
 
 ### Anstehende Veranstaltungen
 
@@ -83,7 +84,8 @@ Schon im August erwartet uns ein Jubiläum, das OpenStreetMap Projekt wird 20 Ja
 - Weitere Events: https://www.osgeo.org/events/
 
 Der FOSSGIS e.V. feiert 2025 das 25. Jubiläum.
-Der Verein freut sich über Euer Engagement. Ihr seid herzlich eingeladen bei Arbeitsgruppen mitzumachen oder Euch anderweitig im verein zu engagieren.
+
+Der Verein freut sich über euer Engagement. Ihr seid herzlich eingeladen bei Arbeitsgruppen mitzumachen oder euch anderweitig im Verein zu engagieren.
 
 Es war eine tolle [Konferenz](https://www.fossgis-konferenz.de/2024/). Herzlichen Dank an alle Beteiligten.
 
