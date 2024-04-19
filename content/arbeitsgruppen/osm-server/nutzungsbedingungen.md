@@ -1,3 +1,7 @@
+---
+title: "Nutzungsbedingungen OSM-Server"
+---
+
 # Nutzungsbedingungen OSM-Server des FOSSGIS e.V.
 
 Die vom FOSSGIS e.V. betriebenen Services werden von Ehrenamtlichen
