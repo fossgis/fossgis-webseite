@@ -32,4 +32,8 @@ Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://f
 
 Sie wollen die FOSSGIS-Konferenz in Ihrer Stadt bzw. in Ihrer Hochschule holen? In diesem [kurzen Dokument](https://files.fossgis.de/Konferenz/CfL_FOSSGIS.pdf) finden Sie die Anforderungen. Für Fragen zögern Sie nicht uns anzusprechen.
 
+# Call for Location FOSSGIS 2026
+
+![CfP FOSSGIS 2026](https://files.fossgis.de/Konferenz/Call_For_Location_FOSSGIS2026.png)
+
 
