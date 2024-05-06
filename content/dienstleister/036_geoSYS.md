@@ -38,12 +38,6 @@ software: [
 	QGIS Server,
 	R
 
-]
-projects: [
-    
-
-]
-
 ---
 
 geoSYS ist ein Dienstleistungsunternehmen der Geo-Informationsbranche. Wir beraten und unterstützen Unternehmen und Verwaltungen bei der Einführung von GIS, Geodatenbanken, Geodateninfrastrukturen und Webmapping-Lösungen. Zudem entwickeln wir Anwendungen, Portale, Geo-Apps sowie GIS-Plugins und setzen Projekte in Deutschland und weltweit um.
