@@ -10,6 +10,8 @@ description: Der  FOSSGIS e.V schafft eine Stelle, die sich der Beratung rund um
 images:
 ---
 
+update: Stelle ist seit Mitte November 2023 besetzt.
+
 ### Worte an die Community 
 Der FOSSGIS e.V. ist als Local Chapter der OpenStreetMap Foundation offizieller Ansprechpartner zu OSM-Fragen in Deutschland. Wir freuen uns, dass viele OSM-Aktive im FOSSGIS e.V. Mitglied sind und sich mit den unterschiedlichsten OSM-Themen befassen.
 

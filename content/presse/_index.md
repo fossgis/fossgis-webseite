@@ -19,5 +19,7 @@ Manual: [PDF-Download](https://www.fossgis.de/mediawiki/images/5/56/Logo-FOSSGIS
 
 [![Logo FOSSGIS-Verein Grau_100x45mm_600dpi](https://www.fossgis.de/mediawiki/images/3/32/FOSSGIS_Logo_RGB_sw1_100x45mm_600dpi.png)](https://www.fossgis.de/mediawiki/images/3/32/FOSSGIS_Logo_RGB_sw1_100x45mm_600dpi.png)
 
+#### _Logo mit Slogan_
 
+[![Logo FOSSGIS-Verein mit Slogan "Wir spielen mit offenen Karten"](https://www.fossgis.de/mediawiki/images/b/b9/FOSSGIS-Logo_Slogan.png)](https://www.fossgis.de/mediawiki/images/b/b9/FOSSGIS-Logo_Slogan.png)
 
