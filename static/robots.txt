@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /mediawiki/index.php
+Disallow: /mediawiki/index.php?
+Disallow: /mediawiki/load.php?
+Disallow: /wiki/?
