@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: /mediawiki/index.php?
 Disallow: /mediawiki/load.php?
+Disallow: /mediawiki/api.php?
 Disallow: /wiki/?
