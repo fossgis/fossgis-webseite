@@ -60,10 +60,12 @@ auch mitmachen.
 
 Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
 
+* [Vorstandssitzung vom 07.05.2024](2024-05-07-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 09.04.2024](2024-04-09-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 11.03.2024](2024-03-11-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 07.02.2024](2024-02-07-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 10.01.2024](2024-01-10-protokoll-vorstandssitzung)
+
 
 
 ### Ältere Jahrgänge
