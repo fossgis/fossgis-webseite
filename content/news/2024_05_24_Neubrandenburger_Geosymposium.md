@@ -65,7 +65,7 @@ Die Open Source Initiative [OSI](https://opensource.org/osd) fügt zusätzlich z
 
 * [Vortrag](https://cloud.fossgis.de/s/MkerWEjTbMwT2my) - Jörg Thomsen, _WhereGroup - eine Open Geospatial Erfolgsgeschichte_
  
-Die Rückfragen im Nachgang der Vorträge haben gezeigt, dass es immer wider Sinn macht,  Menschen über Open Source und Open Data und die Bedeutung und Untersützung dessen zu informieren und einzuladen es auch zu unterstützen.
+Die Rückfragen im Nachgang der Vorträge haben gezeigt, dass es immer wieder Sinn macht,  Menschen über Open Source und Open Data und die Bedeutung und Untersützung dessen zu informieren und einzuladen es auch zu unterstützen.
 
 
 
