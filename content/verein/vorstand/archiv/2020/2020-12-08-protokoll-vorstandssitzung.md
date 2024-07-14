@@ -34,13 +34,13 @@ Gäste: Christopher, Hafi, gislars, falcius
 
 ### FOSSGIS-Update (11 min)
 
-- seit letzter Woche ist die Webseite für FOSSGIS Update online (Link: https://fossgis-update.de)
+- seit letzter Woche ist die Webseite für FOSSGIS Update online (Link: https://fossgis-update.de/)
 - Ticketverkauf hat begonnen, bisher 21 Anmeldungen davon 2 Supportertickets
     - vor allem Städte und Kommunen haben bisher Tickets gekauft
 - kurze Diskussion, ob wir eine Teilnehmerbegrenzung brauchen
     - bei Venueless hätten wir ein Limit von 80 Personen, mit Bühne gäbe es kein Limit
 - erst einmal keine Teilnehmerbegrenzung
-    
+
 ### Konferenzsoftware
 
 - Venueless
@@ -74,7 +74,7 @@ Idee von Hanna:
 - alternativ Liste aller Serverkostenförderungen mit Links zu den Projektseiten auf die Webseite
 
 Ergebnis der Diskussion:
-    
+
 - Es soll eine Liste aller Förderprojekte auf der FOSSGIS-Webseite mit kurzer Beschreibung, Link zur Projektseite und ggf. Logo entstehen
 - Projekte sollen nochmal angeschrieben werden und auf den Newsblog unserer Webseite hingewiesen werden
 
@@ -91,7 +91,7 @@ Erster Schritt: Hanna wird eine Rundmail an alle Förderprojekte versenden
 
 - Am 21.11.2020 fand der LCCC per BigBlueButton statt. Es waren ca. 30 Personen dort, u.a. Hanna
 - Link zur Veranstaltung: https://wiki.openstreetmap.org/wiki/Foundation/Local_Chapters/Local_Chapters_Congress/2020
-- Themen waren vor allem: Community Building, Webseitenpflege der LCs, die neuen Local Chapter und das neue Local Chapter Agreement 
+- Themen waren vor allem: Community Building, Webseitenpflege der LCs, die neuen Local Chapter und das neue Local Chapter Agreement
 
 #### Webseitenpflege
 

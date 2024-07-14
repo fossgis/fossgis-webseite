@@ -42,7 +42,7 @@ Amtliche Geodaten enthalten nur bestimmte Informationen, beispielsweise Grundris
 
 ### OpenStreetMap
 
-[OpenStreetMap](https://www.openstreetmap.org) ist eine offene Geodatenbank, die von einer großen, weltumspannenden Community erzeugt und gepflegt wird
+[OpenStreetMap](https://www.openstreetmap.org/) ist eine offene Geodatenbank, die von einer großen, weltumspannenden Community erzeugt und gepflegt wird
 (es ist gewissermaßen so etwas wie ein Wikipedia für Geodaten). Etwas in OpenStreetMap zu kartieren bedeutet, Datensätze
 in dieser Datenbank anzulegen oder zu ergänzen, die dann ein einer Karte angezeigt werden können.  In großen Städten, wo
 es viele OpenStreetMap-Beitragende (Mapper genannt) gibt, enthält OpenStreetMap sehr detaillierte Informationen, die
