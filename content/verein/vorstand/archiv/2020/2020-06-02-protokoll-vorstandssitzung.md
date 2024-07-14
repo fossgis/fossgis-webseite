@@ -37,8 +37,8 @@ Gesprächsdauer: 10 min
 **Wichtige Links:**
 
 - Siehe hierzu die Protokolle der letzten zwei Vorstandssitzungen:
-	- https://www.fossgis.de/verein/vorstand/2020-04-07-protokoll-vorstandssitzung/
-	- https://www.fossgis.de/verein/vorstand/2020-05-05-protokoll-vorstandssitzung/
+	- https://www.fossgis.de/verein/vorstand/archiv/2020/2020-04-07-protokoll-vorstandssitzung/
+	- https://www.fossgis.de/verein/vorstand/archiv/2020/2020-05-05-protokoll-vorstandssitzung/
 - Link zum Tickets: 
 	- https://gitlab.fossgis.de/vorstand/todos/-/issues/165
 	- https://gitlab.fossgis.de/vorstand/todos/-/issues/110
@@ -75,7 +75,7 @@ Gesprächsdauer: 32 min
 **Wichtige Links zum Thema:**
 
 - Protokoll der letzten Vorstandssitzung:
-	- https://www.fossgis.de/verein/vorstand/2020-05-05-protokoll-vorstandssitzung/ 
+	- https://www.fossgis.de/verein/vorstand/archiv/2020/2020-05-05-protokoll-vorstandssitzung/ 
 - Link zum Ticket
 	- https://gitlab.fossgis.de/vorstand/todos/-/issues/160
 

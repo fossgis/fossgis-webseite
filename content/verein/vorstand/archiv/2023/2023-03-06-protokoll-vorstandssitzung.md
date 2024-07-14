@@ -16,11 +16,11 @@ Ende: 20:44  Uhr
 - Umlaufbeschlüsse: Mitgliedsanträge #363 #360 #358
 - Umlaufbeschluss: Förderantrag "didacta2023" #362
 - Umlaufbeschluss: Einladung von Pavlo Tkachenko (UKR, developer of SaveEcoBot) zur FOSSGIS-Konferenz #365
-- Finanzbericht 2022 und Budgetplan 2023 #367 
+- Finanzbericht 2022 und Budgetplan 2023 #367
 - Auskunftsersuchen gem. § 100j Absatz 1 Nr. 2 StPO i.V.m. § 22 Absatz 1 TTDSG #361
 - Finanzierung der FOSSGIS-Vereins-Koordinierungsstelle durch BKG #339
 - Mitgliederversammlung 2023 organisieren #336
-- Gitlab Hosting #88 
+- Gitlab Hosting #88
 - Sonstiges
 - Folgetermin
 
@@ -52,13 +52,13 @@ Umlaufbeschluss am 2.3.2023 beschlossen.
 
 ### TOP 4 Einladung [...] #365
 
-Der Vorstand hat mit Umlaufbeschluss vom 2.3.2023 [...]
+Der Vorstand hat mit Umlaufbeschluss vom 2.3.2023 N.N.
 (UKR, developer of SaveEcoBot) zur FOSSGIS-Konferenz eingeladen. Ein
 Verlassen der Ukraine ohne Einladung ist für Personen im
 wehrpflichtigen Alter derzeit nicht möglich. #365
 
 
-### TOP 5 Finanzbericht 2022 und Budgetplan 2023 #367  
+### TOP 5 Finanzbericht 2022 und Budgetplan 2023 #367
 
 Wir warten noch auf den Steuerberater. Ein Entwurf von David für den
 Finanzbericht und den Budgetplan liegt jewils vor.
@@ -80,7 +80,7 @@ Videokonferenz getroffen und den Vertrag zur Finanzierung der
 Koordinierungsstelle besprochen und noch ein wenig am Feinschliff
 gearbeitet.
 
-Der Vertrag soll jetzt bei [...]  vom BKG zur Unterschrift
+Der Vertrag soll jetzt bei [...] vom BKG zur Unterschrift
 liegen.
 
 
@@ -92,7 +92,7 @@ vorgestellt werden soll/muss. Der schriftliche Bericht zur
 Kassenprüfung liegt noch nicht vor. David fragt bei den Kassenprüfern
 nach.
 
-### TOP 9  Gitlab Hosting #88 
+### TOP 9  Gitlab Hosting #88
 
 Um unsere Admins zu entlasten, wäre ein externes Hosting von Gitlab
 eine Möglichkeit. Pirmin hat eine kleine Markterkundung gemacht. Eine
