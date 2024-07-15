@@ -13,20 +13,9 @@ aliases:
 <div class="thumb tleft">
 	<div class="thumbinner">
 		<a class="image" href="https://www.fossgis.de/wiki/Datei:2_FOSSGIS_Hacking_Januar_2015_Gruppenfoto.jpg" title="Gruppenfoto auf der Treppe @Nakaner"><img alt="" border="0" class="thumbimage" src="https://www.fossgis.de/w/images/thumb/b/ba/2_FOSSGIS_Hacking_Januar_2015_Gruppenfoto.jpg/500px-2_FOSSGIS_Hacking_Januar_2015_Gruppenfoto.jpg" width="500" /></a>
-		<div class="thumbcaption">
-			<div class="magnify">
-				<a class="internal" href="https://www.fossgis.de/wiki/Datei:2_FOSSGIS_Hacking_Januar_2015_Gruppenfoto.jpg" title="Enlarge"><img alt="" height="11" src="https://www.fossgis.de/w/skins/common/images/magnify-clip.png" width="15" /></a></div>
-			Gruppenfoto auf der Treppe @Nakaner</div>
+		<div class="thumbcaption">Gruppenfoto auf der Treppe @Nakaner</div>
 	</div>
 </div>
-<table border="0">
-	<tbody>
-		<tr>
-			<td>
-				&nbsp;</td>
-		</tr>
-	</tbody>
-</table>
 <p>Die Besucher des Events kamen aus ganz unterschiedlichen Projekten und waren aus allen Ecken von Deutschland sowie aus Belgien und den Niederlanden angereist. Alle waren begeistert vom Event, der Möglichkeit des Austauschs und der Arbeit am eignen Projekt. Jeder kann von Erfolgen berichten und würde sich direkt zum nächsten Hacking Event anmelden.</p>
 <p>Im Folgenden sollen einige Meilensteine des Wochenendes vorgestellt werden.</p>
 <p>Einige OSM Aktive und Interessierte waren vertreten, die an unterschiedlichsten Projekten rund um OSM arbeiteten. So wurde beispielsweise die OSM Arbeitsgruppe des FOSSGIS e.V. wieder aktiviert und hat als nächstes Ziel ein deutschsprachiges Local Chapter der OSM Foundation zu gründen.</p>

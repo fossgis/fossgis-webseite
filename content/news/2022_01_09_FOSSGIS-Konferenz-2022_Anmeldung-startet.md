@@ -26,6 +26,6 @@ Am Samstag, dem 12. März wird das beliebte OSM-Event von 10-16 Uhr stattfinden.
 
 Weitere Informationen sind auf der Konferenzhomepage veröffentlicht: https://fossgis-konferenz.de/2022/.
 
-Fragen an das [Konferenzorgateam per E-Mail](konferenz-orga@fossgis.de).
+Fragen an das [Konferenzorgateam per E-Mail](mailto:konferenz-orga@fossgis.de).
 
 
