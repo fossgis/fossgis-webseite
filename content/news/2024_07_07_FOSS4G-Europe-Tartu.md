@@ -1,5 +1,5 @@
 ---
-title: "FOSS4G Europe Tartu (Estland)"
+title: "FOSS4G Europe 2024 Tartu (Estland)"
 date: "2024-07-07"
 author: "Astrid Emde, Katja Haferkorn"
 description: Vom 01.-07.07.2024 traf sich die OSGeo-Communiy zur FOSS4G Europe in Tartu.
@@ -17,9 +17,9 @@ Die FOSS4G Europe bietet, ähnlich der FOSSGIS-Konferenz, eine Woche lang Worksh
 450 Personen aus vielen Ländern Europas, aber auch aus der ganzen Welt, reisten nach Tartu. Ähnlich wie die FOSSGIS-Konferenz war auch die FOSS4G Europe schon Wochen vorher ausverkauft.
  
 [![Foto Nadeln](/news/images/2024-07-07_FOSS4G_Europe_vonWo_.jpeg)](/news/images/2024-07-07_FOSS4G_Europe_vonWo_gross.jpeg)     
-*Das Foto zeigt Nadeln, die die Teilnehmenden gesteckt haben, je nach dem, woher sie kommen.*
+*Das Foto zeigt Nadeln, die die Teilnehmenden gesteckt haben, je nachdem, woher sie kommen.*
 
-Die Konferenz fand an der Universität Tartu statt und wurde vom Department of Geography, der University of Tartu unterstützt. Das lokale Team der Uni hat eine wunderbare, unvergessliche Veranstaltung organisiert. Sämtliche Vorbereitungn und die gesamte Veranstaltung wurde von freiwilligem Engagement getragen.   
+Die Konferenz fand an der Universität Tartu statt und wurde vom Department of Geography, der University of Tartu unterstützt. Das lokale Team der Uni hat eine wunderbare, unvergessliche Veranstaltung organisiert.    
 ![Foto Lokel Team](/news/images/2024-07-07_FOSS4G-Europe_LOC.png)   
 *Foto Local Team*
 
@@ -33,7 +33,7 @@ Die Folien zu jedem Vortrag sind jeweils im [Programm verlinkt](https://2024.eur
 #### Besondere Highlights waren: 
 _**Stefanie Lumnitz**_ (ESA, Europäische Weltraumorganisation) sprach in ihrem Keynotevortrag über "[Leading with Open Source: Driving Innovation from Ground to Space](https://talks.osgeo.org/foss4g-europe-2024/talk/UA9TJT/h)" und machte Mut das Open Source und Open Data Ökosystem weiter zu pflegen, größer zu denken sowie auch wichtige Institutionen dazu einzubeziehen.
 
-_**Athina Trakas**_ zeigte in ihrem Keynotebeitrag mit dem Titel "[Bridging Horizons: From Geoinformation to Meteorology and Beyond - A Journey of Cross-Disciplinary Synergy for Global Challenges](https://talks.osgeo.org/foss4g-europe-2024/talk/HZXTEA/)" interessante Aspekte zu kollegtiven Bemühungen der FOSS-Community interdisziplinäre Brücken zu bauen (OGC, UMN-Mapserverkonferenz 2004 + folgende) und zeigt Schnittstellen und Aktivitäten der ECMWF, zu bspw. Copernicus Climate Change Service (C3S), Copernicus Atmosphere Monitoring Service (CAMS), Destination Earth (DestinE), ein digitaler Zwillig des Planeten und beschreibt wie ECMWF Open Data (https://github.com/ecmwf/) macht. 
+_**Athina Trakas**_ zeigte in ihrem Keynotebeitrag mit dem Titel "[Bridging Horizons: From Geoinformation to Meteorology and Beyond - A Journey of Cross-Disciplinary Synergy for Global Challenges](https://talks.osgeo.org/foss4g-europe-2024/talk/HZXTEA/)" interessante Aspekte zu kollegtiven Bemühungen der FOSS-Community interdisziplinäre Brücken zu bauen (OGC, UMN-MapServer-Konferenz 2004 + folgende) und zeigt Schnittstellen und Aktivitäten der ECMWF, zu bspw. Copernicus Climate Change Service (C3S), Copernicus Atmosphere Monitoring Service (CAMS), Destination Earth (DestinE), ein digitaler Zwillig des Planeten und beschreibt wie ECMWF Open Data (https://github.com/ecmwf/) macht. 
 Athina nutzte ein schönes Afrikanisches Sprichwort “If you want to go fast, go alone. If you want to go far, go together.”, übersetzt: "Wenn du schnell gehen willst, geh allein. Wenn du weit gehen willst, geh zusammen.", um die Community zur weiterhin starken Zusammenarbeit der Open Source Community aufzurufen.
 
 Sehr Interessant war auch der Vortrag von _**Javier Jimenez Shaw**_ mit dem Titel "[WGS 84: I don't know, I don't care.](https://talks.osgeo.org/foss4g-europe-2024/talk/B8CETX/)", in welchem er die Zuhörenden auf eine Reise zu den Hintergründen des WGS 84 nimmt und Hinweise gibt, was bei der Verwendung zu beachten ist.
