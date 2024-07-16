@@ -59,7 +59,7 @@ Zahlreiche Personen kamen aus dem D-A-CH-Raum nach Tartu, dies zeigt das tolle E
 
 #### Estland
 Estland ist definitiv eine Reise wert und sehr zu empfehlen. Es ist sehr grün, bunt und gemütlich und gleichzeitig sehr modern und lebendig.  
-_**Mets y Vabadus**_ - _**Wald und Freiheit**_ sind die wichtigsten beschreibenden Worte für Estland.    
+_**Mets ja vabadus**_ - _**Wald und Freiheit**_ sind die wichtigsten beschreibenden Worte für Estland.    
 Tartu ist Europas Kulturhauptstadt 2024 und bot allen Teilnehmenden zusätzliche Highlights in der [Stadt](https://tartu2024.ee/). 
 
 Ein besonder Programmpunkt zum Kennenlernen des Landes war eine [Exkursion nach Setomaa](https://2024.europe.foss4g.org/schedule/excursion/), an der 50 Personen teilnahmen.  
