@@ -1,7 +1,7 @@
 ---
 title: "GeoStyler Code Sprint 2024"
 date: "2024-06-22"
-author: "Jan Suleimann, Katja Haferkorn"
+author: "Jan Suleiman, Katja Haferkorn"
 description: Vom 17.-21.06.2024 hat der GeoStyper-Codesprint stattgefunden.
 images:
   - https://geostyler.org/images/geostyler-codesprint-2024-members.jpg
@@ -22,7 +22,6 @@ Unter anderem wurde an folgenden Themen im Rahmen des Code Sprints gearbeitet:
 * Verbesserungen an der graphischen Benutzeroberfläche sowie am Homepage-Design
 * Updates der GeoStyler REST API
 
-An einem neuen Tool, Visual Comparator, mit welchem verschiedene Stile verglichen werden können, wurde gearbeitet.    
-Der GeoStyler wird von der frz. Regierung als als staatliches Designsystem genutzt.
+Es wurde ein neues Tool entwickelt, mit dem die von GeoStyler unterstützen Formate auf Basis desselben Kartenstils visuell verglichen werden können. Außerdem wurde die GeoStyler UI in Anwendungen integriert, die dem frz. staatlichen Designsystem entsprechen müssen.   
 
 Ein ausführlicher und detaillierter Artikel ist hier zu finden:  https://geostyler.org/codesprint-2024/
