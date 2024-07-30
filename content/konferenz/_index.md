@@ -9,11 +9,12 @@ menu:
 
 Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Geo-Software und OpenStreetMap und wird vom gemeinnützigen FOSSGIS e.V und der OpenStreetMap Community mit Unterstützung des jeweiligen Lokalen Teams organisiert.
 
-Die FOSSGIS 2024 wird vom 20. bis 23. März 2024 in Hamburg auf dem Campus der Technischen Universität Hamburg in Harburg stattfinden.    
-Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://fossgis-konferenz.de/2024/).
+Die FOSSGIS 2024 wird vom 26. bis 29. März 2025 in Münster im Schloss Münster stattfinden.    
+Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://fossgis-konferenz.de/2025/).
 
 ### Vorjahre
 
+* [FOSSGIS-Konferenz 2024](https://fossgis-konferenz.de/2024/) in Hamburg
 * [FOSSGIS-Konferenz 2023](https://fossgis-konferenz.de/2023/) in Berlin
 * [FOSSGIS-Konferenz 2022](https://fossgis-konferenz.de/2022/) online
 * [FOSSGIS-Konferenz 2021](https://fossgis-konferenz.de/2021/) virtuell in Rapperswil und online
@@ -32,8 +33,8 @@ Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://f
 
 Sie wollen die FOSSGIS-Konferenz in Ihrer Stadt bzw. in Ihrer Hochschule holen? In diesem [kurzen Dokument](https://files.fossgis.de/Konferenz/CfL_FOSSGIS.pdf) finden Sie die Anforderungen. Für Fragen zögern Sie nicht uns anzusprechen.
 
-# Call for Location FOSSGIS 2026
+<!---# Call for Location FOSSGIS 2026
 
-![CfP FOSSGIS 2026](https://files.fossgis.de/Konferenz/Call_For_Location_FOSSGIS2026.png)
+![CfP FOSSGIS 2026](https://files.fossgis.de/Konferenz/Call_For_Location_FOSSGIS2026.png)-->
 
 
