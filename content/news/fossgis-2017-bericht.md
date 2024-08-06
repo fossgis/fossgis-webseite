@@ -71,7 +71,7 @@ Sektempfang FOSSGIS 2017 (Foto: Astrid)
 Der FOSSGIS-Stand befand sich in diesem Jahr über dem Foyer. Danke an alle Beteiligten! Viele Interessierte kamen vorbei und informierten sich über Mitgliedschaft und Vereinsarbeit. 
 </p>
 <p>
-Auch in diesem Jahr konnte der FOSSGIS-Verein neue Mitglieder gewinnen. Am Donnerstag fand die jährliche Mitgliederversammlung statt, auf der 35 Vereinsmitglieder und 4 Nichtmitglieder rege verschiedene Themen diskutierten. Link zum <a href="https://www.fossgis.de/sites/default/files/Protokoll_MV_2017_Passau.pdf">Protokoll</a>. Der Vorstand wurde wiedergewählt.
+Auch in diesem Jahr konnte der FOSSGIS-Verein neue Mitglieder gewinnen. Am Donnerstag fand die jährliche Mitgliederversammlung statt, auf der 35 Vereinsmitglieder und 4 Nichtmitglieder rege verschiedene Themen diskutierten. Der Vorstand wurde wiedergewählt.
 </p>
 <p>
 <img src="https://www.fossgis.de/w/images/thumb/8/8c/FOSSGIS2017_Foyer.jpg/450px-FOSSGIS2017_Foyer.jpg">
