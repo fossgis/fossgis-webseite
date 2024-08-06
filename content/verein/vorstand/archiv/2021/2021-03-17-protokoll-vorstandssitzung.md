@@ -124,7 +124,7 @@ Unterschrift des neue LC dauert noch etwas. Der Vertrag muss erst aufgelöst wer
 
 - Katja, Dominik und zwei Mitarbeiterinnen des BKGs haben telefoniert und sich über die Zusammenarbeit zwischen FOSSGIS und BKG gesprochen.
 - BKG würde den FOSSGIS gerne finanziell unterstützen
-- nach [Verwaltungsvorschrift](http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_07072003_O463414017.htm) können sie jedoch nicht spenden, sondern dürfen nur sponsern oder neue Projekte fördern
+- nach [Verwaltungsvorschrift](https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_07072003_O463414017.htm) können sie jedoch nicht spenden, sondern dürfen nur sponsern oder neue Projekte fördern
 - damit uns Behörden überhaupt sponsern können, müssten wir ein Vereinssponsoring schaffen
 - es gab viel positives Feedback zu dem Vorschlag
 - Jochen wird die Steuerberaterin kontaktieren und einen ersten Entwurf aufsetzten

@@ -12,7 +12,7 @@ Ende September lockt der Maptember nach Brüssel. Fünf große Veranstaltungen r
 <li>FOSS4G.be 22.9.2016</li>
 <li>"HOT" (Humanitarian OpenStreetMap Team)  22.9.2016</li>
 <li>Missing Maps Mapathon 22.9.2016</li>
-<li>"State of the map" the yearly worldwide conference of the OpenStreetMap 23.-25..9.2016 <a href="http://2016.stateofthemap.org/">http://2016.stateofthemap.org/</a></li>
+<li>"State of the map" the yearly worldwide conference of the OpenStreetMap 23.-25..9.2016 <a href="https://2016.stateofthemap.org/">https://2016.stateofthemap.org/</a></li>
 <li>OSM/OSGeo HACKDAY 26.9.2016</li>
 </u>
 Informationen unter: <a href="http://maptember.brussels/">http://maptember.brussels/</a>

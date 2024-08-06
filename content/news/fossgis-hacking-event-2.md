@@ -34,7 +34,7 @@ aliases:
 <p>Das Team von OpenRailwayMap war aktiv in folgenden Punkten. Die JOSM Vorlage für die österreichischen Bahnsignale ist erstellt, damit ist das Erfassen über JOSM relativ komfortabel. Stillgelegte und in Bau befindliche Bahnstrecken werden nun auch mit Geschwindigkeitsangabe dargestellt. Außerdem wurden neue Symbole erstellt, so dass nun auch Sv-Signale und Blockkennzeichen dargestellt werden. Für Ks-Signale wurden neue Icons entworfen.</p>
 <p>Alle Bahnfreunde können mit diesen Informationen sicherlich etwas anfangen und freuen sich über die Neuerungen.</p>
 <p>Hier ein neues Symbol: <img alt="de-sh2-32.png" src="https://raw.githubusercontent.com/Nakaner/OpenRailwayMap/117b857b8d592a7b5d9b5e3b4110ea9b735daadd/styles/icons/de-sh2-32.png" /></p>
-<p><a class="external free" href="http://openrailwaymap.org" rel="nofollow" title="http://openrailwaymap.org">http://openrailwaymap.org</a></p>
+<p><a class="external free" href="https://openrailwaymap.org" rel="nofollow" title="https://openrailwaymap.org">https://openrailwaymap.org</a></p>
 <dl>
 	<dt>
 		&nbsp;</dt>
@@ -42,7 +42,7 @@ aliases:
 		<strong>OSM Weekly</strong></dt>
 </dl>
 <p>OSM Weekly ist eine in unterschiedlichen Sprachen erscheinende Wochennotiz, die sich an der deutschsprachigen OSM Wochennotiz orientiert und darüberhinaus länderspezifische Themen behandelt. Am Wochenende hat OSM Weekly erfolgreich die mehrsprachigen RSS-Feeds eingerichtet. Dieses Thema hatte das Projekt schon länger beschäftigt. Durch die Hilfe eines findigen Entwicklers konnten separate Feeds pro Sprache leicht eingebaut werden. Wir freuen uns außerdem darüber, dass OSM Weekly nun auch auf französich erscheint.</p>
-<p><a class="external free" href="http://www.weeklyosm.eu/" rel="nofollow" title="http://www.weeklyosm.eu/">http://www.weeklyosm.eu/</a></p>
+<p><a class="external free" href="https://www.weeklyosm.eu/" rel="nofollow" title="https://www.weeklyosm.eu/">https://www.weeklyosm.eu/</a></p>
 <dl>
 	<dt>
 		&nbsp;</dt>
@@ -106,10 +106,10 @@ aliases:
 <p>Weitere Berichte finden sich unter</p>
 <ul>
 	<li>
-		http://meggsimum.de/?p=374 (Christian Mayer)</li>
+		https://meggsimum.de/ (Christian Mayer)</li>
 	<li>
 		http://www.frigne.be/my-toyota-is-fantastic (Dirk Frigne)</li>
 	<li>
-		http://www.openrailwaymap.org/blog.php#23<br />
+		https://www.openrailwaymap.org/blog.php#23<br />
 		&nbsp;</li>
 </ul>

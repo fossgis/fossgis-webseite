@@ -30,8 +30,8 @@ gearbeitet:</p>
 aus OSM-Daten erzeugt werden können.</li>
 <li><a href="https://wiki.openstreetmap.org/wiki/Libosmscout" target="_blank">Libosmscout</a> eine in C++ geschriebene Programmbibliothek , mit deren Hilfe OSM-Daten offline gerendert und zum Routing genutzt werden können.</li>
 <li><a href="https://wambachers-osm.website/boundaries/ target="_blank">OSM-Boundaries</a>, eine Karte, die eine komfortable &Uuml;bersicht über die OSM erfassten administrativen Grenzen bietet.</li>
-<li><a href="http://www.openrailwaymap.org/ target="_blank">OpenRailwayMap</a>,eine OSM-Karte, die das Herz jeden Eisenbahnfans höher schlagen lässt.</li>
-<li><a href="http://regio-osm.de/ target="_blank">regio-osm.de</a>, wertet Hausnummerlisten von Gemeinden aus und stellt fest, welche Hausnummern davon bereits in OSM erfasst sind.</li>
+<li><a href="https://www.openrailwaymap.org/ target="_blank">OpenRailwayMap</a>,eine OSM-Karte, die das Herz jeden Eisenbahnfans höher schlagen lässt.</li>
+<li><a href="https://regio-osm.de/ target="_blank">regio-osm.de</a>, wertet Hausnummerlisten von Gemeinden aus und stellt fest, welche Hausnummern davon bereits in OSM erfasst sind.</li>
 <li><a href="https://github.com/britiger/osm_address_db" target="_blank">osm_address_db</a> importiert Adressen in postgres.</li>
 <li><a href="https://wiki.openstreetmap.org/wiki/DE:Stolpersteine" target="_blank">Stolpersteine in OSM</a>. Von 60000 - 70000 verlegten Stolpersteinen sind nur 18974 in OSM sichtbar (Stand 25.07.2017).</li>
 </ul>
@@ -52,7 +52,7 @@ in Bonn stattfinden wird.</p>
  <p><a href="https://www.fossgis.de/wiki/FOSSGIS_Hacking_Event_2017_Nummer_8" target="_blank">Eine ausführliche Dokumentation der Ergebnisse gibt es im FOSSGIS-Wiki.</a></p>
 <p>
 <b>Großartig - im Linuxhotel gibt es jetzt einen Flugsimulator!</b> 
-</br>Zufällig wurde gerade am Freitag Linuxhotel ein <a href="http://www.flightgear.org/" target="_blank">FlightGear</a> Flugsimulator von Martin Herweg eingerichtet, der nun dauerhaft den Gästen zur Verfügung steht. Martin kam am Samstag - angelockt durch Grillen und Erbeerkuchen - auch zum Hacking und hat Interessierten  in einigen Flugstunden den Flugsimulator näher gebracht.
+</br>Zufällig wurde gerade am Freitag Linuxhotel ein <a href="https://www.flightgear.org/" target="_blank">FlightGear</a> Flugsimulator von Martin Herweg eingerichtet, der nun dauerhaft den Gästen zur Verfügung steht. Martin kam am Samstag - angelockt durch Grillen und Erbeerkuchen - auch zum Hacking und hat Interessierten  in einigen Flugstunden den Flugsimulator näher gebracht.
 </p>
 
 <p><img src="/news/legacy/250px-FOSSGIS_Hacking_Nr_8_FlightGear.jpg" style="vertical-align:bottom;padding-right:10px"><img src="/news/legacy/250px-FOSSGIS_Hacking_Nr_8_Grillen.JPG" style="vertical-align:bottom"></p>

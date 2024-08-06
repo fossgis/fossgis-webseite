@@ -12,7 +12,7 @@ Wann: 15./16.10.2016 ab 10:00 Uhr
 Wo: Büro 2.0, Weigandufer 45, 12059 Berlin, Konferenzraum (Ausschilderung folgen)
 <br/>
 Karte:
-http://www.openstreetmap.org/?mlat=52.479525&mlon=13.454199&zoom=18&layers=M
+https://www.openstreetmap.org/?mlat=52.479525&mlon=13.454199&zoom=18&layers=M
 <br/>
 Wiki: https://wiki.openstreetmap.org/wiki/Berlin_Hack_Weekend_October_2016
 <br/>

@@ -15,7 +15,7 @@ Der FOSSGIS e.V. freut sich darüber,  dieses Jubiläum finanziell zu unterstüt
 Wann: 14.10.2016 ab 18:00 Uhr
 Wo: Brauhaus Südstern, Hasenheide 69, 10967 Berlin
 <br/>
-Karte: <a href="http://www.openstreetmap.org/node/775332629"  target="_blank">http://www.openstreetmap.org/node/775332629</a>
+Karte: <a href="https://www.openstreetmap.org/node/775332629"  target="_blank">https://www.openstreetmap.org/node/775332629</a>
 <br/>
 Wiki:  <a href=" https://wiki.openstreetmap.org/wiki/Berlin/Stammtisch"  target="_blank"> https://wiki.openstreetmap.org/wiki/Berlin/Stammtisch</a>
 <br/>

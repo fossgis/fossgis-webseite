@@ -16,7 +16,7 @@ Der OSMF-Stammtisch findet etwa monatlich über den Voicechat Mumble statt. Es w
 
 * Termin: Bislang gibt es noch keinen festen Termin. Der nächste Termin wird aber mehrere Tage im Voraus auf den FOSSGIS-Mailinglisten und Talk-DE bekannt gegeben.
 * Link zum Mumble-Server: podcast.openstreetmap.de
-* [Mehr zu Mumble](http://podcast.openstreetmap.de/mitmachen/)
+* [Mehr zu Mumble](https://podcast.openstreetmap.de/mitmachen/)
 * [Protokolle](https://www.fossgis.de/wiki/FOSSGIS-OSMF-Stammtisch)
 
 Liste an Veröffnetlichungen und Blogposts
@@ -45,7 +45,7 @@ Der FOSSGIS-Stammtisch Berlin-Brandenburg findet zusammen mit dem OSM-Stammtisch
 
 * Wer: Geo-Leute aus den unterschiedlichsten Bereichen.
 * Wann: Immer am ersten Mittwoch im Monat.
-* Wo: [Restaurant Da Giovanni](http://www.dagiovanni-bonn.de/) in Bonn-Beuel (Friedrich-Breuer-Str. 65).
+* Wo: [Restaurant Da Giovanni](https://www.dagiovanni-bonn.de/) in Bonn-Beuel (Friedrich-Breuer-Str. 65).
 * gut erreichbar vom Hauptbahnhof mit den STR 62 und 66 bis Haltestelle Konrad-Adenauer-Platz, 10 Minuten zu Fuß vom Bhf. Beuel.
 * [OpenStreetMap Ausschnitt](https://nominatim.openstreetmap.org/details.php?place_id=11659711).
 * Weitere Informationen können auf der Wiki-Seite [Stammtisch Bonn](https://www.fossgis.de/wiki/Stammtisch_Bonn) eingestellt werden.

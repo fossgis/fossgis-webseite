@@ -123,7 +123,7 @@ steht. Wir garantieren keine Verfügbarkeit.
 
 * [Liste anderer Tileserver](https://wiki.openstreetmap.org/wiki/TMS)
 * [Dienstleister und kommerzieller Support](https://wiki.openstreetmap.org/wiki/Commercial_OSM_Software_and_Services)
-* [Anleitung zur Installation eigener Tileserver](http://switch2osm.org/)
+* [Anleitung zur Installation eigener Tileserver](https://switch2osm.org/)
 * [Anleitung zur Installation von OSRM](https://github.com/Project-OSRM/osrm-backend/wiki)
 * [Anleitung zur Installation von Valhalla](https://github.com/valhalla/valhalla)
 

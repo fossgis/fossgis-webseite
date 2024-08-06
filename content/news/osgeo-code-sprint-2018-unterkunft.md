@@ -18,7 +18,7 @@ aliases:
 <p>Wo:</p>
 
 <p>Veranstaltungsort &amp; Unterkunft: BaseCamp Bonn (<a href="https://www.basecamp-bonn.de/">https://www.basecamp-bonn.de/</a>)<br />
-Buchungssystem für Unterkünfte: <a href="http://www.bonn-region.de/events/fossgis.html">http://www.bonn-region.de/events/fossgis.html</a></p>
+Buchungssystem für Unterkünfte: <a href="https://www.bonn-region.de/events/fossgis.html">https://www.bonn-region.de/events/fossgis.html</a></p>
 
 <p><b>Interessiert? Lesen Sie weiter und erfahren Sie mehr über den OSGeo Code Sprint...</b></p>
 
@@ -33,7 +33,7 @@ Buchungssystem für Unterkünfte: <a href="http://www.bonn-region.de/events/foss
 
 <p>Dieses Jahr findet der internationale Code Sprint der OSGeo vom 18. bis 25. März 2018 parallel zur <a href="https://www.fossgis-konferenz.de/2018/">FOSSGIS Konferenz 2018</a> in Bonn statt. Wir bieten einen Rahmen, in dem sich einzelne Projekte zu ihrem Code Sprint treffen können.</p>
 
-<p>Der Code Sprint findet im <a href="https://www.basecamp-bonn.de/">BaseCamp in Bonn</a> statt. Während der <a href="http://2016.foss4g.org/">FOSS4G 2016</a> fand dort bereits ein <a href="https://wiki.osgeo.org/wiki/FOSS4G_2016_Code_Sprint">Codesprint mit etwa 100 Entwicklern</a> statt. Das <a href="https://www.basecamp-bonn.de/">BaseCamp</a> ist ein großartiger Ort für eine solche Veranstaltung. Codesprint und Unterkunft sind in einer alten Fabrikhalle mit unterschiedlichsten Übernachtungsmöglichkeiten vom Campingwagen bis zur Gondel.</p>
+<p>Der Code Sprint findet im <a href="https://www.basecamp-bonn.de/">BaseCamp in Bonn</a> statt. Während der <a href="https://2016.foss4g.org/">FOSS4G 2016</a> fand dort bereits ein <a href="https://wiki.osgeo.org/wiki/FOSS4G_2016_Code_Sprint">Codesprint mit etwa 100 Entwicklern</a> statt. Das <a href="https://www.basecamp-bonn.de/">BaseCamp</a> ist ein großartiger Ort für eine solche Veranstaltung. Codesprint und Unterkunft sind in einer alten Fabrikhalle mit unterschiedlichsten Übernachtungsmöglichkeiten vom Campingwagen bis zur Gondel.</p>
 
 <p>Auf <a href="https://www.basecamp-bonn.de/">https://www.basecamp-bonn.de/</a> finden sich nähere Informationen zum Veranstaltungsort.</p>
 
@@ -43,11 +43,11 @@ Buchungssystem für Unterkünfte: <a href="http://www.bonn-region.de/events/foss
 
 <p>Das <a href="https://www.basecamp-bonn.de/">BaseCamp</a> ist ein Indoor-Campingplatz in einer alten Fabrikhalle. Es gibt dort verschiedene Wohnwagen, Schlafwagen, Airstreams, einen Trabant, VW-Busse und andere Schlafgelegenheiten.</p>
 
-<p>Für die, die lieber im Hotel übernachten, gibt es das <a href="http://www.bonnox.de/de/">Bonnox Boardinghouse</a> direkt nebenan. Außerdem stehen viele gute Hotels und Hostels in Bonn zur Verfügung.</p>
+<p>Für die, die lieber im Hotel übernachten, gibt es das <a href="https://www.bonnox.de/">Bonnox Boardinghouse</a> direkt nebenan. Außerdem stehen viele gute Hotels und Hostels in Bonn zur Verfügung.</p>
 
 <p><b>Unterkunft schnell buchen!</b></p>
 <hline />
-<p>Die Unterkünfte werden auch den Teilnehmern der FOSSGIS-Konferenz zur Verfügung stehen. Daher sorgen wir dafür, dass die Code-Sprint-Teilnehmer einige Tage früher Zugang zum Buchungssystem erhalten, um vor Ort übernachten zu können. Aus diesem Grund bitten wir alle Interessierten, die Unterkunft so schnell wie möglich über das Buchungssystem zu buchen: <a href="http://www.bonn-region.de/events/fossgis.html">http://www.bonn-region.de/events/fossgis.html</a></p>
+<p>Die Unterkünfte werden auch den Teilnehmern der FOSSGIS-Konferenz zur Verfügung stehen. Daher sorgen wir dafür, dass die Code-Sprint-Teilnehmer einige Tage früher Zugang zum Buchungssystem erhalten, um vor Ort übernachten zu können. Aus diesem Grund bitten wir alle Interessierten, die Unterkunft so schnell wie möglich über das Buchungssystem zu buchen: <a href="https://www.bonn-region.de/events/fossgis.html">https://www.bonn-region.de/events/fossgis.html</a></p>
 
 <p><b>Registrierung für den OSGeo Code Sprint</b></p>
 <hline />
