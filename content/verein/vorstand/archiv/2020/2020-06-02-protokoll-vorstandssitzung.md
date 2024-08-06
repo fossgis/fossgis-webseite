@@ -146,7 +146,7 @@ Gesprächsdauer: 10 min
 **Wichtige Links zum Thema:**
 
 - Die Idee wurde auf der letzten Vorstandssitzung von Hanna und Jörg angestoßen.
-	- Siehe hierzu: https://www.fossgis.de/verein/vorstand/2020-05-05-protokoll-vorstandssitzung/
+	- Siehe hierzu: https://www.fossgis.de/verein/vorstand/archiv/2020/2020-05-05-protokoll-vorstandssitzung/
 	- Link zum Ticket: https://gitlab.fossgis.de/vorstand/todos/-/issues/161
 
 **Gesprächsnotizen**
