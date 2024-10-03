@@ -38,7 +38,7 @@ anreichern.
 Natürlich ist noch eine Menge zu tun an den Seiten und wir werden in den
 kommenden Monaten die Seiten immer wieder erweitern. Wenn Du Dich mit OSM ein
 bischen auskennst, freuen wir uns auch über Deine Mitarbeit. Kommentare und
-Ergänzungen können über [under Github
+Ergänzungen können über das [Github
 Repository](https://github.com/fossgis/openstreetmap.de) abgegeben werden. Wenn
 Du Lust hast, bei der Redaktion mitzumachen, wende Dich an
 jochen.topf@fossgis.de.
