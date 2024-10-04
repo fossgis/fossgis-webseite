@@ -81,4 +81,4 @@ AG25 (JubiläumsAG) Idee, der Donnerstagabend wird eine irgendwie geartete Festv
 
 
 
-Nächster Termin: <del>10.10.2024, 20:00 Uhr</del> 06.11.2024, 19.30 Uhr (Termin durch den Vorstand geändert am 25.09.2024)
+Nächster Termin: <del>10.10.2024, 20:00 Uhr</del> 06.11.2024, 19.30 Uhr (Termin durch den Vorstand geändert am 25.09.2024) https://osmvideo.cloud68.co/user/kat-mqr-1wb-qby
