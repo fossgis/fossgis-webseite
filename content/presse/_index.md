@@ -11,6 +11,10 @@ Das Team der AG Öffentlichkeitsarbeit stellt hier Logos und Druckvorlagen berei
 
 Manual: [PDF-Download](https://www.fossgis.de/mediawiki/images/5/56/Logo-FOSSGIS-Verein-Manual_2023-12-05.pdf)
 
+
+#### _Logo Kompass als PNG_
+[![Logo FOSSGIS-Verein RGB_100x45mm_600dpi](https://www.fossgis.de/mediawiki/images/7/79/FossgisKompassRGB_600dpi.png)](https://www.fossgis.de/mediawiki/images/7/79/FossgisKompassRGB_600dpi.png)
+
 #### _Logo Standard als PNG_
 
 [![Logo FOSSGIS-Verein RGB_100x45mm_600dpi](https://www.fossgis.de/mediawiki/images/d/d3/FOSSGIS_Logo_RGB_100x45mm_600dpi.png)](https://www.fossgis.de/mediawiki/images/d/d3/FOSSGIS_Logo_RGB_100x45mm_600dpi.png)
