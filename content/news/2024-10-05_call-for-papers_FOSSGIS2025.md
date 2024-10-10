@@ -13,8 +13,6 @@ category: fossgis
 {{< /rawhtml >}}   
 *Call for Participation FOSSGIS 2025*  
 
-<img src="https://files.mastodon.online/media_attachments/files/113/260/934/043/390/466/original/e26146c87933588f.png"/>
-
 Der [Call for Participation](https://fossgis-konferenz.de/2025/callforpapers/) für die FOSSGIS-Konferenz 2025 ist bis zum 05. November 2024 für Einreichungen geöffnet.
 
 Die FOSSGIS, größte deutschsprachige Anwenderkonferenz für freie Geoinformationssysteme und freie Geodaten, wird vom gemeinnützigen FOSSGIS e.V., der  OpenStreetMap-Community gemeinsam mit dem Institut Geoinformation der Universität Münster organisiert und findet vom 26.-29. März 2025 im Schloss Münster statt.
