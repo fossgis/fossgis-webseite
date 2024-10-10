@@ -15,7 +15,7 @@ category: fossgis
 
 Der [Call for Participation](https://fossgis-konferenz.de/2025/callforpapers/) für die FOSSGIS-Konferenz 2025 ist bis zum 05. November 2024 für Einreichungen geöffnet.
 
-Die FOSSGIS, größte deutschsprachige Anwenderkonferenz für freie Geoinformationssysteme und freie Geodaten, wird vom gemeinnützigen FOSSGIS e.V., der  OpenStreetMap-Community gemeinsam mit dem Institut Geoinformation der Universität Münster organisiert und findet vom 26.-29. März 2025 im Schloss Münster statt.
+Die FOSSGIS, größte deutschsprachige Anwenderkonferenz für freie Geoinformationssysteme und freie Geodaten, wird vom gemeinnützigen FOSSGIS e.V., der  OpenStreetMap-Community gemeinsam mit dem Institut Geoinformatik der Universität Münster organisiert und findet vom 26.-29. März 2025 im Schloss Münster statt.
 
 Freie quelloffene Software, Open Data und Open Science leisten einen wichtigen Beitrag zur Stärkung der Digitalen Souveränität.
 Ziel der jährlich stattfindenden Konferenz ist die Verbreitung von Freier Open Source Software (FOSS) für Geoinformationssysteme (GIS) und Open Data. Hier treffen sich Anwender:innen, Entwickler:innen, Forscher:innen und Interessierte zum gemeinsamen Austausch über GIS-Software, OpenStreetMap und neue Projekte mit Geodatenbezug.
