@@ -11,10 +11,10 @@ category: fossgis
 Vom 3.-6. Oktober 2024 kamen 25 FOSSGIS- und
 OpenStreetMap-Begeisterte zu einem Arbeitstreffen im Linux-Hotel
 in Essen zusammen. Wegen des Feiertags reisten die meisten Teilnehmenden
-bereits am Donnestag an und nutzen den Freitag als Brückentag für ein
+bereits am Donnerstag an und nutzen den Freitag als Brückentag für ein
 verlängertes Arbeitswochenende.   
 
-Das Treffen begann am Dommerstag Abend mit dem tradionellen Pizzaessen und einer Vorstellungsrunde. 
+Das Treffen begann am Donnerstag Abend mit dem tradionellen Pizzaessen und einer Vorstellungsrunde. 
 Da sehr viele Themen zur Besprechung und zur Bearbeitung anstanden, wurden diesmal, anders als bei früheren Treffen, am Freitagvormittag alle Themen auf Moderationskarten geschrieben und ein Sessionplan erarbeitet, der am Samstag ein Update erfuhr. So wußten alle Teilnehmenden, welches Thema zu welcher Zeit in welchem Raum besprochen wird.   
 Eine Vielzahl von Punkten rund um OpenSource-Software, die OpenStreetMap-Community und die Planung der FOSSGIS-Konferenz konnten besprochen werden, womit das Communitytreffen diesmal tatsächlich mehr den Charakter eines Arbeitstreffens als eines Hackweekends bekam. Selbstvertsändlich konnten Teilnehmehmende auch bei diesem Treffen weiter an ihren Projekten arbeiten. Die umfangreichen Ergebnisse der Besprechungen sind auf der [Wiki-Seite des Arbeitstreffens](https://www.fossgis.de/wiki/FOSSGIS_OSM_Communitytreffen_2024_Nummer_22#Bericht/Ergebnisse) festgehalten. 
 
