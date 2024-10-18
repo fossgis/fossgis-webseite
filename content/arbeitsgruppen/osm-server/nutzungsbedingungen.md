@@ -48,7 +48,7 @@ License 1.0.
   Der folgende HTML-Code erfüllt diese Regeln:
 
 ```html
-  Daten © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</code>-Mitwirkende
+  Daten © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>-Mitwirkende
   (<a href="https://opendatacommons.org/licenses/odbl/index.html">ODbL</a>), <a
   href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, <a
   href="https://openstreetmap.org/fixthemap">mitmachen/Fehler melden</a>
