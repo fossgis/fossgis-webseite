@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS e.V. auf der KonGeoS in Würzburg"
 date: "2024-10-25"
-author: "Micheal Recihert , Katja Haferkorn"
+author: "Michael Reichert , Katja Haferkorn"
 description: Der  FOSSGIS e.V hat einen Stand auf der KonGeoS in Würzburg gehabt. 
 images:
   - /news/images/2024-10-25_kongeos-fossgis.webp
