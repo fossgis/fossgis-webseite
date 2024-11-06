@@ -2,11 +2,11 @@
 title: "Hackweekend Berlin November 2024"
 date: "2024-11-04T11:00:00+02:00"
 author: "Lars Lingner"
+description: DDas Hackweekend 2024 in Berlin brachte die OpenStreetMap-Community für ein inspirierendes Wochenende zusammen. 
+
 ---
 
-
-
-# Hackweekend 2024 in Berlin: Kreatives Tüfteln der OpenStreetMap-Community
+## Kreatives Tüfteln der OpenStreetMap-Community
 
 Das Hackweekend 2024 in Berlin brachte die OpenStreetMap-Community für ein inspirierendes Wochenende zusammen. Über 20 Teilnehmende aus ganz Deutschland fanden sich ein – neben den zahlreichen Gästen aus Berlin und Brandenburg reisten auch Community-Mitglieder aus Nordrhein-Westfalen, Baden-Württemberg, Sachsen und Sachsen-Anhalt an. Die Veranstaltung bot einen Raum, um Ideen auszutauschen, kreative Projekte voranzutreiben und gemeinsam an neuen Entwicklungen zu arbeiten. 
 
@@ -22,7 +22,7 @@ Einen kleinen Einblick geben die folgenden Berichte der Teilnehmenden:
 
 ---
 
-## Neue Ideen für den Verkehrswende-Bereich von [tordans](https://www.openstreetmap.org/user/tordans)
+### Neue Ideen für den Verkehrswende-Bereich von [tordans](https://www.openstreetmap.org/user/tordans)
 
 Tobias nutzte das Hackweekend, um sich zu verschiedenen Themen rund um das Thema Verkehrswende mit OpenStreetMap auszutauschen:
 
@@ -35,7 +35,7 @@ Tobias nutzte das Hackweekend, um sich zu verschiedenen Themen rund um das Thema
 
 ---
 
-## Hartmut: [maposmatic](https://print.get-map.org/new/)-vagrant und Mapnik-Themen
+### Hartmut: [maposmatic](https://print.get-map.org/new/)-vagrant und Mapnik-Themen
 
 - Fehlerbehebung im Provisioning und Aktualisierung des OSM Carto-Stil auf die neueste [Version 5.9](https://github.com/gravitystorm/openstreetmap-carto/releases/tag/v5.9.0)
 - lokale Umap-Testinstanz hinzugefügt (WiP)
@@ -47,7 +47,7 @@ Tobias nutzte das Hackweekend, um sich zu verschiedenen Themen rund um das Thema
 
 ---
 
-## dcz: CartoCSS QGIS Plugin
+### dcz: CartoCSS QGIS Plugin
 
 dcz präsentierte sein **CartoCSS QGIS Plugin** und diskutierte die Möglichkeiten der Nutzung von CartoCSS in [QGIS](https://qgis.org/) für gedruckte Karten. Der Austausch war inspirierend, auch wenn die technische Umsetzung eine Herausforderung bleibt. Im OSM-Forum wurde eine [Disskusion](https://community.openstreetmap.org/t/cartocss-with-qgis-for-printing/121036/5) gestartet.
 
@@ -55,7 +55,7 @@ dcz präsentierte sein **CartoCSS QGIS Plugin** und diskutierte die Möglichkeit
 
 ---
 
-## Erfahrungsbericht Marcus
+### Erfahrungsbericht Marcus
 
 Dieses Wochenende habe ich ein neues Projekt gestartet: Mein Ziel ist eine Anwendung, die aus einem GPX-Track und einem Ort einen Wanderplan erzeugt. Der Plan soll so sein, dass jeden Tag ein Stück des Track gewandert werden kann und Abends ein Bus oder Zug zur Verfügung steht, der zu dem Startort zurück führt.
 
@@ -65,7 +65,7 @@ Zum Glück bin ich am Sonntag (wieder) auf den [public-transport-enabler](https:
 
 ---
 
-## Erfahrungsbericht: JOSM, StreetComplete von [Pintoch](https://wiki.openstreetmap.org/wiki/User:Pintoch)
+### Erfahrungsbericht: JOSM, StreetComplete von [Pintoch](https://wiki.openstreetmap.org/wiki/User:Pintoch)
 
 Ich habe versucht zu untersuchen, wie schwierig es sein kann, Beiträge zu FOSS-Projekten in der OSM Community zu machen. Das mache ich im Rahmen von einem größeren Projekt: "contribution experience reports" für viele FOSS Projekte zu schreiben. Ich habe zum Beispiel schon [eins für OrganicMaps](https://antonin.delpeuch.eu/posts/contribution-experience-report-organic-maps/) geschrieben.
 
@@ -75,7 +75,7 @@ Dann habe ich versucht, was bei JOSM beizutragen. Das war ein sehr interessantes
 
 ---
 
-## Fehlende Stolpersteine in Berlin
+### Fehlende Stolpersteine in Berlin
 
 [Joe](https://github.com/hejjoe) und [Christian](https://chrpaul.de) versuchen mehr Stolpersteine in Berlin zu erfassen. An diesem Wochenende haben wir Karten pro Kiez erstellt, damit lokale  Mapper fehlende Stolpersteine leichter finden können. Unsere GPX-Dateien enhalten nur Punkte, an denen auf OSM kein Stolperstein zu finden ist.
 Der Datensatz kommt von der [Koordinierungsstelle Stolpersteine Berlin](https://www.stolpersteine-berlin.de/).
@@ -89,7 +89,7 @@ Der Datensatz kommt von der [Koordinierungsstelle Stolpersteine Berlin](https://
 
 ---
 
-## MapSCII: Eine Braille-Karte der Welt
+### MapSCII: Eine Braille-Karte der Welt
 
 [Christian](https://chrpaul.de) hat die Konsolenanwendung [MapSCII](https://github.com/rastapasta/mapscii) von JavaScript nach TypeScript übersetzt und die Abhängigkeiten auf den neusten Stand gebracht. Für ein neues Release ist der Entwicklungs-Branch leider noch zu instabil. Der Code ist in einem neuen [Branch](https://github.com/rastapasta/mapscii/pull/151)
 
@@ -97,7 +97,7 @@ Der Datensatz kommt von der [Koordinierungsstelle Stolpersteine Berlin](https://
 
 ---
 
-## Karten auf E-Paper-Displays
+### Karten auf E-Paper-Displays
 
 Mit neuen E-Paper-Displays für digitale Karten ging Christian einen Schritt in Richtung moderne Kartentechnologie:
 
@@ -119,7 +119,7 @@ Hardware:
 
 ---
 
-## Voronoi-Flächen für Straßenzüge von [Supaplex030](https://www.openstreetmap.org/user/Supaplex030)
+### Voronoi-Flächen für Straßenzüge von [Supaplex030](https://www.openstreetmap.org/user/Supaplex030)
 
 Daten unseres Crowdmap-Experiments zur Prüfung von OSM-Gebäudedaten in Berlin (https://www.osm-verkehrswende.org/crowdmap/) so aufbereitet, dass wir eine [Challenge](https://tasks.openstreetmap.us/projects/704/) zur Aktualisierung von Gebäuden/Baustellen in Berlin starten können
 
@@ -135,7 +135,7 @@ Ein paar Gedanken dazu gemacht, wie man mit OSM-Diffs ([Geofabrik](https://downl
 
 ---
 
-## MapCSS-Styling für Overpass Turbo von [Martin](https://wiki.openstreetmap.org/wiki/User:Tyr)
+### MapCSS-Styling für Overpass Turbo von [Martin](https://wiki.openstreetmap.org/wiki/User:Tyr)
 
 Overpass turbo hat jetzt einen Wizard für MapCSS styling:
 
@@ -147,7 +147,7 @@ Mehr dazu in meinem osm diary: https://www.openstreetmap.org/user/tyr_asd/diary/
 
 
 
-## Suche nach Wikimedia Links in OpenStreetMap (Wolfram)
+### Suche nach Wikimedia Links in OpenStreetMap (Wolfram)
 
 Die Wikipedia und ihre Schwesterprojekte haben oft Geokoordinaten in ihren Artikeln. Leider sind die Artikel nicht immer erfasst in OpenStreetMap. Ich habe die BBBike tagname Suchmaschine erweitert, dass man nicht nur nach URLs,  sondern auch nach Referenzen zu Wikipedia, Wikidata und Wikimedia Commons suchen kann.
 https://search.bbbike.org/
@@ -168,19 +168,19 @@ https://search.bbbike.org/?query=de%3AWilly+Brandt&hits=20&area=germany
 
 ![](/news/images/2024-11-04_hackweekend_osmsuche.png)
 
-## Datenverbesserungen
+### Datenverbesserungen
 
 Während des Hackweekends wurden von den Gästen auch das Umfeld bzw. der Anreiseweg in OSM vervollständigt. Direkt im Kiez des Wikimedia-Büros konnten noch Straßenlaternen ([Laternenkarte](https://sb12.github.io/OSMStreetLight/#17/52.49730/13.38244)) und Hydranten ([OSMhydrant.org](https://www.osmhydrant.org/de/#zoom=17&lat=52.497132&lon=13.38142)) nachgetragen werden. 
 
 ![Straßenlampen in OSM](/news/images/2024-11-04_hackweekend_osmstreetlamps.png) | ![Hydranten in OSM](/news/images/2024-11-04_hackweekend_osmhydrant.png) 
 
-## Mapillary-Tools zum Kopieren und aussortieren (Christopher)
+### Mapillary-Tools zum Kopieren und aussortieren (Christopher)
 
 Meine Tools etwas vorzeigbar gemacht (erste Version) zum Kopieren von Fotos  von der Kamera sortiert nach Datum und Aussortieren von Doppelten Fotos  z.B. an der Ampel und Fotos ohne GPS um diese ggf. mit einem separaten  Track mit Geokoordinaten zu versehen.
  https://github.com/britiger/mapillary_gopro_tools
 
-## FOSSGIS Arbeit (Christopher)
+### FOSSGIS-Vereins-Arbeit (Christopher)
 
-- Vorbereitungen für die FOSSGIS-Konfrenz
-- Erstellung grobes Zeitraster für PKO-Treffen
+- Vorbereitungen für die [FOSSGIS-Konfrenz 2025](https://fossgis-konferenz.de/2025/)
+- Erstellung des Zeitrasters für die Programmgestaltung
 - Werbung und Review von bereits eingereichten Vorträgen
