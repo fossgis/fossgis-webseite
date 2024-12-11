@@ -3,7 +3,7 @@ title: "FOSS4G 2024 Belém Brasilien"
 date: "2024-12-07"
 author: "Katja Haferkorn"
 images:
-  - https://2024.foss4g.org/_next/static/media/foss4g-belem-logo-vertical.30d8343b.svg
+  - https://media.licdn.com/dms/image/v2/D4D3DAQEU9nCx8OQtwg/image-scale_191_1128/image-scale_191_1128/0/1702929545322/foss4g2024_cover?e=2147483647&v=beta&t=avcRqv77GieS_pUpWWIFgWUY53pCYIkWQegFvRoJ1gY
 ---
 
 #### Vom 02. – 08.12.2024 hat die [FOSS4G 2024](https://2024.foss4g.org/en/) in Belém stattgefunden.
@@ -71,7 +71,9 @@ Wer ein paar Eindrücke bekommen möchte, folgt auf Instagram dem Kanal [FOSS4G]
 
 Die Eineimischen nutzten viele Gelegenheiten, um auf die zahlreichen Probleme der heutigen Zeit hinzuweisen. Insbesondere die andauernde Abholzung des tropischen Regenwaldes wurde immer wieder thematisiert, im Programm gab es viele Lösungsvorschläge dies besser zu beobachten, zu analysieren oder gar zu verhindern. 
 
-Während einer Exkursion zu einer waldreichen Insel, an der sehr viele FOSS4G Teilnehmende dabei waren, haben die lokalen Menschen darum gebeten, über das Problem zu berichten und zu helfen den noch vorhandenen Regenwald zu schützen, denn dieser wird so so schnell nicht wieder nachwachsen.
+Während einer Exkursion zu einer waldreichen Insel, an der sehr viele FOSS4G Teilnehmende dabei waren, haben die lokalen Menschen darum gebeten, über das Problem zu berichten und zu helfen den noch vorhandenen Regenwald zu schützen, denn dieser wird so so schnell nicht wieder nachwachsen.  
+
+Aufgrund der Bedeutung des Regenwaldes für das Klima und die Biodiversität findet im Jahr 2025 die UN-Klimakonferenz (COP 30) in Belém statt. 
 
 {{< rawhtml >}}
 <img src="/news/images/FOSS4G2024_Rivertour_Amazonaswald.jpg" width="500" style="border: 1px solid #808080; border-radius: 3px;"/></a>
