@@ -1,7 +1,7 @@
 ---
 title: "FOSS4G 2024 Belém Brasilien"
 date: "2024-12-07"
-author: "Katja Haferkorn"
+author: "Katja Haferkorn, Mirko Blinn"
 images:
   - https://media.licdn.com/dms/image/v2/D4D3DAQEU9nCx8OQtwg/image-scale_191_1128/image-scale_191_1128/0/1702929545322/foss4g2024_cover?e=2147483647&v=beta&t=avcRqv77GieS_pUpWWIFgWUY53pCYIkWQegFvRoJ1gY
 ---
@@ -43,19 +43,19 @@ Es gab einige sehr inspirierende Keynotebeiträge:
 
 Aus dem deutschsprachigen Raum war eine Hand voll Teilnehmende vertreten, einige haben Vorträge beigesteuert.    
 **Pirmin Kalberer** mit 
-  * "[Serving live maps with vector tiles](https://talks.osgeo.org/foss4g-2024/talk/LVM9TG/)"
-  * "[Shortbread - the new OpenStreetMap vector tile schema](https://talks.osgeo.org/foss4g-2024/talk/9LCAJL/)" 
-  * "[Farewell Web Mercator](https://talks.osgeo.org/foss4g-2024/talk/ZRRKVE/)"  
+* "[Serving live maps with vector tiles](https://talks.osgeo.org/foss4g-2024/talk/LVM9TG/)"
+* "[Shortbread - the new OpenStreetMap vector tile schema](https://talks.osgeo.org/foss4g-2024/talk/9LCAJL/)" 
+* "[Farewell Web Mercator](https://talks.osgeo.org/foss4g-2024/talk/ZRRKVE/)"  
      
 **Horst Düster** mit "[Easily publish your QGIS projects on the web with QWC2 - news from the project](https://talks.osgeo.org/foss4g-2024/talk/LJ37HF/)"    
 
 **Christoph Friedrich** mit dem akademischen Beitrag "[Integrating, Processing and Presenting Big Geodata with Earth Observation Datacubes in an Interdisciplinary Research Context](https://talks.osgeo.org/foss4g-2024-academic-track/talk/FPQDTF/)"    
 
 **Marco Bernasocchi** mit
-  *  "[QField Plugins to the rescue - Natural catastrophe rapid mapping in 2024](https://talks.osgeo.org/foss4g-2024/talk/7APSSN/)"
-  * "[QField 3 - Fieldwork redefined](https://talks.osgeo.org/foss4g-2024/talk/LRYYKR/)"
-  * "[One million reasons to use QField](https://talks.osgeo.org/foss4g-2024/talk/GM8WTF/)"
-  * "[QGIS - Ask me anything!](https://talks.osgeo.org/foss4g-2024/talk/FFN3YW/)"
+*  "[QField Plugins to the rescue - Natural catastrophe rapid mapping in 2024](https://talks.osgeo.org/foss4g-2024/talk/7APSSN/)"
+* "[QField 3 - Fieldwork redefined](https://talks.osgeo.org/foss4g-2024/talk/LRYYKR/)"
+* "[One million reasons to use QField](https://talks.osgeo.org/foss4g-2024/talk/GM8WTF/)"
+* "[QGIS - Ask me anything!](https://talks.osgeo.org/foss4g-2024/talk/FFN3YW/)"
   
 **Katja Haferkorn** aus der Koordinierungsstlle des FOSSGIS e.V. brachte einige Infos zu den Aktivitäten des FOSSGIS e.V. als Local Chapter der OSGeo zu den Teilnehmenden. Beitrag "[FOSSGIS e.V. - how to run a successfull Local Chapter](https://talks.osgeo.org/foss4g-2024/talk/AMNZVK/)". Insbesondere war für die Zuhörenden interessant, wie wir es schaffen etwas Geld in die Kasse zu bekommen, um hauptamtlich Arbeitende zu bezahlen und welche Open Source Software wir für unsere Konferenz einsetzen und wie diese zusammen spielt und wie wir eine hybride Konferenz so erfolgreich umsetzen.
 
