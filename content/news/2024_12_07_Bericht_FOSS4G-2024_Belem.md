@@ -6,9 +6,7 @@ images:
   - https://2024.foss4g.org/_next/static/media/foss4g-belem-logo-vertical.30d8343b.svg
 ---
 
-## FOSS4G 2024 Belém Brasilien
-
-Vom 02. – 08.12.2024 hat die [FOSS4G 2024](https://2024.foss4g.org/en/) in Belém stattgefunden.
+#### Vom 02. – 08.12.2024 hat die [FOSS4G 2024](https://2024.foss4g.org/en/) in Belém stattgefunden.
 
 {{< rawhtml >}}
 <img src="/news/images/FOSS4G2024_City_Belem.jpg" width="1000" style="border: 1px solid #808080; border-radius: 3px;"/></a>
