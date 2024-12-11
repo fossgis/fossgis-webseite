@@ -69,6 +69,13 @@ In der Firmenausstellung haben [OPENGIS.ch](https://www.opengis.ch/de/) und [Sou
 Die Social Events B2B, GeoChicas takes Belém, Ice Breaker und das Gala Dinner waren sehr typisch brasilianisch, lustig, laut und noch lauter.    
 Wer ein paar Eindrücke bekommen möchte, folgt auf Instagram dem Kanal [FOSS4G](https://www.instagram.com/foss4g/?igsh=MXA4YnVydHMxZ2dybA%3D%3D), dort sind Eindrücke aus der Veranstaltung sowie auch der Social Events veröffentlicht.
 
+Zu beachten ist auch die schön gestaltete Karte vom Belém mit lokalen Mustern aus dem Amazonasbegiet. Auch dazu gab es einen Beitrag: "[FOSS4G & Indigenous Art: Showcasing Marajoara Symbols in an Interactive Map of Belém](https://talks.osgeo.org/foss4g-2024/talk/7VKZBE/)
+
+{{< rawhtml >}}
+<a href="https://2024.foss4g.org/en/map/#12.29/-1.44179/-48.46646"><img src="/news/images/FOSS4G2024_Map.png" width="1000" style="border: 1px solid #808080; border-radius: 3px;"/></a>
+{{< /rawhtml >}}
+
+
 Die Eineimischen nutzten viele Gelegenheiten, um auf die zahlreichen Probleme der heutigen Zeit hinzuweisen. Insbesondere die andauernde Abholzung des tropischen Regenwaldes wurde immer wieder thematisiert, im Programm gab es viele Lösungsvorschläge dies besser zu beobachten, zu analysieren oder gar zu verhindern. 
 
 Während einer Exkursion zu einer waldreichen Insel, an der sehr viele FOSS4G Teilnehmende dabei waren, haben die lokalen Menschen darum gebeten, über das Problem zu berichten und zu helfen den noch vorhandenen Regenwald zu schützen, denn dieser wird so so schnell nicht wieder nachwachsen.  
@@ -100,4 +107,6 @@ Aufgrund der Bedeutung des Regenwaldes für das Klima und die Biodiversität fin
 <img src="/news/images/FOSS4G2024_Downtown_Belem_Fotocollage.jpg" width="1000" style="border: 1px solid #808080; border-radius: 3px;"/></a>
 {{< /rawhtml >}}  
 *Downtown Belém*
+
+
 
