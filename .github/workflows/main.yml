@@ -10,31 +10,31 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-    
+
     steps:
-    - uses: actions/checkout@v1
-    - name: Install hugo
-      run: |
-        cd /tmp/
-        wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz 
-        tar xf hugo_0.55.6_Linux-64bit.tar.gz
-        sudo ln -s $(pwd)/hugo /usr/bin/hugo
-        cd -
+      - uses: actions/checkout@v1
+      - name: Install hugo
+        run: |
+          cd /tmp/
+          wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz
+          tar xf hugo_0.55.6_Linux-64bit.tar.gz
+          sudo ln -s $(pwd)/hugo /usr/bin/hugo
+          cd -
 
-    - name: Fetch calendar
-      run: |
-        pip install icalevents
-        wget https://github.com/pka/ical2json/raw/main/ical_to_json.py
-        python ical_to_json.py https://calendar.fossgis.de/fossgis-verein.ical >data/fossgis_verein.json
+      - name: Fetch calendar
+        run: |
+          pip install icalevents
+          wget https://github.com/pka/ical2json/raw/main/ical_to_json.py
+          python ical_to_json.py https://calendar.fossgis.de/fossgis-verein.ical >data/fossgis_verein.json
 
-    - name: Build site
-      run: |
-        hugo
-        
-    - name: Rollout site
-      env:
-        SSH_KEY: ${{ secrets.SSH_KEY }}
-      run: |
-        eval $(ssh-agent -s)
-        ssh-add - <<< "${SSH_KEY}"
-        rsync --exclude=/w --delete -r -e "ssh -o StrictHostKeyChecking=no -p 22" public/ web@web2.fossgis.de:/
+      - name: Build site
+        run: |
+          hugo
+
+      - name: Rollout site
+        env:
+          SSH_KEY: ${{ secrets.SSH_KEY }}
+        run: |
+          eval $(ssh-agent -s)
+          ssh-add - <<< "${SSH_KEY}"
+          rsync --exclude=/w --delete -r -e "ssh -o StrictHostKeyChecking=no -p 22" public/ web@web2.fossgis.de:/
