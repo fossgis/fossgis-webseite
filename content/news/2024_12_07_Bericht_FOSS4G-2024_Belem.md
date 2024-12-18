@@ -4,6 +4,7 @@ date: "2024-12-07"
 author: "Katja Haferkorn, Mirko Blinn"
 images:
   - https://media.licdn.com/dms/image/v2/D4D3DAQEU9nCx8OQtwg/image-scale_191_1128/image-scale_191_1128/0/1702929545322/foss4g2024_cover?e=2147483647&v=beta&t=avcRqv77GieS_pUpWWIFgWUY53pCYIkWQegFvRoJ1gY
+  - https://files.fossgis.de/Koordinierungsstelle/OSGeo/FOSS4G2024_Belem_300px.gif
 ---
 
 #### Vom 02. – 08.12.2024 hat die [FOSS4G 2024](https://2024.foss4g.org/en/) in Belém stattgefunden.
@@ -13,12 +14,12 @@ images:
 {{< /rawhtml >}}  
 *Panorama City Belém Brasilien*
 
-Aus 31 verschiedenen Ländern sind Open Source Software Enthustiastinnen nach Belem gereist, um an den Workshops teilzunehmen, den Vorträgen und Diskussionen zu lauschen und sich mit anderen auszutauschen. Die Opening-Session in drei Sprachen, Portugisisch, Spanisch und Englisch war beeindruckend. Eine wichtige Aussage war, dass die große Leidenschaft für FOSS, Technik, Geoanalysen hilft den globalen Veränderungen zu begegnen.    
-Insgesamt war es mit knapp 300 Teilnehmenden eine eher kleinere FOSS4G.    
+Aus 31 verschiedenen Ländern sind Open Source Software Enthustiastinnen nach Belem gereist, um an einem der 30 Workshops teilzunehmen, den Vorträgen und Diskussionen zu lauschen und sich mit anderen auszutauschen. Die Opening-Session in drei Sprachen, Portugisisch, Spanisch und Englisch war beeindruckend. Eine wichtige Aussage war, dass die große Leidenschaft für FOSS, Technik, Geoanalysen hilft den globalen Veränderungen zu begegnen.    
+Insgesamt war es mit knapp 300 Teilnehmenden eine eher kleinere FOSS4G. Knapp 30 % der Teilnehmenden sind weiblich, non-binär oder haben keine Angabe gemacht. Damit scheint die interantionale FOSS4G etwas diverser zu sein, als die FOSSGIS-Konferenz.  
 {{< rawhtml >}}
-<img src="/news/images/FOSS4G_Gruppenfoto_hr.jpg" width="1000" style="border: 1px solid #808080; border-radius: 3px;"/></a>
+<a href="https://www.flickr.com/photos/narceliosapereira/54198141286/in/album-72177720322507002" target="blank"><img src="/news/images/FOSS4G_Gruppenfoto_hr.jpg" target="blank" width="1000" style="border: 1px solid #808080; border-radius: 3px;"/></a>
 {{< /rawhtml >}}  
-*Gruppenfoto FOSS4G 2024*
+*Gruppenfoto FOSS4G 2024, Klick führt zum Foto mit guter Auflösung*
 
 Zeitgleich zum Code Sprint am Wochenende fand die [QGIS-Latam](https://qgisbrasil.org/qgis-latam-2024/) sowie die [SOTM Latam](https://2024.osmlatam.org/en/) statt.
 
@@ -75,8 +76,7 @@ Zu beachten ist auch die schön gestaltete Karte vom Belém mit lokalen Mustern 
 <a href="https://2024.foss4g.org/en/map/#12.29/-1.44179/-48.46646"><img src="/news/images/FOSS4G2024_Map.png" width="1000" style="border: 1px solid #808080; border-radius: 3px;"/></a>
 {{< /rawhtml >}}
 
-
-Die Eineimischen nutzten viele Gelegenheiten, um auf die zahlreichen Probleme der heutigen Zeit hinzuweisen. Insbesondere die andauernde Abholzung des tropischen Regenwaldes wurde immer wieder thematisiert, im Programm gab es viele Lösungsvorschläge dies besser zu beobachten, zu analysieren oder gar zu verhindern. 
+Die Einheimischen nutzten viele Gelegenheiten, um auf die zahlreichen Probleme der heutigen Zeit hinzuweisen. Insbesondere die andauernde Abholzung des tropischen Regenwaldes im Amazonasgebiet wurde immer wieder thematisiert, im Programm gab es viele Lösungsvorschläge dies besser zu beobachten, zu analysieren oder gar zu verhindern. 
 
 Während einer Exkursion zu einer waldreichen Insel, an der sehr viele FOSS4G Teilnehmende dabei waren, haben die lokalen Menschen darum gebeten, über das Problem zu berichten und zu helfen den noch vorhandenen Regenwald zu schützen, denn dieser wird so so schnell nicht wieder nachwachsen.  
 
@@ -87,26 +87,48 @@ Aufgrund der Bedeutung des Regenwaldes für das Klima und die Biodiversität fin
 {{< /rawhtml >}}  
 *Gruppenfoto rivertour (Screenshot Instagram)*
 
-### Fotoeindrücke  
-{{< rawhtml >}}
-<img src="/news/images/FOSS4G2024_Team.jpg" width="1000" style="border: 1px solid #808080; border-radius: 3px;"/></a>
-{{< /rawhtml >}}  
-*Organisationsteam in grün und Volunteers in gelb*
+### Open Source Geospatial Foundation (OSGeo)
 
-{{< rawhtml >}}
-<img src="/news/images/FOSS4G2024_Ankuendigung_FOSS4G2025.jpg" width="500" style="border: 1px solid #808080; border-radius: 3px;"/></a>
-{{< /rawhtml >}}  
-*Ankündigung FOSS4G 2025 in Neuseeland*
+#### Sol Katz Award
+Im Rahmen der Abschlussveranstaltung wurde der Sol Katz Award an [Tom Kralidis](https://wiki.osgeo.org/wiki/User:Tomkralidis) verliehen.    
+Der Sol Katz Award for Geospatial Free and Open Source Software (FOSS4G) wird jährlich von der OSGeo an Personen aus der Community verliehen, die in der FOSS4G-Community Engagement und Führungsstärke bewiesen haben. Die Preisträger tragen durch ihre Aktivitäten erheblich dazu bei die Open-Source-Idee Geobereich Bereich voranzutreiben. Die Auszeichnung würdigt die Arbeit und soll weitere ermutigen sich zu engagieren. Es gibt einen jährlichen Nominierungsprozess. Weitere Informationen über Sol Katz sind im Wiki der [OSGeo](https://www.osgeo.org/community/awards/) zu finden.
 
 {{< rawhtml >}}
 <img src="/news/images/FOSS4G2024_Sol-Katz_Tom-Kradilis.jpg" width="500" style="border: 1px solid #808080; border-radius: 3px;"/></a>
 {{< /rawhtml >}}  
-*Tom Kradilis erhält Sol Katz*
+*Tom Kralidis erhält Sol Katz*
+
+#### Meeting AGM OSGEO at FOSS4G Belém
+Nach der Abschlussveranstaltung sind alle [Mitglieder](https://wiki.osgeo.org/wiki/Category:OSGeo_Member) und Gäste zum Annual General Meeting 2024 der Open Source Geospatial Foundation eingeladen, das ist die jährliche Hauptversammlung. Hier wird kurz erklärt, was die [OSGeo](https://wiki.osgeo.org/wiki/Main_Page) ist und was in den letzten 12 Monaten getan wurde sowie sich das [Board der OSGeo](https://wiki.osgeo.org/wiki/Board_of_Directors) kurz persönlich vorstellt. Moderiert wurde die Session von [Vicky Vergara](https://www.osgeo.org/member/vicky-vergara/). Es ging um Veranstaltungen, die die OSGeo in den letzten 12 Monaten  unterstützt hat, Vorstellung der einzelnen [Komitees](https://wiki.osgeo.org/wiki/Main_Page#Committees), Projekte und Communityprojekte sowie die Local Chapter und weiteren Partner ihre Aktivitäten vorstellen.    
+Die Teilnehmenden haben Gelegenheit für Fragen und Diskussionen. Der Zeitpunkt nach der Abschlussveranstaltung ist etwas ungünstig gelegen, denn die Veranstaltung kann sich durchaus in die Länge ziehen. Damit wurde die Idee begrüßt das Format ein wenig zu ändern. Die Berichterstattung soll im Vorfeld der Konferenz online erfolgen, damit die Gelegenheit des Treffens der Beteiligten im Rahmen der FOSS4G für mehr Diskussionen und inhaltliche Themen verwendet werden kann. 
+
+Bisher hat ein Großteil der Kommunikation auf Mailinglisten stattgefunden, diese werden nun abgelöst durch das [OSGeo-Community-Forum](https://discourse.osgeo.org/).
+
+### Film und Fotoeindrücke
+
+{{< rawhtml >}}
+<a href="https://files.fossgis.de/Koordinierungsstelle/OSGeo/FOSS4G2024_Film.mp4" target="blank"><img src="https://files.fossgis.de/Koordinierungsstelle/OSGeo/FOSS4G2024_Belem_300px.gif" target="blank" width="500" style="border: 1px solid #808080; border-radius: 3px;"/></a>
+{{< /rawhtml >}}  
+*Film, der während der FOSS4G 2024 entstanden ist. Klick für bessere Auflösung und mit Ton ;-)*
+
+Auf dem Instagram dem Kanal der 
+{{< rawhtml >}}
+<a href="https://www.instagram.com/foss4g/?igsh=MXA4YnVydHMxZ2dybA%3D%3D" target="blank">FOSS4G</a> sind viele Eindrücke zur Konferenz sowie auch der Social Events veröffentlicht.
+{{< /rawhtml >}}  
+
+{{< rawhtml >}}
+<a href="https://www.flickr.com/photos/narceliosapereira/54197243747/in/album-72177720322507002/" target="blank"><img src="/news/images/FOSS4G2024_Team.jpg" width="1000" style="border: 1px solid #808080; border-radius: 3px;"/></a>
+{{< /rawhtml >}}  
+*Organisationsteam in grün und Volunteers in gelb*
+
+{{< rawhtml >}}
+<a href="https://www.flickr.com/photos/narceliosapereira/54198574570/in/album-72177720322507002/" target="blank"><img src="/news/images/FOSS4G2024_Ankuendigung_FOSS4G2025.jpg" width="500" style="border: 1px solid #808080; border-radius: 3px;"/></a>
+{{< /rawhtml >}}  
+*Ankündigung FOSS4G 2025 in Neuseeland*
 
 {{< rawhtml >}}
 <img src="/news/images/FOSS4G2024_Downtown_Belem_Fotocollage.jpg" width="1000" style="border: 1px solid #808080; border-radius: 3px;"/></a>
 {{< /rawhtml >}}  
 *Downtown Belém*
 
-
-
+Alle Fotos der FOSS4G 2024 in Belém sind [auf Flickr](https://www.flickr.com/photos/narceliosapereira/albums/72177720322507002) veröffentlicht.
