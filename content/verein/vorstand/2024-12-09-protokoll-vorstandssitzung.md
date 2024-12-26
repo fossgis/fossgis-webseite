@@ -14,7 +14,7 @@ Ende: 20.58 Uhr
 
 ## Tagesordnung
 
--   Fortbildung Katja 2025 #541
+-   Fortbildung [...] #541
 -   Beschlüsse Neumitglieder #547, #546, #545
 -   Sponsoren und ihre Verrechnungsideen #544
 -   Call for Location FOSSGIS-Konferenz 2026 #500

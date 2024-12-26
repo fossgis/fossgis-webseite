@@ -18,7 +18,7 @@ Ende: 22:13 Uhr
 - Umlaufbeschlüsse #542, #539, #530, #533, #535, #531, #533
 - Bericht Stand Panoramax-Projekt #537 
 - Budget OSM-Server-Gruppe #538
-- Fortbildungsantrag Katja "Führen mit Haltung" - eine Jahresfortbildung für Leadership #541 
+- Fortbildungsantrag [...] #541 
 - Mitfinanzierung VOC-Equipment #540
 - Finanzierung des Vereins - Sponsoringstufen #534 
 - Überarbeitung Förderrichtlinie(n) FOSSGIS e.V. #514
