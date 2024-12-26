@@ -1,4 +1,4 @@
-# Protokoll der Vorstandssitzung vom 09.12.2024 (interne Version)
+# Protokoll der Vorstandssitzung vom 09.12.2024 (Öffentliche Version)
 
 Anwesende Vorstände: Jörg, David, Pirmin (zeitweise), Falk
 
