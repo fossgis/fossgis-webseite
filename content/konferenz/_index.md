@@ -9,7 +9,7 @@ menu:
 
 Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Geo-Software und OpenStreetMap und wird vom gemeinnützigen FOSSGIS e.V und der OpenStreetMap Community mit Unterstützung des jeweiligen Lokalen Teams organisiert.
 
-Die FOSSGIS 2024 wird vom 26. bis 29. März 2025 in Münster im Schloss Münster stattfinden.    
+Die FOSSGIS 2025 wird vom 26. bis 29. März 2025 in Münster im Schloss Münster stattfinden.    
 Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://fossgis-konferenz.de/2025/).
 
 ### Vorjahre
