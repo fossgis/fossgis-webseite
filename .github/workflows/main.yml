@@ -1,4 +1,4 @@
-name: Staging Rollout
+name: Website Rollout
 
 on:
   push:
@@ -12,12 +12,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v4
       - name: Install hugo
         run: |
           cd /tmp/
-          wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.tar.gz
-          tar xf hugo_0.55.6_Linux-64bit.tar.gz
+          wget https://github.com/gohugoio/hugo/releases/download/v0.111.3/hugo_0.111.3_Linux-64bit.tar.gz
+          tar xf hugo_0.111.3_Linux-64bit.tar.gz
           sudo ln -s $(pwd)/hugo /usr/bin/hugo
           cd -
 
