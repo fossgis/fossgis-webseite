@@ -4,7 +4,9 @@
 
 {{ define "main" }}
 <content id="main-content">
-    {{ range .Paginator.Pages }}
+    <h1>Neuigkeiten</h1>
+    <p><b>Kategorie: {{ .Title }}</b> [<a href="index.xml">RSS</a>]</p>
+    {{ range where .Site.RegularPages ".Params.categories" "intersect" (slice .File.BaseFileName) | first 20 }}
         <article class="row">
             <div class="col-sm-2 last-xs first-sm article-meta">
                 {{ .Date.Format "02.01.2006" }}<br>
@@ -18,8 +20,5 @@
             </div>
         </article>
     {{ end }}
-
-    {{ template "_internal/pagination.html" . }}
-    <p><a href="kategorien/">News-Kategorien</a></p>
 </content>
 {{ end }}

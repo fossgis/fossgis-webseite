@@ -5,6 +5,8 @@ author: "Michael Reichert , Katja Haferkorn"
 description: Der  FOSSGIS e.V hat einen Stand auf der KonGeoS in Würzburg gehabt. 
 images:
   - /news/images/2024-10-25_kongeos-fossgis.webp
+categories:
+- fossgis
 ---
 ## KonGeoS - Konferenz der Geodäsie-Studierenden
 

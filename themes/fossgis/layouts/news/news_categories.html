@@ -1,0 +1,14 @@
+{{ define "title" }}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+<content id="main-content">
+    <h1>News-Kategorien</h1>
+    <ul>
+    {{ range .Pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+</content>
+{{ end }}

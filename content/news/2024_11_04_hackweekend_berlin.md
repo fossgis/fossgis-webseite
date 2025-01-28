@@ -2,9 +2,12 @@
 title: "Hackweekend Berlin November 2024"
 date: "2024-11-04T11:00:00+02:00"
 author: "Lars Lingner"
-description: Das Hackweekend 2024 in Berlin brachte die OpenStreetMap-Community für ein inspirierendes Wochenende zusammen. 
+description: Das Hackweekend 2024 in Berlin brachte die OpenStreetMap-Community für ein inspirierendes Wochenende zusammen.
 images:
   - /news/images/2024-11-04_Hack_Berlin_2024.jpg
+categories:
+- fossgis
+- openstreetmap
 ---
 
 ## Kreatives Tüfteln der OpenStreetMap-Community

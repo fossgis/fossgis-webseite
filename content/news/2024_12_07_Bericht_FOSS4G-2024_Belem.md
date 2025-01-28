@@ -5,6 +5,8 @@ author: "Katja Haferkorn, Mirko Blinn"
 images:
   - https://media.licdn.com/dms/image/v2/D4D3DAQEU9nCx8OQtwg/image-scale_191_1128/image-scale_191_1128/0/1702929545322/foss4g2024_cover?e=2147483647&v=beta&t=avcRqv77GieS_pUpWWIFgWUY53pCYIkWQegFvRoJ1gY
   - https://files.fossgis.de/Koordinierungsstelle/OSGeo/FOSS4G2024_Belem_300px.gif
+categories:
+- osgeo
 ---
 
 #### Vom 02. – 08.12.2024 hat die [FOSS4G 2024](https://2024.foss4g.org/en/) in Belém stattgefunden.

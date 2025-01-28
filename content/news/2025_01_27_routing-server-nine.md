@@ -2,6 +2,8 @@
 title: "Nine sponsort Hosting für Routing-Server"
 date: "2025-01-27T07:00:00+02:00"
 author: "Arbeitsgruppe OSM-Server"
+categories:
+- openstreetmap
 ---
 Ende 2024 mussten wir aus Gründen, die weder in unserer noch in der Verantwortung unseres damaligen Sponsors lagen, unser Serverhosting in Winterthur aufgeben, das wir zusammen mit der [Swiss OpenStreetMap Association](https://sosm.ch) betreiben.
 

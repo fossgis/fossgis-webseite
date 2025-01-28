@@ -5,6 +5,8 @@ author: "Katja Haferkorn"
 description: Das Programmkomitee der FOSSGIS 2025 hat am Wochenende das Konferenzprogramm gestaltet.
 images:
   - https://www.fossgis.de/mediawiki/images/8/84/FOSSGIS_25_FIN_wBG.png
+categories:
+- fossgis
 ---
 
 ## Programmkomitee stellt Konferenzprogramm zusammen

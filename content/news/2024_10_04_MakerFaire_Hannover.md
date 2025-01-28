@@ -6,6 +6,8 @@ images:
   - /news/2024_10_04_MakerFaire_Hannover-OSM-Stand_MakerFaire2024_Hannover_Innenbereich.webp
   - /news/2024_10_04_MakerFaire_Hannover-OSM-Stand_MakerFaire2024_Hannover_Aussenbereich.webp
   - /news/2024_10_04_MakerFaire_Hannover-OSM-Stand_MakerFaire2024_Hannover_Karten.webp
+categories:
+- openstreetmap
 ---
 
 Am 17. und 18. August 2024 fand in Hannover die Maker Faire mit 236 Ständen, und 15800 Besuchern statt.

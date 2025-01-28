@@ -8,3 +8,10 @@ defaultContentLanguage = "de"
 sectionPagesMenu = "main"
 
 enableGitInfo = true
+
+disableKinds = ['taxonomy', 'term']
+
+[outputs]
+home = ['html']
+section = ['html']
+

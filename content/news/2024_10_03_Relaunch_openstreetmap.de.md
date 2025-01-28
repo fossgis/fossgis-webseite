@@ -2,6 +2,8 @@
 title: "Relaunch openstreetmap.de"
 date: "2024-10-03"
 author: "Jochen Topf"
+categories:
+- openstreetmap
 ---
 
 Nach mehreren Monaten Arbeit der neuen Redaktion ist jetzt die neue Webseite

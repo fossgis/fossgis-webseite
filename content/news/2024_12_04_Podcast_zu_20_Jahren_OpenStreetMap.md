@@ -2,6 +2,8 @@
 title: "Podcast zu 20 Jahren OpenStreetMap"
 date: "2024-12-04"
 author: "Jochen Topf"
+categories:
+- openstreetmap
 ---
 
 ## Podcast zu 20 Jahren OpenStreetMap

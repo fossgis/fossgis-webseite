@@ -3,8 +3,8 @@ title: "Call for Participation – FOSSGIS-Konferenz 2025"
 date: "2024-10-10"
 author: "Katja Haferkorn"
 language: de-de
-category: fossgis
-
+categories:
+- fossgis
 ---
 
 

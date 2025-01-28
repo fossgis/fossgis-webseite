@@ -3,7 +3,9 @@ title: "Polarlicht im Lummerland"
 date: "2024-10-10"
 author: "Oliver Rudzick, Katja Haferkorn"
 language: de-de
-category: fossgis
+categories:
+- fossgis
+- openstreetmap
 ---
 
 #### Bericht vom FOSSGIS-OSM-Communitytreffen Nr.22
