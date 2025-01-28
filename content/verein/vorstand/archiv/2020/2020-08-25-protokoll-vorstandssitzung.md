@@ -36,7 +36,7 @@ Wie im Aktivenmumble am 18.08.2020 bereits vermerkt, haben einen Vergleich mit m
 
 Jakob erzählt von der AGIT in Salzburg. Hier wurde Hopin (https://hopin.to/) verwendet. Grundsätzlich war die Konferenz gut, die virtuellen Stände die angeboten wurden, kamen allerdings nicht so gut an. 
 
-Michael R. berichtet, dass er am 3. September auf der Traveltalk der Eurobike 2020 zum Thema OSM sprechen wird. Mehr dazu unter: https://forum.openstreetmap.org/viewtopic.php?pid=798616#p798616   
+Michael R. berichtet, dass er am 3. September auf der Traveltalk der Eurobike 2020 zum Thema OSM sprechen wird. Mehr dazu unter: https://community.openstreetmap.org/viewtopic.php?pid=798616#p798616   
 
 Nächster Vorstandssitzung am Wochenende 29/30. August in Berlin. 
 

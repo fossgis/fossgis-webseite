@@ -12,7 +12,7 @@ und online erreichbar unter: https://openstreetmap.de/
 Mitte Januar erreichte den Verein die Mail von _firecircle_ mit der Feststellung, dass die Website openstreetmap.de nicht sehr ansprechend, für Mobilgeräte ungeeignet und noch dazu veraltet erscheint.  
 Erfreulicherweise enthielt die Mail auch das Angebot die Website responsive zu gestalten. 
 
-Eine Diskussion dazu wurde im [Forum](https://forum.openstreetmap.org/viewtopic.php?id=74686) geführt. Beim OSM-Event im Rahmen der FOSSGIS-Konferenz 2022 wurde der vorliegende Entwurf mit der Community besprochen, ergebisse sin dim [OSM-Wiki](https://wiki.openstreetmap.org/wiki/FOSSGIS_2022/OSM-Samstag#14:20_-_Redesign_openstreetmap.de) dokumentiert. 
+Eine Diskussion dazu wurde im [Forum](https://community.openstreetmap.org/viewtopic.php?id=74686) geführt. Beim OSM-Event im Rahmen der FOSSGIS-Konferenz 2022 wurde der vorliegende Entwurf mit der Community besprochen, ergebisse sin dim [OSM-Wiki](https://wiki.openstreetmap.org/wiki/FOSSGIS_2022/OSM-Samstag#14:20_-_Redesign_openstreetmap.de) dokumentiert. 
 
 Dank der Unterstützung des Technikteams des FOSSGIS e.V. entstand eine Testumgebung, die für zukünftige grössere Änderungen wieder benutzt werden kann.  
 Nun ist die Community gefragt, sich mit den Inhalten auseinander zu setzen. 

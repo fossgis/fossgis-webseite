@@ -44,7 +44,7 @@ wurden sie an die Webprogrammierung mit Javascript herangeführt.</p>
 OSM-Community herangetragen wurden. <a href="https://wiki.openstreetmap.org/wiki/RVR" target="_blank">Pläne des Regionalverbands Ruhr</a>, seine
 Stadtpläne künftig mit Hilfe von OSM-Daten zu erstellen und im Gegenzug zu
 OSM beizutragen, stießen bei den Anwesenden auf Zustimmung. Kritischer wurde
-ein <a href="https://forum.openstreetmap.org/viewtopic.php?id=58758" target="_blank">Beitrag im OSM-Forum</a> zum Mappen von Hydranten diskutiert.</p>
+ein <a href="https://community.openstreetmap.org/viewtopic.php?id=58758" target="_blank">Beitrag im OSM-Forum</a> zum Mappen von Hydranten diskutiert.</p>
 
 <p>Ein wichtiges Thema waren die Planungen für die <a href="https://www.fossgis-konferenz.de/2018/" target="_blank">FOSSGIS-Konferenz</a>, die 2018
 in Bonn stattfinden wird.</p>

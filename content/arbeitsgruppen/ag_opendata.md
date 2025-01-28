@@ -20,7 +20,7 @@ Seit Herbst 2020 ist die Arbeitsgruppe Open Data aktiv. Diese wurde initial gegr
 - Tobias Jordans
 
 ## Wo findet die Diskussion statt?
-- [OpenStreetMap-Forum](https://forum.openstreetmap.org/viewtopic.php?id=70375)
+- [OpenStreetMap-Forum](https://community.openstreetmap.org/viewtopic.php?id=70375)
 - Gesprächstreffen werden über die Mailingliste bekanntgegeben
 - Die Arbeitsgruppe stimmt sich zudem über eine Gruppe auf matrix.org ab.
 

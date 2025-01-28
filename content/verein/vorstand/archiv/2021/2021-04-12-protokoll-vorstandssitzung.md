@@ -70,7 +70,7 @@ Allgemeine Diskussion zu den Fragestellungen, wie mit Beschwerden zu Eintragunge
 Auch in der OSM-Community wird die Thematik behandelt:
 
 - https://wiki.openstreetmap.org/wiki/User:Nakaner/Positionspapier_Geheimhaltung
-- https://forum.openstreetmap.org/viewtopic.php?id=68174
+- https://community.openstreetmap.org/viewtopic.php?id=68174
 
 Jörg schreibt den Anwalt in Abstimmung mit Frederik an. 
 

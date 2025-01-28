@@ -210,7 +210,7 @@ Thema: Mühlheim an der Ruhr
 	- es handele sich bei der Wiese jedoch um Landschaftsschutzgebiet
 	- er habe die Wege mehrfach aus OSM entfernt, woraufhin seine Änderungen revidiert wurden
 - die Diskussion hierzu ist sowohl auf der Mailingliste als auch im  Forum  eskaliert
-	- Link zum Forum: https://forum.openstreetmap.org/viewtopic.php?id=69444
+	- Link zum Forum: https://community.openstreetmap.org/viewtopic.php?id=69444
 - angeblich hat er Strafanzeige gegen den FOSSGIS.eV. gestellt. Bislang haben wir aber nichts erhalten.
 - Konflikt konnte gelöst werden: 
 	- Die Wege scheinen tatsächlich nicht zu existieren, daher wurden sie nun endgültig gelöscht.
