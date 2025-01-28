@@ -83,7 +83,7 @@ Der FOSSGIS-Verein konnte im Rahmen der Konferenz die Mitgliedermarke von 200 ü
 Nach der Konferenz ist vor der Konferenz. Wir sind gespannt, zu welchem Standort uns die nächste FOSSGIS führen wird, aktuell sucht der FOSSGIS e.V. einen Austragungsort für 2017. Weitere Informationen dazu unter: https://www.fossgis-konferenz.de/2017/ Für Hinweise, Wünsche und Unterstützung sind wir offen.
 
 
-Allen noch einen schönen Sommer und vielleicht schon bis in zwei Wochen zur FOSS4G 2016 in Bonn (https://2016.foss4g.org/).
+Allen noch einen schönen Sommer und vielleicht schon bis in zwei Wochen zur [FOSS4G 2016 in Bonn](https://2016.foss4g.org/).
 
 
 Ihr FOSSGIS-Konferenz-Organisationsteam

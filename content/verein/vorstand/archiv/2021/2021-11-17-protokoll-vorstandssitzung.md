@@ -47,7 +47,7 @@ Vereinsveranstaltung unter die Versicherungsbedingungen fallen. (Ticket
 
 Hannes hatte auf "Frag den Staat" im Jahr 2018 einen Transparenzantrag
 gestellt
-(https://fragdenstaat.de/anfrage/digitales-oberflachenmodell/). Der
+(https://fragdenstaat.de/anfrage/digitales-oberflachenmodell/ ). Der
 Antrag wurde bisher von der Landesvermessung Hamburg nicht
 beschieden. Auf die Anfrage von Hannes auf der Mailingliste, wer die
 Sache unterstützen und mit vorantreiben möchte, hat sich niemand

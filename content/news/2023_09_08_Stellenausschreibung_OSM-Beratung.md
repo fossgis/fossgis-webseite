@@ -14,4 +14,4 @@ Es kommen sehr viele Anfragen zu OpenStreetMap beim FOSSGIS an, unter anderem er
 Die OSM-Daten werden mittlerweile von zahlreichen, verschiedenen gesellschaftlichen Gruppen (Firmen, Organisationen, Zivilgesellschaft) genutzt, zweifelsohne können die OSM-Daten als immaterielles Kulturgut betrachtet werden. Die Nutzung, Anwendung sowie Kartierung führt aber auch zu vielfältigen Fragen, neuen Ideen und auch Konflikten. Um diese aufzunehmen braucht es Öffentlichkeitsarbeit, Dokumentation, Erklärung, Organisation von Gesprächen, Diskussionen und die Ermöglichung echten Kontakts.
 Die Idee dies durch eine weitere Stelle im Hauptamt zu ermöglichen, wurde im Verein diskutiert und ist nun auf den Weg gebracht.
 
-Hier geht es zur Stellenausschreibung: https://fossgis.de/aktivit%c3%a4ten/osm-stelle/
+Hier geht es zur Stellenausschreibung: [Link entfernt]

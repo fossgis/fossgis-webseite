@@ -22,7 +22,7 @@ Erstmals wurde ein Studierendenblock angeboten, in dem Studierende ihre Arbeiten
 ## Programm 
 Es wurden 92 Vorträge und 20 Lightning Talks sowie 4 Demosessions aufgezeichnet, diese sind im Programm verlinkt: https://www.fossgis-konferenz.de/2024/programm/.
 
-Die 20 Workshops wurden von circa 200 Teilnehmenden besucht. Die OSGeolive kam in vielen Workshops zum Einsatz. Es erreichte uns sehr viel positives Feedback zu den Workshops und der Raumausstattung. Wer die OSGeoLive ausprobieren möchte, findet hier eine Donwloadmöglichkeit: https://nx112.your-storageshare.de/s/tdqEisGjpP7G3o3 (bis 31.12.24 verfügbar) und kann sich unter https://live.osgeo.org rund um OSGeoLive informieren.
+Die 20 Workshops wurden von circa 200 Teilnehmenden besucht. Die OSGeolive kam in vielen Workshops zum Einsatz. Es erreichte uns sehr viel positives Feedback zu den Workshops und der Raumausstattung. Wer die OSGeoLive ausprobieren möchte, findet hier eine Donwloadmöglichkeit: [nicht mehr vorhanden] und kann sich unter https://live.osgeo.org/ rund um OSGeoLive informieren.
 
 In 4 Expert:innenfragestunden wurden im direkten Gespräch Fragen beantwortet. 
 Es fanden 11 Anwendertreffen statt. Dies zeigt eindeutig, dass die FOSSGIS-Konferenz erfolgreich zur Vernetzung der Community beiträgt.

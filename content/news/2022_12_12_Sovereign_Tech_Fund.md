@@ -1,16 +1,16 @@
 ---
-title:  "Souvereign Tech Fund"
+title:  "Sovereign Tech Fund"
 date: "2022-12-12"
 author: "Katja Haferkorn"
 ---
 
-### Community-Abend des Souvereign Tech Fund
+### Community-Abend des Sovereign Tech Fund
 
-Am 07.12.2022 hat der Souvereign Tech Fund zum Community-Abend auf den GovTech Campus in Berlin eingeladen.
+Am 07.12.2022 hat der Sovereign Tech Fund zum Community-Abend auf den GovTech Campus in Berlin eingeladen.
 
 Angemeldete Teilnehmende wurden am Empfang abgeholt und in den Veranstaltungsraum begleitet. Ein interessant gestalteter Raum sowie ein leckeres Buffet und Getränke erwartet die circa 50 Teilnehmdenen.
 
-Nach der Begrüßung stellten die Protagonist:innen (Adriana Groh, Fiona Krakenbürger, Tara Tarakiyee, Katharina Meyer) des Sovereign Tech Fund das Programm des Abends vor, anschließend wurde mit dem Beteiligungstool [Particify](https://particify.de/features/quiz-und-umfragen/) eine Umfrage durchgeführt und die Teilnehmenden konnten Fragen stellen.
+Nach der Begrüßung stellten die Protagonist:innen (Adriana Groh, Fiona Krakenbürger, Tara Tarakiyee, Katharina Meyer) des Sovereign Tech Fund das Programm des Abends vor, anschließend wurde mit dem Beteiligungstool [Particify](https://particify.de/) eine Umfrage durchgeführt und die Teilnehmenden konnten Fragen stellen.
 
 Der Sovereign Tech Fund (STF) unterstützt die Entwicklung, Verbesserung und Erhaltung offener digitaler Infrastrukturen mit dem Ziel das Open-Source-Ökosystem nachhaltig zu stärken. Im Fokus stehen Sicherheit, Stabilität, technologische Vielfalt und die Menschen hinter dem Code.
 Nach Aussage des STF ist es an der Zeit, in digitale Gemeingüter, ehrenamtliche Community und das Open-Source-Ökosystem zu investieren, um die digitale Welt zu schaffen, die wir uns wünschen. 

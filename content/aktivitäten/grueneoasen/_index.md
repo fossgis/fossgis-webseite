@@ -20,7 +20,7 @@ Der  FOSSGIS e.V hat das Konzept ***Grüne Oasen – Wirkung innerstädtischer G
 Leider wurde unser Projekt nicht für die Förderung ausgewählt. Wir gratulieren den drei Gewinnern ganz herzlich und danken allen, die uns unterstützt haben, ganz besonders den Organisator:innen des Wettbewerbs. Gemeinsam mit den anderen Beteiligten wollen wir ausloten, was von unserer Idee auch ohne die Förderung im Rahmen dieses Wettbewerbs umgesetzt werden kann.
 
 ## <a name="Abstimmung"></a>Abstimmung Publikumspunkte
-In einer [Online-Abstimmung](https://pollunit.com/de/polls/citizenscience-wettbewerb) konnten wir bis zum 21.07.2023 Publikumspunkte sammeln. Unser Projekt erhielt 481 Stimmen.
+In einer Online-Abstimmung konnten wir bis zum 21.07.2023 Publikumspunkte sammeln. Unser Projekt erhielt 481 Stimmen.
 
 ## Unsere Ideenskizze als Schlaglicht
 

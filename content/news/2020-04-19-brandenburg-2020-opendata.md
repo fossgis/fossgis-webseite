@@ -21,7 +21,7 @@ die bei einer Lizenzanpassung im letzten Jahr nochmals
 
 Seit dem 20.6.2019 sind die Geobasisinformationen des Landes _entgeltfrei_ bereitzustellen. 
 Das Ministerium des Innern und für Kommunales des Landes Brandenburg beziffert in einer Präsentation 
-"[Open Data für digitale Geodaten der Vermessungsverwaltung](https://geoportal.brandenburg.de/fileadmin/user_upload/unterlagen/gsc/veranstaltungen/2019-06-13_AP-WS_BB/2019-06-13_Open_Data_Schoenitz.pdf)" 
+"[Open Data für digitale Geodaten der Vermessungsverwaltung](https://web.archive.org/web/20190703135559/https://geoportal.brandenburg.de/fileadmin/user_upload/unterlagen/gsc/veranstaltungen/2019-06-13_AP-WS_BB/2019-06-13_Open_Data_Schoenitz.pdf)"
 den Einnahmeausfall auf ca 2 Mio. €/Jahr. Grundlagen sind eine Änderung des 
 [Brandenburgischen Vermessungsgesetzes](https://bravors.brandenburg.de/gesetze/bbgvermg)
 und der Durchführungsbestimmung (BbgGeoNutzV), die relevanten Details sind im 

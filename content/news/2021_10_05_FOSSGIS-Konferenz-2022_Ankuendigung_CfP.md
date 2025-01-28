@@ -26,7 +26,7 @@ Von Mittwoch bis Freitag gibt es Vorträge, Workshops, Demo-Sessions und Lightni
 
 Samstag, der 12. März steht im Zeichen des OpenStreetMap-Projekts. An diesem Tag findet mit dem „OSM-Samstag“ eine Unkonferenz der deutschsprachigen OpenStreetMap-Community statt.
 
-Eine rechtzeitige Zimmer-Reservierung wird empfohlen. Einige Hotels sind auf der Konferenz-Homepage verlinkt. Mit zwei Hotels wurden Zimmerkontingente vereinbart. [Informationen zur Anreise](https://fossgis-konferenz.de/2022/anreise/)
+Eine rechtzeitige Zimmer-Reservierung wird empfohlen. Einige Hotels sind auf der Konferenz-Homepage verlinkt. Mit zwei Hotels wurden Zimmerkontingente vereinbart.
 
 #### Wo gibt es Informationen?
 Alle Informationen zur FOSSGIS-Konferenz sind auf der [Konferenzhomepage](https://www.fossgis-konferenz.de/2022/) zu finden.
@@ -55,7 +55,6 @@ Fragen können per E-Mail oder im Matrix-Chat an das Konferenzorgateam gerichtet
 Konferenz-Homepage: [https://www.fossgis-konferenz.de/2022/](https://www.fossgis-konferenz.de/2022/)
 Call for Papers: [https://pretalx.com/fossgis2022/cfp](https://pretalx.com/fossgis2022/cfp)
 Infos zur Anmeldung: [https://fossgis-konferenz.de/2022/anmeldung/](https://fossgis-konferenz.de/2022/anmeldung/)
-Infos zur Anreise: [https://fossgis-konferenz.de/2022/anreise/](https://fossgis-konferenz.de/2022/anreise/)
 Unterstützung der Konferenz: [https://www.fossgis-konferenz.de/2022/helfen](https://www.fossgis-konferenz.de/2022/helfen)
 Mail Konferenzorgateam: [konferenz-orga@fossgis.de](mailto:konferenz-orga@fossgis.de?subject=Fragen_zur_Konferenz)
 Matrix-Chat: [https://matrix.to/#/!XajsOFLRhsznebfosT:matrix.org](https://matrix.to/#/!XajsOFLRhsznebfosT:matrix.org)

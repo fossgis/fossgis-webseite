@@ -55,7 +55,6 @@ Fragen können per E-Mail oder im Matrix-Chat an das Konferenzorgateam gerichtet
 Konferenz-Homepage: [https://www.fossgis-konferenz.de/2023/](https://www.fossgis-konferenz.de/2023/)
 Call for Papers: [https://fossgis-konferenz.de/2023/callforpapers/](https://fossgis-konferenz.de/2023/callforpapers/)
 Infos zur Anmeldung folgen: [https://fossgis-konferenz.de/2023/anmeldung/](https://fossgis-konferenz.de/2023/anmeldung/)
-Infos zur Anreise folgen: [https://fossgis-konferenz.de/2023/anreise/](https://fossgis-konferenz.de/2023/anreise/)
 Unterstützung der Konferenz: [https://www.fossgis-konferenz.de/2023/helfen](https://www.fossgis-konferenz.de/2023/helfen)
 Mail Konferenzorgateam: [konferenz-orga@fossgis.de](mailto:konferenz-orga@fossgis.de?subject=Fragen_zur_Konferenz)
 Matrix-Chat: [https://matrix.to/#/!tJQrRrFaqraZdWsEdM:matrix.org](https://matrix.to/#/!tJQrRrFaqraZdWsEdM:matrix.org)

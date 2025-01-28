@@ -12,6 +12,5 @@ Die Daten sollen für kommerzielle und nicht-kommerzielle Zwecke verwendet werde
 
 Allerdings liegt, wie so oft, der Teufel im Detail und das Gesetz enthält auch einige Passagen, die im Zusammenhang mit OpenStreetMap zu Problemen in der Praxis führen würden. Insbesondere geht es da um die Aktualisierungspflicht und die Rückmeldepflicht, die nach unserer Ansicht, die Offenheit der Daten zu sehr einschränkt. Wir haben das in unserer Stellungnahme weiter ausgeführt.
 
-* [Gesetzesentwurf Mobilitätsdatengesetz](https://cloud.fossgis.de/s/43Te97zMMDZjoWJ)
 * [Stellungnahme des FOSSGIS e.V. zum Entwurf des Mobilitätsdatengesetzes](/news/2024-06-05-stellungnahme-mobilitätsdatengesetz-fossgis.pdf)
 

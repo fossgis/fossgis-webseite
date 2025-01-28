@@ -98,7 +98,7 @@ Dominik hat geantwortet.
 
 ## 10. Kontakt zum BKG suchen
 
-Prof. Dr. Becker (Präsident BKG) hat in einem Interview im Behördenspiegel [gesagt](https://www.behoerden-spiegel.de/2019/08/22/bkg-will-mehr-zusammenarbeit/), OpenStreetmap gelobt und sucht den Kontakt.
+Prof. Dr. Becker (Präsident BKG) hat in einem Interview im Behördenspiegel [gesagt](https://web.archive.org/web/20200620013049/https://www.behoerden-spiegel.de/2019/08/22/bkg-will-mehr-zusammenarbeit/), OpenStreetmap gelobt und sucht den Kontakt.
 
 Dominik hat darauf hin gestern Joachim eine Mail geschrieben und gefragt, was er dazu meine, wenn der Vorstand ihn kontaktiert. Joachim fände es ganz gut, wenn wir uns darum kümmern. Joachim hat ihn im Frühjahr kurz mit ihm auf einer Veranstaltung gesprochen.
 
