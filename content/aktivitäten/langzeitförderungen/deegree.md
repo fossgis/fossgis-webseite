@@ -2,7 +2,7 @@
 title: "Deegree"
 ---
 
-[**deegree**](http://www.deegree.org) ist eine Open-Source-Software für Geodateninfrastrukturen und das Geodaten-Web. **deegree** bietet Komponenten für das Geodatenmanagement an, einschließlich Datenzugriff, Visualisierung, Ermittlung und Sicherheit. Offene Standards stehen im Mittelpunkt von **deegree**.
+[**deegree**](https://www.deegree.org) ist eine Open-Source-Software für Geodateninfrastrukturen und das Geodaten-Web. **deegree** bietet Komponenten für das Geodatenmanagement an, einschließlich Datenzugriff, Visualisierung, Ermittlung und Sicherheit. Offene Standards stehen im Mittelpunkt von **deegree**.
 
 Die **deegree**-Software basiert auf den Standards des Open Geospatial Consortium (OGC) und des ISO Technical Committee 211. Sie umfasst die Referenzimplementierung des OGC Web Map Service (WMS), einen vollständig kompatiblen Web Feature Service (WFS) sowie Pakete für Catalogue Service (CSW), Web Coverage Service (WCS), Web Processing Service (WPS) und Web Map Tile Service (WMTS). Seit 2000 wird *deegree* von lat/lon entwickelt, mit der starken Absicht, es zu einem Community-getriebenen Projekt zu machen. Ein wichtiger Schritt in diese Richtung war die Akzeptanz als OSGeo-Projekt im Jahr 2010. Heute wird *deegree* von mehreren Organisationen und Einzelpersonen mit einer großen Anwenderbasis auf der ganzen Welt aufrechterhalten.
 

@@ -11,7 +11,7 @@ Die Gelegenheit die FOSSGIS-Konferenz im Vorfeld der AGIT zu veranstalten hat vo
 
 <h4>OSM-Sonntag</h4>
 Am Sonntag, dem 03. Juli trafen sich OpenStreetMap-Aktive zum OSM-Sonntag. Es gestaltete sich ein Workshoptag an dem Themen, wie Fußgängerrouting, Kartenstile, Overpass-Abfragen und Bearbeitung in JOSM besprochen wurden. Nach der gemeinsamen Pizzapause trafen sich alle zum Gruppenfoto, im Hintergrund die Festung Hohensalzburg. Zum Abschluss gab es ein spannendes OSM-Quiz, bei dem ungeahntes Wissen zutage kam. Einige Vorträge vom OSM-Sonntag wurden auf Video aufgezeichnet.</br>
-Eine Zusammenfassung des OSM-Sonntags ist im OSM-Blog veröffentlicht http://blog.openstreetmap.de/blog/2016/07/osm-sonntag-in-salzburg/
+Eine Zusammenfassung des OSM-Sonntags ist im OSM-Blog veröffentlicht https://blog.openstreetmap.de/blog/2016/07/osm-sonntag-in-salzburg/
 
 <img width="400px" src="https://www.fossgis.de/w/images/thumb/e/ed/Osm-sonntag-2016-gruppenbild.jpg/800px-Osm-sonntag-2016-gruppenbild.jpg" />
 <br>Gruppenfoto OSM-Sonntag (Foto: nakaner)
@@ -83,7 +83,7 @@ Der FOSSGIS-Verein konnte im Rahmen der Konferenz die Mitgliedermarke von 200 ü
 Nach der Konferenz ist vor der Konferenz. Wir sind gespannt, zu welchem Standort uns die nächste FOSSGIS führen wird, aktuell sucht der FOSSGIS e.V. einen Austragungsort für 2017. Weitere Informationen dazu unter: https://www.fossgis-konferenz.de/2017/ Für Hinweise, Wünsche und Unterstützung sind wir offen.
 
 
-Allen noch einen schönen Sommer und vielleicht schon bis in zwei Wochen zur FOSS4G 2016 in Bonn (http://2016.foss4g.org). 
+Allen noch einen schönen Sommer und vielleicht schon bis in zwei Wochen zur FOSS4G 2016 in Bonn (https://2016.foss4g.org/).
 
 
 Ihr FOSSGIS-Konferenz-Organisationsteam

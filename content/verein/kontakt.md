@@ -8,7 +8,7 @@ menu:
 
 ### Koordinierungsstelle FOSSGIS e.V.
 
-Bundesallee 23, 10717 Berlin 
+Bundesallee 23, 10717 Berlin
 
 Ansprechpartnerin: Katja Haferkorn
 
@@ -18,21 +18,16 @@ Telefon: +49 30-62932037
 
 *Termine bitte nach Vereinbarung.*
 
-
-
-### Allgemeine Anfragen 
+### Allgemeine Anfragen
 an unseren Verein richten Sie per E-Mail an [info@fossgis.de](mailto:info@fossgis.de).
-
 
 ### Fragen zu verschiedenen Themenbereichen
 Nutzen Sie bitte unsere [Mailinglisten](/community/mailinglisten/).
-
-<!--Auch per [Chat](/community/irc/) ist eine Kontaktaufnahme möglich.-->
 
 ### Wo treffen Sie uns?
 Gerne können Sie uns auch persönlich treffen, zum Beispiel auf unserer jährlichen [FOSSGIS-Konferenz](/konferenz/).
 
 #### Social Media
 * [Twitter](https://x.com/FOSSGIS_Verein)
-* [Mastodon](https://mastodon.online/web/@FOSSGISeV)
+* [Mastodon](https://mastodon.online/@FOSSGISeV)
 * [GitHub](https://github.com/fossgis)

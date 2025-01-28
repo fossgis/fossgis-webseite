@@ -8,7 +8,7 @@ aliases:
 ---
 
 <p>
-Der FOSSGIS e.V. ist nun Local Chapter der <a href="https://wiki.osmfoundation.org/wiki/Main_Page" target="_blank">OpenStreetMap Foundation</a> (Meldung von Frederik Ramm).
+Der FOSSGIS e.V. ist nun Local Chapter der <a href="https://osmfoundation.org/wiki/Main_Page" target="_blank">OpenStreetMap Foundation</a> (Meldung von Frederik Ramm).
 </p>
 <p>
 Nachdem der FOSSGIS e.V. schon seit 2008 die Geschicke der deutschen OpenStreetMap-Community begleitet und das Projekt in Deutschland unterstützt hat, wurde dieses Verhältnis im Dezember 2017 offiziell gemacht: Der FOSSGIS e.V. ist nun Local Chapter der OpenStreetMap Foundation.

@@ -3,8 +3,6 @@ title: "FOSS4G Europe 2024 Tartu (Estland)"
 date: "2024-07-07"
 author: "Astrid Emde, Katja Haferkorn"
 description: Vom 01.-07.07.2024 traf sich die OSGeo-Communiy zur FOSS4G Europe in Tartu.
-images:
-  - 
 ---
 
 ### Endlich eine FOSS4G Europe 2024 in Tartu
@@ -68,7 +66,7 @@ Die Exkursion führte die Gruppe durch die schöne, einsame und waldreiche Lands
 Die Sandhöhlen von Piusa wurden besichtigt. Sie sind das Ergebnis der Gewinnung des sehr quarzreichen Sandes. Die Höhlen sind geschützt. Viele Fledermausarten haben in den Höhlen eine Heimat zum überwintern gefunden. 
 Auch der höchste Berg Estlands Suur Munamägi mit 318m wurde von uns bestiegen. Der Aussichtsturm bot einen beeindruckend Rundumblick.
 
-Es war eine intensive und spannende Woche. Der Bericht macht hoffentlich Lust darauf, die Beiträge der [FOSS4G Europe 2024](https://foss4ge.television.ee/) anzuschauen, sich jetzt schon zu freuen auf die FOSS4G Europe 2025 und auch auf die [FOSSGIS 2025](https://fossgis-konferenz.de) in Münster oder über eine Reise nach Estland nachzudenken.
+Es war eine intensive und spannende Woche. Der Bericht macht hoffentlich Lust darauf, die Beiträge der [FOSS4G Europe 2024](https://foss4ge.television.ee/) anzuschauen, sich jetzt schon zu freuen auf die FOSS4G Europe 2025 und auch auf die [FOSSGIS 2025](https://fossgis-konferenz.de/) in Münster oder über eine Reise nach Estland nachzudenken.
 
 #### Links
 Unter dem Hashtag [#foss4ge2024](https://mastodon.online/tags/foss4ge2024) sind in den sozialen Medien einige Beiträge zu finden.    

@@ -16,7 +16,7 @@ Das Organisationsteam freute sich, dass in diesem Jahr keine Limitierung der Bes
 ![Gruppenfoto der Avatare in der netzwerkwelt](/news/images/2021_06_09_Gruppenfoto_FOSSGIS2021.jpeg "Gruppenfoto")*Gruppenfoto in der virtuellen Welt*
 
 Unter Beibehaltung des typischen Konferenzformates wurden über 100 Beiträge - Vorträge, Demosessions, Lightning Talks - auf 4 Bühnen via Livestream übertragen.
-Die 21 Workshops, die Teilnehmende im Rahmen der Konferenz buchen konnten, fanden in  Form von Videokonferenzen statt. Es wurden 266 Workshopteilnahmen gebucht. Die Workshops fanden teilweise mit [OSGeoLive](http://live.osgeo.org/de/index.html) statt.
+Die 21 Workshops, die Teilnehmende im Rahmen der Konferenz buchen konnten, fanden in  Form von Videokonferenzen statt. Es wurden 266 Workshopteilnahmen gebucht. Die Workshops fanden teilweise mit [OSGeoLive](https://live.osgeo.org/de/index.html) statt.
 
 
 #### OSM Sonntag mit OSM-Unkonferenz

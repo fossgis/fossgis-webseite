@@ -20,8 +20,8 @@ Die Konferenz ist nicht gewinnorientiert und wird überwiegend durch ehrenamtlic
 Die FOSSGIS-Konferenz 2024 wird vom 20.-23. März auf dem Campus der Technischen Universität Hamburg in Harburg stattfinden. Das Institut für Verkehrsplanung der TUHH und Logistik und das Lab for Geoinformatics and Geovisualization (g2lab) der HCU sind maßgeblich an den Vorbereitungen beteiligt.
 
 ## Programm veröffentlicht, Anmeldung geöffnet
-Mit einem Logo für die Austragung in Hamburg sowie der Programmveröffentlichung startet die Anmeldung zur FOSSGIS 2024. Das Rahmenprogramm bietet zahlreiche Möglichkeiten zum Netzwerken sowie mehrere Exkursionen angeboten werden.
-Konferenzhomepage mit Programm, Rahmenprogramm, Sponsoren und Anmeldeinformationen: https://fossgis-konferenz.de/2024
+Mit einem Logo für die Austragung in Hamburg sowie der Programmveröffentlichung startet die Anmeldung zur FOSSGIS 2024. Das Rahmenprogramm bietet zahlreiche Möglichkeiten zum Netzwerken sowie mehrere Exkursionen angeboten werden./
+Konferenzhomepage mit Programm, Rahmenprogramm, Sponsoren und Anmeldeinformationen: https://fossgis-konferenz.de/2024/
 
 Am Samstag, den 23. März wird das beliebte OSM-Event von 9:00-17:30 Uhr stattfinden. Diese OSM-Unconference erfreut sich seit einigen Jahren großer Beliebtheit. Themen werden vorab über die [OSM-Wikiseite](https://wiki.openstreetmap.org/wiki/FOSSGIS_2024/OSM-Samstag) eingereicht.
 

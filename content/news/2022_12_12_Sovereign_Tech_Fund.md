@@ -28,7 +28,7 @@ Im Jahr 2021 entstand eine [Machbarkeitsstudie](https://sovereigntechfund.de/Sov
 
 
 Der STF wird gefördert durch das Bundesministerium für Wirtschaft und Klimaschutz (BMWK), und startete im Oktober diesen Jahres mit 9 Projektförderungen, dazu gibt es eine [Pressemeldung](https://www.bmwk.de/Redaktion/DE/Pressemitteilungen/2022/10/20221018-der-sovereign-tech-fund-startet-die-forderung-eine-investition-in-die-digitale-souveranitat-europas.html) vom BMWK.
-Weitere Informationen sind auf der [STF-Website](https://sovereigntechfund.de/) zu finden.
+Weitere Informationen sind auf der [STF-Website](https://www.sovereign.tech/) zu finden.
 
 Nach der Vorstellung des Sovereign Tech Fund waren die Teilnehmenden eingeladen an einer kurzen Umfrage teilzunehmen sowie selbst Fragen zu stellen, diese konnten von anderen Teilnehmenden gevotet werden.
 

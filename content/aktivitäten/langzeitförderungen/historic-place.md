@@ -10,8 +10,8 @@ Zur Zeit halten zwei Mitstreiter das Projekt technisch am Leben. Gestaltet wird 
 
 Weitere Informationen rund um Historic.Place finden Sie auf:
 
-- Historic.Place: http://www.historic.place/
-- Geschichtskarten: http://www.geschichtskarten.de/
+- Historic.Place: https://www.historic.place/
+- Geschichtskarten: https://www.geschichtskarten.de/
 - Geschichtskartenwiki: https://geschichtskarten.de/doku/doku.php
 - Historic.Place-Wiki: https://wiki.openstreetmap.org/wiki/DE:Historical_Objects
 - Danksagung: https://wiki.openstreetmap.org/wiki/DE:Historical_Objects/Danke

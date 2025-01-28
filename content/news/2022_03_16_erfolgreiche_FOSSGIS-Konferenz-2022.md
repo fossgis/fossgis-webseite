@@ -12,7 +12,7 @@ Fast 700 Teilnehmer:innen besuchten die FOSSGIS-Konferenz 2022, die vom 09.-12. 
 Aufgrund der andauernden Pandemiesituation fand die FOSSGIS-Konferenz 2022 als Online-Event statt.
 
 Das typische Konferenzformat wurde beibehalten, über 100 Beiträge - Vorträge, Demosessions, Lightning Talks - wurden auf 4 Bühnen via Livestream übertragen.
-Die 22 Workshops, die Teilnehmende im Rahmen der Konferenz buchen konnten, fanden in  Form von Videokonferenzen statt. Es wurden 250 Workshopteilnahmen gebucht. Die Workshops fanden teilweise mit [OSGeoLive](http://live.osgeo.org/de/index.html) statt.
+Die 22 Workshops, die Teilnehmende im Rahmen der Konferenz buchen konnten, fanden in  Form von Videokonferenzen statt. Es wurden 250 Workshopteilnahmen gebucht. Die Workshops fanden teilweise mit [OSGeoLive](https://live.osgeo.org/de/index.html) statt.
 Neu im Programm waren die Expert:innenfragestunden. Daran nahmen bis zu 60 Interessierte teil.
 Vielen Dank an alle Beitragenden!
 

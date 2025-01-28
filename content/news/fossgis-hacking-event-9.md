@@ -28,7 +28,7 @@ stattfindende <a href="https://wiki.osgeo.org/wiki/OSGeo_Code_Sprint_2018">OSGeo
 
 <p style="text-align:center"><img src="/news/legacy/800px-20171209_160800.jpg " style="vertical-align:bottom;padding-right:10px;height:186px"><img src="/news/legacy/Fossgis_Hacking_Event_9_20171209_Programmkommitee.jpg" style="vertical-align:bottom;padding-right:10px;height:186px"></p>
 
-<p>Für große Freude sorgte die Nachricht, dass der FOSSGIS e.V. jetzt Local Chapter der <a href="https://wiki.osmfoundation.org/wiki/Main_Page">OpenStreetMap Foundation</a> ist.</p>
+<p>Für große Freude sorgte die Nachricht, dass der FOSSGIS e.V. jetzt Local Chapter der <a href="https://osmfoundation.org/wiki/Main_Page">OpenStreetMap Foundation</a> ist.</p>
 
 <p>Selbstverständlich wurde auch wieder an zahlreichen Projekten mit <font size="5">F</font>reier <font size="5">O</font>pen <font size="5">S</font>ource <font size="5">S</font>oftware für <font size="5">G</font>eo<font size="5">I</font>nformations<font size="5">S</font>ysteme und OpenStreetMap gearbeitet, u.a. an <a href="https://maposmatic.osm-baustelle.de/">MapOSMatic</a>, <a href="https://yagajs.org/">YAGA</a>, <a href="http://libosmscout.sourceforge.net/">Libosmscout</a>, <a href="https://geldautomaten-suche.org/">geldautomaten-suche.org</a>.</p>
 

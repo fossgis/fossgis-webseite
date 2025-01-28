@@ -57,7 +57,7 @@ Gesprächsdauer: 12 Minuten
 
 4) Neues Local Chapter Agreement der OSMF
 Gesprächsdauer: 10 Minuten
-Link zum Dokument: https://wiki.osmfoundation.org/wiki/Board/Minutes/2020-06#Local_Chapter_agreement_update_and_update_on_Local_Chapter_applications
+Link zum Dokument: https://osmfoundation.org/wiki/Board/Minutes/2020-06#Local_Chapter_agreement_update_and_update_on_Local_Chapter_applications
 
 Änderungen zum alten Agreement:
 

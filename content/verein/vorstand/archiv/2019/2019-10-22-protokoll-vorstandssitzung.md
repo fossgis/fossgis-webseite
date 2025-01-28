@@ -119,7 +119,7 @@ Katja hat vier potentielle Locations, die geeignet wären:  Wir haben ein paar 
 
 https://de.wikipedia.org/wiki/Burg_Lohra
 
-http://www.openhouses.de/AusgewaehlteOrte/BurgLohra
+https://www.openhouses.de/AusgewaehlteOrte/BurgLohra
 
 Der Rest waren so Tagungshäuser mit 70 bis 100 Betten und Räume dazu, die das
 auch gut abdecken könnten.

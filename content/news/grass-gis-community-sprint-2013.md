@@ -27,4 +27,4 @@ OSGeo und FOSSGIS e.V. und viele einzelne Spendern.
 
 Mehr unter: <a href="https://www.fossgis.de/wiki/GRASS_GIS_Community_Sprint_2013/Bericht">https://www.fossgis.de/wiki/GRASS_GIS_Community_Sprint_2013/Bericht</a>
 
-englischer Bericht <a href="http://grass.osgeo.org/news/26/83/4th-Community-Sprint-Exciting-achievements/">http://grass.osgeo.org/news/26/83/4th-Community-Sprint-Exciting-achievements/</a>
+englischer Bericht <a href="https://grass.osgeo.org/news/2013_07_29_4th_community_sprint_exciting_achievements/">https://grass.osgeo.org/news/2013_07_29_4th_community_sprint_exciting_achievements/</a>

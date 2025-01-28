@@ -22,7 +22,7 @@ Großer Wert wird im Projekt auf Nachhaltigkeit gelegt. So sind beteiligte Bürg
 
 Die FOSSGIS- und OSM-Community ist eingeladen am Projekt mitzuwirken, um zunächst ein sinnvolles, machbares und nachhaltiges Konzept auf den Weg zu bringen sowie an der Umsetzung mitzuwirken. 
 
-Webseite: https://fossgis.de/grueneoasen
+Webseite: https://fossgis.de/grueneoasen/
 
 #### Timeline
 - Ende März Ideenskizze eingereicht
