@@ -63,7 +63,7 @@ Weitere Informationen zur FOSSGIS-Konferenz, zum Programm, Anreise und Unterkunf
 </p>
 <p>
 Folgen Sie uns auf Twitter sowie auf der FOSSGIS-Talk Mailingliste:<br/>
- <a href="https://twitter.com/FOSSGIS_Konf" target="_blank">https://twitter.com/FOSSGIS_Konf</a> #FOSSGIS für tweets zur Konferenz<br/>
+ <a href="https://x.com/FOSSGIS_Konf" target="_blank">https://twitter.com/FOSSGIS_Konf</a> #FOSSGIS für tweets zur Konferenz<br/>
  <a href="https://lists.fossgis.de/mailman/listinfo/fossgis-talk-liste" target="_blank">https://lists.fossgis.de/mailman/listinfo/fossgis-talk-liste</a>
 </p>
 <p>

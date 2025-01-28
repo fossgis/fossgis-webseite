@@ -90,7 +90,7 @@ Vielen Dank an EPSON für die Unterstützung mit einem Drucker Epson SureColor T
 </p>
 <p>
 <b>Twitter</b><br/>
-<a href="https://twitter.com/search?q=OSGeo%20Park&src=typd">twitter</a>
+<a href="https://x.com/search?q=OSGeo%20Park&src=typd">twitter</a>
 </p>
 <p>
 Herzlichen Dank an dieser Stelle auch an HINTE für die Bereitstellung des Stands und die Unterstützung! 

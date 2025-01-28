@@ -49,5 +49,5 @@ Teilnehmeranmeldung:  https://www.fossgis-konferenz.de/2018/anmeldung/ (Frühbuc
 Social Events: https://fossgis-konferenz.de/2018/socialevents/<br>
 Alle Informationen: https://www.fossgis-konferenz.de/2018/ <br>
 Fragen an konferenz-orga@fossgis.de<br>
-Twitter: https://twitter.com/FOSSGIS_Konf #FOSSGIS2018
+Twitter: https://x.com/FOSSGIS_Konf #FOSSGIS2018
 </p>

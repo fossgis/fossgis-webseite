@@ -31,6 +31,6 @@ aliases:
 	<br />
 	Konferenzhomepage: https://fossgis-konferenz.de/2015/<br />
 	Videodownload: http://ftp5.gwdg.de/pub/misc/openstreetmap/FOSSGIS2015/<br />
-	Twitter: https://twitter.com #FOSSGIS<br />
+	Twitter: https://x.com #FOSSGIS<br />
 	Website FOSSGIS-Verein: https://www.fossgis.de<br />
 	&nbsp;</p>

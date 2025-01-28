@@ -47,6 +47,6 @@ Direkt nach dem Aufbau treffen wir uns zum Stammtisch (Ort wird noch bekannt geg
 
 **OSGeo Park auf Twitter**
 
-<a href="https://twitter.com/search?q=OSGeo%20Park&src=typd">twitter</a>
+<a href="https://x.com/search?q=OSGeo%20Park&src=typd">twitter</a>
 
 Wir freuen uns auf eine spannende INTERGEO 2018!

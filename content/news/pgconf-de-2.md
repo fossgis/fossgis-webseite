@@ -25,6 +25,6 @@ aliases:
 <p><br />
 	Das Programm und Impressionen von der Konferenz finden Sie auf der Webseite <a href="https://2013.pgconf.de/">https://2013.pgconf.de/</a><br />
 	<br />
-	Auch für das nächste Jahr ist eine PGConf.DE geplant. Aufgrund des großen Interesses soll die Veranstaltung in einem etwas größeren Rahmen stattfinden. Aktuelle Hinweise werden über <a href="https://twitter.com/pgconfde">https://twitter.com/pgconfde</a> über verbreitet.<br />
+	Auch für das nächste Jahr ist eine PGConf.DE geplant. Aufgrund des großen Interesses soll die Veranstaltung in einem etwas größeren Rahmen stattfinden. Aktuelle Hinweise werden über <a href="https://x.com/pgconfde">https://twitter.com/pgconfde</a> über verbreitet.<br />
 	<br />
 	Vielen Dank an die Organisatoren der Konferenz. Es war eine tolle Veranstaltung.</p>

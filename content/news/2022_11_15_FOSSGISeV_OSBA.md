@@ -20,7 +20,7 @@ Am Nachmittag fand dann der "Open Source Day - Die Zukunft Europas entscheidet s
 Weitere Infos vom Tag:
 
 * https://osb-alliance.de/verbands-news/der-neue-vorstand-der-osb-alliance
-* https://twitter.com/osballiance
+* https://x.com/osballiance
 
 
 Die OSBA bietet verschiedene interessante Veranstaltungen an: https://osb-alliance.de/veranstaltungen

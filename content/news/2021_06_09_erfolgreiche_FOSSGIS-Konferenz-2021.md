@@ -112,8 +112,8 @@ Hat Ihnen die Konferenz gefallen und wollen Sie weiterhin informiert bleiben? Da
 
 -  [Vereinsmailingliste bei Mitgliedschaft](https://fossgis.de/verein/)
 -  [weitere Mailinglisten](https://fossgis.de/community/)
--  [Twitter: @FOSSGIS_Konf](https://twitter.com/FOSSGIS_Konf)
--  [Twitter: @FOSSGIS_Verein](https://twitter.com/FOSSGIS_Verein)
+-  [Twitter: @FOSSGIS_Konf](https://x.com/FOSSGIS_Konf)
+-  [Twitter: @FOSSGIS_Verein](https://x.com/FOSSGIS_Verein)
 
 #### weitere Fotoeindrücke
 

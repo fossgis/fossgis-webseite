@@ -40,7 +40,7 @@ verbessern sind. Außerdem wurde ein Finanzplan für das laufende und die
 kommenden Jahre ausgearbeitet.
 <ul>
   <li><a href="https://qgis.de/" target="blank">Webseite QGIS Anwendergruppe Deutschland e.V. https://qgis.de/</a></li>
-  <li><a href="https://twitter.com/QGIS_DE" target="blank">QGIS.DE auf twitter</a></li>
+  <li><a href="https://x.com/QGIS_DE" target="blank">QGIS.DE auf twitter</a></li>
 </ul>
 </p>
 <p>

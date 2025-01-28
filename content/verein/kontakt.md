@@ -33,6 +33,6 @@ Nutzen Sie bitte unsere [Mailinglisten](/community/mailinglisten/).
 Gerne können Sie uns auch persönlich treffen, zum Beispiel auf unserer jährlichen [FOSSGIS-Konferenz](/konferenz/).
 
 #### Social Media
-* [Twitter](https://twitter.com/FOSSGIS_Verein)
+* [Twitter](https://x.com/FOSSGIS_Verein)
 * [Mastodon](https://mastodon.online/web/@FOSSGISeV)
 * [GitHub](https://github.com/fossgis)

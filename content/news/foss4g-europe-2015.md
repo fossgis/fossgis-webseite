@@ -68,7 +68,7 @@ aliases:
 	<br />
 	http://europe.foss4g.org/2015/<br />
 	<br />
-	https://twitter.com/search?src=typd&amp;q=foss4ge<br />
+	https://x.com/search?src=typd&amp;q=foss4ge<br />
 	<br />
 	Zum Schluß noch ein Hinweis: 2016 wird keine FOSS4G Europe stattfinden, da die weltweite FOSS4G im August 2016 nach Bonn kommen wird.<br />
 	&nbsp;</p>

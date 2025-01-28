@@ -57,7 +57,7 @@ Sie haben die Möglichkeit, bei der Einreichung des Vortrags anzugeben, an welch
 
 <p>Weitere Informationen zur FOSSGIS-Konferenz, zum Programm, Anreise und Unterkunft, Anmeldung, Helfermöglichkeiten und Sponsoren bietet die Konferenzhomepage. https://www.fossgis-konferenz.de/2019
 </p>
-<p>Folgen Sie uns auf <a href="https://twitter.com/FOSSGIS_Konf"> Twitter</a> sowie auf der Mailingliste <a href="https://lists.fossgis.de/mailman/listinfo/fossgis-talk-liste">FOSSGIS-Talk</a></p>
+<p>Folgen Sie uns auf <a href="https://x.com/FOSSGIS_Konf"> Twitter</a> sowie auf der Mailingliste <a href="https://lists.fossgis.de/mailman/listinfo/fossgis-talk-liste">FOSSGIS-Talk</a></p>
 
 <b>Wir freuen uns über Einreichungen für ein spannendes Programm!</b>
 

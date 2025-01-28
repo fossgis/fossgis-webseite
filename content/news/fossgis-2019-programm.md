@@ -53,7 +53,7 @@ Die Teilnahme  am Dresdner OSM-Event ist kostenfrei und unabhängig von der  FOS
 <li> Exkursion zum Mathematisch-Physikalischen Salon im Zwinger, 15:30 Uhr, Infos siehe <a href="https://fossgis-konferenz.de/2019/socialevents/">Social Events</a>.</li>
 <li>Alle Informationen: https://www.fossgis-konferenz.de/2019/</li>
 <li>Fragen an konferenz-orga@fossgis.de</li>
-<li>Twitter: https://twitter.com/FOSSGIS_Konf #FOSSGIS2019</li>
+<li>Twitter: https://x.com/FOSSGIS_Konf #FOSSGIS2019</li>
 </ul></p>
 
 <p>Das FOSSGIS-Konferenz-Organisationsteam freut sich darauf, Sie zu einer spannenden FOSSGIS-Konferenz in Dresden begrüßen zu dürfen.</p>
