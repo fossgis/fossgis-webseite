@@ -11,6 +11,9 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    env:
+      TZ: Europe/Berlin
+
     steps:
       - uses: actions/checkout@v4
       - name: Install hugo
