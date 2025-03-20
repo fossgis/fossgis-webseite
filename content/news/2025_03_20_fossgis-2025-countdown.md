@@ -3,8 +3,8 @@ title: "Der Countdown läuft zur FOSSGIS 2025 in Münster"
 date: "2025-03-20"
 author: "Astrid Emde, Katja Haferkorn, Laura Klement"
 images:
-  - /news/2025_03_20_fossgis_2025.png
-  - /news/2025_03_20_fossgis_2025_sponsoren.png
+  - /news/images/2025_03_20_fossgis_2025.png
+  - /news/images/2025_03_20_fossgis_2025_sponsoren.png
 language: de-de
 categories:
 - osgeo
@@ -16,7 +16,7 @@ Die Konferenz wird vom gemeinnützigen FOSSGIS e.V, der OpenStreetMap Community 
  
 Auch in diesem Jahr freuen wir uns über ein großes Interesse an der Konferenz. Die Tausender-Marke wird erneut geknackt. Es werden 750 Teilnehmende vor Ort in Münster erwartet und über 250 Teilnehmende schalten sich Online dazu. 
 
-![FOSSGIS Konferenz 2025 Schloss Münster](/news/2025_03_20_fossgis_2025.png)
+![FOSSGIS Konferenz 2025 Schloss Münster](/news/images/2025_03_20_fossgis_2025.png)
  
 ### Noch kein Ticket? 
 Onlinetickets sind weiterhin verfügbar unter 
@@ -44,7 +44,7 @@ https://www.fossgis-konferenz.de/2025#Jobwand
 ### FOSSGIS - ein Teamevent
 Herzlichen Dank schon an dieser Stelle an die Sponsoren der Konferenz. die durch Ihre Unterstützung maßgeblich zum Gelingen der Veranstaltung beitragen.
 
-![FOSSGIS Konferenz 2025 Sponsoren](/news/2025_03_20_fossgis_2025_sponsoren.png)
+![FOSSGIS Konferenz 2025 Sponsoren](/news/images/2025_03_20_fossgis_2025_sponsoren.png)
 
 Auch ohne den Einsatz der zahlreichen ehrenamtlichen HelferInnen wäre die Konferenz nicht möglich. Herzlichen Dank dafür!
 
