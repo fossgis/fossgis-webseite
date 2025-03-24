@@ -1,3 +1,1 @@
-RewriteEngine on
-RewriteCond %{REQUEST_URI} ^/$
-RewriteRule /dienstleister(.*) https://dienstleister.fossgis.de/ [R=301]
+Redirect 301 /dienstleister https://dienstleister.fossgis.de
