@@ -6,6 +6,7 @@ menu:
     weight: 36
 ---
 
+* [Vorstandssitzungen 2024](2024)
 * [Vorstandssitzungen 2023](2023)
 * [Vorstandssitzungen 2022](2022)
 * [Vorstandssitzungen 2021](2021)
