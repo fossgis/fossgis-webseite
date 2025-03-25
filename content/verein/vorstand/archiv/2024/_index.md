@@ -1,5 +1,5 @@
 ---
-title: "Vorstandssitzungen 2023"
+title: "Vorstandssitzungen 2024"
 menu:
   side:
     parent: Vorstandssitzungen Archiv
