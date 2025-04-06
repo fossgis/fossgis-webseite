@@ -37,7 +37,7 @@ Die 14 stattgefundenen Anwender:innentreffen zeigen, dass die FOSSGIS-Konferenz 
 
 Die Posteraussstellung kam gut an, auf 19 Postern wurden Arbeiten & Projekte vorgestellt. Von einzelnen Posterbeträgen gibt es [Videoaufzeichnungen](https://media.ccc.de/c/fossgis2025/Poster%20(Zelt)).
 
-Die Dialogrunde ["25 Jahre FOSSGIS e.V. - was haben wir geschafft und wo wollen wir hin"](https://pretalx.com/fossgis2025/talk/VAHRBW/) wurde durch die Arbeitsgruppe "Öffentliche Ausschreibungen mit FOSS" des FOSSGIS e.V. organisiert und von Niklas Alt moderiert. Die Idee über einen Blick in den Rückspiegel, wo kommt der Verein her, verbunden mit dem Blick in die Zukunft, ergab eine spannende Diskussionsrunde. 
+Die Dialogrunde ["25 Jahre FOSSGIS e.V. - was haben wir geschafft und wo wollen wir hin"](https://pretalx.com/fossgis2025/talk/VAHRBW/) wurde durch die [Arbeitsgruppe "Öffentliche Ausschreibungen mit FOSS"](https://www.fossgis.de/arbeitsgruppen/ag_agiles_vorgehen/) des FOSSGIS e.V. organisiert und von Niklas Alt moderiert. Die Idee über einen Blick in den Rückspiegel, wo kommt der Verein her, verbunden mit dem Blick in die Zukunft, ergab eine spannende Diskussionsrunde. 
 
 {{< rawhtml >}}
 <img src="/news/images/2025-03-28_FOSSGIS2025_Paneldiskussion.jpg" width="1000" style="border: 1px solid #808080; border-radius: 3px;"/></a>
@@ -90,6 +90,7 @@ Fragen wie "Was ist ein Issue", "Was ist ein Pull requst" wurden geklärt, Pytho
 ### Dank
 Vielen Dank an Christian Knoth vom Institut für Geoinformatik ([IFGI](https://www.uni-muenster.de/Geoinformatics/institute/staff/index.php/153/Christian_Knoth)) für den unermüdlichen Einsatz im Vorfeld. Danke an die Universität Münster dafür, dass wir unsere Konferenz im Schloss veranstalten durtfen. 
 Danke an die Stadt Münster für die Unterstützung mit dem Willkommensticket zur ÖPNV-Nutzung. 
+Herzlichen Dank an die Sponsoren der Konferenz.
 
 ### Helfer:innen 
 In diesem Jahr konnten wir uns über 74 Helfer:innen freuen, die mit Spaß und Elan alle Herausforderungen gemeistert haben.    
@@ -114,11 +115,11 @@ Die anstehenden Veranstaltungen:
 - FrOSCon: [https://froscon.org/en/](https://froscon.org/en/)
 - Maker Faire: [https://maker-faire.de/](https://maker-faire.de/)
 - Jubiläumsevent FOSSGIS e.V.
-- FOSS4G 2025 Auckland Neuseeland: [https://2025.foss4g.org/](https://2025.foss4g.org/)
 - SotM 2026 Manila: [https://2025.stateofthemap.org/](https://2025.stateofthemap.org/)
-- Alle OSGeo-Events: [https://events.osgeo.org](https://events.osgeo.org)
+- FOSS4G 2025 Auckland Neuseeland: [https://2025.foss4g.org/](https://2025.foss4g.org/)
+- Alle OSGeo-Events: [https://osgeo.org/events](https://osgeo.org/events)
 
-Und natürlich freut sich auch der FOSSGIS e.V. über Euer Engagement. Ihr seid herzlich eingeladen euch zu einer Arbeitsgrupe dazu zu gesellen.
+Und natürlich freut sich auch der FOSSGIS e.V. über Euer Engagement. Ihr seid herzlich eingeladen, euch zu einer Arbeitsgrupe dazu zu gesellen.
 
 Es war eine tolle Konferenz. Herzlichen Dank an alle Beteiligten.
 
