@@ -6,7 +6,7 @@ author: "Katja Haferkorn"
 
 ## FOSSGIS-Konferenz an der Technischen Universität Hamburg (TUHH)
 
-Die 21. FOSSGIS-Konferenz 2024 fand vom 20.-23. März in Hamburg statt und war ein voller Erfolg. Die Rückmeldung der Teilnehmenden bestätigte die Bedeutung der Veranstaltung als führende Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap im D-A-CH-Raum.
+Die FOSSGIS-Konferenz 2024 fand vom 20.-23. März in Hamburg statt und war ein voller Erfolg. Die Rückmeldung der Teilnehmenden bestätigte die Bedeutung der Veranstaltung als führende Konferenz für Freie und Open Source Software für Geoinformationssysteme sowie für die Themen Open Data und OpenStreetMap im D-A-CH-Raum.
 
 Der FOSSGIS e.V und die OpenStreetMap Community veranstalteten die Konferenz in Kooperation mit dem Institut für Verkehrsplanung und Logistik der Technischen Universität Hamburg und dem Labor für Geoinformatik und Geovisualisierung der HafenCityUniversität auf dem Campus der TUHH Hamburg.
 
