@@ -117,6 +117,7 @@ Die anstehenden Veranstaltungen:
 - Jubiläumsevent FOSSGIS e.V.
 - SotM 2026 Manila: [https://2025.stateofthemap.org/](https://2025.stateofthemap.org/)
 - FOSS4G 2025 Auckland Neuseeland: [https://2025.foss4g.org/](https://2025.foss4g.org/)
+- FOSSGIS-Konferenz 2026 - 25.-28.3.2026 Göttingen [https://fossgis-konferenz.de](https://fossgis-konferenz.de)
 - Alle OSGeo-Events: [https://osgeo.org/events](https://osgeo.org/events)
 
 Und natürlich freut sich auch der FOSSGIS e.V. über Euer Engagement. Ihr seid herzlich eingeladen, euch zu einer Arbeitsgrupe dazu zu gesellen.
