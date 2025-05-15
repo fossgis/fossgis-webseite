@@ -28,5 +28,11 @@ Die [Arbeitsgruppe "Open Data"](/arbeitsgruppen/ag_opendata) kümmert sich um An
 ## Arbeitsgruppe "Liste der Dienstleistenden im Open Source und Open Data Bereich"
 Die [Arbeitsgruppe](/arbeitsgruppen/dienstleisterliste) hat es sich zur Aufgabe gemacht eine [Liste von Dienstleistenden](http://dienstleister.fossgis.de/) zu entwickeln, mit dem Ziel möglichst neutral und offen über Dienstleistende zu informieren.
 
-## Arbeitsgruppe "Arbeitsgruppe öffentliche Ausschreibungen mit FOSS"
+## Arbeitsgruppe "Öffentliche Ausschreibungen mit FOSS"
 Die [Arbeitsgruppe](/arbeitsgruppen/ag_agiles_vorgehen) "öffentliche Ausschreibungen mit FOSS" hat das Ziel Informationen zusammenzustellen, die hilfreich sind, um die öffentliche Hand bei Ausschreibungen zu unterstützen, die zum Ziel haben, Open Source Software zu implementieren und in die Nutzung zu bringen. 
+
+## Arbeitsgruppe "CRA"
+
+Die Arbeitsgruppe befinden sich gerade im Aufbau. Vorläufige Informationen
+im [Wiki](https://www.fossgis.de/wiki/Arbeitsgruppe_CRA).
+
