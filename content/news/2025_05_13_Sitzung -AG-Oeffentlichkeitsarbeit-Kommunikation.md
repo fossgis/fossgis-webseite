@@ -23,6 +23,7 @@ Als Ziele unserer Öffentlichkeitsabrbeit haben wir herausgearbeitet, dass wir r
 
 Wir haben die verschiedenen Zielgruppen betrachtet, die jeweils differenzierte Ansprachen benötigen. Mit der Zielgruppe Konferenzteilnehmende sind wir schon richtig gut, die Anzahl der Teilnehmenden steigt jedes Jahr. 
 Die Frage ist, wie wir die Politik, Verwaltungen und Institutionen erreichen, um Open Source und Open Data als unterstützendes Element einer Digitalen Souveränität zu unterstreichen. Wie erreichen wir junge Leute, Studierende, Auszubildene, Freiwillige und Interessierte, um sie zum aktiven Mitmachen zu gewinnen.
+
 Wir könnten die Vereinswebseite neu strukturieren, dort mehr Inhalte und wichtige nformationen abbilden. Außerdem könnnten wir ein Corporate Design entwickeln, um den Output des FOSSGIS e.V. besser erkennbar zu gestalten, insbesondere für Social Media. Auch unsere Social Media Aktivitäten könnten wir ausweiten und Plattformen nutzen, auf denen junge Menschen unterwegs sind. Derzeit zeigen wir Aktivitäten im Fediverse auf [Mastodon](https://mastodon.online/@FOSSGISeV), LinkedIn und ein bisschen BlueSky. Für Instagram und Tiktok braucht die AG noch Kompetenzverstärkung. 
 
 Wir könnten Artikel in verschiedenen Medien platzieren, beispielsweise GIS-Report (Harzer), GDI-Newsletter, Kartographische Nachrichten, Heise oder Informatik Aktuell, um nur einige zu nennen.
