@@ -1,5 +1,5 @@
 ---
-title: "Satellitennavigation und KI"
+title: "Bericht vom FOSSGIS-OSM-Communitytreffen Nr. 23 - Mai 2025"
 date: "2025-05-28"
 author: "Oliver Rudzick, Katja Haferkorn"
 images:
@@ -9,7 +9,6 @@ categories:
 - osgeo
 - openstreetmap
 ---
-### Bericht vom FOSSGIS-OSM-Communitytreffen Nr. 23
 
 Vom  16. - 18. Mai 2025 haben sich 23 FOSSGIS- und OpenStreetMap-Begeisterte zum Arbeitstreffen im Linuxhotel getroffen.
 
