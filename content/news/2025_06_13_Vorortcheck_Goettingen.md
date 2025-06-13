@@ -12,7 +12,7 @@ categories:
 
 Nach dem Motto nach der Konferenz ist vor der Konferenz wollte das Local Team Göttingen zeitnah mit den Konferenz-Vorbereitungen starten.
 
-Janine, Daniel, Maik, Volker und Katja vom Konferenzorgateam trafen sich am 12. und 13. Juni mit den Ansprechpartnern aus der Öffentlichkeitsarbeit und Raumvergabe der Universität Göttingen. Die erste Grobplanung zur Raumnutzung und Positionierung der Catering- und Ausstellerflächen steht nun bereits fest. Beim gemeinsamen Kennlerntreffen an der mitveranstaltenden Fakultät für Geowissenschaften und Geographie wurden Ideen zur Programmgestaltung und zum Rahmenprogramm besprochen.
+Janine, Daniel, Maik, Volker und Katja vom Konferenzorgateam und zwei Neumitglieder aus Göttingen trafen sich am 12. und 13. Juni mit den Ansprechpartnern aus der Öffentlichkeitsarbeit und Raumvergabe der Universität Göttingen. Die erste Grobplanung zur Raumnutzung und Positionierung der Catering- und Ausstellerflächen steht nun bereits fest. Beim gemeinsamen Kennlerntreffen an der mitveranstaltenden Fakultät für Geowissenschaften und Geographie wurden Ideen zur Programmgestaltung und zum Rahmenprogramm besprochen.
 
 Die FOSSGIS 2026 wird vom 25.-28.03.2026 in Göttingen stattfinden. Der erste Teil der Konferenz von Mittwoch bis Freitag wird im Zentralen Hörsaalgebäude, welches große Hörsäle und ein großzügiges Foyer bietet, ausgerichtet.
 Der OSM-Samstag und Codesprint findet voraussichtlich an der Fakultät für Geowissenschaften und Geographie auf dem Nordcampus statt.
