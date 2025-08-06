@@ -10,7 +10,7 @@ menu:
 Die FOSSGIS-Konferenz ist die führende Konferenz für Freie und Open Source Geo-Software und OpenStreetMap und wird vom gemeinnützigen FOSSGIS e.V und der OpenStreetMap Community mit Unterstützung des jeweiligen Lokalen Teams organisiert.
 
 Die FOSSGIS 2026 wird vom 25. bis 28. März 2026 in Göttingen stattfinden.    
-Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://fossgis-konferenz.de/2025/).
+Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://fossgis-konferenz.de).
 
 ### Vorjahre
 
@@ -30,12 +30,15 @@ Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://f
 * [FOSSGIS-Konferenz 2012](https://fossgis-konferenz.de/2012/) in Dessau
 * [FOSSGIS-Konferenz 2011](https://fossgis-konferenz.de/2011/) in Heidelberg
 
-### Veranstaltungsort sein
+### Veranstaltungsort sein - Call for Location FOSSGIS 2027
 
-Sie wollen die FOSSGIS-Konferenz in Ihrer Stadt bzw. in Ihrer Hochschule holen? In diesem [kurzen Dokument](https://files.fossgis.de/Konferenz/CfL_FOSSGIS.pdf) finden Sie die Anforderungen. Für Fragen zögern Sie nicht uns anzusprechen.
+Sie wollen die FOSSGIS-Konferenz in Ihrer Stadt bzw. in Ihrer Hochschule holen? In diesem [Dokument](https://files.fossgis.de/Konferenz/CfL_FOSSGIS_2027.pdf) finden Sie die Anforderungen. Für Fragen zögern Sie nicht uns anzusprechen.
 
-<!---# Call for Location FOSSGIS 2026
+#### Zusammenfassung
 
-![CfP FOSSGIS 2026](https://files.fossgis.de/Konferenz/Call_For_Location_FOSSGIS2026.png)-->
+ {{< rawhtml >}}
+<a href="https://files.fossgis.de/Konferenz/Call_For_Location_2027_Social_Media.png"><img src="https://files.fossgis.de/Konferenz/Call_For_Location_2027_Social_Media.png" width="700" style="border: 1px solid #ee7f00; border-radius: 3px;"/></a>
+{{< /rawhtml >}}   
+*Zusammenfassung Call for Location #FOSSGIS2027*  
 
 
