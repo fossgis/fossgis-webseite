@@ -60,6 +60,9 @@ auch mitmachen.
 
 Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
 
+* [Vorstandssitzung vom 26.05.2025](2025-05-26-protokoll-vorstandssitzung)
+* [Vorstandssitzung vom 15.04.2025](2025-04-15_protokoll-vorstandssitzung)
+* [Vorstandssitzung vom 19.03.2025](2025-03-19-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 24.02.2025](2025-02-24-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 12.02.2025](2025-02-12-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 13.01.2025](2025-01-13-protokoll-vorstandssitzung)
