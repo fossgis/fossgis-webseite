@@ -1,7 +1,7 @@
 ---
 title: "FOSSGIS e.V. auf der FrOSCon und Maker Faire Hannover"
 date: "2025-08-25"
-author: "Christopher Lorenz, Oliver Rudzick"
+author: "Maik, Christopher Lorenz, Oliver Rudzick"
 images:
   - https://www.fossgis.de/mediawiki/images/b/b9/FOSSGIS-Logo_Slogan.png
 language: de-de
