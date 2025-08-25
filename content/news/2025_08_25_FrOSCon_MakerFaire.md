@@ -30,7 +30,7 @@ Die mit einem 3D-Drucker erstellten taktilen Karten zogen das größere Interess
 {{< rawhtml >}}
 <img src="/news/images/2025-08-24_MakerFaire--2025.png" width="1500" style="border: 1px solid #808080; border-radius: 3px;"/></a>
 {{< /rawhtml >}}    
-*Maker Faire Hannover 2025: links Social Media Werbung, Stand, Team*  
+*Maker Faire Hannover 2025: links Social Media Werbung, Stand, Team (Hartmut fehlt auf dem Foto)*  
 
 ## Dank an die Standteams
 
