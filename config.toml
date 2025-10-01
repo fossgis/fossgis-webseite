@@ -11,6 +11,9 @@ enableGitInfo = true
 
 disableKinds = ['taxonomy', 'term']
 
+[markup.goldmark.renderer]
+unsafe= true # allow inline HTML
+
 [outputs]
 home = ['html']
 section = ['html']
