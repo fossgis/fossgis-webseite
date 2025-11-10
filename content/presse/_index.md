@@ -20,7 +20,7 @@ Manual: [PDF-Download](https://www.fossgis.de/mediawiki/images/5/56/Logo-FOSSGIS
 #### _Logo Graustufe als PNG & SVG_
 [SVG-Download](https://files.fossgis.de/Koordinierungsstelle/FOSSGIS_LogoRGB_grey.svg)
 
-[![Logo FOSSGIS-Verein Grau_100x45mm_600dpi](https://www.fossgis.de/mediawiki/images/3/32/FOSSGIS_Logo_RGB_sw1_100x45mm_600dpi.png  =200x)](https://www.fossgis.de/mediawiki/images/3/32/FOSSGIS_Logo_RGB_sw1_100x45mm_600dpi.png)
+[![Logo FOSSGIS-Verein Grau_100x45mm_600dpi](https://www.fossgis.de/mediawiki/images/3/32/FOSSGIS_Logo_RGB_sw1_100x45mm_600dpi.png)](https://www.fossgis.de/mediawiki/images/3/32/FOSSGIS_Logo_RGB_sw1_100x45mm_600dpi.png)
 
 #### _Logo Weiß als PNG & SVG_
 [SVG-Download](https://files.fossgis.de/Koordinierungsstelle/FOSSGIS_Logo_white.svg)
