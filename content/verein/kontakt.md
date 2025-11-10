@@ -33,4 +33,4 @@ Gerne können Sie uns auch persönlich treffen, zum Beispiel auf unserer jährli
 * [Instagram](https://www.instagram.com/fossgis_ev/)
 * [BlueSky](https://bsky.app/profile/fossgis-verein.bsky.social)
 * [GitHub](https://github.com/fossgis)
-* Infos zur Mailingliste, Wiki und Chat finden sich unter [Community](./community/). 
+* Infos zur Mailingliste, Wiki und Chat finden sich unter [Community](/community/). 
