@@ -1,5 +1,5 @@
 ---
-title: "Vernetzungstreffen für Geoinformatiker:innen, FOSSGIS-Konferenz-Teilnehmende, Mitglieder und Interessierte in der FOSSGIS-Community"
+title: "Vernetzungstreffen"
 date: "2025-12-10"
 author: "Katja Haferkorn"
 images:   
@@ -12,6 +12,8 @@ categories:
 ---
 
 Am 10. Dezember hat das Online-Vernetzungstreffen der FOSSGIS-Community stattgefunden. Mehr als 20 Teilnehmende nutzten die Gelegenheit, sich Wissen und Informationen zum Thema "KI in der Geodatenanalyse: Chancen und Herausforderungen" zu holen und sich auszutauschen und zu vernetzen. 
+
+Die Idee des Vernetzungstreffens, welches sich an Geoinformatiker:innen, FOSSGIS-Konferenz-Teilnehmende, Mitglieder und Interessierte in und an der FOSSGIS-Community richtet, ist, das gegenseitige Kennenlernen sowie Austausch zu Anliegen oder Themen, hier können sich Kontaktpunkte und Anknüpfungspunkte finden.
 
 ### KI in der Geodatenanalyse: Chancen und Herausforderungen
 
