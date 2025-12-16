@@ -25,10 +25,9 @@ openCode ist im Kern eine öffentliche Gitlab-Instanz, sie bietet zahlreiche Rep
 
 
 {{< rawhtml >}}
-<a><img src="/news/images/2025-12-09_CRA-openCode-ZenDis_Fole9.png" width="800" style="border: 1px solid #808080; border-radius: 3px;"/></a>
+<a href="https://files.fossgis.de/Koordinierungsstelle/Workshop/2025-12-09_Folien_CRA-OpenCode-Onlinetermin.pdf"><img src="/news/images/2025-12-09_CRA-openCode-ZenDis_Fole9.png" width="800" style="border: 1px solid #808080; border-radius: 3px;"/></a>
 {{< /rawhtml >}}       
 _Folie aus der Präsentation zeigt Sicherheitsarchitektur von openCode_
-
 
 Über ein reines Code-Repository hinaus bietet openCode viele Funktionen für ein gesundes Ökosystem.
 Der Code wird von automatisierten Tools analysiert. Dabei wird eine SBOM (Software Bill of Materials) erstellt, die angibt, welche Bibliotheken und andere Software als Grundlage für ein Projekt dienen. Außerdem wird der Code auf mögliche Probleme untersucht ("linting"). Über die Software DevGard werden diese Informationen mit CVEs (Beschreibungen sicherheitskritischer Fehler) zusammengeführt. Aus all diesen Daten kann dann automatisiert eine grobe Aussagen darüber getroffen werden, wie gut eine Software gewartet ist oder wie schnell auf Sicherheitsprobleme reagiert wird. Das wird dann "plakativ" in sogenannten Bades dargestellt. Ziel ist es (potentiellen) Nutzenden Entscheidungshilfen zu geben, welche Software sie nutzen sollen.
