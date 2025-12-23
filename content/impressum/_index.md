@@ -5,7 +5,7 @@ aliases:
   - "impressum.html"
 ---
 
-## Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 DDG
 
     FOSSGIS e.V.
     Bundesallee 23
