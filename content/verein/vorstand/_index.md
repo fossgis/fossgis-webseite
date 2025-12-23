@@ -6,7 +6,7 @@ menu:
     weight: 35
 ---
 
-Der Vorstand des FOSSGIS e.V. wird jedes Jahr auf der Mitgliederversammlung
+Der Vorstand des FOSSGIS e.V. wird aller zwei Jahre auf der Mitgliederversammlung
 gewählt. Zur Zeit besteht er aus:
 
 * N.N. (1. Vorsitz)
