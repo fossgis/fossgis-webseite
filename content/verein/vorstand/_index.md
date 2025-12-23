@@ -9,7 +9,7 @@ menu:
 Der Vorstand des FOSSGIS e.V. wird jedes Jahr auf der Mitgliederversammlung
 gewählt. Zur Zeit besteht er aus:
 
-* Jörg Thomsen (1. Vorsitz)
+* N.N. (1. Vorsitz)
 * Pirmin Kalberer (2. Vorsitz)
 * David Arndt (Finanzen)
 * Falk Zscheile (Schriftführer)
