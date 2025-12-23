@@ -15,7 +15,7 @@ Ende:  22.00 Uhr
 ## Tagesordnung
 
 - Umlaufbeschluss Mitgliedsantrag [...] #617
-- Umlaufbeschluss Mitgliedsantrag [...} #618
+- Umlaufbeschluss Mitgliedsantrag [...] #618
 - Rücktritt des Vorsitzenden #621
 - Themen für den BKG Bericht (Koordinierungstelle) #619 
 - FOSSGIS-Konferenz 2026 #594 (Ticketpreise FOSSGIS-Konferenz)
