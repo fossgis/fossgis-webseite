@@ -13,7 +13,7 @@ aliases:
 
 ## Vertreten durch
 
-* Jörg Thomsen
+* N. N.
 * Pirmin Kalberer
 * David Arndt
 * Falk Zscheile
