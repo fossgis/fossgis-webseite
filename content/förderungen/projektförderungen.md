@@ -7,8 +7,7 @@ menu:
 ---
 
 Der Verein fördert viele Projekte aus den Bereichen Open Source und Open Data.
-Jeder kann dazu einen Förderantrag stellen, eine Mitgliedschaft im Verein ist
-keine Vorraussetzung.
+Jedes Mitglied kann dazu einen Förderantrag stellen.
 
 ## Was wird gefördert?
 
@@ -29,7 +28,7 @@ Wir sind auch offen für **Sonstige Förderungen**.
 
 Als erstes muss ein Antrag im Wiki ausgefüllt werden. Der wird eine gewisse
 Zeit auf der Vereinsmailingliste von den Mitgliedern diskutiert. Der
-Antragsteller sollte an der Diskussion teilnehmen. Danach entscheidet der
+Antragsteller muss an der Diskussion teilnehmen. Danach entscheidet der
 Vorstand über die Förderung. Eine Förderung bewegt sich typischerweise im drei
 bis vierstelligen Euro-Bereich.
 
