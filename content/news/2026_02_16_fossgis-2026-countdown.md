@@ -20,12 +20,12 @@ Auch in diesem Jahr zeichnet sich ein großes Interesse an der Konferenz ab. Die
 ![FOSSGIS Konferenz 2026 Göttingen](/news/images/2026_02_16_fossgis_2026.png)
  
 ### Der Zeitplan
-Das Konferenzprogramm findet anschließend von Mittwoch bis Freitag im Zentralen Hörsaalgebäude (ZHG) der Uni Göttingen statt. Am Samstag finden OSM-Samstag und Community Sprint an der Fakultät für Geowissenschaften und Geographie am Nordcampus statt.
+Das Konferenzprogramm findet von Mittwoch bis Freitag im Zentralen Hörsaalgebäude (ZHG) der Uni Göttingen statt. Am Samstag finden OSM-Samstag und Community Sprint an der Fakultät für Geowissenschaften und Geographie am Nordcampus statt.
 
 Die Konferenz startet in diesem Jahr schon am Dienstag, den 24.03.2026 ab 10 Uhr mit längeren Workshops (180 Minuten). Wählen Sie unter 7 Workshops aus siehe Programm: https://fossgis-konferenz.de/2026/programm/ und reisen Sie schon ganz entspannt am Dienstag an.
 
 ### FOSSGIS 2026 Programm
-Das FOSSGIS Team freut sich auch in diesem Jahr auf ein spannendes und reichhaltiges Programm mit zahlreichen Vorträgen, ExpertInnenfragestunden, Demosessions, BoFs und Anwendertreffen und sowie 28 Workshops.
+Das FOSSGIS Team freut sich auch in diesem Jahr auf ein spannendes Programm mit zahlreichen Vorträgen, ExpertInnenfragestunden, Demosessions, BoFs und Anwendertreffen und sowie 28 Workshops.
 
 https://www.fossgis-konferenz.de/2026/programm/
 
@@ -34,15 +34,10 @@ Die Workshops sprechen sowohl Einsteiger:innen als auch Fortgeschrittene an, es 
 ### FOSSGIS vernetzt - Anwendertreffen und Community Sprint
 Rund um die und während der Konferenz gibt es zahlreiche Möglichkeiten sich zu vernetzen. Die Pausenversorgung kombiniert mit Firmen-Ausstellung und Poster-Ausstellung finden im Foyer des ZHG statt sowie auch die Abendveranstaltung am ersten Konferenztag. 
 Für die fachliche Vernetzung bieten sich Gelegenheiten bei den Anwendertreffen, Expert:innenfragestunden und weiteren Community Sessions, eine Onlineteilnahme ist möglich.
-
-Hier sind die Anwendertreffen (Onlineteilnahme ist möglich) zu nennen, aber auch die Abendveranstaltungen und der OSM Samstag und der Community Sprint am Samstag.
 https://www.fossgis-konferenz.de/2026/socialevents/
 
-### Jobbörse
-Nutzen Sie die Jobbörse rund um die Konferenz https://www.fossgis-konferenz.de/2026#Jobwand
-
 ### FOSSGIS Konferenz 2026 Sponsoren
-Herzlichen Dank schon an dieser Stelle an die Sponsoren der Konferenz. die durch Ihre Unterstützung maßgeblich zur Finanzierung der Veranstaltung beitragen.
+Herzlichen Dank an die Sponsoren der Konferenz. die durch Ihre Unterstützung maßgeblich zur Finanzierung der Veranstaltung beitragen.
 Werden auch Sie FOSSGIS-Sponsor. Wir freuen uns über weitere Unterstützung. Informationen finden Sie unter
 https://fossgis-konferenz.de/2026/#Sponsoring
 
