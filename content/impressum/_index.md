@@ -24,6 +24,8 @@ Telefon: +49 30-62932037
 
 E-Mail: [info@fossgis.de](mailto:info@fossgis.de)
 
+Für alle Anliegen zur Konferenz: [konferenz-orga@fossgis.de](mailto:konferenz-orga@fossgis.de)
+
 ## Registereintrag
 
 Eintragung im Vereinsregister.
