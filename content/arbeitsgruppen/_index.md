@@ -31,6 +31,9 @@ Die [Arbeitsgruppe](/arbeitsgruppen/dienstleisterliste) hat es sich zur Aufgabe 
 ## Arbeitsgruppe "Öffentliche Ausschreibungen mit FOSS"
 Die [Arbeitsgruppe](/arbeitsgruppen/ag_agiles_vorgehen) "öffentliche Ausschreibungen mit FOSS" hat das Ziel Informationen zusammenzustellen, die hilfreich sind, um die öffentliche Hand bei Ausschreibungen zu unterstützen, die zum Ziel haben, Open Source Software zu implementieren und in die Nutzung zu bringen. 
 
+## Arbeitsgruppe "OSM-Langzeitarchivierung"
+Diese [Arbeitsgruppe](https://www.fossgis.de/wiki/OSM_Langzeitarchivierung) beschäftigt sich mit Fragestellungen im Zusammenhang mit der dauerhaften Archivierung und Verfügbarmachung von OpenStreetMap-Daten. Ziel ist es, OpenStreetMap als Teil des kartographischen Weltkulturerbes in seiner kulturgeschichtlichen Entwicklung einer breiten wissenschaftlichen Community zugänglich zu machen.
+
 ## Arbeitsgruppe "CRA"
 
 Die Arbeitsgruppe befinden sich gerade im Aufbau. Vorläufige Informationen
