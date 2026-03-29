@@ -13,9 +13,9 @@ aliases:
 
 ## Vertreten durch
 
-* N. N.
 * Pirmin Kalberer
-* David Arndt
+* Jannik Schilling
+* Florian Thiery
 * Falk Zscheile
 
 ## Kontakt
