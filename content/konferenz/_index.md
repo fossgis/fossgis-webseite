@@ -31,7 +31,7 @@ Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://f
 * [FOSSGIS-Konferenz 2012](https://fossgis-konferenz.de/2012/) in Dessau
 * [FOSSGIS-Konferenz 2011](https://fossgis-konferenz.de/2011/) in Heidelberg
 
-### Veranstaltungsort sein - Call for Location FOSSGIS 2027
+<!--### Veranstaltungsort sein - Call for Location FOSSGIS 2027
 
 Sie wollen die FOSSGIS-Konferenz in Ihrer Stadt bzw. in Ihrer Hochschule holen? In diesem [Dokument](https://files.fossgis.de/Konferenz/CfL_FOSSGIS_2027.pdf) finden Sie die Anforderungen. Für Fragen zögern Sie nicht uns anzusprechen.
 
