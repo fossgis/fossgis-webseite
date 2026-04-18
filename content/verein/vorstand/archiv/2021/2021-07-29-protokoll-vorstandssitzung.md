@@ -91,4 +91,4 @@ damit auch das Hybridformat) binden andere Ressourcen als die
 klassische Präsenzveranstaltung. Hier sind Ideen gefragt, wie das
 geleistet werden kann.
 
-Nächster Termin: 19.08.2021, 19:30 Uhr, https://meet.fossgis.de/vorstand
+Nächster Termin: 19.08.2021, 19:30 Uhr

@@ -105,4 +105,3 @@ Katja hat für den FOSSGIS e.V. einen Account im Fediverse angelegt:
 
 Nächster Termin: 01.06.2021, 19:30 Uhr,
 
-Videokonferenz via https://meet.fossgis.de/vorstand

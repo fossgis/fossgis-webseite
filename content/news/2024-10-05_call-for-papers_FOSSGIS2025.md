@@ -25,7 +25,7 @@ Die FOSSGIS-Konferenz bietet eine Plattform für neue Ideen, Projekte und Erfahr
 In Form von Vorträgen, Lightning Talks, Demo-Sessions, Workshops, Anwendertreffen, spontanen Treffen oder Expert:innenfragestunden bietet die Veranstaltung die Möglichkeit, Wissen zu erweitern und sich zu vernetzen.   
 Neu: Postersession - reichen Sie gern Ihr Poster ein.
 
-Weitere Informationen zur FOSSGIS-Konferenz sind auf der Konferenzhomepage zu finden: https://www.fossgis-konferenz.de/2025.
+Weitere Informationen zur FOSSGIS-Konferenz sind auf der Konferenzhomepage zu finden: https://www.fossgis-konferenz.de/2025/.
 
 Das Programmkomitee der FOSSGIS-Konferenz freut sich auf interessante Einreichungen bis zum 05.11.2024, eine Verlängerung wird es nicht geben.
 
