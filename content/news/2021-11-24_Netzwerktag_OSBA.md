@@ -24,7 +24,7 @@ Die Veröffentlichung ["Open Source in Kommunen - Ein Baustein für mehr Digital
 *Ann Cathrin Riedel* spricht über Digitale Souveränität aus demokratischer Verpflichtung und mahnt, dass wir in Sachen Digitale Souveränität spät dran sind und wirbt dafür die Aktualisierung der Demokratie nicht zu verpassen und diese mit Hilfe der Digitalisierung ins 21. Jahrhundert zu befördern. In Anlehnung an "Sie bauten eine Kathedrale" braucht es die Anstrengung vieler, die diesen Prozess unterstützen.
 
 *Adriana Groh* von der Open Knowledge Foundation sagt, Digitale Souveränität stärken, heißt in offene und digitale Infrastrukturen zu investieren und berichtet von Ideen zu einem Souverein Tech Fund. 
-Die ["Machbarkeitsstudie zur Prüfung eines Förderprogramms für offene digitale Basistechnologien als Grundlage von Innovationen und digitaler Souveränität"](https://sovereigntechfund.de/SovereignTechFund_Machbarkeitsstudie.pdf) erbringt das Ergebnis, dass Förderung ins OSS Ökosystem fließen sollte. Es geht darum in Grundlagen zu investieren, das heißt sowohl Innovationen zu fördern als auch Bestehendes zu pflegen.
+Die ["Machbarkeitsstudie zur Prüfung eines Förderprogramms für offene digitale Basistechnologien als Grundlage von Innovationen und digitaler Souveränität"](https://www.sovereigntechfund.de/SovereignTechFund_Machbarkeitsstudie.pdf) erbringt das Ergebnis, dass Förderung ins OSS Ökosystem fließen sollte. Es geht darum in Grundlagen zu investieren, das heißt sowohl Innovationen zu fördern als auch Bestehendes zu pflegen.
 
 In der abschließenden Podiumsdiskussion werden die Baustellen benannt:  
 * Es gibt immer noch zu viel Unwissenheit und Vorurteile beim Thema OSS - es braucht mehr Aufklärungsarbeit.  

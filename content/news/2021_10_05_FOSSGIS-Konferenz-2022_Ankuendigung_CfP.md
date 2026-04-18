@@ -42,7 +42,7 @@ Zum Jahresbeginn wird das Programm feststehen und die Anmeldung zur Konferenz st
 #### Wir brauchen Unterstützung
 Diejenigen, die bereits an einer FOSSGIS-Konferenz teilgenommen haben, können erahnen wie viel organsisatorischer Aufwand im Vorfeld und während der Veranstaltung für eine gelungene Konferenz nötig ist. Damit auch die nächste FOSSGIS-Konferenz von genügend Unterstützer:innen getragen wird, sei hiermit der Aufruf gesendet:
 Das Konferenzorgateam braucht dringend Unterstützung durch weitere Mitstreiter:innen. Es gibt kleine Aufgaben und große Aufgaben. Je besser die Aufgaben auf mehrere Schultern verteilt und miteinander abgestimmt sind, umso leichter ist es für alle. Viele Leute im Konferenzteam engagieren sich seit vielen Jahren, tausend Dank dafür.
-Weitere Informationen sind auf der [Konferenzhomepage unter Helfen](https://www.fossgis-konferenz.de/2022/helfen) veröffentlicht.
+Weitere Informationen sind auf der [Konferenzhomepage unter Helfen](https://www.fossgis-konferenz.de/2022/helfen/) veröffentlicht.
 
 
 #### Fragen zur Konferenz
@@ -55,6 +55,6 @@ Fragen können per E-Mail oder im Matrix-Chat an das Konferenzorgateam gerichtet
 Konferenz-Homepage: [https://www.fossgis-konferenz.de/2022/](https://www.fossgis-konferenz.de/2022/)
 Call for Papers: [https://pretalx.com/fossgis2022/cfp](https://pretalx.com/fossgis2022/cfp)
 Infos zur Anmeldung: [https://fossgis-konferenz.de/2022/anmeldung/](https://fossgis-konferenz.de/2022/anmeldung/)
-Unterstützung der Konferenz: [https://www.fossgis-konferenz.de/2022/helfen](https://www.fossgis-konferenz.de/2022/helfen)
+Unterstützung der Konferenz: [https://www.fossgis-konferenz.de/2022/helfen/](https://www.fossgis-konferenz.de/2022/helfen/)
 Mail Konferenzorgateam: [konferenz-orga@fossgis.de](mailto:konferenz-orga@fossgis.de?subject=Fragen_zur_Konferenz)
 Matrix-Chat: [https://matrix.to/#/!XajsOFLRhsznebfosT:matrix.org](https://matrix.to/#/!XajsOFLRhsznebfosT:matrix.org)

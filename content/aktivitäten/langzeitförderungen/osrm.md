@@ -13,7 +13,7 @@ Liste von Orten am besten angefahren werden kann (bekannt als travelling
 salesman Problem).
 
 Der FOSSGIS Routing Server wird auch von der
-[openstreetmap.org](https://openstreetmap.org/) Webseite eingebunden.
+[openstreetmap.org](https://www.openstreetmap.org/) Webseite eingebunden.
 Zugang zu solch verarbeiteten Daten ist wichtig für die Beitragenden
 Mapper, als Feedback für ihre Arbeit und zum Finden von Fehlern.
 [Weitere Informationen zur Infrastruktur und genutzter

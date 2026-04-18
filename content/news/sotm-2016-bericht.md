@@ -9,7 +9,7 @@ aliases:
 
 Die State of the Map fand  vom 23.-25.9.2016 in Brüssel statt.
 
-Konferenzwebseite: http://2016.stateofthemap.org/
+Konferenzwebseite: https://2016.stateofthemap.org/
 
 Blogeintrag der Geofabrik zur Konferenz
-Link zum Blog: https://blog.geofabrik.de/?p=368
+Link zum Blog: https://blog.geofabrik.de/index.php/2016/09/29/were-back-from-state-of-the-map-in-brussels/

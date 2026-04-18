@@ -50,7 +50,7 @@ Es gibt auch eine Reihe unterstützender FOSS für Valhalla um den Einstieg zu e
 
 - [Valhalla JS Demos](https://github.com/valhalla/demos)
 - [QGIS Plugin](https://plugins.qgis.org/plugins/valhalla/)
-- [Valhalla Web App](https://github.com/gis-ops/valhalla-app)
+- [Valhalla Web App](https://github.com/valhalla/web-app)
 
 Es gelten die aktuellen [Nutzungsbedingungen](https://fossgis.de/arbeitsgruppen/osm-server/nutzungsbedingungen/) der FOSSGIS e.V. Dienste.
 

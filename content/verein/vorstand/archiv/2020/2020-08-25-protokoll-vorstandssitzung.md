@@ -17,7 +17,7 @@ Im Vorfeld der Vorstandssitzung wurden drei Umlaufbeschlüsse im GitLab erstellt
 Das SSL-Zertifikat für die JOSM-Signierung wird um 3 Jahre verlängert. Die Kosten liegen bei 178€ plus MwSt.
 
 2. Budget für Büro (#171)
-Katja ist ab 1. September bei uns angestellt. Für die Einrichtung des Büros wird ihr ein Budget von 2700€ zur Verfügung gestellt. 
+Katja ist ab 1. September bei uns angestellt. Für die Einrichtung des Büros wird ihr ein Budget von 2700€ zur Verfügung gestellt.
 
 3. Stellungnahme zum 5. Geoforschungsbericht des BMI (#174)
 Als Ergebnis der Mumble-Konferenz am 21.07.2020 wurde eine Stellungnahme zum 5. Geoforschungsbericht des Bundes aus dem Verein an den Vorstand herangetragen. Dieser wurde vom Vorstand verabschiedet und durch Michael R. an das BMI verschickt.
@@ -34,10 +34,10 @@ Wie im Aktivenmumble am 18.08.2020 bereits vermerkt, haben einen Vergleich mit m
 
 ### Sonstiges
 
-Jakob erzählt von der AGIT in Salzburg. Hier wurde Hopin (https://hopin.to/) verwendet. Grundsätzlich war die Konferenz gut, die virtuellen Stände die angeboten wurden, kamen allerdings nicht so gut an. 
+Jakob erzählt von der AGIT in Salzburg. Hier wurde Hopin (https://hopin.com/) verwendet. Grundsätzlich war die Konferenz gut, die virtuellen Stände die angeboten wurden, kamen allerdings nicht so gut an.
 
-Michael R. berichtet, dass er am 3. September auf der Traveltalk der Eurobike 2020 zum Thema OSM sprechen wird. Mehr dazu unter: https://community.openstreetmap.org/viewtopic.php?pid=798616#p798616   
+Michael R. berichtet, dass er am 3. September auf der Traveltalk der Eurobike 2020 zum Thema OSM sprechen wird. Mehr dazu unter: https://community.openstreetmap.org/viewtopic.php?pid=798616#p798616
 
-Nächster Vorstandssitzung am Wochenende 29/30. August in Berlin. 
+Nächster Vorstandssitzung am Wochenende 29/30. August in Berlin.
 
 

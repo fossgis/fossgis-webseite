@@ -106,5 +106,5 @@ Eintragung des neuen Vorstands im Vereinsregister vornehmen. Zuständig: Jörg.
 
 Katja berichtet vom Stand der Konferenzvorbereitung. 
 
-Nächster Termin: 3.5.2021, 20 Uhr https://meet.fossgis.de/vorstand210503
+Nächster Termin: 3.5.2021, 20 Uhr
 
