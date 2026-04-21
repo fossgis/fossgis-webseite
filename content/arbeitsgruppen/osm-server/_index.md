@@ -15,6 +15,8 @@ Der Aufgabenbereich des OSM-Server-Teams umfasst zur Zeit
 * [OSRM-Routingserver](https://routing.openstreetmap.de/)
 * Overpass-API
 * [Weekly OSM](https://weeklyosm.eu/)
+* [Umap](https://umap.openstreetmap.de/)
+* [Data Derived from OSM for Download (Coastline/Antarctic icesheet)](https://osmdata.openstreetmap.de/)
 
 Das Ziel ist es, einen stabilen Betrieb mit hoher Verfügbarkeit zu sichern.
 
@@ -22,12 +24,10 @@ Das Ziel ist es, einen stabilen Betrieb mit hoher Verfügbarkeit zu sichern.
 
 # Mitglieder
 
-* Dietmar Seifert
+* Leiter: Michael Spreng (<michael.spreng@fossgis.de>)
+* Astrid Günther
 * Lars Lingner
-* Michael Reichert
-* Robert Klemm
 * Roland Olbricht
 * Sarah Hoffmann
 * Sven Geggus
-* Leiter: Michael Spreng (<michael.spreng@fossgis.de>)
 
