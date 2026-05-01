@@ -2,6 +2,8 @@
 title: "Nutzungsbedingungen OSM-Server des FOSSGIS e.V."
 ---
 
+English see below.
+
 Die vom FOSSGIS e.V. betriebenen Services werden von Ehrenamtlichen
 mit Spendenmitteln betrieben. Ihr Hauptzweck ist, die Nutzung auf unserer
 Website sowie die Beitragenden zu OpenStreetMap bei ihrer Arbeit zu unterstützen.
@@ -135,3 +137,98 @@ steht. Wir garantieren keine Verfügbarkeit.
 Zum [Impressum](https://www.fossgis.de/impressum.html) des FOSSGIS e.V.
 
 Für Fragen wenden Sie sich bitte an info@fossgis.de.
+
+
+
+
+---
+title: "Terms of Use for FOSSGIS e.V. OSM Servers"
+---
+
+The services operated by FOSSGIS e.V. are run by volunteers using donated funds. Their primary purpose is to support usage on our website and to assist OpenStreetMap contributors in their work. We are generally pleased when third parties use our services for creative and innovative applications. However, excessive use restricts usability. Therefore, we require that all users of FOSSGIS e.V. services comply with these terms of use.
+
+**OpenStreetMap data can be [used freely and at no cost by anyone](https://www.openstreetmap.org/copyright). Our services, however, cannot.**
+
+The following are the minimum requirements that users must meet.
+
+Many other organizations provide similar services based on OpenStreetMap data. If your project does not meet the requirements here, you may obtain the same from other providers (see below).
+
+## Scope
+
+These terms of use apply to:
+- the FOSSGIS e.V. tile servers (tile.openstreetmap.de)
+- the FOSSGIS e.V. routing servers (routing.openstreetmap.de, valhalla1.openstreetmap.de)
+- the FOSSGIS e.V. Overpass servers (overpass-api.de)
+- the FOSSGIS e.V. umap servers (umap.openstreetmap.de)
+
+They do not apply to umap, Overpass, routing, or tile servers operated by other parties (e.g., tile.openstreetmap.org of the OpenStreetMap Foundation and various commercial providers), nor do they apply to the use of raw OpenStreetMap data. The use of OpenStreetMap data is subject to the terms of the Open Database License 1.0.
+
+## General Rules
+
+### Requirements
+
+- Clear display of attribution as required by the license and the OpenStreetMap Foundation [guidelines](https://www.openstreetmap.org/copyright).
+- Include a link to [https://www.openstreetmap.org/fixthemap](https://www.openstreetmap.org/fixthemap) to allow your users to report and correct errors in our data. The following HTML code satisfies these rules:
+
+```html
+  Data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors
+  (<a href="https://opendatacommons.org/licenses/odbl/index.html">ODbL</a>), <a
+  href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, <a
+  href="https://openstreetmap.org/fixthemap">contribute/report error</a>
+```
+
+  For media where links are technically not possible, `Data: © OpenStreetMap contributors (ODbL), Graphics: CC-BY-SA` is sufficient.
+- For websites, an email address of the operator must be easily identifiable and directly reachable in order to contact them if necessary. For apps, this applies to the app website and its entries in app stores.
+- Explicitly recommended: The URLs of our services should not be hardcoded into the app.
+
+### Technical Usage Requirements
+
+- **Valid HTTP User-Agent** identifying the application. User agents of libraries are not sufficient. Impersonating another application will result in immediate blocking.
+- A valid origin indication (HTTP Referrer) where technically possible.
+- **Maximum two downloading connections.** (Unmodified settings of standard web browsers are acceptable.) **Scripts** are limited to one connection.
+
+Note: Standard web browsers without modified configuration normally comply with all of the above technical usage requirements.
+
+### Prohibited Uses
+
+- Commercial use is only permitted if the use of the services does not constitute a substantial part of an online offering. Example of a non-substantial part: Directions sketches on websites.
+- Websites with high traffic volumes are generally not permitted to use our services.
+- Mass downloading of data is prohibited.
+
+## Additional Conditions for Use of the Tile Servers (tile.openstreetmap.de)
+
+- **Tiles must be cached locally** for as long as indicated by the HTTP header "Expires:". Alternatively, this time must be at least seven days.
+- **No-Cache HTTP headers must not be sent** (`Cache-Control: no-cache`, `Pragma: no-cache`, etc.).
+- Use in apps that independently load tiles from tile.openstreetmap.de is prohibited without prior consent from the operator. For alternatives, please refer to the following sections of these terms of use.
+- Downloading tiles of larger areas (e.g., for offline use) is prohibited.
+- The tiles from tile.openstreetmap.de are licensed under CC-BY-SA 2.0.
+
+## Additional Conditions for Use of the Routing Servers (routing.openstreetmap.de, valhalla1.openstreetmap.de)
+
+- Maximum one request per second.
+
+## Privacy
+
+For information on privacy, please refer to the [FOSSGIS e.V. Privacy Policy](https://www.fossgis.de/datenschutzerkl%C3%A4rung/).
+
+## Changes to These Terms of Use and Availability
+
+We reserve the right to discontinue services at any time without stating reasons or providing advance notice. Changes to the terms of use are also possible without advance notice.
+
+We note that permission to use the services may be revoked by us at any time without stating reasons. This applies in particular in cases of rule violations and abusive use of the services.
+
+Please note that each service is backed by only a single server. We do not guarantee availability.
+
+## Alternative Providers
+
+- [List of other tile servers](https://wiki.openstreetmap.org/wiki/TMS)
+- [Service providers and commercial support](https://wiki.openstreetmap.org/wiki/Commercial_OSM_Software_and_Services)
+- [Guide to installing your own tile servers](https://switch2osm.org/)
+- [Guide to installing OSRM](https://github.com/Project-OSRM/osrm-backend/wiki)
+- [Guide to installing Valhalla](https://github.com/valhalla/valhalla)
+
+## Contact
+
+See the [Imprint](https://www.fossgis.de/impressum.html) of FOSSGIS e.V.
+
+For questions, please contact info@fossgis.de.
