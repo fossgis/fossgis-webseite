@@ -28,8 +28,10 @@ unten).
 Diese Nutzungsbedingungen gelten für
 * die Tileserver des FOSSGIS e.V. (tile.openstreetmap.de).
 * die Routingserver des FOSSGIS e.V. (routing.openstreetmap.de, valhalla1.openstreetmap.de)
+* die Overpass-Server des FOSSGIS e.V. (overpass-api.de)
+* die umap-Server des FOSSGIS e.V. (umap.openstreetamp.de)
 
-Sie gelten nicht für die Routing- oder Tileserver anderer Betreiber (z.B.
+Sie gelten nicht für die umap-, Overpass-, Routing- oder Tileserver anderer Betreiber (z.B.
 tile.openstreeetmap.org der OpenStreetMap Foundation und diverse gewerbliche
 Anbieter) und auch nicht für die Nutzung der OpenStreetMap-Rohdaten. Die
 Nutzung der OpenStreetMap-Daten unterliegt den Bedingungen der Open Database
@@ -70,6 +72,7 @@ License 1.0.
   technisch möglich ist.
 * **Maximal zwei herunterladende Verbindungen.** (Die unmodifizierten
   Einstellungen der üblichen Website-Betrachter sind akzeptabel.)
+  **Skripte** sind auf eine Verbindung zu beschränken.
 
 Anmerkung: Übliche Web-Browser ohne modifizierte Konfiguration halten
 normalerweise alle der oben stehenden technischen Nutzungsvoraussetzungen ein.
