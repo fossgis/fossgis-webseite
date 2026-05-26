@@ -1,7 +1,7 @@
 ---
-title: "Pizza, Panoramax und (nicht) platzende Frühstückseier - FOSSGIS-OSM-Communitytreffen Nr. 25"
+title: "Pizza, Panoramax und ungeplatzte Frühstückseier"
 date: "2026-05-26"
-author: "Katja Haferkorn"
+author: "Katja Haferkorn, Oliver Rudzick"
 images:   
 - https://www.fossgis.de/mediawiki/images/b/b9/FOSSGIS-Logo_Slogan.png
 language: de-de
@@ -12,7 +12,9 @@ categories:
 - Linuxhotel
 ---
 
-Vom 30. April bis 03. Mai 2026 trafen sich wieder 33 Aktive aus der  deutschsprachigen [OpenStreetMap](https://openstreetmap.de)- und FOSSGIS-Community zum [FOSSGIS-OSM-Communitytreffen Nr.25](https://www.fossgis.de/wiki/FOSSGIS_Hacking_Events) im [Linuxhotel](https://www.linuxhotel.de/) in Essen.
+### FOSSGIS-OSM-Communitytreffen Nr. 25
+
+Vom 30. April bis 03. Mai 2026 trafen sich wieder 33 Aktive aus der  deutschsprachigen [OpenStreetMap](https://openstreetmap.de)- und FOSSGIS-Community zum [FOSSGIS-OSM-Communitytreffen](https://www.fossgis.de/wiki/FOSSGIS_Hacking_Events) im [Linuxhotel](https://www.linuxhotel.de/) in Essen.
 
 Das Besondere an diesen Treffen ist die Mischung aus Hackathon, Vereinsarbeit, Netzwerktreffen und Ideenwerkstatt. Der Ablauf entsteht gemeinschaftlich vor Ort aus aktuellen Fragen und konkreten Problemen: Morgens Sessionplanung, tagsüber Arbeiten an den Themen, Workshops, gemeinsames Arbeiten an Projekten und spontane Diskussionen und  – abends Pizza, Grillen und Gespräche bis spät in die Nacht.
 
@@ -52,10 +54,10 @@ Die Anpassung der Mitgliedsbeiträge ist aktuell Thema, es wurde über die zukü
 Auch die Außenwirkung des Vereins spielt eine große Rolle. 
 Ein wichtiges Thema ist die Weiterentwicklung der Dienstleisterliste des Vereins. Hiermit sollen Organisationen und Verwaltungen dabei zu unterstützt werden, Anbieter für Open-Source-Lösungen zu finden. Dabei soll sichtbar werden, welche Unternehmen aktiv zum Open-Source-Ökosystem beitragen und über entsprechende Lösungskompetenz verfügen. Hier wäre eine beratende Arbeitsgruppe, die in schwierigen oder kritischen Fällen unterstützend tätig werden könnte, hilfreich.
 
-Diskutiert wurde auch über die zukünftige Gestaltung der Vereinswebseiten. Die Webseiten sollen stärker als bisher inhaltliche Impulse liefern und die Arbeit des Vereins sichtbarer machen. Dazu gehört beispielsweise eine bessere Auffindbarkeit von Konferenzvideos und Programminhalten, sichtbarer dargestellte Vereinsstrukturen, mehr Dokumentation von Projektergebnissen, aufgeräumtere Wiki- und Informationsstrukturen. 
+Diskutiert wurde auch über die zukünftige Gestaltung der Vereinswebseite. Die Webseiten sollen stärker als bisher inhaltliche Impulse liefern und die Arbeit des Vereins sichtbarer machen. Dazu gehört beispielsweise eine bessere Auffindbarkeit von Konferenzvideos und Programminhalten, sichtbarer dargestellte Vereinsstrukturen, mehr Dokumentation von Projektergebnissen, aufgeräumtere Wiki- und Informationsstrukturen. 
 Gerade angesichts der wachsenden Bedeutung des Vereins wurde deutlich, wie wichtig gute Kommunikation und transparente Informationsangebote geworden sind.
 
-Die Rolle von Veranstaltungen und Communitytreffen wurde reflektiert. Ziel vieler Aktivitäten ist es, OpenStreetMap und FOSSGIS bekannter zu machen und Menschen zur Mitarbeit einzuladen. Dabei spielt auch das neu etablierte Online-Vernetzungstreffen eine Rolle, das Mitgliedern und Nicht-Mitgliedern einen niedrigschwelligen Einstieg in aktive Vereinsarbeit ermöglichen soll. Gleichzeitig wurde diskutiert über regionale Treffen mehr Sichtbarkeit zu erzeugen. Es existieren vielerorts OSM-Stammtische/ OSM-Treffen, Treffen von FOSSGIS-Mitgliedern könnten sich neu etablieren.
+Die Rolle von Veranstaltungen und Communitytreffen wurde reflektiert. Ziel vieler Aktivitäten ist es, OpenStreetMap und FOSSGIS bekannter zu machen und Menschen zur Mitarbeit einzuladen. Dabei spielt auch das neu etablierte Online-Vernetzungstreffen eine Rolle, das Mitgliedern und Nicht-Mitgliedern einen niederschwelligen Einstieg in aktive Vereinsarbeit ermöglichen soll. Gleichzeitig wurde diskutiert über regionale Treffen mehr Sichtbarkeit zu erzeugen. Es existieren vielerorts OSM-Stammtische/ OSM-Treffen, Treffen von FOSSGIS-Mitgliedern könnten sich neu etablieren.
 
 Wie relevant viele Themen inzwischen auch gesellschaftlich geworden sind, zeigte sich in mehreren Sessions rund um digitale Souveränität und Freie Software. Unter anderem wurde ein Beitrag des FOSSGIS e.V. für die Mai-Ausgabe 2026 von Business Geomatics vorbereitet und eine Art „Argumentarium für FOSS“ besprochen, welches Argumente und Positionen für den Einsatz Freier Open-Source-Software bündeln soll.
 
