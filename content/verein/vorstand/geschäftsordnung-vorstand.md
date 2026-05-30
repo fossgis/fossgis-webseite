@@ -6,7 +6,7 @@ menu:
     weight: 10
 ---
 
-Fassung gemäß Vorstandsbeschluss vom 20. Juli 2022
+Fassung gemäß Vorstandsbeschluss vom 13. April 2026
 
 Nach der aktuellen Satzung besteht der Vorstand aus vier Personen:
 
@@ -154,25 +154,17 @@ Tagesgeschäft, strukturiert und dokumentiert den Geschäftsbereich und plant
 für die Zukunft. Über wesentliche Anliegen hält es die Vorstandskollegen auf
 dem Laufenden.
 
-* Verein: Interne Organisation, Tätigkeitsberichte, Kontakt zum Amtsgericht,
-  Einberufung und Durchführung MV, Vereinsarchiv (Jörg)
+* Verein: Interne Organisation, Mitarbeitendenführung, Tätigkeitsberichte, Einberufung und Durchführung MV, Vereinsarchiv (Pirmin)
 * Recht: Datenschutz, Verträge, Versicherungen (Falk)
-* Finanzen: Buchführung, Kontakt zum Steuerberater und zum Finanzamt,
-  Rechnungsstellung, Erstattung von Auslagen, Mitgliedsgebühren,
-  Spendenverwaltung, Verwaltung Anlagevermögen (David)
-* Mitgliederverwaltung: Eintragung und Begrüßung neuer Mitglieder, Führen der
-  Mitgliederdatenbank, Statistiken zur Mitgliederentwicklung (David)
-* Protokolle: Protokolle der Vorstandssitzungen und der Mitgliederversammlung
-  (Falk)
-* Öffentlichkeitsarbeit: Webseite, Pressekontakt, Werbung, Flyer, Poster
-  (Jörg)
-* Technik: Betrieb der technischen Infrastruktur des Vereins, Kontakt zum
-  Sysadmin (Pirmin)
-* OpenStreetMap: Kontakt zur OpenStreetMap-Community in Deutschland, Kontakt
-  zur OSMF, Kontakt zu den OSM-Partnerorganisationen in der Schweiz und in
-  Österreich (Falk)
-* Konferenz: Organisation der jährlichen FOSSGIS-Konferenz (Jörg)
-* Förderprogramme: Organisation und Durchführung der Förderprogramme (Falk)
+* Finanzen: Buchführung, Kontakt zum Steuerberater und zum Finanzamt, Rechnungsstellung, Erstattung von Auslagen, Mitgliedsgebühren, Spendenverwaltung, Verwaltung Anlagevermögen (Florian)
+* Protokolle: Protokolle der Vorstandssitzungen und der Mitgliederversammlung (Falk)
+* Registersachen, Kontakt zum Amtsgericht (Falk)
+* Öffentlichkeitsarbeit: Webseite, Pressekontakt, Werbung, Flyer, Poster (Jannik)
+* Technik: Betrieb der technischen Infrastruktur des Vereins, Kontakt zum Sysadmin (Pirmin)
+* OpenStreetMap: Kontakt zur OpenStreetMap-Community in Deutschland, Kontakt zur OSMF, Kontakt zu den OSM-Partnerorganisationen in der Schweiz und in Österreich (Falk)
+- FOSSGIS-Konferenz: Organisation der jährlichen FOSSGIS-Konferenz (Pirmin)
+* Open Transport Community (Jannik)
+* Förderprogramme: Organisation und Durchführung der Förderprogramme (Falk/Jannik)
 
 Die Zuordnung von Personen ergibt sich einerseits aus deren Amt und andererseits
 aus den Neigungen und Fähigkeiten der Vorstandsmitglieder. Sie kann jederzeit
