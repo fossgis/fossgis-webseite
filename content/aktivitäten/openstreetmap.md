@@ -53,7 +53,7 @@ Zielgruppe sind vorrangig ehrenamtliche Organisationen, öffentliche Stellen ode
 
 In der ersten Projektphase entstehen zunächst die Struktur und Inhalte für die Schulungen. Die Arbeitsgruppe OSM-Schulung begleitet das Projekt, und beteiligt sich an der Erstellung, Gestaltung, Pflege und Durchführung der OSM-Schulungen durch den FOSSGIS-Verein. Zur organisatorischen Unterstützung wird im FOSSGIS e. V. eine Stelle geschaffen, welche zunächst bis Ende 2027 befristet ist.
 
-## Ansprechpersonen:
+#### Ansprechpersonen:
 
 - Mathias Gröbe mathias.groebe@fossgis.de
 - Katja Haferkorn katja.haferkorn@fossgis.de
