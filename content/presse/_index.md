@@ -5,9 +5,18 @@ menu:
     weight: 50
 ---
 
-Das Team der AG Öffentlichkeitsarbeit stellt hier Logos und Druckvorlagen bereit.
+## Pressespiegel
 
-## Logos des FOSSGIS-Vereins zur Verwendung für Öffentlichkeitsarbeit
+[Digitale Souveränität in der Geoinformationswirtschaft](https://www.business-geomatics.com/souveraenitaet-in-der-geoinformationswirtschaft/), Artikel vom 28.05.2026 in der Wirtschaftszeitung Business Geomatics
+
+[Die Konferenz der Weltvermesser](https://www.fossgis.de/mediawiki/images/1/1e/Presseartikel_PNP_FOSSGIS2017_small.jpg), Artikel vom 23.03.2027 in den Passauer Neusten Nachrichten zur FOSSGIS-Konferenz 2017 in Passau.
+
+Wo gibt es Artikel, Veröffentlichungen, die wir hier verlinken könnten?
+
+## Material
+
+### Logos des FOSSGIS-Vereins zur Verwendung für Öffentlichkeitsarbeit
+Das Team der AG Öffentlichkeitsarbeit stellt hier Logos und Druckvorlagen bereit.
 
 Manual zur Anwendung der Logos: [PDF-Download](https://www.fossgis.de/mediawiki/images/5/56/Logo-FOSSGIS-Verein-Manual_2023-12-05.pdf)
 
