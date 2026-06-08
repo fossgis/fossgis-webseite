@@ -19,6 +19,54 @@ offizieller Ansprechpartner zu OSM-Fragen in Deutschland. Er sammelt
 Spendengelder, betreibt verschieden Dienste, und kümmert sich um rechtliche
 Fragen.
 
+<div style="background: #eeffdb; border: 1px solid #a5d66e; max-width: 800px; padding: 2px 20px; margin-left: 10px;">
+
+## Stellenausschreibung
+
+### Organisationstalent für OpenStreetMap Schulungen + Communityarbeit (m/w/d)
+
+#### Wir sind …
+der FOSSGIS e.V. – eine Community und Verein rund um OpenStreetMap, freie Geodaten und Open-Source-Software im GIS-Bereich. Wir organisieren Bildungsveranstaltungen und Konferenzen, fördern Software und Bildung und vernetzen Menschen, die offene Technologien wichtig finden.
+
+#### Darum geht’s …
+Wir bauen unsere Aktivitäten rund um OpenStreetMap mit gezielten Schulungen und Community-Arbeit weiter aus. Dafür suchen wir Unterstützung in der Organisation und Öffentlichkeitsarbeit in der Koordinierungsstelle des FOSSGIS e.V.. Die Stelle ist durch Fördermittel finanziert kann in Absprache mit dir gestaltet werden.
+
+#### Grobe Eckpunkte:
+- Enge Zusammenarbeit mit einer engagierten Open-Source-Community;
+- Perspektiven für weitere Tätigkeiten im Verein;
+- Möglichkeit zur Arbeit vor Ort in Berlin – aber nicht zwingend;
+- Vergütung in Anlehnung an E 11 TVöD als 25 bis 50% - Stelle ab August/September 2026 zunächst befristet bis 31.12.2027. Eine Verstetigung der Stelle wird angestrebt.
+
+#### Deine Aufgaben bei uns ...
+- Organisation, Budgetierung, Abwicklung von Schulungen, Workshops,Veranstaltungen;
+- Termin- und Kommunikationsmanagement;
+- Öffentlichkeitsarbeit, Werbung und Akquise;
+- Netzwerken mit Community, Partner:innen und Organisationen;
+- Unterstützung bei Marketing- und Vertriebsaktivitäten;
+- Mitarbeit in Community-Gruppen wie der AG OSM-Schulungen i.d.R. abends;
+- Mitwirkung an Veranstaltungen,
+- Mitgestaltung neuer Ideen und Formate im Verein
+
+#### Du ...
+Wichtig ist uns vor allem, dass du Lust hast, Dinge gemeinsam mit uns anzupacken und mit deinen Interessen und Fähigkeiten zu uns passt, z.B. mit
+- Erfahrung in Organisation oder Projektkoordination
+- Begeisterung für Open Source / freie Software / offene Daten
+- Erfahrung im Marketing, in Öffentlichkeitsarbeit oder Community-Arbeit
+- einer selbstständigen, strukturierten Arbeitsweise
+- Freude am Netzwerken und Kommunizieren
+- Bereitschaft zu gelegentlichen Reisen
+
+Du arbeitest in einem Team, welches Dich beim Einstieg gerne unterstützt und eine kollegiale und konstruktive Zusammenarbeit pflegt.
+Erfahrungen mit OpenStreetMap oder GIS sind hilfreich, jedoch keine Voraussetzung. Erfahrungen mit NGO-typischen Entscheidungsstrukturen oder mit ehrenamtlichen Communities sind willkommen.
+Und vielleicht bringst du Fähigkeiten mit, von denen wir heute noch gar nicht wissen, dass wir sie brauchen.
+Interesse?
+Dann freuen wir uns auf Deine kurze Vorstellung, sowie deine Erfahrungen und Interessen bis zum 08.07.2026 an kontakt@fossgis.de.
+Falls vorab Fragen entstehen, wende Dich an Katja Haferkorn (katja.haferkorn@fossgis.de, 030-62932037).
+
+Ausschreibung als PDF: https://files.fossgis.de/Koordinierungsstelle/OSM-Schulung/2026_Stellenausschreibung_OSM-Schulung.pdf
+
+</div>
+
 ## OSM-Beratungsstelle
 
 Seit Ende 2023 gibt es bei FOSSGIS eine Beratungsstelle für die öffentliche
@@ -35,54 +83,7 @@ Der FOSSGIS e.V. betreibt auch den Server
 [www.openstreetmap.de](https://www.openstreetmap.de/) für die OSM-Community, wo
 Sie auch weitere Informationen zu OpenStreetMap finden.
 
---------------------------------------------------------------------------------
-
-## Stellenausschreibung
-
-### Organisationstalent für OpenStreetMap Schulungen + Communityarbeit (m/w/d) 
-
-#### Wir sind …
-der FOSSGIS e.V. – eine Community und Verein rund um OpenStreetMap, freie Geodaten und Open-Source-Software im GIS-Bereich. Wir organisieren Bildungsveranstaltungen und Konferenzen, fördern Software und Bildung und vernetzen Menschen, die offene Technologien wichtig finden.
-
-#### Darum geht’s …
-Wir bauen unsere Aktivitäten rund um OpenStreetMap mit gezielten Schulungen und Community-Arbeit weiter aus. Dafür suchen wir Unterstützung in der Organisation und Öffentlichkeitsarbeit in der Koordinierungsstelle des FOSSGIS e.V.. Die Stelle ist durch Fördermittel finanziert kann in Absprache mit dir gestaltet werden. 
-
-#### Grobe Eckpunkte:
-- Enge Zusammenarbeit mit einer engagierten Open-Source-Community; 
-- Perspektiven für weitere Tätigkeiten im Verein; 
-- Möglichkeit zur Arbeit vor Ort in Berlin – aber nicht zwingend;  
-- Vergütung in Anlehnung an E 11 TVöD als 25 bis 50% - Stelle ab August/September 2026 zunächst befristet bis 31.12.2027. Eine Verstetigung der Stelle wird angestrebt.
-
-#### Deine Aufgaben bei uns ...
-- Organisation, Budgetierung, Abwicklung von Schulungen, Workshops,Veranstaltungen;    
-- Termin- und Kommunikationsmanagement;
-- Öffentlichkeitsarbeit, Werbung und Akquise; 
-- Netzwerken mit Community, Partner:innen und Organisationen; 
-- Unterstützung bei Marketing- und Vertriebsaktivitäten; 
-- Mitarbeit in Community-Gruppen wie der AG OSM-Schulungen i.d.R. abends; 
-- Mitwirkung an Veranstaltungen,
-- Mitgestaltung neuer Ideen und Formate im Verein 
-
-#### Du ...
-Wichtig ist uns vor allem, dass du Lust hast, Dinge gemeinsam mit uns anzupacken und mit deinen Interessen und Fähigkeiten zu uns passt, z.B. mit
-- Erfahrung in Organisation oder Projektkoordination 
-- Begeisterung für Open Source / freie Software / offene Daten
-- Erfahrung im Marketing, in Öffentlichkeitsarbeit oder Community-Arbeit 
-- einer selbstständigen, strukturierten Arbeitsweise 
-- Freude am Netzwerken und Kommunizieren 
-- Bereitschaft zu gelegentlichen Reisen  
-
-Du arbeitest in einem Team, welches Dich beim Einstieg gerne unterstützt und eine kollegiale und konstruktive Zusammenarbeit pflegt.
-Erfahrungen mit OpenStreetMap oder GIS sind hilfreich, jedoch keine Voraussetzung. Erfahrungen mit NGO-typischen Entscheidungsstrukturen oder mit ehrenamtlichen Communities sind willkommen.
-Und vielleicht bringst du Fähigkeiten mit, von denen wir heute noch gar nicht wissen, dass wir sie brauchen.
-Interesse?
-Dann freuen wir uns auf Deine kurze Vorstellung, sowie deine Erfahrungen und Interessen bis zum 08.07.2026 an kontakt@fossgis.de.
-Falls vorab Fragen entstehen, wende Dich an Katja Haferkorn (katja.haferkorn@fossgis.de, 030-62932037)
-
-Ausschreibung als PDF: https://files.fossgis.de/Koordinierungsstelle/OSM-Schulung/2026_Stellenausschreibung_OSM-Schulung.pdf
-
---------------------------------------------------------------------------
-## Entwicklung von OpenStreetMap-Schulungsmodulen 
+## Entwicklung von OpenStreetMap-Schulungsmodulen
 
 Um der Nachfrage nach OpenStreetMap-Schulungen gerecht zu werden, hat der FOSSGIS e.V. als Vertreter von OpenStreetMap in Deutschland einen Projektantrag bei der Deutschen Stiftung Engagement und Ehrenamt (DSEE) gestellt und eine Zusage bekommen.
 
