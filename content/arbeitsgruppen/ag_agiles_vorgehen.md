@@ -12,11 +12,13 @@ Durch Vernetzung mit der [Workinggroup Beschaffung der OSBA](https://osb-allianc
 
 Ziel ist es Informationen zusammenzustellen, die hilfreich sind, um die öffentliche Hand bei Ausschreibungen zu unterstützen, die zum Ziel haben, Open Source Software zu implementieren und in die Nutzung zu bringen.
 
+IN den letzten Jahren hat sich die Arbeitsgruppe darum gekümmert, dass ein moderiertes Panelgespräch die FOSSGIS-Konferenz bereichert.
+
 ## Mitglieder
 - Torsten Wiebke
 - Torsten Friebe
-- Arnulf Christl
-- Marco Lechner
+- Florian Micklich
+- David Arndt
 - Katja Haferkorn
 
 Detaillierte Informationen und Arbeitsergebnisse sind im [Wiki](https://www.fossgis.de/wiki/AG_oeffentl_Ausschreibungen_FOSS) zu finden.
