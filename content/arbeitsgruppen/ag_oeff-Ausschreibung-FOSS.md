@@ -12,7 +12,7 @@ Durch Vernetzung mit der [Workinggroup Beschaffung der OSBA](https://osb-allianc
 
 Ziel ist es Informationen zusammenzustellen, die hilfreich sind, um die öffentliche Hand bei Ausschreibungen zu unterstützen, die zum Ziel haben, Open Source Software zu implementieren und in die Nutzung zu bringen.
 
-IN den letzten Jahren hat sich die Arbeitsgruppe darum gekümmert, dass ein moderiertes Panelgespräch die FOSSGIS-Konferenz bereichert.
+In den letzten Jahren hat sich die Arbeitsgruppe darum gekümmert, dass ein moderiertes Panelgespräch die FOSSGIS-Konferenz bereichert.
 
 ## Mitglieder
 - Torsten Wiebke
