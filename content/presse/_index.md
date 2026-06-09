@@ -51,7 +51,10 @@ Manual zur Anwendung der Logos: [PDF-Download](https://www.fossgis.de/mediawiki/
 <a><img src="https://www.fossgis.de/mediawiki/images/b/b9/FOSSGIS-Logo_Slogan.png" width="300" style="border: 0px solid #808080; border-radius: 3px;"/></a>
 {{< /rawhtml >}}       
 
-[PNG-Download](https://www.fossgis.de/mediawiki/images/b/b9/FOSSGIS-Logo_Slogan.png)
+[PNG-transparent Download](https://www.fossgis.de/mediawiki/images/b/b9/FOSSGIS-Logo_Slogan.png)        
+[SVG-transparent Download](https://www.fossgis.de/mediawiki/images/4/41/FOSSGIS-Logo_Slogan.svg)         
+[PNG-weißer Hintergr. Download](https://www.fossgis.de/mediawiki/images/0/06/FOSSGIS-Logo_Slogan_whiteBackgr.png)           
+[SVG-weißer Hintergr. Download](https://www.fossgis.de/mediawiki/images/3/36/FOSSGIS-Logo_Slogan_whiteBackgr.svg)
 
 #### _Logo Kompass orange als PNG &SVG_
 {{< rawhtml >}}
