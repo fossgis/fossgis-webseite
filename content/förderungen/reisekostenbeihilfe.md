@@ -19,10 +19,3 @@ werden können. Dafür steht jedes Jahr ein gewisses Budget zur Verfügung.
 
 * [Reisekostenbeihilfe beantragen](/förderungen/reisekostenbeihilfe-beantragen)
 * [Veranstaltung anmelden](/förderungen/veranstaltung-zur-reisekostenbeihilfe-anmelden)
-
-Derzeit kann für die folgenden Veranstaltungen Reisekostenbeihilfe beantragt
-werden:
-
-* [FOSSGIS-Konferenz](https://fossgis-konferenz.de/)
-* FOSSGIS-Hackweekends in Essen und Berlin
-
