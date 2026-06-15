@@ -22,7 +22,7 @@ Wichtig ist dabei, dass die Community sowie die Beteiligung dieser am Gesamtproj
 Einzelne  Diskussionen und Interviews mit Vertretern potenzieller Schulungsinteressenten zeigten, dass es nicht möglich ist, eine standardisierte  Schulung zu entwickeln und loszulegen, sondern dass es davon abhängt, was jeweils für die Zielgruppe relevant ist. Dafür ist es notwendig, Zielgruppenwünsche zu erfassen und zu implementieren. 
 Auch organisatorische und technische Fragen wurden diskutiert, u.a. Aufgaben für die neu entstehende Stelle zur Koordinierung und auch das Design und die technische Umsetzung der Folienerstellung. Dabei wurde deutlich, dass für gute Schulungen eine vertiefte Auseinandersetzung mit den jeweiligen Gebieten der zu Schulenden notwendig ist. Als Lösung wurde über die Möglichkeit einer gegenseitigen Hospitation nachgedacht.
 
-Das Fazit der Beteiligten war, dass das Treffen ein wertvoller Einstieg in die Erstellung der Schulungsunterlagen ist. Vielleicht gibt es zum Ende des Jahres ein weiteres Präsenstreffen.      
+Das Fazit der Beteiligten war, dass das Treffen ein wertvoller Einstieg in die Erstellung der Schulungsunterlagen ist. Vielleicht gibt es zum Ende des Jahres ein weiteres Präsenztreffen.      
 Bis dahin wird online gemeinsam weitergearbeitet.
 
 
