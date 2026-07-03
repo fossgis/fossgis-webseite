@@ -10,6 +10,7 @@ menu:
 
 Mindestens einmal im Jahr findet eine ordentliche Mitgliederversammlung statt. Häufig wird sie im zusammen mit der FOSSGIS-Konferenz durchgeführt.
 
+* [Protokoll der Mitgliederversammlung Juli 2026](2026-06-22-mv-protokoll)
 * [Protokoll der Mitgliederversammlung März 2026](2026-03-26-mv-protokoll)
 * [Protokoll der Mitgliederversammlung 2025](2025-04-27-mv-protokoll)
 * [Protokoll der Mitgliederversammlung 2024](2024-03-21-mv-protokoll)
