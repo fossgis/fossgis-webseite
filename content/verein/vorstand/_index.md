@@ -59,6 +59,8 @@ Die Sitzungen sind öffentlich, ihr könnt Euch selber dazuschalten, zuhören un
 auch mitmachen. 
 
 Im Folgenden sind die Protokolle der Vorstandssitzungen zu finden:
+* [Vorstandssitzung vom 03.06.2026](2026-06-03-protokoll-vorstandssitzung)
+* [Vorstandssitzung vom 18.05.2026](2026-05-18-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 20.04.2026](2026-04-20-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 13.04.2026](2026-04-13-protokoll-vorstandssitzung)
 * [Vorstandssitzung vom 18.03.2026](2026-03-18-protokoll-vorstandssitzung)
