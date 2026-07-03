@@ -42,8 +42,6 @@ Ab dem 1.1.2021 beträgt der Jahresbeitrag:
 
 Die Mitgliedsbeiträge gelten für das laufende Kalenderjahr (1.1.-31.12.).
 
-
-
-
-
+Ab dem 1.1.2027 gilt unsere neue [Beitragsordnung](/verein/beitragsordnung)
+mit höheren, und bei Unternehmen gestaffelten, Beiträgen.
 
