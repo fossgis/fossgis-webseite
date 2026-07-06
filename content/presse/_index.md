@@ -9,7 +9,7 @@ menu:
 
 [Digitale Souveränität in der Geoinformationswirtschaft](https://www.business-geomatics.com/souveraenitaet-in-der-geoinformationswirtschaft/), Artikel vom 28.05.2026 in der Wirtschaftszeitung Business Geomatics
 
-[Die Konferenz der Weltvermesser](https://www.fossgis.de/mediawiki/images/1/1e/Presseartikel_PNP_FOSSGIS2017_small.jpg), Artikel vom 23.03.2027 in den Passauer Neusten Nachrichten zur FOSSGIS-Konferenz 2017 in Passau.
+[Die Konferenz der Weltvermesser](https://www.fossgis.de/mediawiki/images/1/1e/Presseartikel_PNP_FOSSGIS2017_small.jpg), Artikel vom 23.03.2017 in den Passauer Neusten Nachrichten zur FOSSGIS-Konferenz 2017 in Passau.
 
 Wo gibt es Artikel, Veröffentlichungen, die wir hier verlinken könnten?
 
