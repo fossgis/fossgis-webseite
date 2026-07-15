@@ -12,7 +12,7 @@ der Gruppe.
 
 ## Arbeitsgruppe "Öffentlichkeitsarbeit und Kommunikation"
 
-Die [Arbeitsgruppe Öffentlichkeitsarbeit und Kommunikation](/arbeitsgruppen/kommunikation) unterstützt die Ziele des FOSSGIS e.V. durch eine koordinierte, allgemeinverständliche und kontinuierliche Kommunikation nach innen und außen. S
+Die [Arbeitsgruppe Öffentlichkeitsarbeit und Kommunikation](/arbeitsgruppen/kommunikation) unterstützt die Ziele des FOSSGIS e.V. durch eine koordinierte, allgemeinverständliche und kontinuierliche Kommunikation nach innen und außen.
 
 ## Arbeitsgruppe "OSM-Server"
 
