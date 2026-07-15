@@ -10,10 +10,9 @@ Arbeitsgruppen im FOSSGIS übernehmen verschiedene Aspekte der Vereinsarbeit. Si
 Wenn Du bei einer Arbeitsgruppe mitmachen willst, wende Dich an den Leiter
 der Gruppe.
 
-## Arbeitsgruppe "Kommunikation"
+## Arbeitsgruppe "Öffentlichkeitsarbeit und Kommunikation"
 
-Die [Arbeitsgruppe "Kommunikation"](/arbeitsgruppen/kommunikation) kümmert sich
-um Werbung für unsere Sache, vom Aufkleber bis zum Tweet / Tröt.
+Die [Arbeitsgruppe Öffentlichkeitsarbeit und Kommunikation](/arbeitsgruppen/kommunikation) unterstützt die Ziele des FOSSGIS e.V. durch eine koordinierte, allgemeinverständliche und kontinuierliche Kommunikation nach innen und außen. S
 
 ## Arbeitsgruppe "OSM-Server"
 
