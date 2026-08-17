@@ -3,12 +3,14 @@ title: "Arbeitsgruppen"
 menu:
   side:
     weight: 60
+  top:
+    weight: 2
 ---
 
-Arbeitsgruppen im FOSSGIS übernehmen verschiedene Aspekte der Vereinsarbeit. Sie agieren eigenverantwortlich und sind in der Regel mit einem Budget ausgestattet.
+Im FOSSGIS e.V. gibt es für verschiedene Aktivitäten und Themen "Interessengruppen" und "Arbeitsgruppen".
+Sie übernehmen verschiedene Aspekte der Vereinsarbeit. Hier geht es zu weiterführenden [Details zur Organisation von Interessen- oder Arbeitsgruppen](/arbeitsgruppen/fossgis_arbeitsgruppen).
 
-Wenn Du bei einer Arbeitsgruppe mitmachen willst, wende Dich an den Leiter
-der Gruppe.
+Wenn Du bei einer Arbeitsgruppe mitmachen willst, wende Dich an die Leitung der Gruppe.
 
 ## Arbeitsgruppe "Öffentlichkeitsarbeit und Kommunikation"
 
