@@ -6,7 +6,7 @@
 	{{ .Content }}
 
 	<ul>
-	{{ range first 3 (where .Sites.First.Pages "Section" "news") }}
+	{{ range first 3 (where .Sites.Default.Pages "Section" "news") }}
 		<li><a href="{{ .RelPermalink }}">{{ .Title }}</a> vom {{ .Date.Format "02.01.2006" }}</li>
 	{{ end }}
 	    <li><a href="/news/">Newsarchiv</a></li>
