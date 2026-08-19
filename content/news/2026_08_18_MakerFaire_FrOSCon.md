@@ -26,15 +26,30 @@ Diese eindruckvolle thematische Vielfalt der Beiträge zeigt, dass OpenStreetMap
 Unser Dank gilt den Aktiven, die als Standpersonal und Beitragende das OpenStreetMap-Projekt auf Maker Faire und FrOSCon hervorragend präsentiert haben. Ganz besonders danken wir Hartmut Holzgräfe, dem Maintainer von [print.get-map.org](https://print.get-map.org), der sich sowohl in Hannover als auch in Sankt Augustin um den Aufbau der Großformatdrucker gekümmert hat, indem er am Wochenende zwischen den Veranstaltungsorten hin und her pendelte.
 
 {{< rawhtml >}}
-<div style="display: flex; flex-wrap: wrap; gap: 1px;">
+<style> 
+	div.news
+	{
+		display: flex; flex-wrap: wrap; gap: 1px;
+	}
+	img.news
+	{
+		border: 1px solid #ee7f00; border-radius: 3px;	
+	}
+    img.news:hover
+    {
+        transition: .2s;
+        transform: scale(2.0);
+    }
+</style>	
+<div class="news">
 <figure style="width: 250px">
-<a href="/news/images/2026_08_18_MakerFaire_FrOSCon_Stand_Hannover.jpg"><img src="/news/images/2026_08_18_MakerFaire_FrOSCon_Stand_Hannover.jpg" width="300" style="border: 1px solid #ee7f00; border-radius: 3px;"/></a><figcaption>Der OSM-Stand auf der MakerFaire Hannover</figcaption>
+<a href="/news/images/2026_08_18_MakerFaire_FrOSCon_Stand_Hannover.jpg"><img src="/news/images/2026_08_18_MakerFaire_FrOSCon_Stand_Hannover.jpg" width="300" class="news"/></a><figcaption>Der OSM-Stand auf der Maker&nbsp;Faire Hannover</figcaption>
 </figure>
 <figure style="width: 250px">
-<a href="/news/images/2026_08_18_MakerFaire_FrOSCon_Standteam_Sankt_Augustin.jpg"><img src="/news/images/2026_08_18_MakerFaire_FrOSCon_Standteam_Sankt_Augustin.jpg" width="300px" style="border: 1px solid #ee7f00; border-radius: 3px;"/></a><figcaption>OSM-Standteam auf der FrOSCon</figcaption>
+<a href="/news/images/2026_08_18_MakerFaire_FrOSCon_Standteam_Sankt_Augustin.jpg"><img src="/news/images/2026_08_18_MakerFaire_FrOSCon_Standteam_Sankt_Augustin.jpg" width="300px" class="news"/></a><figcaption>OSM-Standteam auf der FrOSCon</figcaption>
 </figure>
 <figure style="width: 250px">
-<a href="/news/images/2026_08_18_MakerFaire_FrOSCon_OSM_Workshop_Martin.jpg"><img src="/news/images/2026_08_18_MakerFaire_FrOSCon_OSM_Workshop_Martin.jpg" width="300px" style="border: 1px solid #ee7f00; border-radius: 3px;"/></a><figcaption>Der OSM-Workshop auf der FrOSCon war gut besucht.</figcaption>
+<a href="/news/images/2026_08_18_MakerFaire_FrOSCon_OSM_Workshop_Martin.jpg"><img src="/news/images/2026_08_18_MakerFaire_FrOSCon_OSM_Workshop_Martin.jpg" width="300px" class="news"/></a><figcaption>Der OSM-Workshop auf der FrOSCon war gut besucht.</figcaption>
 </figure>
 </div>
 {{< /rawhtml >}}
