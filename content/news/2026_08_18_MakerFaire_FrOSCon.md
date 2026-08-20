@@ -25,34 +25,22 @@ Diese eindruckvolle thematische Vielfalt der Beiträge zeigt, dass OpenStreetMap
 
 Unser Dank gilt den Aktiven, die als Standpersonal und Beitragende das OpenStreetMap-Projekt auf Maker Faire und FrOSCon hervorragend präsentiert haben. Ganz besonders danken wir Hartmut Holzgräfe, dem Maintainer von [print.get-map.org](https://print.get-map.org), der sich sowohl in Hannover als auch in Sankt Augustin um den Aufbau der Großformatdrucker gekümmert hat, indem er am Wochenende zwischen den Veranstaltungsorten hin und her pendelte.
 
+
 {{< rawhtml >}}
-<style> 
-	div.news
-	{
-		display: flex; flex-wrap: wrap; gap: 1px;
-	}
-	img.news
-	{
-		border: 1px solid #ee7f00; border-radius: 3px;	
-	}
-    img.news:hover
-    {
-        transition: .2s;
-        transform: scale(2.0);
-    }
-</style>	
-<div class="news">
-<figure style="width: 250px">
-<a href="/news/images/2026_08_18_MakerFaire_FrOSCon_Stand_Hannover.jpg"><img src="/news/images/2026_08_18_MakerFaire_FrOSCon_Stand_Hannover.jpg" width="300" class="news"/></a><figcaption>Der OSM-Stand auf der Maker&nbsp;Faire Hannover</figcaption>
-</figure>
-<figure style="width: 250px">
-<a href="/news/images/2026_08_18_MakerFaire_FrOSCon_Standteam_Sankt_Augustin.jpg"><img src="/news/images/2026_08_18_MakerFaire_FrOSCon_Standteam_Sankt_Augustin.jpg" width="300px" class="news"/></a><figcaption>OSM-Standteam auf der FrOSCon</figcaption>
-</figure>
-<figure style="width: 250px">
-<a href="/news/images/2026_08_18_MakerFaire_FrOSCon_OSM_Workshop_Martin.jpg"><img src="/news/images/2026_08_18_MakerFaire_FrOSCon_OSM_Workshop_Martin.jpg" width="300px" class="news"/></a><figcaption>Der OSM-Workshop auf der FrOSCon war gut besucht.</figcaption>
-</figure>
-</div>
-{{< /rawhtml >}}
+<a href="/news/images/2026_08_18_MakerFaire_FrOSCon_Stand_Hannover.jpg"><img src="/news/images/2026_08_18_MakerFaire_FrOSCon_Stand_Hannover.jpg" width="300"  style="border: 1px solid #808080; border-radius: 3px;" alt="Stand"/></a>
+{{< /rawhtml >}}       
+_Der OSM-Stand auf der Maker&nbsp;Faire Hannover_
+
+{{< rawhtml >}}
+<a href="/news/images/2026_08_18_MakerFaire_FrOSCon_Standteam_Sankt_Augustin.jpg"><img src="/news/images/2026_08_18_MakerFaire_FrOSCon_Standteam_Sankt_Augustin.jpg" width="300"  style="border: 1px solid #808080; border-radius: 3px;" alt="Stand"/></a>
+{{< /rawhtml >}}       
+_OSM-Standteam auf der FrOSCon_
+
+{{< rawhtml >}}
+<a href="/news/images/2026_08_18_MakerFaire_FrOSCon_OSM_Workshop_Martin.jpg"><img src="/news/images/2026_08_18_MakerFaire_FrOSCon_OSM_Workshop_Martin.jpg"" width="300"  style="border: 1px solid #808080; border-radius: 3px;" alt="Stand"/></a>
+{{< /rawhtml >}}       
+_Der OSM-Workshop auf der FrOSCon war gut besucht._
+
 
 ##### Links auf FrOSCon-Vortragsvideos
   * [Falk Zscheile: Können Lizenzbedingungen Open Data und Open Content vor KI schützen?](https://media.ccc.de/v/froscon2026-3638-konnen_lizenzbedingungen_open_data_und_open_content_vor_ki_schutzen)
