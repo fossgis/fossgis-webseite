@@ -6,8 +6,7 @@ language: de-de
 categories:
 - FOSSGIS
 - openstreetmap
-- FrOSCon
-- MakerFaire
+
 ---
 Am dritten Augustwochenende organisierten Aktive aus der OpenStreetMap-Community und des FOSSGIS-Vereins zeitgleich zwei Messe- und Konferenzauftritte auf der Maker Faire Hannover und der FrOSCon.
 
