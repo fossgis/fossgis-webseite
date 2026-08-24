@@ -69,7 +69,7 @@ In der ersten Projektphase entstehen zunächst die Struktur und Inhalte für die
 
 #### Stellenausschreibung
 
-Im Frühsommer 2026 wurde eine Stelle ausgeschrieben, die ein Organisationstalent für OpenStreetMap Schulungen + Communityarbeit (m/w/d) sucht. Hier die Ausschreibung als PDF zum nachlesen: https://files.fossgis.de/Koordinierungsstelle/OSM-Schulung/2026_Stellenausschreibung_OSM-Schulung.pdf
+Im Frühsommer 2026 wurde eine Stelle ausgeschrieben, die ein Organisationstalent für OpenStreetMap Schulungen + Communityarbeit (m/w/d) sucht. Die Ausschreibung ist beendet und [hier als PDF](https://files.fossgis.de/Koordinierungsstelle/OSM-Schulung/2026_Stellenausschreibung_OSM-Schulung.pdf) zum nachlesen verlinkt.
 
 <!--<div style="background: #eeffdb; border: 1px solid #a5d66e; max-width: 800px; padding: 2px 20px; margin-left: 10px;">
 #### Wir sind …
