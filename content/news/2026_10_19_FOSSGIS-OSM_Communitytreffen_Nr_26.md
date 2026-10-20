@@ -36,8 +36,8 @@ Das Besondere an diesen Treffen, welches eine Mischung aus Hackathon, Vereinsarb
     }
 </style>	
 <div class="news">
-<figure style="width: 400px">
-<a href="/news/images/2026-10-04_Arbeitstreffen_Nr26_Gruppenfoto.jpg"><img src="/news/images/2026-10-04_Arbeitstreffen_Nr26_Gruppenfoto.jpg" width="400" class="news"/></a><figcaption>Gruppenfoto am Samstag</figcaption>
+<figure style="width: 500px">
+<a href="/news/images/2026-10-04_Arbeitstreffen_Nr26_Gruppenfoto.jpg"><img src="/news/images/2026-10-04_Arbeitstreffen_Nr26_Gruppenfoto.jpg" width="500" class="news"/></a><figcaption>Gruppenfoto am Samstag</figcaption>
 </figure>
 </div>
 {{< /rawhtml >}}
@@ -57,24 +57,17 @@ Die AG Öffentliche Ausschreibung mit FOSS besprach Ideen zum Thema des Panelges
 Passend hierzu diskutierte eine andere Gruppe zur Frage ["Wie unterstützen wir Projekte beim Wegzug von GitHub & Co"](https://www.fossgis.de/wiki/FOSSGIS_OSM_Communitytreffen_2026_Nummer_26/Souver%C3%A4ne_CI) darüber welche Repositories die Souveränität für FOSSGIS-Projekte gewährleisten und wo und wie der FOSSGIS e.V. unterstützen sollte. 
 
 ### Community-Themen
-
-Das BKG hat für Produkte der VG25 den Ergänzungstext [Addendum der "CC-BY 4.0 - Namensnennung"](https://sgx.geodatenzentrum.de/web_public/gdz/lizenz/ccby_v4_0_addendum_namensnennung.pdf) ergänzt.
-
-Der Erfahrungsaustausch zu aktuellen Entwicklungen und zur Panoramaxinstanz wurde fortgesetzt. Marc schildete seine Vorgehensweise und gab nützliche Hinweise.
-
-Hartmut macht sich Gedanken um den Nachbau der OpenSeaMap im Mapnik, um den OpenSeaMap-Stil auch für den Kartendruck mit [print.get-map.org](https://print.get-map.org)  anbieten zu können.
-
-Die Idee, OpenStreetMap als beste Karte für den [Nico Rüpke-Kartographie-Preis](https://dgfk.net/news/nico-rupke-kartographie-preis-fur-die-beste-karte/), der im Rahmen der DGfK verliehen wird, vorzuschlagen, wurde diskutiert. 
-
-Florian bereitet eine Präsentation für Menschen vor, die nicht mit Open Source vertraut sind und sammelt [Input](https://www.fossgis.de/wiki/FOSSGIS_OSM_Communitytreffen_2026_Nummer_26/Vorbereitung_Pr%C3%A4sentation_Digitale_Souver%C3%A4nit%C3%A4t_und_OS).
-
-Paul hat seinen Job als GIS-Koordinator ein einer Stadtverwaltung begonnen und die Gelegenheit genutzt sich von den Anwesenden [hilfreiche Tipps](https://www.fossgis.de/wiki/FOSSGIS_OSM_Communitytreffen_2026_Nummer_26/GIS_in_der_Stadtverwaltung) und ein Update zu aktuellen Themen zu holen.
-
-Peter präsentierte im Thema ["
+* Das BKG hat für Produkte der VG25 den Ergänzungstext [Addendum der "CC-BY 4.0 - Namensnennung"](https://sgx.geodatenzentrum.de/web_public/gdz/lizenz/ccby_v4_0_addendum_namensnennung.pdf) ergänzt.
+* Der Erfahrungsaustausch zu aktuellen Entwicklungen und zur Panoramaxinstanz wurde fortgesetzt. Marc schildete seine Vorgehensweise und gab nützliche Hinweise.
+* Hartmut macht sich Gedanken um den Nachbau der OpenSeaMap im Mapnik, um den OpenSeaMap-Stil auch für den Kartendruck mit [print.get-map.org](https://print.get-map.org)  anbieten zu können.
+* Die Idee, OpenStreetMap als beste Karte für den [Nico Rüpke-Kartographie-Preis](https://dgfk.net/news/nico-rupke-kartographie-preis-fur-die-beste-karte/), der im Rahmen der DGfK verliehen wird, vorzuschlagen, wurde diskutiert. 
+* Florian bereitet eine Präsentation für Menschen vor, die nicht mit Open Source vertraut sind und sammelt [Input](https://www.fossgis.de/wiki/FOSSGIS_OSM_Communitytreffen_2026_Nummer_26/Vorbereitung_Pr%C3%A4sentation_Digitale_Souver%C3%A4nit%C3%A4t_und_OS).
+* Paul hat seinen Job als GIS-Koordinator ein einer Stadtverwaltung begonnen und die Gelegenheit genutzt sich von den Anwesenden [hilfreiche Tipps](https://www.fossgis.de/wiki/FOSSGIS_OSM_Communitytreffen_2026_Nummer_26/GIS_in_der_Stadtverwaltung) und ein Update zu aktuellen Themen zu holen.
+* Peter präsentierte im Thema ["
 Vom Schlagloch zur offenen Karte"](
 https://www.fossgis.de/wiki/FOSSGIS_OSM_Communitytreffen_2026_Nummer_26/Vom_Schlagloch_zur_offenen_Karte) seine Ideen und Fragen und besprciht weiteres Vorgehen mit der Gruppe.
 
-Auch wenn das Wochenende gefühlt kurz war, wurden viele Themen besprochen und vorangetrieben. Die Anwesenden wissen die offenen und konstruktiven Gespräche sehr zu schätzen. Gearbeitet wurde im großen und kleinen Seminarraum, Kaminzimmer oder einfach im Garten auf der Wiese. Dazu kamen die traditionelle Pizza am Freitagabend, gemeinsames Kochen und Essen mit spontanen Gesprächen über allerlei Themen. Samstag gab es noch einen Kinoabend mit einem unterhaltsamen Vortragsvideo von den Datenspuren über die [Untersuchung von Drohnen in der Ukraine](https://media.ccc.de/v/ds26-733-russische-drohnen-zerlegen-fur-anfanger)
+Auch wenn das Wochenende gefühlt kurz war, wurden viele Themen besprochen und vorangetrieben. Die Anwesenden wissen die offenen und konstruktiven Gespräche sehr zu schätzen. Gearbeitet wurde im großen und kleinen Seminarraum, Kaminzimmer oder einfach im Garten auf der Wiese. Dazu kamen die traditionelle Pizza am Freitagabend, gemeinsames Kochen und Essen mit spontanen Gesprächen über allerlei Themen. Samstag gab es noch einen Kinoabend mit einem unterhaltsamen Vortragsvideo von den Datenspuren über die [Untersuchung von Drohnen in der Ukraine](https://media.ccc.de/v/ds26-733-russische-drohnen-zerlegen-fur-anfanger).
 
 Wir danken den Teilnehmerinnen und Teilnehmern für die tollen Beiträge und die tatkräftige Unterstützung bei der Organisation.
 Ganz besonders danken wir dem Linuxhotel für die Gastfreundschaft!
@@ -84,8 +77,8 @@ Ganz besonders danken wir dem Linuxhotel für die Gastfreundschaft!
 <figure style="width: 250px">
 <a href="/news/images/2026-10-04_Arbeitstreffen_Nr26_Samstag_Morgen_Ruhr.jpg"><img src="/news/images/2026-10-04_Arbeitstreffen_Nr26_Samstag_Morgen_Ruhr.jpg" width="300" class="news"/></a><figcaption>Morgenstimmung über der Ruhr</figcaption>
 </figure>
-<figure style="width: 250px">
-<a href="/news/images/2026-10-04_Arbeitstreffen_Nr26_ZenDIS-Softwareliste.jpg"><img src="/news/images/2026-10-04_Arbeitstreffen_Nr26_ZenDIS-Softwareliste.jpg" width="300px" class="news"/></a><figcaption>Sesssion auf der Wiese</figcaption>
+<figure style="width: 330px">
+<a href="/news/images/2026-10-04_Arbeitstreffen_Nr26_ZenDIS-Softwareliste.jpg"><img src="/news/images/2026-10-04_Arbeitstreffen_Nr26_ZenDIS-Softwareliste.jpg" width="400px" class="news"/></a><figcaption>Sesssion auf der Wiese</figcaption>
 </figure>
 <figure style="width: 250px">
 <a href="/news/images/2026-10-04_Arbeitstreffen_Nr26_Zukunftsbahnhof_Essen_Horst.png"><img src="/news/images/2026-10-04_Arbeitstreffen_Nr26_Zukunftsbahnhof_Essen_Horst.png" width="300px" class="news"/></a><figcaption>Inspiration für diesen Artikel.</figcaption>
