@@ -1,3 +1,18 @@
+---
+
+title: "Koordinierungsstelle bekommt Verstärkung"
+date: "2026-10-28"
+author: "Fränze Kellig"
+images:
+
+- https://www.fossgis.de/mediawiki/images/b/b9/FOSSGIS-Logo_Slogan.png
+  language: de-de
+  categories:
+- FOSSGIS
+- openstreetmap
+
+---
+
 ### Schulungen zu OpenStreetMap: ab Januar 2027
 
 ***Die Frage kommt oft: Könnt ihr uns zeigen, wie OpenStreetMap funktioniert? Bisher fehlte uns die Kapazität. Doch das wird sich bald ändern, denn unsere Koordinierungsstelle hat Verstärkung bekommen.***
