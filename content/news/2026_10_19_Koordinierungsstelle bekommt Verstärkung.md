@@ -39,5 +39,5 @@ Die Schulungen richten sich vor allem an gemeinnützige Vereine. Sie lernen, wie
 
 #### Ansprechpersonen:
 
-- Mathias Gröbe mathias.groebe@fossgis.de
-- Fränze Kellig fraenze.kellig@fossgis.de
+- Mathias Gröbe: mathias.groebe@fossgis.de
+- Fränze Kellig: fraenze.kellig@fossgis.de
