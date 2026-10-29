@@ -1,16 +1,13 @@
 ---
-
 title: "Koordinierungsstelle bekommt Verstärkung"
 date: "2026-10-28"
 author: "Fränze Kellig"
-images:
-
+images:   
 - https://www.fossgis.de/mediawiki/images/b/b9/FOSSGIS-Logo_Slogan.png
-  language: de-de
-  categories:
+language: de-de
+categories:
 - FOSSGIS
 - openstreetmap
-
 ---
 
 ### Schulungen zu OpenStreetMap: ab Januar 2027
@@ -43,4 +40,4 @@ Die Schulungen richten sich vor allem an gemeinnützige Vereine. Sie lernen, wie
 #### Ansprechpersonen:
 
 - Mathias Gröbe mathias.groebe@fossgis.de
-- Fränze Kellig fraenze.kellig@fossgis
+- Fränze Kellig fraenze.kellig@fossgis.de
