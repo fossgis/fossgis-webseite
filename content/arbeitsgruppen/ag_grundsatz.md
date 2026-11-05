@@ -18,7 +18,7 @@ Die AG Grundsatz schafft Raum, um über die Fragen der Zusammenarbeit im Verein 
 - Lars Roskoden
 - Katja Haferkorn
 
-Informationen und Arbeitsergebnisse sind im [Wiki](https://www.fossgis.de/wiki/AG_oeffentl_Ausschreibungen_FOSS) dokumentiert.
+Informationen und Arbeitsergebnisse sind im [Wiki](https://www.fossgis.de/wiki/AG-Grundsatz) dokumentiert.
 
 #### Historisches
 Die Idee einer "Arbeitsgruppe Grundsatz" ist beim [Workshop zur Vereinsweiterentwicklung](https://www.fossgis.de/wiki/Vereinsworkshop_Vereinsweiterentwicklung) im Oktober 2025 entstanden.    
