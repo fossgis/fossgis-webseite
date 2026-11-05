@@ -40,3 +40,7 @@ Diese [Arbeitsgruppe](https://www.fossgis.de/wiki/OSM_Langzeitarchivierung) besc
 Die Arbeitsgruppe befinden sich gerade im Aufbau. Vorläufige Informationen
 im [Wiki](https://www.fossgis.de/wiki/Arbeitsgruppe_CRA).
 
+## Arbeitsgruppe "Grundsatz"
+
+Die [Arbeitsgruppe](/arbeitsgruppen/ag_grundsatz) ist im Oktober 2025 gegründet worden und beschäftigt sich mit Fragen der Zusammenarbeit und Orientierung im Verein. 
+
