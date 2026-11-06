@@ -11,8 +11,7 @@ gewählt. Zur Zeit besteht er aus:
 
 * Pirmin Kalberer (1. Vorsitz)
 * Jannik Schilling (2. Vorsitz)
-* ~~Florian Thiery~~ (Finanzen)
-* Falk Zscheile (Schriftführer)
+* Falk Zscheile (Schriftführer, kommissarisch Finanzen)
 
 ## Was macht der Vorstand?
 
