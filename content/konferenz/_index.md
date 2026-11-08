@@ -31,15 +31,16 @@ Weitere Informationen hierzu erhalten Sie auf der [Konferenz-Webseite](https://f
 * [FOSSGIS-Konferenz 2012](https://fossgis-konferenz.de/2012/) in Dessau
 * [FOSSGIS-Konferenz 2011](https://fossgis-konferenz.de/2011/) in Heidelberg
 
-<!--### Veranstaltungsort sein - Call for Location FOSSGIS 2027
 
-Sie wollen die FOSSGIS-Konferenz in Ihrer Stadt bzw. in Ihrer Hochschule holen? In diesem [Dokument](https://files.fossgis.de/Konferenz/CfL_FOSSGIS_2027.pdf) finden Sie die Anforderungen. Für Fragen zögern Sie nicht uns anzusprechen.
+### Call for Location FOSSGIS 2028 – FOSSGIS-Konferenz 2028 sucht Veranstaltungsort 
+
+Sie wollen die FOSSGIS-Konferenz in Ihrer Stadt bzw. in Ihrer Hochschule holen? In diesem [Dokument](https://files.fossgis.de/Konferenz/CfL_FOSSGIS_2028.pdf) finden Sie die Anforderungen. Für Fragen zögern Sie nicht uns anzusprechen.
 
 #### Zusammenfassung
 
  {{< rawhtml >}}
-<a href="https://files.fossgis.de/Konferenz/Call_For_Location_2027_Social_Media.png"><img src="https://files.fossgis.de/Konferenz/Call_For_Location_2027_Social_Media.png" width="700" style="border: 1px solid #ee7f00; border-radius: 3px;"/></a>
+<a href="https://files.fossgis.de/Konferenz/Call_For_Location_2028_Social_Media.jpg"><img src="https://files.fossgis.de/Konferenz/Call_For_Location_2028_Social_Media.jpg" width="700" style="border: 1px solid #ee7f00; border-radius: 3px;"/></a>
 {{< /rawhtml >}}   
-*Zusammenfassung Call for Location #FOSSGIS2027*  
+*Zusammenfassung Call for Location #FOSSGIS2028*  
 
 

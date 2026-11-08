@@ -15,7 +15,6 @@ aliases:
 
 * Pirmin Kalberer
 * Jannik Schilling
-* Florian Thiery
 * Falk Zscheile
 
 ## Kontakt

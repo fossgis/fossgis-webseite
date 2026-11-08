@@ -57,7 +57,7 @@ Wenn Sie wollen, dass Ihre Spende für OpenStreetMap verwendet wird, geben Sie
 im Verwendungszweck „Spende OpenStreetMap“ oder „Spende OSM“ an.
 
 Bitte geben Sie keine anderen Zweckbindungen an, ohne mit uns (<a
-href="mailto:finanzen@fossgis.de">finanzen@fossgis.de</a>) Rückfrage gehalten
+href="mailto:finanzen@fossgis.de">finanzen@fossgis.de</a>) Rücksprache gehalten
 zu haben. Zweckbindungen machen uns mehr Arbeit, weil wir sicherstellen müssen,
 dass das Geld an der richtigen Stelle verwendet wird. Und das ist manchmal
 gar nicht so einfach, z.B. wenn Projekte schon beendet sind oder weniger Geld
