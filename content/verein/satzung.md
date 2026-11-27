@@ -76,7 +76,7 @@ Gästen kann durch Beschluss der Mitgliederversammlung die Teilnahme insgesamt o
 
 ### §9 Kassenprüfer
 
-Der Kassenprüfer und sein Stellvertreter werden gemeinsam mit dem Vorstand jährlich gewählt und dürfen dem Vorstand nicht angehören.  
+Der Kassenprüfer und sein Stellvertreter werden gemeinsam mit dem Vorstand gewählt und dürfen dem Vorstand nicht angehören.  
 
 ### §10 Beurkundung
 
@@ -86,4 +86,4 @@ Alle Beschlüsse des Vorstands und die Protokolle der Mitgliederversammlungen m�
 
 Der Verein wird aufgelöst durch die Zustimmung von mindestens 3/4 aller Mitglieder. Als Liquidatoren treten der erste Vorsitzende und ein weiteres Vorstandsmitglied auf, wenn von der letzen Mitgliederversammlung nicht anders beschlossen. Bei einer Auflösung des Vereins oder dem Wegfall der steuerbegünstigten Zwecke fällt das vorhandene Vermögen des Vereins an eine juristische Person des Öffentlichen Rechts, die das Vermögen nur für steuerbegünstigte Zwecke verwendet oder eine andere steuerbegünstigte Körperschaft. Beschlüsse über die künftige Verwendung des Vermögens dürfen nur nach Einwilligung des Finanzamtes ausgeführt werden.
 
-Stand: November 2023
+Stand: März 2026

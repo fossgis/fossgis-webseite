@@ -13,5 +13,6 @@ Die Arbeitsgruppe "Arbeitsgruppe Liste der Dienstleistenden im Open Source und O
 - Jörg Thomsen
 - Lars Lingner
 - Katja Haferkorn
+- Jochen Topf
 
 Weitere Informationen im [Wiki](https://www.fossgis.de/wiki/Arbeitsgruppe_Dienstleistende).

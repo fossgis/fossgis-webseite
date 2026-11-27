@@ -23,8 +23,9 @@ Bitte stelle Deinen Mitgliedsantrag in schriftlicher Form unterschrieben und ein
  	 10717 Berlin   
 
 ### Formulare als PDF
-* Formular [Mitgliedsantrag + Lastschriftformular](/verein/Mitgliedsantrag_Lastschriftformular_FOSSGIS_eV.pdf)
+* Formular [Mitgliedsantrag + Lastschriftmandat](/verein/Mitgliedsantrag_Lastschriftformular_FOSSGIS_eV.pdf)
 * Formular [Mitgliedsantrag](/verein/mitgliedsantrag.pdf)
+* Formular [Lastschriftmandat](/verein/lsmandat.pdf)
 
 Ein mitgesendetes Lastschriftmandat erleichtert die Arbeit sehr (und ihr könnt die Zahlung des Mitgliedsbeitrags nicht mehr vergessen). 
 
